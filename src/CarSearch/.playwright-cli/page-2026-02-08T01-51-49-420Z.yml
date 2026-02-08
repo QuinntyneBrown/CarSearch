@@ -1,0 +1,878 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - link "Coventry North Land Rover Logo" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - img "Coventry North Land Rover Logo" [ref=e10]
+          - link "Coventry North Land Rover" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e13]: Coventry North Land Rover
+        - navigation [ref=e17]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "New Vehicles" [ref=e22] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e23]:
+              - link "Pre-Owned Vehicles" [ref=e24] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e25]:
+              - link "Service & Parts" [ref=e26] [cursor=pointer]:
+                - /url: "#"
+              - list
+            - listitem [ref=e27]:
+              - link "About Us" [ref=e28] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - generic [ref=e32]:
+              - link [ref=e33] [cursor=pointer]:
+                - /url: https://coventrynorthjaguar.com/
+                - img [ref=e34]
+              - link "+18449905062" [ref=e59] [cursor=pointer]:
+                - /url: tel:+18449905062
+                - img [ref=e60]
+            - img [ref=e63] [cursor=pointer]
+          - checkbox [ref=e66]
+    - document [ref=e73]:
+      - main [ref=e75]:
+        - generic [ref=e77]:
+          - generic [ref=e79]:
+            - generic [ref=e84]:
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87]: Pre-Owned vehicles
+                  - generic [ref=e88]:
+                    - text: Vehicles
+                    - generic [ref=e89]: "45"
+                    - text: Results
+                - generic [ref=e90]:
+                  - generic [ref=e95]:
+                    - generic [ref=e96] [cursor=pointer]: Year
+                    - img [ref=e98] [cursor=pointer]
+                  - generic [ref=e104]:
+                    - generic [ref=e105] [cursor=pointer]: Make
+                    - img [ref=e107] [cursor=pointer]
+                  - generic [ref=e112]:
+                    - generic [ref=e113]:
+                      - generic [ref=e114] [cursor=pointer]: Model
+                      - img [ref=e1225] [cursor=pointer]
+                    - generic [ref=e1226]:
+                      - generic [ref=e1227] [cursor=pointer]:
+                        - text: DEFENDER (9)
+                        - checkbox "DEFENDER (9)"
+                      - generic [ref=e1229] [cursor=pointer]:
+                        - text: DISCOVERY (2)
+                        - checkbox "DISCOVERY (2)"
+                      - generic [ref=e1231] [cursor=pointer]:
+                        - text: F-PACE (5)
+                        - checkbox "F-PACE (5)"
+                      - generic [ref=e1233] [cursor=pointer]:
+                        - text: F-TYPE (1)
+                        - checkbox "F-TYPE (1)"
+                      - generic [ref=e1235] [cursor=pointer]:
+                        - text: M2 (1)
+                        - checkbox "M2 (1)"
+                      - generic [ref=e1237] [cursor=pointer]:
+                        - text: RANGE ROVER (7)
+                        - checkbox "RANGE ROVER (7)"
+                      - generic [ref=e1239] [cursor=pointer]:
+                        - text: RANGE ROVER EVOQUE (2)
+                        - checkbox "RANGE ROVER EVOQUE (2)"
+                      - generic [ref=e1241] [cursor=pointer]:
+                        - text: RANGE ROVER SPORT (10)
+                        - checkbox "RANGE ROVER SPORT (10)"
+                      - generic [ref=e1243] [cursor=pointer]:
+                        - text: RANGE ROVER VELAR (5)
+                        - checkbox "RANGE ROVER VELAR (5)"
+                      - generic [ref=e1245] [cursor=pointer]:
+                        - text: RS Q8 (1)
+                        - checkbox "RS Q8 (1)"
+                      - generic [ref=e1247] [cursor=pointer]:
+                        - text: X6 (1)
+                        - checkbox "X6 (1)"
+                      - generic [ref=e1249] [cursor=pointer]:
+                        - text: XK (1)
+                        - checkbox "XK (1)"
+                  - generic [ref=e122]:
+                    - generic [ref=e123] [cursor=pointer]: Trim
+                    - img [ref=e125] [cursor=pointer]
+                  - generic [ref=e131]:
+                    - generic [ref=e132] [cursor=pointer]: Colour
+                    - img [ref=e134] [cursor=pointer]
+                  - generic [ref=e140]:
+                    - generic [ref=e141] [cursor=pointer]: Status
+                    - img [ref=e143] [cursor=pointer]
+                  - generic [ref=e149]:
+                    - generic [ref=e150] [cursor=pointer]: Body Style
+                    - img [ref=e152] [cursor=pointer]
+                  - generic [ref=e158]:
+                    - generic [ref=e159] [cursor=pointer]: Condition
+                    - img [ref=e161] [cursor=pointer]
+                  - generic [ref=e167]:
+                    - generic [ref=e168] [cursor=pointer]: engine
+                    - img [ref=e170] [cursor=pointer]
+                  - generic [ref=e176]:
+                    - generic [ref=e177] [cursor=pointer]: features
+                    - img [ref=e179] [cursor=pointer]
+              - generic [ref=e183]:
+                - generic [ref=e184]: Sort By
+                - generic [ref=e185] [cursor=pointer]:
+                  - img [ref=e187]
+                  - generic [ref=e189]: Price
+                  - img [ref=e191]
+                - generic [ref=e193] [cursor=pointer]:
+                  - img [ref=e195]
+                  - generic [ref=e197]: Year
+                  - img [ref=e199]
+            - generic [ref=e202]:
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - generic [ref=e206]:
+                    - link "Used 2025 Land Rover" [ref=e208] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-defender-1591991/
+                    - link "Defender X" [ref=e210] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-defender-1591991/
+                      - generic [ref=e211]: Defender
+                      - generic [ref=e212]: X
+                    - 'link "STOCK #: PN4057" [ref=e214] [cursor=pointer]':
+                      - /url: /view/used-2025-land-rover-defender-1591991/
+                  - link "$102,990 +tax & lic" [ref=e216] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-defender-1591991/
+                    - generic [ref=e218]: $102,990
+                    - generic [ref=e219]: +tax & lic
+                - generic [ref=e220]:
+                  - link "Learn More" [ref=e221] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-defender-1591991/
+                  - link "Check Availability" [ref=e223] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1591991&from=vls
+                - link "Exterior colour – Engine Straight 6 Cylinder Engine Drivetrain Other Mileage 12,573 km" [ref=e225] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-defender-1591991/
+                  - generic [ref=e227]:
+                    - img "Exterior colour" [ref=e229]
+                    - generic [ref=e231]: –
+                  - generic [ref=e233]:
+                    - img "Engine" [ref=e235]
+                    - generic [ref=e237]: Straight 6 Cylinder Engine
+                  - generic [ref=e239]:
+                    - img "Drivetrain" [ref=e241]
+                    - generic [ref=e243]: Other
+                  - generic [ref=e245]:
+                    - img "Mileage" [ref=e247]
+                    - generic [ref=e249]: 12,573 km
+                - link "Used 2025 Land Rover Defender X PN4057" [ref=e250] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-defender-1591991/
+                  - img "Used 2025 Land Rover Defender X PN4057" [ref=e253]
+              - generic [ref=e256]:
+                - generic [ref=e257]:
+                  - generic [ref=e258]:
+                    - link "Used 2025 Land Rover" [ref=e260] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-range-rover-1615666/
+                    - link "Range Rover SE" [ref=e262] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-range-rover-1615666/
+                      - generic [ref=e263]: Range Rover
+                      - generic [ref=e264]: SE
+                    - 'link "STOCK #: PN4064" [ref=e266] [cursor=pointer]':
+                      - /url: /view/used-2025-land-rover-range-rover-1615666/
+                  - link "$159,990 +tax & lic" [ref=e268] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-range-rover-1615666/
+                    - generic [ref=e270]: $159,990
+                    - generic [ref=e271]: +tax & lic
+                - generic [ref=e272]:
+                  - link "Learn More" [ref=e273] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-range-rover-1615666/
+                  - link "Check Availability" [ref=e275] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1615666&from=vls
+                - link "Exterior colour – Engine Straight 6 Cylinder Engine Drivetrain Other Mileage 16,989 km" [ref=e277] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-range-rover-1615666/
+                  - generic [ref=e279]:
+                    - img "Exterior colour" [ref=e281]
+                    - generic [ref=e283]: –
+                  - generic [ref=e285]:
+                    - img "Engine" [ref=e287]
+                    - generic [ref=e289]: Straight 6 Cylinder Engine
+                  - generic [ref=e291]:
+                    - img "Drivetrain" [ref=e293]
+                    - generic [ref=e295]: Other
+                  - generic [ref=e297]:
+                    - img "Mileage" [ref=e299]
+                    - generic [ref=e301]: 16,989 km
+                - link "Used 2025 Land Rover Range Rover SE PN4064" [ref=e302] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-range-rover-1615666/
+                  - img "Used 2025 Land Rover Range Rover SE PN4064" [ref=e305]
+              - generic [ref=e308]:
+                - generic [ref=e309]:
+                  - generic [ref=e310]:
+                    - link "Used 2025 Land Rover" [ref=e312] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-range-rover-1616896/
+                    - link "Range Rover SE" [ref=e314] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-range-rover-1616896/
+                      - generic [ref=e315]: Range Rover
+                      - generic [ref=e316]: SE
+                    - 'link "STOCK #: LN8215A" [ref=e318] [cursor=pointer]':
+                      - /url: /view/used-2025-land-rover-range-rover-1616896/
+                  - link "$159,990 +tax & lic" [ref=e320] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-range-rover-1616896/
+                    - generic [ref=e322]: $159,990
+                    - generic [ref=e323]: +tax & lic
+                - generic [ref=e324]:
+                  - link "Learn More" [ref=e325] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-range-rover-1616896/
+                  - link "Check Availability" [ref=e327] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1616896&from=vls
+                - link "Exterior colour White Engine 3 Drivetrain Other Mileage 12,404 km" [ref=e329] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-range-rover-1616896/
+                  - generic [ref=e331]:
+                    - img "Exterior colour" [ref=e333]
+                    - generic [ref=e335]: White
+                  - generic [ref=e337]:
+                    - img "Engine" [ref=e339]
+                    - generic [ref=e341]: "3"
+                  - generic [ref=e343]:
+                    - img "Drivetrain" [ref=e345]
+                    - generic [ref=e347]: Other
+                  - generic [ref=e349]:
+                    - img "Mileage" [ref=e351]
+                    - generic [ref=e353]: 12,404 km
+                - link "Used 2025 Land Rover Range Rover SE LN8215A" [ref=e354] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-range-rover-1616896/
+                  - img "Used 2025 Land Rover Range Rover SE LN8215A" [ref=e357]
+              - generic [ref=e360]:
+                - generic [ref=e361]:
+                  - generic [ref=e362]:
+                    - link "Used 2025 Land Rover" [ref=e364] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-range-rover-1646513/
+                    - link "Range Rover SE" [ref=e366] [cursor=pointer]:
+                      - /url: /view/used-2025-land-rover-range-rover-1646513/
+                      - generic [ref=e367]: Range Rover
+                      - generic [ref=e368]: SE
+                    - 'link "STOCK #: PN4073" [ref=e370] [cursor=pointer]':
+                      - /url: /view/used-2025-land-rover-range-rover-1646513/
+                  - link "$169,990 +tax & lic" [ref=e372] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-range-rover-1646513/
+                    - generic [ref=e374]: $169,990
+                    - generic [ref=e375]: +tax & lic
+                - generic [ref=e376]:
+                  - link "Learn More" [ref=e377] [cursor=pointer]:
+                    - /url: /view/used-2025-land-rover-range-rover-1646513/
+                  - link "Check Availability" [ref=e379] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1646513&from=vls
+                - link "Exterior colour – Engine 8 Cylinder Engine Drivetrain Other Mileage 29,860 km" [ref=e381] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-range-rover-1646513/
+                  - generic [ref=e383]:
+                    - img "Exterior colour" [ref=e385]
+                    - generic [ref=e387]: –
+                  - generic [ref=e389]:
+                    - img "Engine" [ref=e391]
+                    - generic [ref=e393]: 8 Cylinder Engine
+                  - generic [ref=e395]:
+                    - img "Drivetrain" [ref=e397]
+                    - generic [ref=e399]: Other
+                  - generic [ref=e401]:
+                    - img "Mileage" [ref=e403]
+                    - generic [ref=e405]: 29,860 km
+                - link "Used 2025 Land Rover Range Rover SE PN4073" [ref=e406] [cursor=pointer]:
+                  - /url: /view/used-2025-land-rover-range-rover-1646513/
+                  - img "Used 2025 Land Rover Range Rover SE PN4073" [ref=e409]
+              - generic [ref=e412]:
+                - generic [ref=e413]:
+                  - generic [ref=e414]:
+                    - link "Used 2024 Land Rover" [ref=e416] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-range-rover-velar-951611/
+                    - link "Range Rover Velar Dynamic SE" [ref=e418] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-range-rover-velar-951611/
+                      - generic [ref=e419]: Range Rover Velar
+                      - generic [ref=e420]: Dynamic SE
+                    - 'link "STOCK #: LN7455" [ref=e422] [cursor=pointer]':
+                      - /url: /view/used-2024-land-rover-range-rover-velar-951611/
+                  - link "$69,488 +tax & lic" [ref=e424] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-range-rover-velar-951611/
+                    - generic [ref=e426]: $69,488
+                    - generic [ref=e427]: +tax & lic
+                - generic [ref=e428]:
+                  - link "Learn More" [ref=e429] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-range-rover-velar-951611/
+                  - link "Check Availability" [ref=e431] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=951611&from=vls
+                - link "Exterior colour Grey Engine 4 Cylinder Engine Drivetrain AWD Mileage 21,661 km" [ref=e433] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-range-rover-velar-951611/
+                  - generic [ref=e435]:
+                    - img "Exterior colour" [ref=e437]
+                    - generic [ref=e439]: Grey
+                  - generic [ref=e441]:
+                    - img "Engine" [ref=e443]
+                    - generic [ref=e445]: 4 Cylinder Engine
+                  - generic [ref=e447]:
+                    - img "Drivetrain" [ref=e449]
+                    - generic [ref=e451]: AWD
+                  - generic [ref=e453]:
+                    - img "Mileage" [ref=e455]
+                    - generic [ref=e457]: 21,661 km
+                - link "Used 2024 Land Rover Range Rover Velar Dynamic SE LN7455" [ref=e458] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-range-rover-velar-951611/
+                  - img "Used 2024 Land Rover Range Rover Velar Dynamic SE LN7455" [ref=e461]
+              - generic [ref=e464]:
+                - generic [ref=e465]:
+                  - generic [ref=e466]:
+                    - link "Used 2024 Land Rover" [ref=e468] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-defender-1643640/
+                    - link "Defender S" [ref=e470] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-defender-1643640/
+                      - generic [ref=e471]: Defender
+                      - generic [ref=e472]: S
+                    - 'link "STOCK #: PN4078" [ref=e474] [cursor=pointer]':
+                      - /url: /view/used-2024-land-rover-defender-1643640/
+                  - link "$71,990 +tax & lic" [ref=e476] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-defender-1643640/
+                    - generic [ref=e478]: $71,990
+                    - generic [ref=e479]: +tax & lic
+                - generic [ref=e480]:
+                  - link "Learn More" [ref=e481] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-defender-1643640/
+                  - link "Check Availability" [ref=e483] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1643640&from=vls
+                - link "Exterior colour – Engine 4 Cylinder Engine Drivetrain Other Mileage 18,496 km" [ref=e485] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-defender-1643640/
+                  - generic [ref=e487]:
+                    - img "Exterior colour" [ref=e489]
+                    - generic [ref=e491]: –
+                  - generic [ref=e493]:
+                    - img "Engine" [ref=e495]
+                    - generic [ref=e497]: 4 Cylinder Engine
+                  - generic [ref=e499]:
+                    - img "Drivetrain" [ref=e501]
+                    - generic [ref=e503]: Other
+                  - generic [ref=e505]:
+                    - img "Mileage" [ref=e507]
+                    - generic [ref=e509]: 18,496 km
+                - link "Used 2024 Land Rover Defender S PN4078" [ref=e510] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-defender-1643640/
+                  - img "Used 2024 Land Rover Defender S PN4078" [ref=e513]
+              - generic [ref=e516]:
+                - generic [ref=e517]:
+                  - generic [ref=e518]:
+                    - link "Used 2024 Land Rover" [ref=e520] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-range-rover-1646511/
+                    - link "Range Rover SE" [ref=e522] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-range-rover-1646511/
+                      - generic [ref=e523]: Range Rover
+                      - generic [ref=e524]: SE
+                    - 'link "STOCK #: LN8213A" [ref=e526] [cursor=pointer]':
+                      - /url: /view/used-2024-land-rover-range-rover-1646511/
+                  - link "$145,990 +tax & lic" [ref=e528] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-range-rover-1646511/
+                    - generic [ref=e530]: $145,990
+                    - generic [ref=e531]: +tax & lic
+                - generic [ref=e532]:
+                  - link "Learn More" [ref=e533] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-range-rover-1646511/
+                  - link "Check Availability" [ref=e535] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1646511&from=vls
+                - link "Exterior colour – Engine 8 Cylinder Engine Drivetrain Other Mileage 28,851 km" [ref=e537] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-range-rover-1646511/
+                  - generic [ref=e539]:
+                    - img "Exterior colour" [ref=e541]
+                    - generic [ref=e543]: –
+                  - generic [ref=e545]:
+                    - img "Engine" [ref=e547]
+                    - generic [ref=e549]: 8 Cylinder Engine
+                  - generic [ref=e551]:
+                    - img "Drivetrain" [ref=e553]
+                    - generic [ref=e555]: Other
+                  - generic [ref=e557]:
+                    - img "Mileage" [ref=e559]
+                    - generic [ref=e561]: 28,851 km
+                - link "Used 2024 Land Rover Range Rover SE LN8213A" [ref=e562] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-range-rover-1646511/
+                  - img "Used 2024 Land Rover Range Rover SE LN8213A" [ref=e565]
+              - generic [ref=e568]:
+                - generic [ref=e569]:
+                  - generic [ref=e570]:
+                    - link "Used 2024 Land Rover" [ref=e572] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-defender-1646515/
+                    - link "Defender X" [ref=e574] [cursor=pointer]:
+                      - /url: /view/used-2024-land-rover-defender-1646515/
+                      - generic [ref=e575]: Defender
+                      - generic [ref=e576]: X
+                    - 'link "STOCK #: LN8251A" [ref=e578] [cursor=pointer]':
+                      - /url: /view/used-2024-land-rover-defender-1646515/
+                  - link "Contact Us +tax & lic" [ref=e580] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-defender-1646515/
+                    - generic [ref=e582]: Contact Us
+                    - generic [ref=e583]: +tax & lic
+                - generic [ref=e584]:
+                  - link "Learn More" [ref=e585] [cursor=pointer]:
+                    - /url: /view/used-2024-land-rover-defender-1646515/
+                  - link "Check Availability" [ref=e587] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1646515&from=vls
+                - link "Exterior colour – Engine Straight 6 Cylinder Engine Drivetrain Other Mileage 89,456 km" [ref=e589] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-defender-1646515/
+                  - generic [ref=e591]:
+                    - img "Exterior colour" [ref=e593]
+                    - generic [ref=e595]: –
+                  - generic [ref=e597]:
+                    - img "Engine" [ref=e599]
+                    - generic [ref=e601]: Straight 6 Cylinder Engine
+                  - generic [ref=e603]:
+                    - img "Drivetrain" [ref=e605]
+                    - generic [ref=e607]: Other
+                  - generic [ref=e609]:
+                    - img "Mileage" [ref=e611]
+                    - generic [ref=e613]: 89,456 km
+                - link "Used 2024 Land Rover Defender X LN8251A" [ref=e614] [cursor=pointer]:
+                  - /url: /view/used-2024-land-rover-defender-1646515/
+                  - img "Used 2024 Land Rover Defender X LN8251A" [ref=e617]
+              - generic [ref=e620]:
+                - generic [ref=e621]:
+                  - generic [ref=e622]:
+                    - link "Used 2023 Land Rover" [ref=e624] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-1424023/
+                    - link "Range Rover SE" [ref=e626] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-1424023/
+                      - generic [ref=e627]: Range Rover
+                      - generic [ref=e628]: SE
+                    - 'link "STOCK #: PN3989" [ref=e630] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-range-rover-1424023/
+                  - link "$130,990 +tax & lic" [ref=e632] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-1424023/
+                    - generic [ref=e634]: $130,990
+                    - generic [ref=e635]: +tax & lic
+                - generic [ref=e636]:
+                  - link "Learn More" [ref=e637] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-1424023/
+                  - link "Check Availability" [ref=e639] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1424023&from=vls
+                - link "Exterior colour White Engine 4.4 Drivetrain Other Mileage 52,132 km" [ref=e641] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-1424023/
+                  - generic [ref=e643]:
+                    - img "Exterior colour" [ref=e645]
+                    - generic [ref=e647]: White
+                  - generic [ref=e649]:
+                    - img "Engine" [ref=e651]
+                    - generic [ref=e653]: "4.4"
+                  - generic [ref=e655]:
+                    - img "Drivetrain" [ref=e657]
+                    - generic [ref=e659]: Other
+                  - generic [ref=e661]:
+                    - img "Mileage" [ref=e663]
+                    - generic [ref=e665]: 52,132 km
+                - link "Used 2023 Land Rover Range Rover SE PN3989" [ref=e666] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-1424023/
+                  - img "Used 2023 Land Rover Range Rover SE PN3989" [ref=e669]
+              - generic [ref=e672]:
+                - generic [ref=e673]:
+                  - generic [ref=e674]:
+                    - link "Used 2023 Land Rover" [ref=e676] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1458020/
+                    - link "Range Rover Sport Dynamic SE" [ref=e678] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1458020/
+                      - generic [ref=e679]: Range Rover Sport
+                      - generic [ref=e680]: Dynamic SE
+                    - 'link "STOCK #: LN8105A" [ref=e682] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1458020/
+                  - link "$88,990 +tax & lic" [ref=e684] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-sport-1458020/
+                    - generic [ref=e686]: $88,990
+                    - generic [ref=e687]: +tax & lic
+                - generic [ref=e688]:
+                  - link "Learn More" [ref=e689] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-sport-1458020/
+                  - link "Check Availability" [ref=e691] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1458020&from=vls
+                - link "Exterior colour Black Engine 3 Drivetrain Other Mileage 67,817 km" [ref=e693] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-sport-1458020/
+                  - generic [ref=e695]:
+                    - img "Exterior colour" [ref=e697]
+                    - generic [ref=e699]: Black
+                  - generic [ref=e701]:
+                    - img "Engine" [ref=e703]
+                    - generic [ref=e705]: "3"
+                  - generic [ref=e707]:
+                    - img "Drivetrain" [ref=e709]
+                    - generic [ref=e711]: Other
+                  - generic [ref=e713]:
+                    - img "Mileage" [ref=e715]
+                    - generic [ref=e717]: 67,817 km
+                - link "Used 2023 Land Rover Range Rover Sport Dynamic SE LN8105A" [ref=e718] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-sport-1458020/
+                  - img "Used 2023 Land Rover Range Rover Sport Dynamic SE LN8105A" [ref=e721]
+              - generic [ref=e724]:
+                - generic [ref=e725]:
+                  - generic [ref=e726]:
+                    - link "Used 2023 Land Rover" [ref=e728] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1490039/
+                    - link "Range Rover Sport SE" [ref=e730] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1490039/
+                      - generic [ref=e731]: Range Rover Sport
+                      - generic [ref=e732]: SE
+                    - 'link "STOCK #: LN8139A" [ref=e734] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1490039/
+                  - link "$92,990 +tax & lic" [ref=e736] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-sport-1490039/
+                    - generic [ref=e738]: $92,990
+                    - generic [ref=e739]: +tax & lic
+                - generic [ref=e740]:
+                  - link "Learn More" [ref=e741] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-sport-1490039/
+                  - link "Check Availability" [ref=e743] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1490039&from=vls
+                - link "Exterior colour White Engine Straight 6 Cylinder Engine Drivetrain Other Mileage 46,041 km" [ref=e745] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-sport-1490039/
+                  - generic [ref=e747]:
+                    - img "Exterior colour" [ref=e749]
+                    - generic [ref=e751]: White
+                  - generic [ref=e753]:
+                    - img "Engine" [ref=e755]
+                    - generic [ref=e757]: Straight 6 Cylinder Engine
+                  - generic [ref=e759]:
+                    - img "Drivetrain" [ref=e761]
+                    - generic [ref=e763]: Other
+                  - generic [ref=e765]:
+                    - img "Mileage" [ref=e767]
+                    - generic [ref=e769]: 46,041 km
+                - link "Used 2023 Land Rover Range Rover Sport SE LN8139A" [ref=e770] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-sport-1490039/
+                  - img "Used 2023 Land Rover Range Rover Sport SE LN8139A" [ref=e773]
+              - generic [ref=e776]:
+                - generic [ref=e777]:
+                  - generic [ref=e778]:
+                    - link "Used 2023 Land Rover" [ref=e780] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-discovery-1503537/
+                    - link "Land Rover Discovery P360 R" [ref=e782] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-discovery-1503537/
+                      - generic [ref=e783]: Land Rover Discovery
+                      - generic [ref=e784]: P360 R
+                    - 'link "STOCK #: PN4014" [ref=e786] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-discovery-1503537/
+                  - link "$62,990 +tax & lic" [ref=e788] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-discovery-1503537/
+                    - generic [ref=e790]: $62,990
+                    - generic [ref=e791]: +tax & lic
+                - generic [ref=e792]:
+                  - link "Learn More" [ref=e793] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-discovery-1503537/
+                  - link "Check Availability" [ref=e795] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1503537&from=vls
+                - link "Exterior colour – Engine Straight 6 Cylinder Engine Drivetrain Other Mileage 49,000 km" [ref=e797] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-discovery-1503537/
+                  - generic [ref=e799]:
+                    - img "Exterior colour" [ref=e801]
+                    - generic [ref=e803]: –
+                  - generic [ref=e805]:
+                    - img "Engine" [ref=e807]
+                    - generic [ref=e809]: Straight 6 Cylinder Engine
+                  - generic [ref=e811]:
+                    - img "Drivetrain" [ref=e813]
+                    - generic [ref=e815]: Other
+                  - generic [ref=e817]:
+                    - img "Mileage" [ref=e819]
+                    - generic [ref=e821]: 49,000 km
+                - link "Used 2023 Land Rover Discovery P360 R PN4014" [ref=e822] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-discovery-1503537/
+                  - img "Used 2023 Land Rover Discovery P360 R PN4014" [ref=e825]
+              - generic [ref=e828]:
+                - generic [ref=e829]:
+                  - generic [ref=e830]:
+                    - link "Used 2023 Land Rover" [ref=e832] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-defender-1549682/
+                    - link "Defender X" [ref=e834] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-defender-1549682/
+                      - generic [ref=e835]: Defender
+                      - generic [ref=e836]: X
+                    - 'link "STOCK #: PN4038" [ref=e838] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-defender-1549682/
+                  - link "$91,990 +tax & lic" [ref=e840] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-defender-1549682/
+                    - generic [ref=e842]: $91,990
+                    - generic [ref=e843]: +tax & lic
+                - generic [ref=e844]:
+                  - link "Learn More" [ref=e845] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-defender-1549682/
+                  - link "Check Availability" [ref=e847] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1549682&from=vls
+                - link "Exterior colour Grey Engine 3 Drivetrain Other Mileage 43,475 km" [ref=e849] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-defender-1549682/
+                  - generic [ref=e851]:
+                    - img "Exterior colour" [ref=e853]
+                    - generic [ref=e855]: Grey
+                  - generic [ref=e857]:
+                    - img "Engine" [ref=e859]
+                    - generic [ref=e861]: "3"
+                  - generic [ref=e863]:
+                    - img "Drivetrain" [ref=e865]
+                    - generic [ref=e867]: Other
+                  - generic [ref=e869]:
+                    - img "Mileage" [ref=e871]
+                    - generic [ref=e873]: 43,475 km
+                - link "Used 2023 Land Rover Defender X PN4038" [ref=e874] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-defender-1549682/
+                  - img "Used 2023 Land Rover Defender X PN4038" [ref=e877]
+              - generic [ref=e880]:
+                - generic [ref=e881]:
+                  - generic [ref=e882]:
+                    - link "Used 2023 Land Rover" [ref=e884] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1557290/
+                    - link "Range Rover Sport P400" [ref=e886] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1557290/
+                      - generic [ref=e887]: Range Rover Sport
+                      - generic [ref=e888]: P400
+                    - 'link "STOCK #: LN8153A" [ref=e890] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-range-rover-sport-1557290/
+                  - link "$84,990 +tax & lic" [ref=e892] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-sport-1557290/
+                    - generic [ref=e894]: $84,990
+                    - generic [ref=e895]: +tax & lic
+                - generic [ref=e896]:
+                  - link "Learn More" [ref=e897] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-sport-1557290/
+                  - link "Check Availability" [ref=e899] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1557290&from=vls
+                - link "Exterior colour – Engine Straight 6 Cylinder Engine Drivetrain Other Mileage 56,466 km" [ref=e901] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-sport-1557290/
+                  - generic [ref=e903]:
+                    - img "Exterior colour" [ref=e905]
+                    - generic [ref=e907]: –
+                  - generic [ref=e909]:
+                    - img "Engine" [ref=e911]
+                    - generic [ref=e913]: Straight 6 Cylinder Engine
+                  - generic [ref=e915]:
+                    - img "Drivetrain" [ref=e917]
+                    - generic [ref=e919]: Other
+                  - generic [ref=e921]:
+                    - img "Mileage" [ref=e923]
+                    - generic [ref=e925]: 56,466 km
+                - link "Used 2023 Land Rover Range Rover Sport P400 LN8153A" [ref=e926] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-sport-1557290/
+                  - img "Used 2023 Land Rover Range Rover Sport P400 LN8153A" [ref=e929]
+              - generic [ref=e932]:
+                - generic [ref=e933]:
+                  - generic [ref=e934]:
+                    - link "Used 2023 Land Rover" [ref=e936] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-evoque-1557291/
+                    - link "Range Rover Evoque S" [ref=e938] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-evoque-1557291/
+                      - generic [ref=e939]: Range Rover Evoque
+                      - generic [ref=e940]: S
+                    - 'link "STOCK #: LN8103A" [ref=e942] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-range-rover-evoque-1557291/
+                  - link "$40,990 +tax & lic" [ref=e944] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-evoque-1557291/
+                    - generic [ref=e946]: $40,990
+                    - generic [ref=e947]: +tax & lic
+                - generic [ref=e948]:
+                  - link "Learn More" [ref=e949] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-evoque-1557291/
+                  - link "Check Availability" [ref=e951] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1557291&from=vls
+                - link "Exterior colour – Engine 4 Cylinder Engine Drivetrain Other Mileage 34,157 km" [ref=e953] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-evoque-1557291/
+                  - generic [ref=e955]:
+                    - img "Exterior colour" [ref=e957]
+                    - generic [ref=e959]: –
+                  - generic [ref=e961]:
+                    - img "Engine" [ref=e963]
+                    - generic [ref=e965]: 4 Cylinder Engine
+                  - generic [ref=e967]:
+                    - img "Drivetrain" [ref=e969]
+                    - generic [ref=e971]: Other
+                  - generic [ref=e973]:
+                    - img "Mileage" [ref=e975]
+                    - generic [ref=e977]: 34,157 km
+                - link "Used 2023 Land Rover Range Rover Evoque S LN8103A" [ref=e978] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-evoque-1557291/
+                  - img "Used 2023 Land Rover Range Rover Evoque S LN8103A" [ref=e981]
+              - generic [ref=e984]:
+                - generic [ref=e985]:
+                  - generic [ref=e986]:
+                    - link "Used 2023 Land Rover" [ref=e988] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-velar-1575258/
+                    - link "Range Rover Velar S" [ref=e990] [cursor=pointer]:
+                      - /url: /view/used-2023-land-rover-range-rover-velar-1575258/
+                      - generic [ref=e991]: Range Rover Velar
+                      - generic [ref=e992]: S
+                    - 'link "STOCK #: LN8077A" [ref=e994] [cursor=pointer]':
+                      - /url: /view/used-2023-land-rover-range-rover-velar-1575258/
+                  - link "$49,990 +tax & lic" [ref=e996] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-velar-1575258/
+                    - generic [ref=e998]: $49,990
+                    - generic [ref=e999]: +tax & lic
+                - generic [ref=e1000]:
+                  - link "Learn More" [ref=e1001] [cursor=pointer]:
+                    - /url: /view/used-2023-land-rover-range-rover-velar-1575258/
+                  - link "Check Availability" [ref=e1003] [cursor=pointer]:
+                    - /url: /form/confirm-availability/?vehicle_id=1575258&from=vls
+                - link "Exterior colour – Engine 2 Drivetrain Other Mileage 52,863 km" [ref=e1005] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-velar-1575258/
+                  - generic [ref=e1007]:
+                    - img "Exterior colour" [ref=e1009]
+                    - generic [ref=e1011]: –
+                  - generic [ref=e1013]:
+                    - img "Engine" [ref=e1015]
+                    - generic [ref=e1017]: "2"
+                  - generic [ref=e1019]:
+                    - img "Drivetrain" [ref=e1021]
+                    - generic [ref=e1023]: Other
+                  - generic [ref=e1025]:
+                    - img "Mileage" [ref=e1027]
+                    - generic [ref=e1029]: 52,863 km
+                - link "Used 2023 Land Rover Range Rover Velar S LN8077A" [ref=e1030] [cursor=pointer]:
+                  - /url: /view/used-2023-land-rover-range-rover-velar-1575258/
+                  - img "Used 2023 Land Rover Range Rover Velar S LN8077A" [ref=e1033]
+              - button "View More Vehicles" [ref=e1036] [cursor=pointer]
+          - paragraph [ref=e1037]:
+            - link "Defender 130" [ref=e1038] [cursor=pointer]:
+              - /url: https://coventrynorthlandrover.com/comparison/land-rover-defender-130-vs-defender-110-model-comparison/
+    - contentinfo [ref=e1040]:
+      - generic [ref=e1042]:
+        - generic [ref=e1043]: Subscribe to our newsletter now!
+        - form [ref=e1044]:
+          - generic [ref=e1050]:
+            - textbox "*" [ref=e1060]
+            - button "Subscribe" [ref=e1070]
+      - generic [ref=e1071]:
+        - generic [ref=e1072]:
+          - generic [ref=e1073]:
+            - generic [ref=e1074]: Contact Us
+            - generic [ref=e1075] [cursor=pointer]:
+              - text: Call us now
+              - img [ref=e1076]
+            - link "123 Auto Park Cir , Woodbridge, ON L4L 9S5" [ref=e1079] [cursor=pointer]:
+              - /url: https://goo.gl/maps/s9W4q4rd3VTdV7Td9
+              - text: 123 Auto Park Cir ,
+              - text: Woodbridge, ON L4L 9S5
+            - generic [ref=e1081] [cursor=pointer]:
+              - text: "Open Today:"
+              - generic [ref=e1082]: 8:30am - 6:00pm
+              - img [ref=e1083]
+          - generic [ref=e1085]:
+            - generic [ref=e1086]: Connect With Us
+            - generic [ref=e1092]:
+              - link "Visit our Facebook page" [ref=e1093] [cursor=pointer]:
+                - /url: https://www.facebook.com/coventrynorthjlr
+                - img [ref=e1094]
+              - link "Visit our X (Twitter) profile" [ref=e1097] [cursor=pointer]:
+                - /url: https://twitter.com/LandRoverCanada
+                - img [ref=e1098]
+              - link "Visit our YouTube channel" [ref=e1101] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/coventrynorthtv
+                - img [ref=e1102]
+              - link "Visit our Instagram page" [ref=e1105] [cursor=pointer]:
+                - /url: https://www.instagram.com/coventrynorthjlr/
+                - img [ref=e1106]
+            - link [ref=e1111] [cursor=pointer]:
+              - /url: https://iagcanada.ca/
+              - img [ref=e1112]
+        - generic [ref=e1136]:
+          - list [ref=e1138]:
+            - listitem [ref=e1139]:
+              - link "Vehicles" [ref=e1140]:
+                - /url: "#"
+              - list [ref=e1141]:
+                - listitem [ref=e1142]:
+                  - link "New Vehicles" [ref=e1143]:
+                    - /url: https://coventrynorthlandrover.com/new-inventory/
+                  - list [ref=e1144]:
+                    - listitem [ref=e1145]:
+                      - link "Current Offers" [ref=e1146] [cursor=pointer]:
+                        - /url: https://coventrynorthlandrover.com/current-offers/
+                    - listitem [ref=e1147]:
+                      - link "Loyalty Program Offers" [ref=e1148] [cursor=pointer]:
+                        - /url: https://coventrynorthlandrover.com/loyalty-program-offers/
+                    - listitem [ref=e1149]:
+                      - link "Partners Program" [ref=e1150] [cursor=pointer]:
+                        - /url: https://coventrynorthlandrover.com/land-rover-canada-employee-partners-program/
+                - listitem [ref=e1151]:
+                  - link "Pre-Owned Vehicles" [ref=e1152] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/pre-owned-inventory/
+            - listitem [ref=e1153]:
+              - link "Service & Parts" [ref=e1154]:
+                - /url: "#"
+              - list [ref=e1155]:
+                - listitem [ref=e1156]:
+                  - link "Land Rover Accessories" [ref=e1157] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/land-rover-accessories/
+                - listitem [ref=e1158]:
+                  - link "Service Special Offers" [ref=e1159] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/servicespecialoffers/
+                - listitem [ref=e1160]:
+                  - link "Land Rover Automotive Body Repair" [ref=e1161] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/service/schedule-service/
+                - listitem [ref=e1162]:
+                  - link "Pickup and Delivery" [ref=e1163] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/pickup-and-delivery/
+                - listitem [ref=e1164]:
+                  - link "Land Rover Service Promise" [ref=e1165] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/service-specials/
+                - listitem [ref=e1166]:
+                  - link "Order Parts" [ref=e1167] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/service/order-parts/
+            - listitem [ref=e1168]:
+              - link "Tools" [ref=e1169]:
+                - /url: "#"
+              - list [ref=e1170]:
+                - listitem [ref=e1171]:
+                  - link "Value Your Trade" [ref=e1172] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/trade-in-value/
+                - listitem [ref=e1173]:
+                  - link "Apply for Credit" [ref=e1174] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/apply-for-credit/
+            - listitem [ref=e1175]:
+              - link "Resources" [ref=e1176]:
+                - /url: "#"
+              - list [ref=e1177]:
+                - listitem [ref=e1178]:
+                  - 'link "Explore More: The Land Rover Blog" [ref=e1179] [cursor=pointer]':
+                    - /url: https://coventrynorthlandrover.com/blog/
+                - listitem [ref=e1180]:
+                  - link "Land Rover Defender 130 for Sale in Woodbridge & Toronto GTA" [ref=e1181] [cursor=pointer]:
+                    - /url: https://coventrynorthlandrover.com/defender-130/
+            - listitem [ref=e1182]:
+              - link "中文服务" [ref=e1183] [cursor=pointer]:
+                - /url: https://coventrynorthlandrover.com/chinese-sales-service-division/
+            - listitem [ref=e1184]:
+              - link "Land Rover VS." [ref=e1185] [cursor=pointer]:
+                - /url: https://coventrynorthlandrover.com/comparison/
+            - listitem [ref=e1186]:
+              - link "LANDROVER.CA" [ref=e1187] [cursor=pointer]:
+                - /url: https://www.landrover.ca/en/index.html
+          - generic [ref=e1188]:
+            - generic [ref=e1189]:
+              - link "Sitemap" [ref=e1190] [cursor=pointer]:
+                - /url: /sitemap/
+              - link "Terms and Conditions" [ref=e1191] [cursor=pointer]:
+                - /url: /terms-and-conditions/
+              - link "Privacy Policy" [ref=e1192] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - generic [ref=e1193]:
+              - generic [ref=e1194]: Coventry North Land Rover © 2026
+              - generic [ref=e1195]:
+                - text: Powered by
+                - link "Leadbox" [ref=e1196] [cursor=pointer]:
+                  - /url: https://leadboxhq.com/
+  - generic [ref=e1197]:
+    - iframe [ref=e1199]:
+      - generic [ref=f3e2]:
+        - generic [ref=f3e5]:
+          - link "Privacy" [ref=f3e6] [cursor=pointer]:
+            - /url: https://www.google.com/intl/en/policies/privacy/
+          - text: "-"
+          - link "Terms" [ref=f3e7] [cursor=pointer]:
+            - /url: https://www.google.com/intl/en/policies/terms/
+        - generic [ref=f3e8]:
+          - generic [ref=f3e9]:
+            - text: protected by
+            - strong [ref=f3e10]: reCAPTCHA
+          - generic [ref=f3e11]: "-"
+    - textbox [ref=e1200]: 0cAFcWeA51zopz0id_9WnEN0AXdF5Jr9U8awthPumJcczuNQNiSSD2XH4GxCRBdtj-W1pGbGNmoSgIZxR5XvWtYzs6hLRRskAvCVHxt-d5H6en44pQUIj64M45YgLtz-Lu37Ql2o9MfFLzVhg3OO-70xRnUx35b6bhSmLrS0G1EI7oQrSGu_ufMxjyWgmqpO45jYZ2UXet39yz5AiUMnz8H8LC7ua7_zvPNnFJcSQ8CmWUFhXxJL0q0nu73xXbPQS7uZFB09xmCE3YWqZTh6_MNLVwco9aJNRZBUV5UIa00iqiO0aMwqGnefChqI_FuQBU9N5Wt-37Hm-PfWTSJj7hQkFYwY5aEgIIbeK7nCH6FQOcLKuu-mbakNj9XrtxOp5208aplixNJjNi1gmPs6Z6QLn9BJ2mw7B7ZtrkPfeynAy_Cg6GjnbdzPQJfmTtshq5lClLLe7fGuRDVNQWsode9qqxSiejEldZB7-giSCdgbRbHICvJ4o3Kh3jiz2RUpYn7aPxIsGPqkx6GuHlc55COWgx42De5nDrdzyjerayM_wr5Xc43arge5bPxOlJaHpsUYaGntOq4TiGvpol4nvRMcW6WU2d5PS6789u1oxFIz2oibamlL9bYY9M5-36oOQoNvaNmrOinyy8N1kBLB0LP0TZzx6i3Oka1dUcLnJPlNjn87aU159vaJ8j9bIweF5_a12I_4t-4lg-ulPud1qi9cht7IhEe2Te8F4LT8UrmGR9eRRfConzdpj-3KTbYqwQlAvP-VcQlAc9sfmTzwHLKuB_ENAfh73f3f66biPFt2Sg7OjAY31x5_cXiCKsHmMn9kYyMrKL5p6Lu1CXRc6qrxuHYXcpyzp6Og7F3EaMTcfuIfhIwhAgi55ZVuzuAnlTgqhcEvk7cX2M8zS_9RssEcmQcT1wEVkpDspUHNUlODeol9P7igkz6FW4OlgQhQNqW2dzjVc8pjCj-GzWi3OwT1CLOOFLg5-kH_8poY8CRq_Jy0CcN1LF5OPAIaEW3ZvVF7C6d85fUy2acyo9yX2TG0emu3_UX44IAVVNjd2OO5PKwt35P8WBPgVWeqfSR0UZGnACpozKWD2RszVLDhRaN5QLF_cYfrTZ42wOUGnNdCHGVAiq_7NBCzYb8oevPkpNMlhB_SdCvo2rc3gIil3tPJvHsL7FPX6nhjpDEyEleKeML62BQJctpbtNCpZbKi56KS3y4EDn7EL29NM-S1tgbU7libCDPS1rvPb3IMlYRjsEthVdNIDN-acE_eEQhihRc2GYWZ5flsYfKmZmz0z1Ov0yZTjBUXiFHBkxglrtWRHAH69YrmVhuEjnPNQFAIiXnVcpYnm2EXYkiqRxZXtM2dmwIpjn_8nJ_RlWLcK8hNNe3zkIKOrtNN3SYS40UQMDiJcMvJpwtl29iR4tELGfpcH8CzwNz8E85mD5UligIg93pnkMrq8laFf6oxyEZvRfUCq19azwd_jO37nlVXzp6E6QLHyEZf5MVKhOvkmolacNv89oPygIh0TW45QLN7t2XppbVTVIH6gqYn1vW7rQ103nILl082fO2jyunLZ8EEFs0V3fsaY42x9C2BExBUeMDXyF6f3TbFKNBe97Mc0KAyJrzgM4fbV2jLq3YyGTqH4sdtiG3k5vTnei1CD6x-na_Hpos_otVmzxd-L3w3YOjaEPUAQGUQ1X69-Al6YgziodYtUy5ba9MFjPJgFwXGJR15-2cDxbPnLo350Rov5lNKxroAefsOPcUE3rvKbKuhYxOcUqNgGY6HNSYbxb5dg2yOsQiJKDUuD_zoy_Aj_iI6GXMYPqHIxw7M6lPhuMZZY_hY0QgKDzSWzqBSi1X1YUeQ_p90jAC-LtFjfzta6t9z2_cRS6tOjw2gl5T5vB50fAMrVsFg4Ypjy9jn36OsrKLUChkMMUZNeRaTxL13rG4QB8GXz96h39JY_KqYzlM6tU_vqfgIgVOmqrwlBBs59dWgMP-lsk7EYGlt2nloqul4JcJwNNWHqNNZFsuJQTM9BosRyV4M--LhE9T3iyd81qqe8x3XTHGwWCdHGGcQ_QlfNK39J24pxdPF3ouiZ8gFfT0VtTQatfy01nY1HahYlznV41HGCXK-y0ePQ9quYOaL9l5fW6cWHulu4UNtVd-kV4Zv3h7u1GtZXBdXeTPIy5dnnd3vausc6HyZIiRpHZ_lfTki4FUeL0eM3NEnMeT8J1FTRH6ileejQamlzP7LrEvqU3NPUn6Zu9g5tIGXCWGJqfWrYSBfHqKu1ZQWwLdAnLww97pX6GwGigAv5Od5gyFoQGf_smnPye
+  - img [ref=e1202] [cursor=pointer]:
+    - generic [ref=e1204]: "2"
+  - generic [ref=e1206] [cursor=pointer]:
+    - paragraph [ref=e1207]:
+      - text: Hi
+      - img [ref=e1208]
+    - paragraph [ref=e1215]: How can I help you today?
+    - img [ref=e1217]
+  - generic [ref=e1219] [cursor=pointer]:
+    - img [ref=e1221]
+    - generic [ref=e1223]: Chat with us

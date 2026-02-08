@@ -1,0 +1,29 @@
+[     279ms] [ERROR] Refused to apply style from 'https://www.oakvilletoyota.ca/css/theme/humberview-2023/compliance/toyota.css?v=090801693' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:0
+[     279ms] [ERROR] Refused to apply style from 'https://www.oakvilletoyota.ca/css/theme/humberview-2023/website/oakvilletoyota/oakvilletoyota.css?v=090801693' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:0
+[     296ms] [ERROR] Refused to apply style from 'https://www.oakvilletoyota.ca/theme/css/theme?v=090801693' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:0
+[     296ms] [ERROR] Refused to apply style from 'https://www.oakvilletoyota.ca/css/access-360/access-360.css?v=090801693' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:0
+[    1032ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/js/shiftdigital-click-tracking.js:0
+[    1064ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/js/urlTracker.js:0
+[    1235ms] [ERROR] Refused to apply style from 'https://www.oakvilletoyota.ca/css/access-360/access-360.css?v=090801693' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:0
+[    2256ms] [ERROR] Refused to execute script from 'https://www.oakvilletoyota.ca/js/shiftdigital-click-tracking.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:0
+[    2299ms] [ERROR] Refused to execute script from 'https://www.oakvilletoyota.ca/js/urlTracker.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:0
+[    2302ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/js/phoenix-jsp/phoenix-jsp.min.js:0
+[    2302ms] [ERROR] Refused to execute script from 'https://www.oakvilletoyota.ca/js/phoenix-jsp/phoenix-jsp.min.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:33296
+[    2302ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/js/theme/humberview-2023/main.min.js?v=090801693:0
+[    2302ms] [ERROR] Refused to execute script from 'https://www.oakvilletoyota.ca/js/theme/humberview-2023/main.min.js?v=090801693' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://www.oakvilletoyota.ca/en/used-inventory:33296
+[    2343ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/css/fonts/Helvetica-Bold.woff:0
+[    2344ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/css/fonts/Helvetica.woff:0
+[    2390ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/css/fonts/Helvetica-Bold.ttf:0
+[    2390ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.oakvilletoyota.ca/css/fonts/Helvetica.ttf:0
+[    2439ms] [WARNING] Datadog Browser SDK: version value doesn't meet tag requirements and will be sanitized. More details: https://docs.datadoghq.com/getting_started/tagging/#defining-tags @ https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js:0
+[    3070ms] [WARNING] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet) @ https://t2.dealer-leads.ca/main.js:12
+[    3071ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ https://t2.dealer-leads.ca/main.js:12
+[    3072ms] [WARNING] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet) @ https://t2.dealer-leads.ca/main.js:12
+[    3073ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ https://t2.dealer-leads.ca/main.js:12
+[    3193ms] ReferenceError: urlTracker is not defined
+    at HTMLDocument.<anonymous> (https://www.oakvilletoyota.ca/en/used-inventory:32377:17)
+    at i (https://code.jquery.com/jquery-1.12.4.min.js:2:27449)
+    at Object.fireWith [as resolveWith] (https://code.jquery.com/jquery-1.12.4.min.js:2:28213)
+    at n.ready (https://code.jquery.com/jquery-1.12.4.min.js:2:30006)
+    at HTMLDocument.K (https://code.jquery.com/jquery-1.12.4.min.js:2:30368)
+[    3467ms] [WARNING] Tried to initialize off-canvas on an element that already has a Foundation plugin. @ https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js:2

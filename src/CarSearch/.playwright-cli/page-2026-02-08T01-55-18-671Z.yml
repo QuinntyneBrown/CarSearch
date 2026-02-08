@@ -1,0 +1,2153 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic "outside-notification" [ref=e4] [cursor=pointer]:
+      - generic [ref=e7]:
+        - img "avatar-image" [ref=e9]
+        - generic [ref=e10]: Exploring car financing? Chat now for easy plans and applications!
+      - button "dismissNotification-label" [ref=e12]:
+        - img [ref=e14]:
+          - img [ref=e15]
+    - button "chat-entry" [ref=e20] [cursor=pointer]:
+      - img [ref=e22]
+  - banner [ref=e24]:
+    - generic [ref=e26]:
+      - link "LAND ROVER METRO WEST Logo" [ref=e30] [cursor=pointer]:
+        - /url: /
+        - img "LAND ROVER METRO WEST" [ref=e31]
+      - generic [ref=e32]:
+        - generic [ref=e36]:
+          - heading "LAND ROVER METRO WEST" [level=3] [ref=e37]
+          - link "610 Kipling Ave, Toronto, ON, M8Z 5G1. Google Map opens in a new tab" [ref=e39] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=LAND%2BROVER%2BMETRO%2BWEST%2C610+Kipling+Ave%2CToronto%2CON%2CM8Z+5G1&destination_place_id=ChIJ_0qDNkdIK4gRJlLwYGo9B6c&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e40]:
+              - img [ref=e41]
+              - text: 610 Kipling Ave, Toronto, ON, M8Z 5G1
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]: 
+              - link "416 252-1010" [ref=e47] [cursor=pointer]:
+                - /url: tel:416 252-1010
+            - generic [ref=e48]: 
+        - link "Opens in new tab" [ref=e51] [cursor=pointer]:
+          - /url: https://www.jaguarmetrowest.ca/en/
+          - text: VIEW OUR JAGUAR WEBSITE
+          - generic [ref=e52]: 
+      - list [ref=e57]:
+        - listitem [ref=e58]:
+          - link "NEW VEHICLES" [ref=e59] [cursor=pointer]:
+            - /url: /new/new.html
+        - listitem [ref=e60]:
+          - link "PRE-OWNED VEHICLES" [ref=e61] [cursor=pointer]:
+            - /url: /used/search.html
+        - listitem [ref=e62]:
+          - link "LEASE RETURN" [ref=e63] [cursor=pointer]:
+            - /url: /land-rover-lease-return.html
+        - listitem [ref=e64]:
+          - link "OFFERS" [ref=e65] [cursor=pointer]:
+            - /url: /our-promotions.html
+        - listitem [ref=e66]:
+          - link "FINANCING" [ref=e67] [cursor=pointer]:
+            - /url: /requests/credit.html
+        - listitem [ref=e68]:
+          - link "SERVICE & PARTS" [ref=e69] [cursor=pointer]:
+            - /url: /land rover-services.html
+        - listitem [ref=e70]:
+          - link "ABOUT US" [ref=e71] [cursor=pointer]:
+            - /url: /contactus.html
+          - text:    
+        - listitem [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - textbox "Search" [ref=e75]
+              - textbox "Search for a vehicle" [ref=e76]
+            - generic [ref=e78]: 
+  - generic [ref=e80]:
+    - generic [ref=e83]:
+      - link "Home" [ref=e2419] [cursor=pointer]:
+        - /url: /eng/
+      - text: » Used Land Rover for Sale
+    - generic [ref=e89]:
+      - generic [ref=e90]:
+        - generic [ref=e93]:
+          - generic [ref=e95]:
+            - heading "Free trade-in estimate" [level=4] [ref=e96]
+            - img "Carfax Logo" [ref=e97]
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - generic [ref=e101]: Enter the Year, Make, and Model
+              - combobox [ref=e102]:
+                - textbox "Enter the Year, Make, and Model" [ref=e103]:
+                  - /placeholder: Year
+            - generic [ref=e104]:
+              - generic [ref=e105]: Enter the Year, Make, and Model
+              - combobox [ref=e106]:
+                - textbox "Enter the Year, Make, and Model" [disabled] [ref=e107]:
+                  - /placeholder: Make
+            - generic [ref=e108]:
+              - generic [ref=e109]: Enter the Year, Make, and Model
+              - combobox [ref=e110]:
+                - textbox "Enter the Year, Make, and Model" [disabled] [ref=e111]:
+                  - /placeholder: Model
+          - img "AutoVerify Logo" [ref=e113]
+        - generic [ref=e116] [cursor=pointer]:
+          - img "AutoVerify Icon" [ref=e117]
+          - generic [ref=e118]: Free credit check
+          - generic [ref=e119]: Pre-qualify for financing on your next vehicle.
+          - button "Pre-qualify now" [ref=e120]
+          - generic [ref=e121]: This won't affect your credit score.
+          - generic [ref=e124]:
+            - generic [ref=e125]: Powered by
+            - img "Equifax Icon" [ref=e126]
+        - generic [ref=e127]:
+          - generic [ref=e128]:
+            - heading "Used Land Rover for Sale in Toronto near Mississauga" [level=1] [ref=e2420]:
+              - generic [ref=e131]: 
+              - generic [ref=e132]:
+                - generic [ref=e133]: Used Land Rover for Sale
+                - generic [ref=e134]: in Toronto near Mississauga
+            - generic:
+              - generic [ref=e136] [cursor=pointer]: 
+              - text: 
+          - generic [ref=e138] [cursor=pointer]:
+            - generic [ref=e139]:
+              - generic [ref=e140]: "Sort order:"
+              - generic [ref=e141]: House make first
+            - generic [ref=e143]: 
+      - option "12 Month" [selected]
+      - option "24 Month"
+      - option "36 Month"
+      - option "48 Month"
+      - option "60 Month"
+      - option "72 Month"
+      - option "84 Month"
+      - option "96 Month"
+      - option "Monthly" [selected]
+      - text:  $
+      - generic [ref=e144]:
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - generic [ref=e148]:
+              - generic:
+                - generic:
+                  - generic [ref=e150]: Search
+                  - generic [ref=e155]:
+                    - textbox "Trim, Cyl., Trans., etc..." [ref=e156]
+                    - generic [ref=e157]: "0"
+            - generic [ref=e159]:
+              - generic:
+                - button "Category " [ref=e162] [cursor=pointer]:
+                  - generic [ref=e163]: Category
+                  - generic [ref=e165]: 
+                - generic [ref=e166]: clear
+                - generic [ref=e167]:
+                  - list [ref=e170]:
+                    - listitem "Used vehicles" [ref=e171] [cursor=pointer]:
+                      - button "Used vehicles 36" [ref=e2421]:
+                        - generic [ref=e173]: Used vehicles
+                        - generic [ref=e174]: "36"
+                    - listitem "New Inventory" [ref=e175] [cursor=pointer]:
+                      - button "New Inventory 71" [ref=e176]:
+                        - generic [ref=e177]: New Inventory
+                        - generic [ref=e178]: "71"
+                  - generic [ref=e179]:
+                    - generic [ref=e180]: "Show only:"
+                    - generic [ref=e181]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - list: 
+                    - list [ref=e186]:
+                      - listitem "Certified vehicles" [ref=e187] [cursor=pointer]:
+                        - button " Certified vehicles 19" [ref=e188]:
+                          - generic [ref=e189]: 
+                          - generic [ref=e190]: Certified vehicles
+                          - generic [ref=e191]: "19"
+                    - generic [ref=e192]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - list: 
+            - generic [ref=e193]:
+              - generic [ref=e195]: Body Type
+              - list [ref=e199]:
+                - listitem "Cars" [ref=e200] [cursor=pointer]:
+                  - generic [ref=e201]:
+                    - button " Cars" [ref=e202]:
+                      - generic [ref=e203]: 
+                      - text: Cars
+                    - generic [ref=e204]: "0"
+                - text:  
+                - listitem "Convert." [ref=e205] [cursor=pointer]:
+                  - generic [ref=e206]:
+                    - button " Convert." [ref=e207]:
+                      - generic [ref=e208]: 
+                      - text: Convert.
+                    - generic [ref=e209]: "0"
+                - text:  
+                - listitem "SUV" [ref=e210]:
+                  - generic [ref=e211]:
+                    - button " SUV" [ref=e212] [cursor=pointer]:
+                      - generic [ref=e213]: 
+                      - text: SUV
+                    - generic [ref=e214]: "36"
+            - generic [ref=e216]:
+              - generic:
+                - button "Brand " [ref=e219] [cursor=pointer]:
+                  - generic [ref=e220]: Brand
+                  - generic [ref=e222]: 
+                - generic [ref=e223]: clear
+                - list [ref=e227]:
+                  - listitem "BMW" [ref=e228] [cursor=pointer]:
+                    - button "BMW 2" [ref=e229]:
+                      - generic [ref=e230]: BMW
+                      - generic [ref=e231]: "2"
+                  - listitem "Dodge" [ref=e232] [cursor=pointer]:
+                    - button "Dodge 1" [ref=e233]:
+                      - generic [ref=e234]: Dodge
+                      - generic [ref=e235]: "1"
+                  - listitem "Ford" [ref=e236] [cursor=pointer]:
+                    - button "Ford 1" [ref=e237]:
+                      - generic [ref=e238]: Ford
+                      - generic [ref=e239]: "1"
+                  - listitem "Honda" [ref=e240] [cursor=pointer]:
+                    - button "Honda 1" [ref=e241]:
+                      - generic [ref=e242]: Honda
+                      - generic [ref=e243]: "1"
+                  - listitem "Jaguar" [ref=e244] [cursor=pointer]:
+                    - button "Jaguar 3" [ref=e245]:
+                      - generic [ref=e246]: Jaguar
+                      - generic [ref=e247]: "3"
+                  - listitem "Jeep" [ref=e248] [cursor=pointer]:
+                    - button "Jeep 3" [ref=e249]:
+                      - generic [ref=e250]: Jeep
+                      - generic [ref=e251]: "3"
+                  - listitem "Land Rover" [ref=e252] [cursor=pointer]:
+                    - button "Land Rover 36" [active] [ref=e253]:
+                      - generic [ref=e254]: Land Rover
+                      - generic [ref=e255]: "36"
+                  - listitem "Mercedes-Benz" [ref=e256] [cursor=pointer]:
+                    - button "Mercedes-Benz 4" [ref=e257]:
+                      - generic [ref=e258]: Mercedes-Benz
+                      - generic [ref=e259]: "4"
+                  - listitem "Nissan" [ref=e260] [cursor=pointer]:
+                    - button "Nissan 1" [ref=e261]:
+                      - generic [ref=e262]: Nissan
+                      - generic [ref=e263]: "1"
+            - generic [ref=e264]:
+              - generic [ref=e266]: 
+              - generic [ref=e267]:
+                - generic:
+                  - button "Model " [ref=e270] [cursor=pointer]:
+                    - generic [ref=e271]: Model
+                    - generic [ref=e273]: 
+                  - list [ref=e2425]:
+                    - listitem [ref=e2426] [cursor=pointer]: Land Rover
+                    - listitem "Defender" [ref=e2427] [cursor=pointer]:
+                      - button "Defender 2" [ref=e2428]:
+                        - generic [ref=e2429]: Defender
+                        - generic [ref=e2430]: "2"
+                    - listitem "Discovery Sport" [ref=e2431] [cursor=pointer]:
+                      - button "Discovery Sport 2" [ref=e2432]:
+                        - generic [ref=e2433]: Discovery Sport
+                        - generic [ref=e2434]: "2"
+                    - listitem "LR2" [ref=e2435] [cursor=pointer]:
+                      - button "LR2 1" [ref=e2436]:
+                        - generic [ref=e2437]: LR2
+                        - generic [ref=e2438]: "1"
+                    - listitem "Range Rover" [ref=e2439] [cursor=pointer]:
+                      - button "Range Rover 4" [ref=e2440]:
+                        - generic [ref=e2441]: Range Rover
+                        - generic [ref=e2442]: "4"
+                    - listitem "Range Rover Evoque" [ref=e2443] [cursor=pointer]:
+                      - button "Range Rover Evoque 19" [ref=e2444]:
+                        - generic [ref=e2445]: Range Rover Evoque
+                        - generic [ref=e2446]: "19"
+                    - listitem "Range Rover Sport" [ref=e2447] [cursor=pointer]:
+                      - button "Range Rover Sport 5" [ref=e2448]:
+                        - generic [ref=e2449]: Range Rover Sport
+                        - generic [ref=e2450]: "5"
+                    - listitem "Range Rover Velar" [ref=e2451] [cursor=pointer]:
+                      - button "Range Rover Velar 3" [ref=e2452]:
+                        - generic [ref=e2453]: Range Rover Velar
+                        - generic [ref=e2454]: "3"
+            - generic [ref=e275]:
+              - generic [ref=e277]: 
+              - button "Trim " [ref=e281]:
+                - generic [ref=e282]: Trim
+                - generic [ref=e284]: 
+            - generic [ref=e286]:
+              - generic [ref=e288]: Year
+              - generic [ref=e292]:
+                - generic [ref=e293]:
+                  - spinbutton [ref=e294]: "2006"
+                  - spinbutton [ref=e295]: "2026"
+                - generic [ref=e296]:
+                  - slider: "2006"
+                  - slider: "2026"
+                  - generic [ref=e298]: 2011 - 2026 (36)
+            - generic [ref=e299]:
+              - generic [ref=e301]: Price
+              - generic [ref=e305]:
+                - generic [ref=e306]:
+                  - spinbutton [ref=e307]: "7000"
+                  - spinbutton [ref=e308]: "310000"
+                - generic [ref=e309]:
+                  - slider: "7000"
+                  - slider: "310000"
+                  - generic [ref=e311]: $7,000 - $135,000 (36)
+            - generic [ref=e312]:
+              - generic [ref=e314]: Mileage
+              - generic [ref=e318]:
+                - generic [ref=e319]:
+                  - textbox [disabled] [ref=e320]: 0km
+                  - textbox [disabled] [ref=e321]: 210,000km
+                - generic [ref=e322]:
+                  - slider: "0"
+                  - slider: "210000"
+                  - generic [ref=e324]: 0km - 210,000km (36)
+            - button "Transmission " [ref=e329] [cursor=pointer]:
+              - generic [ref=e330]: Transmission
+              - generic [ref=e332]: 
+            - button "Powertrain " [ref=e338] [cursor=pointer]:
+              - generic [ref=e339]: Powertrain
+              - generic [ref=e341]: 
+            - generic [ref=e343]:
+              - generic [ref=e345]: Ext. Colors
+              - list [ref=e349]:
+                - listitem "Black" [ref=e350] [cursor=pointer]:
+                  - generic [ref=e352]:
+                    - generic [ref=e356]: 
+                    - generic [ref=e357]: "13"
+                - listitem "Grey" [ref=e358] [cursor=pointer]:
+                  - generic [ref=e360]:
+                    - generic [ref=e364]: 
+                    - generic [ref=e365]: "3"
+                - listitem "Silver" [ref=e366] [cursor=pointer]:
+                  - generic [ref=e368]:
+                    - generic [ref=e372]: 
+                    - generic [ref=e373]: "1"
+                - listitem "White" [ref=e374] [cursor=pointer]:
+                  - generic [ref=e376]:
+                    - generic [ref=e380]: 
+                    - generic [ref=e381]: "9"
+                - listitem "Blue" [ref=e382] [cursor=pointer]:
+                  - generic [ref=e384]:
+                    - generic [ref=e388]: 
+                    - generic [ref=e389]: "3"
+                - text: 
+                - listitem "Red" [ref=e390] [cursor=pointer]:
+                  - generic [ref=e392]:
+                    - generic [ref=e396]: 
+                    - generic [ref=e397]: "1"
+                - text:   
+                - listitem "Gold" [ref=e398] [cursor=pointer]:
+                  - generic [ref=e400]:
+                    - generic [ref=e404]: 
+                    - generic [ref=e405]: "1"
+                - text:    
+                - listitem "Other" [ref=e406] [cursor=pointer]:
+                  - generic [ref=e408]:
+                    - generic [ref=e412]: 
+                    - generic [ref=e413]: "5"
+            - generic [ref=e415]:
+              - generic:
+                - button "Fuel " [ref=e418] [cursor=pointer]:
+                  - generic [ref=e419]: Fuel
+                  - generic [ref=e421]: 
+                - text: 
+            - button "Options " [ref=e427] [cursor=pointer]:
+              - generic [ref=e428]: Options
+              - generic [ref=e430]: 
+            - button "Doors " [ref=e436] [cursor=pointer]:
+              - generic [ref=e437]: Doors
+              - generic [ref=e439]: 
+            - button "Passengers " [ref=e445] [cursor=pointer]:
+              - generic [ref=e446]: Passengers
+              - generic [ref=e448]: 
+            - button "New Arrivals " [ref=e454] [cursor=pointer]:
+              - generic [ref=e455]: New Arrivals
+              - generic [ref=e457]: 
+            - button "Delivery Status " [ref=e463] [cursor=pointer]:
+              - generic [ref=e464]: Delivery Status
+              - generic [ref=e466]: 
+          - generic [ref=e2457] [cursor=pointer]:
+            - emphasis [ref=e2458]: 
+            - generic [ref=e2459]:
+              - generic [ref=e2460]: "36"
+              - generic [ref=e2461]: Results
+        - generic [ref=e468]:
+          - list [ref=e470]:
+            - listitem [ref=e471] [cursor=pointer]:
+              - button "Remove filters" [ref=e472]:
+                - generic [ref=e473]: Remove filters
+            - listitem [ref=e474] [cursor=pointer]:
+              - button "Used vehicles " [ref=e475]:
+                - generic [ref=e476]: Used vehicles
+                - generic [ref=e478]: 
+            - listitem [ref=e2462] [cursor=pointer]:
+              - button "Land Rover " [ref=e2463]:
+                - generic [ref=e2464]: Land Rover
+                - generic [ref=e2466]: 
+          - generic [ref=e479]:
+            - list [ref=e2467]:
+              - listitem [ref=e2468]:
+                - generic [ref=e2470]:
+                  - generic [ref=e2472]:
+                    - generic [ref=e2473]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2474]:
+                    - link "Land Rover LR2 2013":
+                      - /url: /used/2013-Land_Rover-LR2-id13302913.html
+                      - img "Land Rover LR2 2013" [ref=e2475] [cursor=pointer]
+                    - generic [ref=e2476]:
+                      - text: "Stock: 25LR508149A"
+                      - text: "VIN: SALFP2BG9DH360895"
+                  - generic [ref=e2477]:
+                    - generic [ref=e2479]:
+                      - link "2013 LR2 Awd 4dr in Toronto near Mississauga" [ref=e2480] [cursor=pointer]:
+                        - /url: /used/2013-Land_Rover-LR2-id13302913.html
+                        - generic [ref=e2481]:
+                          - generic [ref=e2482]: 2013 LR2
+                          - generic [ref=e2483]: Awd 4dr
+                          - generic [ref=e2484]: in Toronto near Mississauga
+                      - generic [ref=e2485]:
+                        - text: 7,995 $
+                        - generic [ref=e2486]: "*Taxes & licenses not included."
+                        - generic [ref=e2488] [cursor=pointer]: 
+                    - generic [ref=e2490]:
+                      - button "CAN I GET FINANCING?" [ref=e2491] [cursor=pointer]:
+                        - generic [ref=e2492]:
+                          - img [ref=e2493]
+                          - generic [ref=e2496]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2497] [cursor=pointer]:
+                        - generic [ref=e2498]:
+                          - img [ref=e2499]
+                          - generic [ref=e2502]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2504]
+                    - generic [ref=e2506]:
+                      - generic [ref=e2507]: 166,222 KM. Auto.,
+                      - generic [ref=e2508]: 
+                    - link "Carfax" [ref=e4159] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=bdHCUcLTU5iN4M0fwjoL/WuSZR2ZFOOq
+                      - img "Carfax" [ref=e4160]
+              - listitem [ref=e2511]:
+                - generic [ref=e2513]:
+                  - generic [ref=e2515]:
+                    - generic [ref=e2516]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2517]:
+                    - link "Land Rover Range Rover Evoque 2013":
+                      - /url: /used/2013-Land_Rover-Range_Rover_Evoque-id13300005.html
+                      - img "Land Rover Range Rover Evoque 2013" [ref=e2518] [cursor=pointer]
+                    - generic [ref=e2519]:
+                      - text: "Stock: 8270PA"
+                      - text: "VIN: SALVP2BG9DH803820"
+                  - generic [ref=e2520]:
+                    - generic [ref=e2522]:
+                      - link "2013 Range Rover Evoque 5dr Hb Pure Plus in Toronto near Mississauga" [ref=e2523] [cursor=pointer]:
+                        - /url: /used/2013-Land_Rover-Range_Rover_Evoque-id13300005.html
+                        - generic [ref=e2524]:
+                          - generic [ref=e2525]: 2013 Range Rover Evoque
+                          - generic [ref=e2526]: 5dr Hb Pure Plus
+                          - generic [ref=e2527]: in Toronto near Mississauga
+                      - generic [ref=e2528]:
+                        - text: 10,995 $
+                        - generic [ref=e2529]: "*Taxes & licenses not included."
+                        - generic [ref=e2531] [cursor=pointer]: 
+                    - generic [ref=e2533]:
+                      - button "CAN I GET FINANCING?" [ref=e2534] [cursor=pointer]:
+                        - generic [ref=e2535]:
+                          - img [ref=e2536]
+                          - generic [ref=e2539]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2540] [cursor=pointer]:
+                        - generic [ref=e2541]:
+                          - img [ref=e2542]
+                          - generic [ref=e2545]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2547]
+                    - generic [ref=e2549]:
+                      - generic [ref=e2550]: 198,000 KM. Auto.,
+                      - generic [ref=e2551]: 
+                    - link "Carfax" [ref=e4162] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=woW4aofK1Tj0HVeSD9TCAiXG8wjz7QAU
+                      - img "Carfax" [ref=e4163]
+              - listitem [ref=e2554]:
+                - generic [ref=e2556]:
+                  - generic [ref=e2558]:
+                    - generic [ref=e2559]:
+                      - generic [ref=e2560]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2561]:
+                    - link "Land Rover Range Rover 2011":
+                      - /url: /used/2011-Land_Rover-Range_Rover-id13351036.html
+                      - img "Land Rover Range Rover 2011" [ref=e2562] [cursor=pointer]
+                    - generic [ref=e2563]:
+                      - text: "Stock: 26LR344374A"
+                      - text: "VIN: SALME1D46BA350096"
+                  - generic [ref=e2564]:
+                    - generic [ref=e2566]:
+                      - link "2011 Range Rover 4wd 4dr Hse in Toronto near Mississauga" [ref=e2567] [cursor=pointer]:
+                        - /url: /used/2011-Land_Rover-Range_Rover-id13351036.html
+                        - generic [ref=e2568]:
+                          - generic [ref=e2569]: 2011 Range Rover
+                          - generic [ref=e2570]: 4wd 4dr Hse
+                          - generic [ref=e2571]: in Toronto near Mississauga
+                      - generic [ref=e2572]:
+                        - text: 14,995 $
+                        - generic [ref=e2573]: "*Taxes & licenses not included."
+                        - generic [ref=e2575] [cursor=pointer]: 
+                    - generic [ref=e2577]:
+                      - button "CAN I GET FINANCING?" [ref=e2578] [cursor=pointer]:
+                        - generic [ref=e2579]:
+                          - img [ref=e2580]
+                          - generic [ref=e2583]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2584] [cursor=pointer]:
+                        - generic [ref=e2585]:
+                          - img [ref=e2586]
+                          - generic [ref=e2589]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2591]
+                    - generic [ref=e2593]:
+                      - generic [ref=e2594]: 178,000 KM. Auto.,
+                      - generic [ref=e2595]: 
+                    - link "Carfax" [ref=e4165] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=br9QN4mp3y5bw187UQ/UR9v3DOTgviD8
+                      - img "Carfax" [ref=e4166]
+              - listitem [ref=e2598]:
+                - generic [ref=e2600]:
+                  - generic [ref=e2602]:
+                    - generic [ref=e2603]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2604]:
+                    - link "Land Rover Range Rover Evoque 2020":
+                      - /url: /used/2020-Land_Rover-Range_Rover_Evoque-id13111388.html
+                      - img "Land Rover Range Rover Evoque 2020" [ref=e2605] [cursor=pointer]
+                    - generic [ref=e2606]:
+                      - text: "Stock: 26LR302682A"
+                      - text: "VIN: SALZJ2FXXLH059396"
+                  - generic [ref=e2607]:
+                    - generic [ref=e2609]:
+                      - link "2020 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e2610] [cursor=pointer]:
+                        - /url: /used/2020-Land_Rover-Range_Rover_Evoque-id13111388.html
+                        - generic [ref=e2611]:
+                          - generic [ref=e2612]: 2020 Range Rover Evoque
+                          - generic [ref=e2613]: P250 S
+                          - generic [ref=e2614]: in Toronto near Mississauga
+                      - generic [ref=e2615]:
+                        - text: 27,995 $
+                        - generic [ref=e2616]: "*Taxes & licenses not included."
+                        - generic [ref=e2618] [cursor=pointer]: 
+                    - generic [ref=e2620]:
+                      - button "CAN I GET FINANCING?" [ref=e2621] [cursor=pointer]:
+                        - generic [ref=e2622]:
+                          - img [ref=e2623]
+                          - generic [ref=e2626]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2627] [cursor=pointer]:
+                        - generic [ref=e2628]:
+                          - img [ref=e2629]
+                          - generic [ref=e2632]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2634]
+                    - generic [ref=e2636]:
+                      - generic [ref=e2637]: "54,369 KM. Auto., Ext: White,"
+                      - generic [ref=e2638]: 
+                    - link "Carfax" [ref=e4168] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=cYljEmUjAcI71sMiW6xedqwS1ajEyw7y
+                      - img "Carfax" [ref=e4169]
+              - listitem [ref=e2641]:
+                - generic [ref=e2643]:
+                  - generic [ref=e2645]:
+                    - generic [ref=e2646]:
+                      - generic [ref=e2647]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2648]:
+                    - link "Land Rover Range Rover Velar 2020":
+                      - /url: /used/2020-Land_Rover-Range_Rover_Velar-id13384365.html
+                      - img "Land Rover Range Rover Velar 2020" [ref=e2649] [cursor=pointer]
+                    - generic [ref=e2650]:
+                      - text: "Stock: 26LR821247A"
+                      - text: "VIN: SALYK2FV1LA276285"
+                  - generic [ref=e2651]:
+                    - generic [ref=e2653]:
+                      - link "2020 Range Rover Velar P340 R-Dynamic S in Toronto near Mississauga" [ref=e2654] [cursor=pointer]:
+                        - /url: /used/2020-Land_Rover-Range_Rover_Velar-id13384365.html
+                        - generic [ref=e2655]:
+                          - generic [ref=e2656]: 2020 Range Rover Velar
+                          - generic [ref=e2657]: P340 R-Dynamic S
+                          - generic [ref=e2658]: in Toronto near Mississauga
+                      - generic [ref=e2659]:
+                        - text: 33,995 $
+                        - generic [ref=e2660]: "*Taxes & licenses not included."
+                        - generic [ref=e2662] [cursor=pointer]: 
+                    - generic [ref=e2664]:
+                      - button "CAN I GET FINANCING?" [ref=e2665] [cursor=pointer]:
+                        - generic [ref=e2666]:
+                          - img [ref=e2667]
+                          - generic [ref=e2670]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2671] [cursor=pointer]:
+                        - generic [ref=e2672]:
+                          - img [ref=e2673]
+                          - generic [ref=e2676]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2678]
+                    - generic [ref=e2680]:
+                      - generic [ref=e2681]: "92,000 KM. Auto., Ext: Silver,"
+                      - generic [ref=e2682]: 
+                    - link "Carfax" [ref=e4171] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=gnpvNcrERNf9hKlhKuYNjJ0vpYGnIZW9
+                      - img "Carfax" [ref=e4172]
+              - listitem [ref=e2685]:
+                - generic [ref=e2687]:
+                  - generic [ref=e2689]:
+                    - generic [ref=e2690]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2691]:
+                    - link "Land Rover Range Rover Sport 2019":
+                      - /url: /used/2019-Land_Rover-Range_Rover_Sport-id13302912.html
+                      - img "Land Rover Range Rover Sport 2019" [ref=e2692] [cursor=pointer]
+                    - generic [ref=e2693]:
+                      - text: "Stock: 23LR231616B"
+                      - text: "VIN: SALWR2RE7KA822925"
+                  - generic [ref=e2694]:
+                    - generic [ref=e2696]:
+                      - link "2019 Range Rover Sport V8 in Toronto near Mississauga" [ref=e2697] [cursor=pointer]:
+                        - /url: /used/2019-Land_Rover-Range_Rover_Sport-id13302912.html
+                        - generic [ref=e2698]:
+                          - generic [ref=e2699]: 2019 Range Rover Sport
+                          - generic [ref=e2700]: V8
+                          - generic [ref=e2701]: in Toronto near Mississauga
+                      - generic [ref=e2702]:
+                        - text: 34,495 $
+                        - generic [ref=e2703]: "*Taxes & licenses not included."
+                        - generic [ref=e2705] [cursor=pointer]: 
+                    - generic [ref=e2707]:
+                      - button "CAN I GET FINANCING?" [ref=e2708] [cursor=pointer]:
+                        - generic [ref=e2709]:
+                          - img [ref=e2710]
+                          - generic [ref=e2713]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2714] [cursor=pointer]:
+                        - generic [ref=e2715]:
+                          - img [ref=e2716]
+                          - generic [ref=e2719]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2721]
+                    - generic [ref=e2723]:
+                      - generic [ref=e2724]: 201,000 KM. Auto.,
+                      - generic [ref=e2725]: 
+                    - link "Carfax" [ref=e4174] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=Ud5wRdLu84AdTGI63thpPmih3KGtUjt6
+                      - img "Carfax" [ref=e4175]
+              - listitem [ref=e2728]:
+                - generic [ref=e2730]:
+                  - generic [ref=e2732]:
+                    - generic [ref=e2733]:
+                      - generic [ref=e2734]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2735]:
+                    - link "2023 Land Rover Range Rover Velar in Toronto near Mississauga":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13372453.html
+                    - generic [ref=e2736]:
+                      - text: "Stock: 8282P"
+                      - text: "VIN: SALYJ2EX4PA360371"
+                  - generic [ref=e2737]:
+                    - generic [ref=e2739]:
+                      - link "2023 Range Rover Velar P250 S in Toronto near Mississauga" [ref=e2740] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13372453.html
+                        - generic [ref=e2741]:
+                          - generic [ref=e2742]: 2023 Range Rover Velar
+                          - generic [ref=e2743]: P250 S
+                          - generic [ref=e2744]: in Toronto near Mississauga
+                      - generic [ref=e2745]:
+                        - text: 44,995 $
+                        - generic [ref=e2746]: "*Taxes & licenses not included."
+                        - generic [ref=e2748] [cursor=pointer]: 
+                    - generic [ref=e2750]:
+                      - button "CAN I GET FINANCING?" [ref=e2751] [cursor=pointer]:
+                        - generic [ref=e2752]:
+                          - img [ref=e2753]
+                          - generic [ref=e2756]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2757] [cursor=pointer]:
+                        - generic [ref=e2758]:
+                          - img [ref=e2759]
+                          - generic [ref=e2762]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2764]
+                    - generic [ref=e2766]:
+                      - generic [ref=e2767]: "63,571 KM. Auto., Ext: Black, Int: Brown"
+                      - generic [ref=e2768]: 
+                    - link "Carfax" [ref=e4177] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=d/CO7nbgKWeSwWiLyPuFOg7+BSYMJkjQ
+                      - img "Carfax" [ref=e4178]
+                    - img "Land Rover Certified" [ref=e2775]
+              - listitem [ref=e2776]:
+                - generic [ref=e2778]:
+                  - generic [ref=e2780]:
+                    - generic [ref=e2781]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2782]:
+                    - link "2025 Land Rover Land Rover Discovery Sport in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Discovery_Sport-id12011942.html
+                    - generic [ref=e2783]:
+                      - text: "Stock: 25LR352900"
+                      - text: "VIN: SALCL2FX5SH352900"
+                  - generic [ref=e2784]:
+                    - generic [ref=e2786]:
+                      - link "2025 Discovery Sport Dynamic Se 4wd in Toronto near Mississauga" [ref=e2787] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Discovery_Sport-id12011942.html
+                        - generic [ref=e2788]:
+                          - generic [ref=e2789]: 2025 Discovery Sport
+                          - generic [ref=e2790]: Dynamic Se 4wd
+                          - generic [ref=e2791]: in Toronto near Mississauga
+                      - generic [ref=e2792]:
+                        - text: 51,995 $
+                        - generic [ref=e2793]: "*Taxes & licenses not included."
+                        - generic [ref=e2795] [cursor=pointer]: 
+                    - generic [ref=e2797]:
+                      - button "CAN I GET FINANCING?" [ref=e2798] [cursor=pointer]:
+                        - generic [ref=e2799]:
+                          - img [ref=e2800]
+                          - generic [ref=e2803]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2804] [cursor=pointer]:
+                        - generic [ref=e2805]:
+                          - img [ref=e2806]
+                          - generic [ref=e2809]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2811]
+                    - generic [ref=e2813]:
+                      - generic [ref=e2814]: "11,740 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e2815]: 
+                    - img "Land Rover Certified" [ref=e2822]
+              - listitem [ref=e2823]:
+                - generic [ref=e2825]:
+                  - generic [ref=e2827]:
+                    - generic [ref=e2828]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2829]:
+                    - link "2025 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12011943.html
+                    - generic [ref=e2830]:
+                      - text: "Stock: 25LR265011"
+                      - text: "VIN: SALZJ2FXXSH265011"
+                  - generic [ref=e2831]:
+                    - generic [ref=e2833]:
+                      - link "2025 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e2834] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12011943.html
+                        - generic [ref=e2835]:
+                          - generic [ref=e2836]: 2025 Range Rover Evoque
+                          - generic [ref=e2837]: P250 S
+                          - generic [ref=e2838]: in Toronto near Mississauga
+                      - generic [ref=e2839]:
+                        - text: 55,495 $
+                        - generic [ref=e2840]: "*Taxes & licenses not included."
+                        - generic [ref=e2842] [cursor=pointer]: 
+                    - generic [ref=e2844]:
+                      - button "CAN I GET FINANCING?" [ref=e2845] [cursor=pointer]:
+                        - generic [ref=e2846]:
+                          - img [ref=e2847]
+                          - generic [ref=e2850]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2851] [cursor=pointer]:
+                        - generic [ref=e2852]:
+                          - img [ref=e2853]
+                          - generic [ref=e2856]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2858]
+                    - generic [ref=e2860]:
+                      - generic [ref=e2861]: "6,012 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e2862]: 
+                    - img "Land Rover Certified" [ref=e2869]
+              - listitem [ref=e2870]:
+                - generic [ref=e2872]:
+                  - generic [ref=e2874]:
+                    - generic [ref=e2875]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2876]:
+                    - link "2025 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id11861287.html
+                    - generic [ref=e2877]:
+                      - text: "Stock: 25LR277608"
+                      - text: "VIN: SALZJ2FX6SH277608"
+                  - generic [ref=e2878]:
+                    - generic [ref=e2880]:
+                      - link "2025 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e2881] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id11861287.html
+                        - generic [ref=e2882]:
+                          - generic [ref=e2883]: 2025 Range Rover Evoque
+                          - generic [ref=e2884]: P250 S
+                          - generic [ref=e2885]: in Toronto near Mississauga
+                      - generic [ref=e2886]:
+                        - text: 57,495 $
+                        - generic [ref=e2887]: "*Taxes & licenses not included."
+                        - generic [ref=e2889] [cursor=pointer]: 
+                    - generic [ref=e2891]:
+                      - button "CAN I GET FINANCING?" [ref=e2892] [cursor=pointer]:
+                        - generic [ref=e2893]:
+                          - img [ref=e2894]
+                          - generic [ref=e2897]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2898] [cursor=pointer]:
+                        - generic [ref=e2899]:
+                          - img [ref=e2900]
+                          - generic [ref=e2903]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2905]
+                    - generic [ref=e2907]:
+                      - generic [ref=e2908]: "2,564 KM. Auto., Ext: Black, Int: Cloud S"
+                      - generic [ref=e2909]: 
+                    - img "Land Rover Certified" [ref=e2916]
+              - listitem [ref=e2917]:
+                - generic [ref=e2919]:
+                  - generic [ref=e2921]:
+                    - generic [ref=e2922]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2923]:
+                    - link "2025 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12011939.html
+                    - generic [ref=e2924]:
+                      - text: "Stock: 25LR264399"
+                      - text: "VIN: SALZJ2FX2SH264399"
+                  - generic [ref=e2925]:
+                    - generic [ref=e2927]:
+                      - link "2025 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e2928] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12011939.html
+                        - generic [ref=e2929]:
+                          - generic [ref=e2930]: 2025 Range Rover Evoque
+                          - generic [ref=e2931]: P250 S
+                          - generic [ref=e2932]: in Toronto near Mississauga
+                      - generic [ref=e2933]:
+                        - text: 57,495 $
+                        - generic [ref=e2934]: "*Taxes & licenses not included."
+                        - generic [ref=e2936] [cursor=pointer]: 
+                    - generic [ref=e2938]:
+                      - button "CAN I GET FINANCING?" [ref=e2939] [cursor=pointer]:
+                        - generic [ref=e2940]:
+                          - img [ref=e2941]
+                          - generic [ref=e2944]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2945] [cursor=pointer]:
+                        - generic [ref=e2946]:
+                          - img [ref=e2947]
+                          - generic [ref=e2950]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2952]
+                    - generic [ref=e2954]:
+                      - generic [ref=e2955]: "12,026 KM. Auto., Ext: Grey, Int: Black"
+                      - generic [ref=e2956]: 
+                    - img "Land Rover Certified" [ref=e2963]
+              - listitem [ref=e2964]:
+                - generic [ref=e2966]:
+                  - generic [ref=e2968]:
+                    - generic [ref=e2969]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2970]:
+                    - link "2025 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id11861289.html
+                    - generic [ref=e2971]:
+                      - text: "Stock: 25LR277004"
+                      - text: "VIN: SALZJ2FX7SH277004"
+                  - generic [ref=e2972]:
+                    - generic [ref=e2974]:
+                      - link "2025 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e2975] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id11861289.html
+                        - generic [ref=e2976]:
+                          - generic [ref=e2977]: 2025 Range Rover Evoque
+                          - generic [ref=e2978]: P250 S
+                          - generic [ref=e2979]: in Toronto near Mississauga
+                      - generic [ref=e2980]:
+                        - text: 57,995 $
+                        - generic [ref=e2981]: "*Taxes & licenses not included."
+                        - generic [ref=e2983] [cursor=pointer]: 
+                    - generic [ref=e2985]:
+                      - button "CAN I GET FINANCING?" [ref=e2986] [cursor=pointer]:
+                        - generic [ref=e2987]:
+                          - img [ref=e2988]
+                          - generic [ref=e2991]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e2992] [cursor=pointer]:
+                        - generic [ref=e2993]:
+                          - img [ref=e2994]
+                          - generic [ref=e2997]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e2999]
+                    - generic [ref=e3001]:
+                      - generic [ref=e3002]: "7,023 KM. Auto., Ext: Black, Int: Cloud S"
+                      - generic [ref=e3003]: 
+                    - img "Land Rover Certified" [ref=e3010]
+              - listitem [ref=e3011]:
+                - generic [ref=e3013]:
+                  - generic [ref=e3015]:
+                    - generic [ref=e3016]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3017]:
+                    - link "2025 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12011940.html
+                    - generic [ref=e3018]:
+                      - text: "Stock: 25LR264919"
+                      - text: "VIN: SALZJ2FX2SH264919"
+                  - generic [ref=e3019]:
+                    - generic [ref=e3021]:
+                      - link "2025 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3022] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12011940.html
+                        - generic [ref=e3023]:
+                          - generic [ref=e3024]: 2025 Range Rover Evoque
+                          - generic [ref=e3025]: P250 S
+                          - generic [ref=e3026]: in Toronto near Mississauga
+                      - generic [ref=e3027]:
+                        - text: 58,495 $
+                        - generic [ref=e3028]: "*Taxes & licenses not included."
+                        - generic [ref=e3030] [cursor=pointer]: 
+                    - generic [ref=e3032]:
+                      - button "CAN I GET FINANCING?" [ref=e3033] [cursor=pointer]:
+                        - generic [ref=e3034]:
+                          - img [ref=e3035]
+                          - generic [ref=e3038]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3039] [cursor=pointer]:
+                        - generic [ref=e3040]:
+                          - img [ref=e3041]
+                          - generic [ref=e3044]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3046]
+                    - generic [ref=e3048]:
+                      - generic [ref=e3049]: "6,555 KM. Auto., Ext: White, Int: Brown"
+                      - generic [ref=e3050]: 
+                    - img "Land Rover Certified" [ref=e3057]
+              - listitem [ref=e3058]:
+                - generic [ref=e3060]:
+                  - generic [ref=e3062]:
+                    - generic [ref=e3063]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3064]:
+                    - link "2025 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12103775.html
+                    - generic [ref=e3065]:
+                      - text: "Stock: 25LR282454"
+                      - text: "VIN: SALZJ2FX8SH282454"
+                  - generic [ref=e3066]:
+                    - generic [ref=e3068]:
+                      - link "2025 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3069] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12103775.html
+                        - generic [ref=e3070]:
+                          - generic [ref=e3071]: 2025 Range Rover Evoque
+                          - generic [ref=e3072]: P250 S
+                          - generic [ref=e3073]: in Toronto near Mississauga
+                      - generic [ref=e3074]:
+                        - text: 59,995 $
+                        - generic [ref=e3075]: "*Taxes & licenses not included."
+                        - generic [ref=e3077] [cursor=pointer]: 
+                    - generic [ref=e3079]:
+                      - button "CAN I GET FINANCING?" [ref=e3080] [cursor=pointer]:
+                        - generic [ref=e3081]:
+                          - img [ref=e3082]
+                          - generic [ref=e3085]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3086] [cursor=pointer]:
+                        - generic [ref=e3087]:
+                          - img [ref=e3088]
+                          - generic [ref=e3091]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3093]
+                    - generic [ref=e3095]:
+                      - generic [ref=e3096]: "2,663 KM. Auto., Ext: Black, Int: Cloud S"
+                      - generic [ref=e3097]: 
+                    - img "Land Rover Certified" [ref=e3104]
+              - listitem [ref=e3105]:
+                - generic [ref=e3107]:
+                  - generic [ref=e3109]:
+                    - generic [ref=e3110]:
+                      - generic [ref=e3111]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3112]:
+                    - link "2025 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id13368024.html
+                    - generic [ref=e3113]:
+                      - text: "Stock: 25LR278047"
+                      - text: "VIN: SALZM2FX9SH278047"
+                  - generic [ref=e3114]:
+                    - generic [ref=e3116]:
+                      - link "2025 Range Rover Evoque P250 Dynamic Hse in Toronto near Mississauga" [ref=e3117] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id13368024.html
+                        - generic [ref=e3118]:
+                          - generic [ref=e3119]: 2025 Range Rover Evoque
+                          - generic [ref=e3120]: P250 Dynamic Hse
+                          - generic [ref=e3121]: in Toronto near Mississauga
+                      - generic [ref=e3122]:
+                        - text: 59,995 $
+                        - generic [ref=e3123]: "*Taxes & licenses not included."
+                        - generic [ref=e3125] [cursor=pointer]: 
+                    - generic [ref=e3127]:
+                      - button "CAN I GET FINANCING?" [ref=e3128] [cursor=pointer]:
+                        - generic [ref=e3129]:
+                          - img [ref=e3130]
+                          - generic [ref=e3133]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3134] [cursor=pointer]:
+                        - generic [ref=e3135]:
+                          - img [ref=e3136]
+                          - generic [ref=e3139]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3141]
+                    - generic [ref=e3143]:
+                      - generic [ref=e3144]: "4,332 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e3145]: 
+                    - img "Land Rover Certified" [ref=e3152]
+              - listitem [ref=e3153]:
+                - generic [ref=e3155]:
+                  - generic [ref=e3157]:
+                    - generic [ref=e3158]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3159]:
+                    - link "2025 Land Rover Land Rover Discovery Sport in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Discovery_Sport-id12158810.html
+                    - generic [ref=e3160]:
+                      - text: "Stock: 25LR366927"
+                      - text: "VIN: SALCL2FX7SH366927"
+                  - generic [ref=e3161]:
+                    - generic [ref=e3163]:
+                      - link "2025 Discovery Sport Dynamic Se 4wd in Toronto near Mississauga" [ref=e3164] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Discovery_Sport-id12158810.html
+                        - generic [ref=e3165]:
+                          - generic [ref=e3166]: 2025 Discovery Sport
+                          - generic [ref=e3167]: Dynamic Se 4wd
+                          - generic [ref=e3168]: in Toronto near Mississauga
+                      - generic [ref=e3169]:
+                        - text: 61,612 $
+                        - generic [ref=e3170]: "*Taxes & licenses not included."
+                        - generic [ref=e3172] [cursor=pointer]: 
+                    - generic [ref=e3174]:
+                      - button "CAN I GET FINANCING?" [ref=e3175] [cursor=pointer]:
+                        - generic [ref=e3176]:
+                          - img [ref=e3177]
+                          - generic [ref=e3180]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3181] [cursor=pointer]:
+                        - generic [ref=e3182]:
+                          - img [ref=e3183]
+                          - generic [ref=e3186]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3188]
+                    - generic [ref=e3190]:
+                      - generic [ref=e3191]: "93 KM. Auto., Ext: White, Int: Gray"
+                      - generic [ref=e3192]: 
+              - listitem [ref=e3195]:
+                - generic [ref=e3197]:
+                  - generic [ref=e3199]:
+                    - generic [ref=e3200]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3201]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12406280.html
+                    - generic [ref=e3202]:
+                      - text: "Stock: 26LR299227"
+                      - text: "VIN: SALZJ2FX3TH299227"
+                  - generic [ref=e3203]:
+                    - generic [ref=e3205]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3206] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12406280.html
+                        - generic [ref=e3207]:
+                          - generic [ref=e3208]: 2026 Range Rover Evoque
+                          - generic [ref=e3209]: P250 S
+                          - generic [ref=e3210]: in Toronto near Mississauga
+                      - generic [ref=e3211]:
+                        - text: 61,777 $
+                        - generic [ref=e3212]: "*Taxes & licenses not included."
+                        - generic [ref=e3214] [cursor=pointer]: 
+                    - generic [ref=e3216]:
+                      - button "CAN I GET FINANCING?" [ref=e3217] [cursor=pointer]:
+                        - generic [ref=e3218]:
+                          - img [ref=e3219]
+                          - generic [ref=e3222]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3223] [cursor=pointer]:
+                        - generic [ref=e3224]:
+                          - img [ref=e3225]
+                          - generic [ref=e3228]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3230]
+                    - generic [ref=e3232]:
+                      - generic [ref=e3233]: "94 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e3234]: 
+              - listitem [ref=e3237]:
+                - generic [ref=e3239]:
+                  - generic [ref=e3241]:
+                    - generic [ref=e3242]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3243]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12422892.html
+                    - generic [ref=e3244]:
+                      - text: "Stock: 26LR299228"
+                      - text: "VIN: SALZJ2FX5TH299228"
+                  - generic [ref=e3245]:
+                    - generic [ref=e3247]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3248] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12422892.html
+                        - generic [ref=e3249]:
+                          - generic [ref=e3250]: 2026 Range Rover Evoque
+                          - generic [ref=e3251]: P250 S
+                          - generic [ref=e3252]: in Toronto near Mississauga
+                      - generic [ref=e3253]:
+                        - text: 62,495 $
+                        - generic [ref=e3254]: "*Taxes & licenses not included."
+                        - generic [ref=e3256] [cursor=pointer]: 
+                    - generic [ref=e3258]:
+                      - button "CAN I GET FINANCING?" [ref=e3259] [cursor=pointer]:
+                        - generic [ref=e3260]:
+                          - img [ref=e3261]
+                          - generic [ref=e3264]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3265] [cursor=pointer]:
+                        - generic [ref=e3266]:
+                          - img [ref=e3267]
+                          - generic [ref=e3270]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3272]
+                    - generic [ref=e3274]:
+                      - generic [ref=e3275]: "95 KM. Auto., Ext: Blue, Int: Black"
+                      - generic [ref=e3276]: 
+                    - img "Land Rover Certified" [ref=e3283]
+              - listitem [ref=e3284]:
+                - generic [ref=e3286]:
+                  - generic [ref=e3288]:
+                    - generic [ref=e3289]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3290]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12558949.html
+                    - generic [ref=e3291]:
+                      - text: "Stock: 26LR287239"
+                      - text: "VIN: SALZL2FX2TH287239"
+                  - generic [ref=e3292]:
+                    - generic [ref=e3294]:
+                      - link "2026 Range Rover Evoque P250 Dynamic Se in Toronto near Mississauga" [ref=e3295] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12558949.html
+                        - generic [ref=e3296]:
+                          - generic [ref=e3297]: 2026 Range Rover Evoque
+                          - generic [ref=e3298]: P250 Dynamic Se
+                          - generic [ref=e3299]: in Toronto near Mississauga
+                      - generic [ref=e3300]:
+                        - text: 62,495 $
+                        - generic [ref=e3301]: "*Taxes & licenses not included."
+                        - generic [ref=e3303] [cursor=pointer]: 
+                    - generic [ref=e3305]:
+                      - button "CAN I GET FINANCING?" [ref=e3306] [cursor=pointer]:
+                        - generic [ref=e3307]:
+                          - img [ref=e3308]
+                          - generic [ref=e3311]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3312] [cursor=pointer]:
+                        - generic [ref=e3313]:
+                          - img [ref=e3314]
+                          - generic [ref=e3317]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3319]
+                    - generic [ref=e3321]:
+                      - generic [ref=e3322]: "6,001 KM. Auto., Ext: Grey, Int: Black"
+                      - generic [ref=e3323]: 
+                    - link "Carfax" [ref=e4180] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=oRzPiNkXJ6yBNP6UqKQA/fd3r5fsAgUo
+                      - img "Carfax" [ref=e4181]
+                    - img "Land Rover Certified" [ref=e3330]
+              - listitem [ref=e3331]:
+                - generic [ref=e3333]:
+                  - generic [ref=e3335]:
+                    - generic [ref=e3336]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3337]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12416659.html
+                    - generic [ref=e3338]:
+                      - text: "Stock: 26LR299387"
+                      - text: "VIN: SALZJ2FX3TH299387"
+                  - generic [ref=e3339]:
+                    - generic [ref=e3341]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3342] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12416659.html
+                        - generic [ref=e3343]:
+                          - generic [ref=e3344]: 2026 Range Rover Evoque
+                          - generic [ref=e3345]: P250 S
+                          - generic [ref=e3346]: in Toronto near Mississauga
+                      - generic [ref=e3347]:
+                        - text: 62,995 $
+                        - generic [ref=e3348]: "*Taxes & licenses not included."
+                        - generic [ref=e3350] [cursor=pointer]: 
+                    - generic [ref=e3352]:
+                      - button "CAN I GET FINANCING?" [ref=e3353] [cursor=pointer]:
+                        - generic [ref=e3354]:
+                          - img [ref=e3355]
+                          - generic [ref=e3358]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3359] [cursor=pointer]:
+                        - generic [ref=e3360]:
+                          - img [ref=e3361]
+                          - generic [ref=e3364]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3366]
+                    - generic [ref=e3368]:
+                      - generic [ref=e3369]: "94 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e3370]: 
+                    - img "Land Rover Certified" [ref=e3377]
+              - listitem [ref=e3378]:
+                - generic [ref=e3380]:
+                  - generic [ref=e3382]:
+                    - generic [ref=e3383]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3384]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12306477.html
+                    - generic [ref=e3385]:
+                      - text: "Stock: 26LR295883"
+                      - text: "VIN: SALZJ2FX6TH295883"
+                  - generic [ref=e3386]:
+                    - generic [ref=e3388]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3389] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12306477.html
+                        - generic [ref=e3390]:
+                          - generic [ref=e3391]: 2026 Range Rover Evoque
+                          - generic [ref=e3392]: P250 S
+                          - generic [ref=e3393]: in Toronto near Mississauga
+                      - generic [ref=e3394]:
+                        - text: 63,727 $
+                        - generic [ref=e3395]: "*Taxes & licenses not included."
+                        - generic [ref=e3397] [cursor=pointer]: 
+                    - generic [ref=e3399]:
+                      - button "CAN I GET FINANCING?" [ref=e3400] [cursor=pointer]:
+                        - generic [ref=e3401]:
+                          - img [ref=e3402]
+                          - generic [ref=e3405]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3406] [cursor=pointer]:
+                        - generic [ref=e3407]:
+                          - img [ref=e3408]
+                          - generic [ref=e3411]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3413]
+                    - generic [ref=e3415]:
+                      - generic [ref=e3416]: "100 KM. Auto., Ext: White, Int: Cloud S"
+                      - generic [ref=e3417]: 
+              - listitem [ref=e3420]:
+                - generic [ref=e3422]:
+                  - generic [ref=e3424]:
+                    - generic [ref=e3425]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3426]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12382216.html
+                    - generic [ref=e3427]:
+                      - text: "Stock: 26LR298697"
+                      - text: "VIN: SALZJ2FX2TH298697"
+                  - generic [ref=e3428]:
+                    - generic [ref=e3430]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3431] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12382216.html
+                        - generic [ref=e3432]:
+                          - generic [ref=e3433]: 2026 Range Rover Evoque
+                          - generic [ref=e3434]: P250 S
+                          - generic [ref=e3435]: in Toronto near Mississauga
+                      - generic [ref=e3436]:
+                        - text: 63,727 $
+                        - generic [ref=e3437]: "*Taxes & licenses not included."
+                        - generic [ref=e3439] [cursor=pointer]: 
+                    - generic [ref=e3441]:
+                      - button "CAN I GET FINANCING?" [ref=e3442] [cursor=pointer]:
+                        - generic [ref=e3443]:
+                          - img [ref=e3444]
+                          - generic [ref=e3447]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3448] [cursor=pointer]:
+                        - generic [ref=e3449]:
+                          - img [ref=e3450]
+                          - generic [ref=e3453]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3455]
+                    - generic [ref=e3457]:
+                      - generic [ref=e3458]: "100 KM. Auto., Ext: White, Int: Cloud S"
+                      - generic [ref=e3459]: 
+              - listitem [ref=e3462]:
+                - generic [ref=e3464]:
+                  - generic [ref=e3466]:
+                    - generic [ref=e3467]:
+                      - generic [ref=e3468]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3469]:
+                    - link "2023 Land Rover Defender in Toronto near Mississauga":
+                      - /url: /used/2023-Land_Rover-Defender-id13398888.html
+                    - generic [ref=e3470]:
+                      - text: "Stock: 25LR468464A"
+                      - text: "VIN: SALEJEEX1P2121763"
+                  - generic [ref=e3471]:
+                    - generic [ref=e3473]:
+                      - link "2023 Defender 110 S Awd in Toronto near Mississauga" [ref=e3474] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Defender-id13398888.html
+                        - generic [ref=e3475]:
+                          - generic [ref=e3476]: 2023 Defender
+                          - generic [ref=e3477]: 110 S Awd
+                          - generic [ref=e3478]: in Toronto near Mississauga
+                      - generic [ref=e3479]:
+                        - text: 63,995 $
+                        - generic [ref=e3480]: "*Taxes & licenses not included."
+                        - generic [ref=e3482] [cursor=pointer]: 
+                    - generic [ref=e3484]:
+                      - button "CAN I GET FINANCING?" [ref=e3485] [cursor=pointer]:
+                        - generic [ref=e3486]:
+                          - img [ref=e3487]
+                          - generic [ref=e3490]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3491] [cursor=pointer]:
+                        - generic [ref=e3492]:
+                          - img [ref=e3493]
+                          - generic [ref=e3496]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3498]
+                    - generic [ref=e3500]:
+                      - generic [ref=e3501]: "58,789 KM. Auto., Ext: Black,"
+                      - generic [ref=e3502]: 
+                    - link "Carfax" [ref=e4183] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=HPuxi5yIDAMqQDcaLW3Mf5aq7r3PMdeu
+                      - img "Carfax" [ref=e4184]
+                    - img "Land Rover Certified" [ref=e3509]
+              - listitem [ref=e3510]:
+                - generic [ref=e3512]:
+                  - generic [ref=e3514]:
+                    - generic [ref=e3515]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3516]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12250210.html
+                    - generic [ref=e3517]:
+                      - text: "Stock: 26LR298273"
+                      - text: "VIN: SALZJ2FX5TH298273"
+                  - generic [ref=e3518]:
+                    - generic [ref=e3520]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3521] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12250210.html
+                        - generic [ref=e3522]:
+                          - generic [ref=e3523]: 2026 Range Rover Evoque
+                          - generic [ref=e3524]: P250 S
+                          - generic [ref=e3525]: in Toronto near Mississauga
+                      - generic [ref=e3526]:
+                        - text: 63,995 $
+                        - generic [ref=e3527]: "*Taxes & licenses not included."
+                        - generic [ref=e3529] [cursor=pointer]: 
+                    - generic [ref=e3531]:
+                      - button "CAN I GET FINANCING?" [ref=e3532] [cursor=pointer]:
+                        - generic [ref=e3533]:
+                          - img [ref=e3534]
+                          - generic [ref=e3537]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3538] [cursor=pointer]:
+                        - generic [ref=e3539]:
+                          - img [ref=e3540]
+                          - generic [ref=e3543]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3545]
+                    - generic [ref=e3547]:
+                      - generic [ref=e3548]: "93 KM. Auto., Ext: Blue, Int: Cloud S"
+                      - generic [ref=e3549]: 
+                    - img "Land Rover Certified" [ref=e3556]
+              - listitem [ref=e3557]:
+                - generic [ref=e3559]:
+                  - generic [ref=e3561]:
+                    - generic [ref=e3562]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3563]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12411714.html
+                    - generic [ref=e3564]:
+                      - text: "Stock: 26LR299944"
+                      - text: "VIN: SALZJ2FX9TH299944"
+                  - generic [ref=e3565]:
+                    - generic [ref=e3567]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3568] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12411714.html
+                        - generic [ref=e3569]:
+                          - generic [ref=e3570]: 2026 Range Rover Evoque
+                          - generic [ref=e3571]: P250 S
+                          - generic [ref=e3572]: in Toronto near Mississauga
+                      - generic [ref=e3573]:
+                        - text: 63,995 $
+                        - generic [ref=e3574]: "*Taxes & licenses not included."
+                        - generic [ref=e3576] [cursor=pointer]: 
+                    - generic [ref=e3578]:
+                      - button "CAN I GET FINANCING?" [ref=e3579] [cursor=pointer]:
+                        - generic [ref=e3580]:
+                          - img [ref=e3581]
+                          - generic [ref=e3584]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3585] [cursor=pointer]:
+                        - generic [ref=e3586]:
+                          - img [ref=e3587]
+                          - generic [ref=e3590]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3592]
+                    - generic [ref=e3594]:
+                      - generic [ref=e3595]: "3,817 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e3596]: 
+                    - img "Land Rover Certified" [ref=e3603]
+              - listitem [ref=e3604]:
+                - generic [ref=e3606]:
+                  - generic [ref=e3608]:
+                    - generic [ref=e3609]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3610]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12382219.html
+                    - generic [ref=e3611]:
+                      - text: "Stock: 26LR298918"
+                      - text: "VIN: SALZJ2FX3TH298918"
+                  - generic [ref=e3612]:
+                    - generic [ref=e3614]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3615] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12382219.html
+                        - generic [ref=e3616]:
+                          - generic [ref=e3617]: 2026 Range Rover Evoque
+                          - generic [ref=e3618]: P250 S
+                          - generic [ref=e3619]: in Toronto near Mississauga
+                      - generic [ref=e3620]:
+                        - text: 64,387 $
+                        - generic [ref=e3621]: "*Taxes & licenses not included."
+                        - generic [ref=e3623] [cursor=pointer]: 
+                    - generic [ref=e3625]:
+                      - button "CAN I GET FINANCING?" [ref=e3626] [cursor=pointer]:
+                        - generic [ref=e3627]:
+                          - img [ref=e3628]
+                          - generic [ref=e3631]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3632] [cursor=pointer]:
+                        - generic [ref=e3633]:
+                          - img [ref=e3634]
+                          - generic [ref=e3637]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3639]
+                    - generic [ref=e3641]:
+                      - generic [ref=e3642]: "101 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e3643]: 
+              - listitem [ref=e3646]:
+                - generic [ref=e3648]:
+                  - generic [ref=e3650]:
+                    - generic [ref=e3651]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3652]:
+                    - link "2026 Land Rover Range Rover Evoque in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12299374.html
+                    - generic [ref=e3653]:
+                      - text: "Stock: 26LR295666"
+                      - text: "VIN: SALZJ2FX9TH295666"
+                  - generic [ref=e3654]:
+                    - generic [ref=e3656]:
+                      - link "2026 Range Rover Evoque P250 S in Toronto near Mississauga" [ref=e3657] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Evoque-id12299374.html
+                        - generic [ref=e3658]:
+                          - generic [ref=e3659]: 2026 Range Rover Evoque
+                          - generic [ref=e3660]: P250 S
+                          - generic [ref=e3661]: in Toronto near Mississauga
+                      - generic [ref=e3662]:
+                        - text: 64,527 $
+                        - generic [ref=e3663]: "*Taxes & licenses not included."
+                        - generic [ref=e3665] [cursor=pointer]: 
+                    - generic [ref=e3667]:
+                      - button "CAN I GET FINANCING?" [ref=e3668] [cursor=pointer]:
+                        - generic [ref=e3669]:
+                          - img [ref=e3670]
+                          - generic [ref=e3673]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3674] [cursor=pointer]:
+                        - generic [ref=e3675]:
+                          - img [ref=e3676]
+                          - generic [ref=e3679]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3681]
+                    - generic [ref=e3683]:
+                      - generic [ref=e3684]: "93 KM. Auto., Ext: Black, Int: Cloud S"
+                      - generic [ref=e3685]: 
+              - listitem [ref=e3688]:
+                - generic [ref=e3690]:
+                  - generic [ref=e3692]:
+                    - generic [ref=e3693]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3694]:
+                    - link "2022 Land Rover Range Rover Sport in Toronto near Mississauga":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Sport-id13269472.html
+                    - generic [ref=e3695]:
+                      - text: "Stock: 8274P"
+                      - text: "VIN: SALWV2SE8NA219153"
+                  - generic [ref=e3696]:
+                    - generic [ref=e3698]:
+                      - link "2022 Range Rover Sport Auto Dynamic in Toronto near Mississauga" [ref=e3699] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Sport-id13269472.html
+                        - generic [ref=e3700]:
+                          - generic [ref=e3701]: 2022 Range Rover Sport
+                          - generic [ref=e3702]: Auto Dynamic
+                          - generic [ref=e3703]: in Toronto near Mississauga
+                      - generic [ref=e3704]:
+                        - text: 71,495 $
+                        - generic [ref=e3705]: "*Taxes & licenses not included."
+                        - generic [ref=e3707] [cursor=pointer]: 
+                    - generic [ref=e3709]:
+                      - button "CAN I GET FINANCING?" [ref=e3710] [cursor=pointer]:
+                        - generic [ref=e3711]:
+                          - img [ref=e3712]
+                          - generic [ref=e3715]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3716] [cursor=pointer]:
+                        - generic [ref=e3717]:
+                          - img [ref=e3718]
+                          - generic [ref=e3721]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3723]
+                    - generic [ref=e3725]:
+                      - generic [ref=e3726]: "47,500 KM. Auto., Ext: Black,"
+                      - generic [ref=e3727]: 
+                    - link "Carfax" [ref=e4186] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=tttPon+fxu5IGimVyJrrdJ9e7xqc1loa
+                      - img "Carfax" [ref=e4187]
+                    - img "Land Rover Certified" [ref=e3734]
+              - listitem [ref=e3735]:
+                - generic [ref=e3737]:
+                  - generic [ref=e3739]:
+                    - generic [ref=e3740]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3741]:
+                    - link "2026 Land Rover Range Rover Velar in Toronto near Mississauga":
+                      - /url: /used/2026-Land_Rover-Range_Rover_Velar-id12312913.html
+                    - generic [ref=e3742]:
+                      - text: "Stock: 26LR814744"
+                      - text: "VIN: SALYL2EX3TA814744"
+                  - generic [ref=e3743]:
+                    - generic [ref=e3745]:
+                      - link "2026 Range Rover Velar P250 Dynamic Se in Toronto near Mississauga" [ref=e3746] [cursor=pointer]:
+                        - /url: /used/2026-Land_Rover-Range_Rover_Velar-id12312913.html
+                        - generic [ref=e3747]:
+                          - generic [ref=e3748]: 2026 Range Rover Velar
+                          - generic [ref=e3749]: P250 Dynamic Se
+                          - generic [ref=e3750]: in Toronto near Mississauga
+                      - generic [ref=e3751]:
+                        - text: 76,027 $
+                        - generic [ref=e3752]: "*Taxes & licenses not included."
+                        - generic [ref=e3754] [cursor=pointer]: 
+                    - generic [ref=e3756]:
+                      - button "CAN I GET FINANCING?" [ref=e3757] [cursor=pointer]:
+                        - generic [ref=e3758]:
+                          - img [ref=e3759]
+                          - generic [ref=e3762]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3763] [cursor=pointer]:
+                        - generic [ref=e3764]:
+                          - img [ref=e3765]
+                          - generic [ref=e3768]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3770]
+                    - generic [ref=e3772]:
+                      - generic [ref=e3773]: "100 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e3774]: 
+              - listitem [ref=e3777]:
+                - generic [ref=e3779]:
+                  - generic [ref=e3781]:
+                    - generic [ref=e3782]:
+                      - generic [ref=e3783]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3784]:
+                    - link "2022 Land Rover Range Rover in Toronto near Mississauga":
+                      - /url: /used/2022-Land_Rover-Range_Rover-id13384366.html
+                    - generic [ref=e3785]:
+                      - text: "Stock: 8281P"
+                      - text: "VIN: SALGS2RU9NA468362"
+                  - generic [ref=e3786]:
+                    - generic [ref=e3788]:
+                      - link "2022 Range Rover P400 Westminster Swb in Toronto near Mississauga" [ref=e3789] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover-id13384366.html
+                        - generic [ref=e3790]:
+                          - generic [ref=e3791]: 2022 Range Rover
+                          - generic [ref=e3792]: P400 Westminster Swb
+                          - generic [ref=e3793]: in Toronto near Mississauga
+                      - generic [ref=e3794]:
+                        - text: 79,995 $
+                        - generic [ref=e3795]: "*Taxes & licenses not included."
+                        - generic [ref=e3797] [cursor=pointer]: 
+                    - generic [ref=e3799]:
+                      - button "CAN I GET FINANCING?" [ref=e3800] [cursor=pointer]:
+                        - generic [ref=e3801]:
+                          - img [ref=e3802]
+                          - generic [ref=e3805]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3806] [cursor=pointer]:
+                        - generic [ref=e3807]:
+                          - img [ref=e3808]
+                          - generic [ref=e3811]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3813]
+                    - generic [ref=e3815]:
+                      - generic [ref=e3816]: "23,650 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e3817]: 
+                    - link "Carfax" [ref=e4189] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=Gvv78yeDpS3MwgIeq+y8TmG21S81lgve
+                      - img "Carfax" [ref=e4190]
+              - listitem [ref=e3820]:
+                - generic [ref=e3822]:
+                  - generic [ref=e3824]:
+                    - generic [ref=e3825]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3826]:
+                    - link "2022 Land Rover Range Rover Sport in Toronto near Mississauga":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Sport-id13316922.html
+                    - generic [ref=e3827]:
+                      - text: "Stock: 8278P"
+                      - text: "VIN: SALWZ2RE1NA213754"
+                  - generic [ref=e3828]:
+                    - generic [ref=e3830]:
+                      - link "2022 Range Rover Sport Svr V8 in Toronto near Mississauga" [ref=e3831] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Sport-id13316922.html
+                        - generic [ref=e3832]:
+                          - generic [ref=e3833]: 2022 Range Rover Sport
+                          - generic [ref=e3834]: Svr V8
+                          - generic [ref=e3835]: in Toronto near Mississauga
+                      - generic [ref=e3836]:
+                        - text: 89,995 $
+                        - generic [ref=e3837]: "*Taxes & licenses not included."
+                        - generic [ref=e3839] [cursor=pointer]: 
+                    - generic [ref=e3841]:
+                      - button "CAN I GET FINANCING?" [ref=e3842] [cursor=pointer]:
+                        - generic [ref=e3843]:
+                          - img [ref=e3844]
+                          - generic [ref=e3847]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3848] [cursor=pointer]:
+                        - generic [ref=e3849]:
+                          - img [ref=e3850]
+                          - generic [ref=e3853]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3855]
+                    - generic [ref=e3857]:
+                      - generic [ref=e3858]: 75,879 KM. Auto.,
+                      - generic [ref=e3859]: 
+                    - link "Carfax" [ref=e4192] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=08olZI5klGUQP03W6yk22yNzSopzBYKQ
+                      - img "Carfax" [ref=e4193]
+              - listitem [ref=e3862]:
+                - generic [ref=e3864]:
+                  - generic [ref=e3866]:
+                    - generic [ref=e3867]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3868]:
+                    - link "2024 Land Rover Defender in Toronto near Mississauga":
+                      - /url: /used/2024-Land_Rover-Defender-id11861220.html
+                    - generic [ref=e3869]:
+                      - text: "Stock: 24LR278734"
+                      - text: "VIN: SALEPEFE2R2278734"
+                  - generic [ref=e3870]:
+                    - generic [ref=e3872]:
+                      - link "2024 Defender 110 P500 Se in Toronto near Mississauga" [ref=e3873] [cursor=pointer]:
+                        - /url: /used/2024-Land_Rover-Defender-id11861220.html
+                        - generic [ref=e3874]:
+                          - generic [ref=e3875]: 2024 Defender
+                          - generic [ref=e3876]: 110 P500 Se
+                          - generic [ref=e3877]: in Toronto near Mississauga
+                      - generic [ref=e3878]:
+                        - text: 112,995 $
+                        - generic [ref=e3879]: "*Taxes & licenses not included."
+                        - generic [ref=e3881] [cursor=pointer]: 
+                    - generic [ref=e3883]:
+                      - button "CAN I GET FINANCING?" [ref=e3884] [cursor=pointer]:
+                        - generic [ref=e3885]:
+                          - img [ref=e3886]
+                          - generic [ref=e3889]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3890] [cursor=pointer]:
+                        - generic [ref=e3891]:
+                          - img [ref=e3892]
+                          - generic [ref=e3895]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3897]
+                    - generic [ref=e3899]:
+                      - generic [ref=e3900]: "3,303 KM. Auto., Ext: Blue, Int: Black"
+                      - generic [ref=e3901]: 
+                    - link "Carfax" [ref=e4195] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=N3++AQ7YnmMeJwcWunJSEtJkxjvDxyTb
+                      - img "Carfax" [ref=e4196]
+                    - img "Land Rover Certified" [ref=e3908]
+              - listitem [ref=e3909]:
+                - generic [ref=e3911]:
+                  - generic [ref=e3913]:
+                    - generic [ref=e3914]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3915]:
+                    - link "2023 Land Rover Range Rover Sport in Toronto near Mississauga":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13241955.html
+                    - generic [ref=e3916]:
+                      - text: "Stock: 25LR457958A"
+                      - text: "VIN: SAL1V9E7XPA110597"
+                  - generic [ref=e3917]:
+                    - generic [ref=e3919]:
+                      - link "2023 Range Rover Sport P530 First Edition in Toronto near Mississauga" [ref=e3920] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13241955.html
+                        - generic [ref=e3921]:
+                          - generic [ref=e3922]: 2023 Range Rover Sport
+                          - generic [ref=e3923]: P530 First Edition
+                          - generic [ref=e3924]: in Toronto near Mississauga
+                      - generic [ref=e3925]:
+                        - text: 112,995 $
+                        - generic [ref=e3926]: "*Taxes & licenses not included."
+                        - generic [ref=e3928] [cursor=pointer]: 
+                    - generic [ref=e3930]:
+                      - button "CAN I GET FINANCING?" [ref=e3931] [cursor=pointer]:
+                        - generic [ref=e3932]:
+                          - img [ref=e3933]
+                          - generic [ref=e3936]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3937] [cursor=pointer]:
+                        - generic [ref=e3938]:
+                          - img [ref=e3939]
+                          - generic [ref=e3942]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3944]
+                    - generic [ref=e3946]:
+                      - generic [ref=e3947]: "60,723 KM. Auto., Ext: Red,"
+                      - generic [ref=e3948]: 
+                    - link "Carfax" [ref=e4198] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=UT95iNtr2gR3UoU2iLw/PV3zSlHtum0m
+                      - img "Carfax" [ref=e4199]
+              - listitem [ref=e3951]:
+                - generic [ref=e3953]:
+                  - generic [ref=e3955]:
+                    - generic [ref=e3956]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3957]:
+                    - link "2025 Land Rover Range Rover Sport in Toronto near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Sport-id13332864.html
+                    - generic [ref=e3958]:
+                      - text: "Stock: 8279P"
+                      - text: "VIN: SAL1M9FU8SA431165"
+                  - generic [ref=e3959]:
+                    - generic [ref=e3961]:
+                      - link "2025 Range Rover Sport P400 Dynamic Hse in Toronto near Mississauga" [ref=e3962] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Sport-id13332864.html
+                        - generic [ref=e3963]:
+                          - generic [ref=e3964]: 2025 Range Rover Sport
+                          - generic [ref=e3965]: P400 Dynamic Hse
+                          - generic [ref=e3966]: in Toronto near Mississauga
+                      - generic [ref=e3967]:
+                        - text: 121,995 $
+                        - generic [ref=e3968]: "*Taxes & licenses not included."
+                        - generic [ref=e3970] [cursor=pointer]: 
+                    - generic [ref=e3972]:
+                      - button "CAN I GET FINANCING?" [ref=e3973] [cursor=pointer]:
+                        - generic [ref=e3974]:
+                          - img [ref=e3975]
+                          - generic [ref=e3978]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e3979] [cursor=pointer]:
+                        - generic [ref=e3980]:
+                          - img [ref=e3981]
+                          - generic [ref=e3984]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e3986]
+                    - generic [ref=e3988]:
+                      - generic [ref=e3989]: "10,713 KM. Auto., Ext: Grey, Int: Black"
+                      - generic [ref=e3990]: 
+                    - link "Carfax" [ref=e4201] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=yB4qH8taz5zreS4xu1rWE9wnkXIDXNv5
+                      - img "Carfax" [ref=e4202]
+                    - img "Land Rover Certified" [ref=e3997]
+              - listitem [ref=e3998]:
+                - generic [ref=e4000]:
+                  - generic [ref=e4002]:
+                    - generic [ref=e4003]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4004]:
+                    - link "2023 Land Rover Range Rover in Toronto near Mississauga":
+                      - /url: /used/2023-Land_Rover-Range_Rover-id13128302.html
+                    - generic [ref=e4005]:
+                      - text: "Stock: 8259PA"
+                      - text: "VIN: SALKP9E76PA028896"
+                  - generic [ref=e4006]:
+                    - generic [ref=e4008]:
+                      - link "2023 Range Rover P530 Se Swb in Toronto near Mississauga" [ref=e4009] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover-id13128302.html
+                        - generic [ref=e4010]:
+                          - generic [ref=e4011]: 2023 Range Rover
+                          - generic [ref=e4012]: P530 Se Swb
+                          - generic [ref=e4013]: in Toronto near Mississauga
+                      - generic [ref=e4014]:
+                        - text: 128,995 $
+                        - generic [ref=e4015]: "*Taxes & licenses not included."
+                        - generic [ref=e4017] [cursor=pointer]: 
+                    - generic [ref=e4019]:
+                      - button "CAN I GET FINANCING?" [ref=e4020] [cursor=pointer]:
+                        - generic [ref=e4021]:
+                          - img [ref=e4022]
+                          - generic [ref=e4025]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e4026] [cursor=pointer]:
+                        - generic [ref=e4027]:
+                          - img [ref=e4028]
+                          - generic [ref=e4031]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e4033]
+                    - generic [ref=e4035]:
+                      - generic [ref=e4036]: "53,078 KM. Auto., Ext: Gold, Int: Brown"
+                      - generic [ref=e4037]: 
+                    - link "Carfax" [ref=e4204] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=DYtU72N8PqLmRifiKvJaTA4Oe3OQJtjC
+                      - img "Carfax" [ref=e4205]
+                    - img "Land Rover Certified" [ref=e4044]
+              - listitem [ref=e4045]:
+                - generic [ref=e4047]:
+                  - generic [ref=e4049]:
+                    - generic [ref=e4050]:
+                      - generic [ref=e4051]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4052]:
+                    - link "2023 Land Rover Range Rover in Toronto near Mississauga":
+                      - /url: /used/2023-Land_Rover-Range_Rover-id13358022.html
+                    - generic [ref=e4053]:
+                      - text: "Stock: 8280P"
+                      - text: "VIN: SALKP9E79PA053629"
+                  - generic [ref=e4054]:
+                    - generic [ref=e4056]:
+                      - link "2023 Range Rover P530 Se Swb in Toronto near Mississauga" [ref=e4057] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover-id13358022.html
+                        - generic [ref=e4058]:
+                          - generic [ref=e4059]: 2023 Range Rover
+                          - generic [ref=e4060]: P530 Se Swb
+                          - generic [ref=e4061]: in Toronto near Mississauga
+                      - generic [ref=e4062]:
+                        - text: 134,995 $
+                        - generic [ref=e4063]: "*Taxes & licenses not included."
+                        - generic [ref=e4065] [cursor=pointer]: 
+                    - generic [ref=e4067]:
+                      - button "CAN I GET FINANCING?" [ref=e4068] [cursor=pointer]:
+                        - generic [ref=e4069]:
+                          - img [ref=e4070]
+                          - generic [ref=e4073]: CAN I GET FINANCING?
+                      - button "FREE TRADE-IN ESTIMATE" [ref=e4074] [cursor=pointer]:
+                        - generic [ref=e4075]:
+                          - img [ref=e4076]
+                          - generic [ref=e4079]: FREE TRADE-IN ESTIMATE
+                          - img "Carfax Logo" [ref=e4081]
+                    - generic [ref=e4083]:
+                      - generic [ref=e4084]: "36,291 KM. Auto., Ext: Black,"
+                      - generic [ref=e4085]: 
+                    - link "Carfax" [ref=e4207] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=vM3o9Mw16d75DPjUafiqKAwquxpYBFPO
+                      - img "Carfax" [ref=e4208]
+            - list [ref=e4088]:
+              - listitem "down" [ref=e4089] [cursor=pointer]:
+                - button "" [ref=e4090]:
+                  - generic [ref=e4091]: 
+              - listitem "Page 1" [ref=e4092] [cursor=pointer]:
+                - button "1" [ref=e4093]
+              - listitem "up" [ref=e4094] [cursor=pointer]:
+                - button "" [ref=e4095]:
+                  - generic [ref=e4096]: 
+      - generic [ref=e4097]:
+        - generic [ref=e4098]:
+          - paragraph [ref=e4099]: Our stock by brand
+          - list [ref=e4100]:
+            - listitem [ref=e4101]:
+              - link "Used Land Rover in Toronto near Mississauga" [ref=e4102] [cursor=pointer]:
+                - /url: /used/Land_Rover.html
+              - generic [ref=e4103]: "36"
+        - generic [ref=e4104]:
+          - paragraph [ref=e4105]: Our stock by model
+          - list [ref=e4106]:
+            - listitem [ref=e4107]:
+              - link "Used Range Rover Evoque" [ref=e4108] [cursor=pointer]:
+                - /url: /used/Range_Rover_Evoque.html
+              - generic [ref=e4109]: "19"
+            - listitem [ref=e4110]:
+              - link "Used Range Rover Sport" [ref=e4111] [cursor=pointer]:
+                - /url: /used/Range_Rover_Sport.html
+              - generic [ref=e4112]: "5"
+            - listitem [ref=e4113]:
+              - link "Used Range Rover" [ref=e4114] [cursor=pointer]:
+                - /url: /used/Range_Rover.html
+              - generic [ref=e4115]: "4"
+            - listitem [ref=e4116]:
+              - link "Used Range Rover Velar" [ref=e4117] [cursor=pointer]:
+                - /url: /used/Range_Rover_Velar.html
+              - generic [ref=e4118]: "3"
+            - listitem [ref=e4119]:
+              - link "Used Defender" [ref=e4120] [cursor=pointer]:
+                - /url: /used/Defender.html
+              - generic [ref=e4121]: "2"
+            - listitem [ref=e4122]:
+              - link "Used Discovery Sport" [ref=e4123] [cursor=pointer]:
+                - /url: /used/Discovery_Sport.html
+              - generic [ref=e4124]: "2"
+            - listitem [ref=e4125]:
+              - link "Used LR2" [ref=e4126] [cursor=pointer]:
+                - /url: /used/LR2.html
+              - generic [ref=e4127]: "1"
+        - generic [ref=e4128]:
+          - paragraph [ref=e4129]: Our stock by year
+          - list [ref=e4130]:
+            - listitem [ref=e4131]:
+              - link "Used Land Rover 2026" [ref=e4132] [cursor=pointer]:
+                - /url: /used/2026-Land_Rover.html
+              - generic [ref=e4133]: "11"
+            - listitem [ref=e4134]:
+              - link "Used Land Rover 2025" [ref=e4135] [cursor=pointer]:
+                - /url: /used/2025-Land_Rover.html
+              - generic [ref=e4136]: "10"
+            - listitem [ref=e4137]:
+              - link "Used Land Rover 2023" [ref=e4138] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover.html
+              - generic [ref=e4139]: "5"
+            - listitem [ref=e4140]:
+              - link "Used Land Rover 2022" [ref=e4141] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover.html
+              - generic [ref=e4142]: "3"
+            - listitem [ref=e4143]:
+              - link "Used Land Rover 2013" [ref=e4144] [cursor=pointer]:
+                - /url: /used/2013-Land_Rover.html
+              - generic [ref=e4145]: "2"
+            - listitem [ref=e4146]:
+              - link "Used Land Rover 2020" [ref=e4147] [cursor=pointer]:
+                - /url: /used/2020-Land_Rover.html
+              - generic [ref=e4148]: "2"
+            - listitem [ref=e4149]:
+              - link "Used Land Rover 2024" [ref=e4150] [cursor=pointer]:
+                - /url: /used/2024-Land_Rover.html
+              - generic [ref=e4151]: "1"
+            - listitem [ref=e4152]:
+              - link "Used Land Rover 2011" [ref=e4153] [cursor=pointer]:
+                - /url: /used/2011-Land_Rover.html
+              - generic [ref=e4154]: "1"
+            - listitem [ref=e4155]:
+              - link "Used Land Rover 2019" [ref=e4156] [cursor=pointer]:
+                - /url: /used/2019-Land_Rover.html
+              - generic [ref=e4157]: "1"
+      - generic [ref=e2255]: Photos for illustration purposes only, and may not reflect exact vehicle (including vehicle colour, trim, options, or other specifications). Some vehicles may be shown with optional equipment or equipment not available in Canada. Specifications, equipment, options and prices are subject to change without notice. Although we endeavour to ensure that the information contained on this website is accurate, the website provider and the dealership are not responsible for any errors or omissions that may occur from time to time. Some data and prices are provided by a third-party and we cannot guarantee their accuracy. Please contact your dealer for verification or if you would like more information on this vehicle.
+  - text: 
+  - contentinfo [ref=e2256]:
+    - generic [ref=e2257]:
+      - iframe [ref=e2258]:
+        
+      - generic [ref=e2259]:
+        - generic [ref=e2260]: Business Hours
+        - list [ref=e2261]:
+          - listitem [ref=e2262] [cursor=pointer]:
+            - 'button "Hours: Sales " [ref=e2263]':
+              - generic [ref=e2264]: 
+              - text: "Hours: Sales "
+          - listitem [ref=e2265] [cursor=pointer]:
+            - 'button "Hours: Service " [ref=e2266]':
+              - generic [ref=e2267]: 
+              - text: "Hours: Service "
+          - listitem [ref=e2268] [cursor=pointer]:
+            - 'button "Hours: Parts " [ref=e2269]':
+              - generic [ref=e2270]: 
+              - text: "Hours: Parts "
+    - generic [ref=e2272]:
+      - generic [ref=e2274]: Live the LAND ROVER METRO WEST experience
+      - generic [ref=e2275]:
+        - link "Share" [ref=e2279] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&src=sdkpreparse
+        - iframe [ref=e2281]:
+          - link "Post" [ref=f18e4] [cursor=pointer]:
+            - /url: https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.landrovermetrowest.ca%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text=LAND%20ROVER%20METRO%20WEST%20%7C%20Used%20Vehicles%20for%20sale%20in%20Toronto%20near%20Mississauga&url=https%3A%2F%2Fwww.landrovermetrowest.ca%2Fused%2Fsearch.html
+            - generic [ref=f18e6]: Post
+      - generic [ref=e2282]:
+        - list [ref=e2284]:
+          - listitem [ref=e2285]:
+            - generic [ref=e2286]: Useful buying tools
+          - listitem [ref=e2287]:
+            - link "After sales service" [ref=e2288] [cursor=pointer]:
+              - /url: /land rover-services.html
+          - listitem [ref=e2289]:
+            - link "LAND ROVER METRO WEST Promotions" [ref=e2290] [cursor=pointer]:
+              - /url: /our-promotions.html
+          - listitem [ref=e2291]:
+            - link "Car Loan Calculator" [ref=e2292] [cursor=pointer]:
+              - /url: /inventory/car-loan-calculator.html
+          - listitem [ref=e2293]:
+            - link "Auto Credit and Financing" [ref=e2294] [cursor=pointer]:
+              - /url: /requests/credit.html
+        - generic [ref=e2295]:
+          - list [ref=e2297]:
+            - listitem [ref=e2298]:
+              - generic [ref=e2299]: Additional information
+            - listitem [ref=e2300]:
+              - link "Our team" [ref=e2301] [cursor=pointer]:
+                - /url: /ourteam.html
+            - listitem [ref=e2302]:
+              - link "Communication Preferences" [ref=e2303] [cursor=pointer]:
+                - /url: /communication-preferences.html
+            - listitem [ref=e2304]:
+              - link "Careers" [ref=e2305] [cursor=pointer]:
+                - /url: /requests/auto-jobs.html
+          - list [ref=e2307]:
+            - listitem [ref=e2308]:
+              - generic [ref=e2309]: SUV
+            - listitem [ref=e2310]:
+              - link "2026 Defender" [ref=e2311] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Defender.html
+            - listitem [ref=e2312]:
+              - link "2026 Discovery" [ref=e2313] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery.html
+            - listitem [ref=e2314]:
+              - link "2026 Discovery Sport" [ref=e2315] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery_Sport.html
+            - listitem [ref=e2316]:
+              - link "2025 Land Rover Discovery" [ref=e2317] [cursor=pointer]:
+                - /url: /new/2025-Land_Rover-Land_Rover_Discovery.html
+            - listitem [ref=e2318]:
+              - link "2025 Land Rover Discovery Sport" [ref=e2319] [cursor=pointer]:
+                - /url: /new/2025-Land_Rover-Land_Rover_Discovery_Sport.html
+            - listitem [ref=e2320]:
+              - link "2026 Range Rover" [ref=e2321] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover.html
+            - listitem [ref=e2322]:
+              - link "2026 Range Rover Evoque" [ref=e2323] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e2324]:
+              - link "2026 Range Rover Sport" [ref=e2325] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e2326]:
+              - link "2026 Range Rover Velar" [ref=e2327] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Velar.html
+          - list [ref=e2329]:
+            - listitem [ref=e2330]:
+              - generic [ref=e2331]: Other useful links
+            - listitem [ref=e2332]:
+              - link "Land Rover Canada" [ref=e2333] [cursor=pointer]:
+                - /url: https://www.landrover.ca/en/index.html
+        - generic [ref=e2334]:
+          - list [ref=e2336]:
+            - listitem [ref=e2337]:
+              - generic [ref=e2338]: Our top 30 used vehicles
+            - listitem [ref=e2339]:
+              - link "2026 Range Rover Evoque" [ref=e2340] [cursor=pointer]:
+                - /url: /used/2026-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e2341]:
+              - link "2025 Range Rover Evoque" [ref=e2342] [cursor=pointer]:
+                - /url: /used/2025-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e2343]:
+              - link "2025 Discovery Sport" [ref=e2344] [cursor=pointer]:
+                - /url: /used/2025-Land_Rover-Discovery_Sport.html
+            - listitem [ref=e2345]:
+              - link "2023 Range Rover" [ref=e2346] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover.html
+            - listitem [ref=e2347]:
+              - link "2022 Range Rover Sport" [ref=e2348] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e2349]:
+              - link "2026 Range Rover Velar" [ref=e2350] [cursor=pointer]:
+                - /url: /used/2026-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e2351]:
+              - link "2025 Range Rover Sport" [ref=e2352] [cursor=pointer]:
+                - /url: /used/2025-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e2353]:
+              - link "2024 Defender" [ref=e2354] [cursor=pointer]:
+                - /url: /used/2024-Land_Rover-Defender.html
+            - listitem [ref=e2355]:
+              - link "2023 Range Rover Sport" [ref=e2356] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e2357]:
+              - link "2023 Range Rover Velar" [ref=e2358] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e2359]:
+              - button "View More" [ref=e2360]:
+                - generic [ref=e2361] [cursor=pointer]: View More
+          - list [ref=e2363]:
+            - listitem [ref=e2364]:
+              - generic [ref=e2365]: Our top 30 models available
+            - listitem [ref=e2366]:
+              - link "Range Rover Evoque for sale" [ref=e2367] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e2368]:
+              - link "Range Rover Sport for sale" [ref=e2369] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e2370]:
+              - link "Range Rover Velar for sale" [ref=e2371] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e2372]:
+              - link "Defender for sale" [ref=e2373] [cursor=pointer]:
+                - /url: /models/Land_Rover-Defender.html
+            - listitem [ref=e2374]:
+              - link "Range Rover for sale" [ref=e2375] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover.html
+            - listitem [ref=e2376]:
+              - link "Discovery Sport for sale" [ref=e2377] [cursor=pointer]:
+                - /url: /models/Land_Rover-Discovery_Sport.html
+            - listitem [ref=e2378]:
+              - link "LR2 for sale" [ref=e2379] [cursor=pointer]:
+                - /url: /models/Land_Rover-LR2.html
+      - generic [ref=e2380]:
+        - generic [ref=e2381]:
+          - heading "LAND ROVER METRO WEST" [level=3] [ref=e2382]
+          - link "610 Kipling Ave, Toronto, ON, M8Z 5G1. Google Map opens in a new tab" [ref=e2384] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=LAND%2BROVER%2BMETRO%2BWEST%2C610+Kipling+Ave%2CToronto%2CON%2CM8Z+5G1&destination_place_id=ChIJ_0qDNkdIK4gRJlLwYGo9B6c&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e2385]:
+              - img [ref=e2386]
+              - text: 610 Kipling Ave
+              - text: Toronto, ON, M8Z 5G1
+          - generic [ref=e2389]:
+            - generic [ref=e2390]: 
+            - link "416 252-1010" [ref=e2392] [cursor=pointer]:
+              - /url: tel:416 252-1010
+        - generic [ref=e2393]:
+          - link "Facebook opens in a new tab" [ref=e2394] [cursor=pointer]:
+            - /url: https://www.facebook.com/LandRoverCanada/
+            - img [ref=e2395]
+          - link "Twitter opens in a new tab" [ref=e2397] [cursor=pointer]:
+            - /url: https://twitter.com/LandRoverCanada
+            - img [ref=e2398]
+          - link "Youtube opens in a new tab" [ref=e2400] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCIWtCdXOqREwGsn1ymM3rxA
+            - img [ref=e2401]
+          - link "Instagram opens in a new tab" [ref=e2403] [cursor=pointer]:
+            - /url: https://instagram.com/landrovercanada
+            - img [ref=e2404]
+      - generic [ref=e2408]:
+        - text: © 2000-2026
+        - link "D2C Media opens in a new tab" [ref=e2409] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/
+          - text: D2C Media
+        - text: All rights reserved. D2C Media
+        - link "dealer website opens in a new tab" [ref=e2410] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/products/dealer-websites/
+          - text: dealer website
+        - text: solutions
+        - text: See
+        - link "terms and conditions" [ref=e2411] [cursor=pointer]:
+          - /url: /terms-and-conditions.html
+        - text: and
+        - link "privacy policy" [ref=e2412] [cursor=pointer]:
+          - /url: /privacy-policy.html
+        - text: of LAND ROVER METRO WEST
+        - link "Cars for sale on AutoAubaine.com opens in a new tab":
+          - /url: https://www.autoaubaine.com/en/
+        - generic [ref=e2413]:
+          - text: Member of the
+          - link "AutoAubaine opens in a new tab" [ref=e2414] [cursor=pointer]:
+            - /url: https://www.autoaubaine.com/en/
+            - text: AutoAubaine
+          - text: network
+  - iframe [ref=e2416]:
+    
+  - insertion
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ < > < > $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $

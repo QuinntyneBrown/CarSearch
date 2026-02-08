@@ -1,0 +1,206 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - link "Land Rover Toronto Logo" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - img "Land Rover Toronto Logo" [ref=e10]
+          - link "Land Rover Toronto" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e13]: Land Rover Toronto
+        - navigation [ref=e17]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "New Vehicles" [ref=e22] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e23]:
+              - link "Pre-Owned Vehicles" [ref=e24] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e25]:
+              - link "Service & Parts" [ref=e26] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e27]:
+              - link "About Us" [ref=e28] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e29]:
+          - link [ref=e32] [cursor=pointer]:
+            - /url: https://torontojaguar.kinsta.cloud/
+            - img [ref=e33]
+          - img [ref=e60] [cursor=pointer]
+          - generic "My Garage" [ref=e62]:
+            - link [ref=e63] [cursor=pointer]:
+              - /url: /my-garage/
+              - img [ref=e64]
+          - checkbox [ref=e67]
+    - document [ref=e74]:
+      - main [ref=e76]:
+        - generic [ref=e77]:
+          - img [ref=e78]
+          - heading "Detour Ahead" [level=1] [ref=e100]
+          - heading "It seems like the page you're trying to reach has taken a detour" [level=4] [ref=e101]
+          - paragraph [ref=e102]:
+            - link "Go Back Home" [ref=e103] [cursor=pointer]:
+              - /url: /
+              - button "Go Back Home" [ref=e104]
+            - link "Contact us!" [ref=e105] [cursor=pointer]:
+              - /url: /contact-us/
+              - button "Contact us!" [ref=e106]
+    - contentinfo [ref=e108]:
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - link "Land Rover Toronto Logo" [ref=e113] [cursor=pointer]:
+              - /url: https://landrovertoronto.ca
+              - img "Land Rover Toronto Logo" [ref=e114]
+            - generic [ref=e117]:
+              - link "777 Dundas St E," [ref=e118] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/3D74DVzAuPgnj6L8A
+              - link "Toronto," [ref=e119] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/3D74DVzAuPgnj6L8A
+              - link "ON, M4M 0E2" [ref=e120] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/3D74DVzAuPgnj6L8A
+          - generic [ref=e121]:
+            - generic [ref=e124]:
+              - generic [ref=e125]: "General:"
+              - link "416-530-1880" [ref=e126] [cursor=pointer]:
+                - /url: tel:+14165301880
+            - generic [ref=e129]:
+              - combobox [ref=e131] [cursor=pointer]:
+                - option "Sales" [selected]
+                - option "Service"
+                - option "Parts"
+              - list [ref=e134]:
+                - generic [ref=e135]:
+                  - generic [ref=e136]: "Monday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e137]:
+                  - generic [ref=e138]: "Tuesday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e139]:
+                  - generic [ref=e140]: "Wednesday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e141]:
+                  - generic [ref=e142]: "Thursday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e143]:
+                  - generic [ref=e144]: "Friday:"
+                  - text: 9:00am - 6:00pm
+                - generic [ref=e145]:
+                  - generic [ref=e146]: "Saturday:"
+                  - text: 9:00am - 5:00pm
+                - generic [ref=e148]:
+                  - generic [ref=e149]: "Sunday:"
+                  - text: CLOSED
+          - generic [ref=e150]:
+            - generic [ref=e156]:
+              - link "Visit our Facebook page" [ref=e157] [cursor=pointer]:
+                - /url: https://www.facebook.com/JLRtoronto
+                - img [ref=e158]
+              - link "Visit our YouTube channel" [ref=e161] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/landrover?_gl=1*1bxfvr7*_ga*OTIxMzYyOTIwLjE3MDQ3NDY3MTY.*_ga_B7ZBBJZQFN*MTcwNDc0NjcxNS4xLjEuMTcwNDc0Njc5OS4wLjAuMA..*_ga_Z5Q8Z5C7KF*MTcwNDc0NjcxNy4xLjEuMTcwNDc0Njc5OS42MC4wLjA.*_gcl_au*MzQzNzgyNTQ1LjE3MDQ3NDY3MTg.
+                - img [ref=e162]
+              - link "Visit our Instagram page" [ref=e165] [cursor=pointer]:
+                - /url: https://www.instagram.com/jlrtoronto/
+                - img [ref=e166]
+              - link "Visit our Linkedin Page" [ref=e170] [cursor=pointer]:
+                - /url: http://linkedin.com/company/jaguar-land-rover-toronto
+                - img [ref=e171]
+            - form [ref=e176]:
+              - generic [ref=e182]:
+                - textbox "*" [ref=e192]:
+                  - /placeholder: My email here (*)
+                - button "Subscribe" [ref=e202]
+        - generic [ref=e203]:
+          - list [ref=e205]:
+            - listitem [ref=e206]:
+              - link "Vehicles":
+                - /url: "#"
+              - list [ref=e207]:
+                - listitem [ref=e208]:
+                  - link "2025 Limited Time Model Offers" [ref=e209] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/2025-limited-time-model-offers/
+                - listitem [ref=e210]:
+                  - link "New Vehicles" [ref=e211] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/new-vehicles/
+                - listitem [ref=e212]:
+                  - link "Pre-Owned Vehicles" [ref=e213] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/used-vehicles/
+                - listitem [ref=e214]:
+                  - link "Loyalty Program Offers" [ref=e215] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/loyalty-program-offers/
+                - listitem [ref=e216]:
+                  - link "Special Offers" [ref=e217] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/special-offers/
+            - listitem [ref=e218]:
+              - link "Shopping Tools":
+                - /url: "#"
+              - list [ref=e219]:
+                - listitem [ref=e220]:
+                  - link "Book Service Appointment" [ref=e221] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/book-service-appointment/
+                - listitem [ref=e222]:
+                  - link "Order Parts" [ref=e223] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/order-parts/
+                - listitem [ref=e224]:
+                  - link "Book a Test Drive" [ref=e225] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/book-a-test-drive/
+                - listitem [ref=e226]:
+                  - link "Credit application":
+                    - /url: https://landrovertoronto.ca/auto-credit/
+                  - list [ref=e227]:
+                    - listitem [ref=e228]:
+                      - link "Parts & Service Promotions" [ref=e229] [cursor=pointer]:
+                        - /url: https://landrovertoronto.ca/parts-service-promotions-2/
+                - listitem [ref=e230]:
+                  - link "Value Your Trade" [ref=e231] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/value-your-trade/
+            - listitem [ref=e232]:
+              - link "About Us":
+                - /url: "#"
+              - list [ref=e233]:
+                - listitem [ref=e234]:
+                  - link "About Us" [ref=e235] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/about/
+                - listitem [ref=e236]:
+                  - link "Contact Us" [ref=e237] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/contact-us/
+                - listitem [ref=e238]:
+                  - link "Meet our staff" [ref=e239] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/meet-our-staff/
+            - listitem [ref=e240]:
+              - link "Land Rover Canada":
+                - /url: "#"
+              - list [ref=e241]:
+                - listitem [ref=e242]:
+                  - link "LANDROVER.CA" [ref=e243] [cursor=pointer]:
+                    - /url: http://www.landrover.ca
+          - generic [ref=e244]:
+            - generic [ref=e245]:
+              - link "Sitemap" [ref=e246] [cursor=pointer]:
+                - /url: /sitemap/
+              - text: "|"
+              - link "Terms and Conditions" [ref=e247] [cursor=pointer]:
+                - /url: https://landrovertoronto.ca/terms-and-conditions/
+              - text: "|"
+              - link "Privacy Policy" [ref=e248] [cursor=pointer]:
+                - /url: https://landrovertoronto.ca/privacy-policy/
+              - text: "|"
+            - generic [ref=e249]:
+              - generic [ref=e250]: Land Rover Toronto © 2026
+              - text: "|"
+              - generic [ref=e251]:
+                - text: Powered by
+                - link "Leadbox Not for sale" [ref=e252] [cursor=pointer]:
+                  - /url: https://leadboxhq.com/you-found-us/?utm_medium=footerlink
+                  - text: Leadbox
+                  - img "Not for sale" [ref=e253]
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e255] [cursor=pointer]:
+          - img [ref=e259]
+          - generic [ref=e260]:
+            - generic [ref=e261]: Questions?
+            - generic [ref=e262]: Connect with us!
+        - img [ref=e263] [cursor=pointer]

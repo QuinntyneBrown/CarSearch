@@ -1,0 +1,7 @@
+[    1774ms] [WARNING] [Meta Pixel] - You are sending a non-standard event 'DAP SRP'. The preferred way to send these events is using trackCustom. See 'https://developers.facebook.com/docs/ads-for-websites/pixel-events/#events' for more information. @ https://connect.facebook.net/en_US/fbevents.js:171
+[    3788ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js:0
+[    4124ms] Uncaught SyntaxError: Unexpected end of JSON input
+    at <anonymous> (https://canada.digital-interview.com/en-ca/launcher/d8f1f9d8-8db1-4cb0-98eb-8a4f2718292e:127:501285)
+    at o.onreadystatechange (https://canada.digital-interview.com/en-ca/launcher/d8f1f9d8-8db1-4cb0-98eb-8a4f2718292e:127:554432)
+[    4171ms] [ERROR] Attestation check for Attribution Reporting on https://www.google-analytics.com failed. @ https://www.landrovermetrowest.ca/used/search.html:0
+[    4264ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://adv.purecars.com/js/4f248d90cb8646e18089f778ae5c35ae/s.min.js:0

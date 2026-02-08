@@ -1,0 +1,1434 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "BUDDS' IMPORTED CARS LAND ROVER Logo" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img "BUDDS" [ref=e9]
+      - generic [ref=e10]:
+        - generic [ref=e14]:
+          - heading "BUDDS' IMPORTED CARS LAND ROVER" [level=3] [ref=e15]
+          - link "227 Wyecroft Road, Oakville, ON, L6K 3S3. Google Map opens in a new tab" [ref=e17] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=BUDDS%27%2BIMPORTED%2BCARS%2BLAND%2BROVER%2C227+Wyecroft+Road%2COakville%2CON%2CL6K+3S3&destination_place_id=ChIJAQAAiwJdK4gR-TiDRizfRuo&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e18]:
+              - img [ref=e19]
+              - text: 227 Wyecroft Road, Oakville, ON, L6K 3S3
+          - generic [ref=e21]:
+            - text: "Toll-free:"
+            - generic [ref=e22]:
+              - generic [ref=e23]: 
+              - link "1 833 955-3730" [ref=e25] [cursor=pointer]:
+                - /url: tel:1 833 955-3730
+            - generic [ref=e26]: 
+        - link "Opens in new tab" [ref=e29] [cursor=pointer]:
+          - /url: https://www.buddsjaguar.com
+          - text: VIEW OUR JAGUAR WEBSITE
+          - generic [ref=e30]: 
+      - list [ref=e35]:
+        - listitem [ref=e36]:
+          - link "NEW VEHICLES" [ref=e37] [cursor=pointer]:
+            - /url: /new/new.html
+        - listitem [ref=e38]:
+          - link "PRE-OWNED" [ref=e39] [cursor=pointer]:
+            - /url: /used/search.html
+        - listitem [ref=e40]:
+          - link "OFFERS" [ref=e41] [cursor=pointer]:
+            - /url: /our-promotions.html
+        - listitem [ref=e42]:
+          - link "LEASE RETURN" [ref=e43] [cursor=pointer]:
+            - /url: /lease-return.html
+        - listitem [ref=e44]:
+          - link "FINANCING" [ref=e45] [cursor=pointer]:
+            - /url: /requests/credit.html
+        - listitem [ref=e46]:
+          - link "SERVICE & PARTS" [ref=e47] [cursor=pointer]:
+            - /url: /land rover-services.html
+        - listitem [ref=e48]:
+          - link "ABOUT US" [ref=e49] [cursor=pointer]:
+            - /url: /contactus.html
+          - text:    
+        - listitem [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - textbox "Search" [ref=e53]
+              - textbox "Search for a vehicle" [ref=e54]
+            - generic [ref=e56]: 
+    - generic [ref=e58]:
+      - combobox "Make" [ref=e61]:
+        - option "My car" [selected]
+        - option "Acura"
+        - option "Alfa Romeo"
+        - option "Audi"
+        - option "BMW"
+        - option "BrightDrop"
+        - option "Buick"
+        - option "Cadillac"
+        - option "Chevrolet"
+        - option "Chrysler"
+        - option "Dodge"
+        - option "FIAT"
+        - option "Ford"
+        - option "Genesis"
+        - option "GMC"
+        - option "Honda"
+        - option "HUMMER"
+        - option "Hyundai"
+        - option "INEOS"
+        - option "INFINITI"
+        - option "Isuzu"
+        - option "Jaguar"
+        - option "Jeep"
+        - option "Kia"
+        - option "Land Rover"
+        - option "Lexus"
+        - option "Lincoln"
+        - option "Lucid"
+        - option "Maserati"
+        - option "Mazda"
+        - option "Mercedes-Benz"
+        - option "Mercury"
+        - option "MINI"
+        - option "Mitsubishi"
+        - option "Nissan"
+        - option "Oldsmobile"
+        - option "Plymouth"
+        - option "Polestar"
+        - option "Pontiac"
+        - option "Porsche"
+        - option "Ram"
+        - option "Rivian"
+        - option "Saab"
+        - option "Saturn"
+        - option "Scion"
+        - option "smart"
+        - option "Subaru"
+        - option "Suzuki"
+        - option "Tesla"
+        - option "Toyota"
+        - option "VinFast"
+        - option "Volkswagen"
+        - option "Volvo"
+      - combobox "Year" [ref=e64]:
+        - option [selected]
+      - combobox "Model" [ref=e67]
+      - combobox "Trim Level" [ref=e70]
+      - button "Value My Trade!" [ref=e71] [cursor=pointer]:
+        - generic [ref=e72]: 
+        - generic [ref=e73]: Value My Trade!
+  - generic [ref=e75]:
+    - generic [ref=e78]:
+      - link "Home" [ref=e80] [cursor=pointer]:
+        - /url: /eng/
+      - text: »
+      - link "Used vehicles for sale" [ref=e82] [cursor=pointer]:
+        - /url: /used/search.html
+    - generic [ref=e84]:
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - heading "Used Vehicles for sale in Oakville near Mississauga" [level=1] [ref=e89]:
+            - generic [ref=e90]: 
+            - generic [ref=e91]:
+              - generic [ref=e92]: Used Vehicles for sale
+              - generic [ref=e93]: in Oakville near Mississauga
+          - generic:
+            - generic [ref=e95] [cursor=pointer]: 
+            - text: 
+        - generic [ref=e97] [cursor=pointer]:
+          - generic [ref=e98]:
+            - generic [ref=e99]: "Sort order:"
+            - generic [ref=e100]: House make first
+          - generic [ref=e102]: 
+      - option "12 Month" [selected]
+      - option "24 Month"
+      - option "36 Month"
+      - option "48 Month"
+      - option "60 Month"
+      - option "72 Month"
+      - option "84 Month"
+      - option "96 Month"
+      - option "Monthly" [selected]
+      - text:  $
+      - generic [ref=e103]:
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - generic:
+              - generic:
+                - generic [ref=e109]: Search
+                - generic [ref=e114]:
+                  - textbox "Trim, Cyl., Trans., etc..." [ref=e115]
+                  - generic [ref=e116]: "0"
+          - generic [ref=e118]:
+            - generic:
+              - button "Category " [ref=e121] [cursor=pointer]:
+                - generic [ref=e122]: Category
+                - generic [ref=e124]: 
+              - generic [ref=e125]: clear
+              - generic [ref=e126]:
+                - list [ref=e129]:
+                  - listitem "Used vehicles" [ref=e130] [cursor=pointer]:
+                    - button "Used vehicles 22" [ref=e131]:
+                      - generic [ref=e132]: Used vehicles
+                      - generic [ref=e133]: "22"
+                  - listitem "New Inventory" [ref=e134] [cursor=pointer]:
+                    - button "New Inventory 70" [ref=e135]:
+                      - generic [ref=e136]: New Inventory
+                      - generic [ref=e137]: "70"
+                - text:   
+          - generic [ref=e138]:
+            - generic [ref=e140]: Body Type
+            - list [ref=e144]:
+              - listitem "Cars" [ref=e145]:
+                - generic [ref=e146]:
+                  - button " Cars" [ref=e147] [cursor=pointer]:
+                    - generic [ref=e148]: 
+                    - text: Cars
+                  - generic [ref=e149]: "3"
+              - text:     
+              - listitem "SUV" [ref=e150]:
+                - generic [ref=e151]:
+                  - button " SUV" [ref=e152] [cursor=pointer]:
+                    - generic [ref=e153]: 
+                    - text: SUV
+                  - generic [ref=e154]: "19"
+          - generic [ref=e156]:
+            - generic:
+              - button "Brand " [ref=e159] [cursor=pointer]:
+                - generic [ref=e160]: Brand
+                - generic [ref=e162]: 
+              - list [ref=e167]:
+                - listitem "Audi" [ref=e168] [cursor=pointer]:
+                  - button "Audi 2" [ref=e169]:
+                    - generic [ref=e170]: Audi
+                    - generic [ref=e171]: "2"
+                - listitem "Chevrolet" [ref=e172] [cursor=pointer]:
+                  - button "Chevrolet 1" [ref=e173]:
+                    - generic [ref=e174]: Chevrolet
+                    - generic [ref=e175]: "1"
+                - listitem "Infiniti" [ref=e176] [cursor=pointer]:
+                  - button "Infiniti 1" [ref=e177]:
+                    - generic [ref=e178]: Infiniti
+                    - generic [ref=e179]: "1"
+                - listitem "Jaguar" [ref=e180] [cursor=pointer]:
+                  - button "Jaguar 6" [ref=e181]:
+                    - generic [ref=e182]: Jaguar
+                    - generic [ref=e183]: "6"
+                - listitem "Land Rover" [ref=e184] [cursor=pointer]:
+                  - button "Land Rover 11" [ref=e185]:
+                    - generic [ref=e186]: Land Rover
+                    - generic [ref=e187]: "11"
+                - listitem "Mercedes-Benz" [ref=e188] [cursor=pointer]:
+                  - button "Mercedes-Benz 1" [ref=e189]:
+                    - generic [ref=e190]: Mercedes-Benz
+                    - generic [ref=e191]: "1"
+          - generic [ref=e192]:
+            - generic [ref=e194]: 
+            - button "Model " [ref=e198]:
+              - generic [ref=e199]: Model
+              - generic [ref=e201]: 
+          - generic [ref=e203]:
+            - generic [ref=e205]: 
+            - button "Trim " [ref=e209]:
+              - generic [ref=e210]: Trim
+              - generic [ref=e212]: 
+          - generic [ref=e214]:
+            - generic [ref=e216]: Year
+            - generic [ref=e220]:
+              - generic [ref=e221]:
+                - spinbutton [ref=e222]: "2018"
+                - spinbutton [ref=e223]: "2026"
+              - generic [ref=e224]:
+                - slider: "2018"
+                - slider: "2026"
+                - generic [ref=e226]: 2018 - 2025 (22)
+          - generic [ref=e227]:
+            - generic [ref=e229]: Price
+            - generic [ref=e233]:
+              - generic [ref=e234]:
+                - spinbutton [ref=e235]: "27000"
+                - spinbutton [ref=e236]: "215000"
+              - generic [ref=e237]:
+                - slider: "27000"
+                - slider: "215000"
+                - generic [ref=e239]: $27,000 - $177,000 (22)
+          - generic [ref=e240]:
+            - generic [ref=e242]: Mileage
+            - generic [ref=e246]:
+              - generic [ref=e247]:
+                - textbox [disabled] [ref=e248]: 0km
+                - textbox [disabled] [ref=e249]: 110,000km
+              - generic [ref=e250]:
+                - slider: "0"
+                - slider: "110000"
+                - generic [ref=e252]: 0km - 110,000km (22)
+          - button "Transmission " [ref=e257] [cursor=pointer]:
+            - generic [ref=e258]: Transmission
+            - generic [ref=e260]: 
+          - button "Powertrain " [ref=e266] [cursor=pointer]:
+            - generic [ref=e267]: Powertrain
+            - generic [ref=e269]: 
+          - generic [ref=e271]:
+            - generic [ref=e273]: Ext. Colors
+            - list [ref=e277]:
+              - listitem "Black" [ref=e278] [cursor=pointer]:
+                - generic [ref=e280]:
+                  - generic [ref=e284]: 
+                  - generic [ref=e285]: "10"
+              - listitem "Grey" [ref=e286] [cursor=pointer]:
+                - generic [ref=e288]:
+                  - generic [ref=e292]: 
+                  - generic [ref=e293]: "2"
+              - listitem "Silver" [ref=e294] [cursor=pointer]:
+                - generic [ref=e296]:
+                  - generic [ref=e300]: 
+                  - generic [ref=e301]: "0"
+              - listitem "White" [ref=e302] [cursor=pointer]:
+                - generic [ref=e304]:
+                  - generic [ref=e308]: 
+                  - generic [ref=e309]: "5"
+              - listitem "Blue" [ref=e310] [cursor=pointer]:
+                - generic [ref=e312]:
+                  - generic [ref=e316]: 
+                  - generic [ref=e317]: "3"
+              - listitem "Green" [ref=e318] [cursor=pointer]:
+                - generic [ref=e320]:
+                  - generic [ref=e324]: 
+                  - generic [ref=e325]: "1"
+              - listitem "Red" [ref=e326] [cursor=pointer]:
+                - generic [ref=e328]:
+                  - generic [ref=e332]: 
+                  - generic [ref=e333]: "1"
+              - text:   
+              - listitem "Gold" [ref=e334] [cursor=pointer]:
+                - generic [ref=e336]:
+                  - generic [ref=e340]: 
+                  - generic [ref=e341]: "0"
+              - text:     
+          - generic [ref=e343]:
+            - generic:
+              - button "Fuel " [ref=e346] [cursor=pointer]:
+                - generic [ref=e347]: Fuel
+                - generic [ref=e349]: 
+              - text: 
+          - button "Options " [ref=e355] [cursor=pointer]:
+            - generic [ref=e356]: Options
+            - generic [ref=e358]: 
+          - button "Doors " [ref=e364] [cursor=pointer]:
+            - generic [ref=e365]: Doors
+            - generic [ref=e367]: 
+          - button "Passengers " [ref=e373] [cursor=pointer]:
+            - generic [ref=e374]: Passengers
+            - generic [ref=e376]: 
+          - button "New Arrivals " [ref=e382] [cursor=pointer]:
+            - generic [ref=e383]: New Arrivals
+            - generic [ref=e385]: 
+          - button "Delivery Status " [ref=e391] [cursor=pointer]:
+            - generic [ref=e392]: Delivery Status
+            - generic [ref=e394]: 
+        - generic [ref=e396]:
+          - list [ref=e398]:
+            - listitem [ref=e399] [cursor=pointer]:
+              - button "Remove filters" [ref=e400]:
+                - generic [ref=e401]: Remove filters
+            - listitem [ref=e402] [cursor=pointer]:
+              - button "Used vehicles " [ref=e403]:
+                - generic [ref=e404]: Used vehicles
+                - generic [ref=e406]: 
+          - generic [ref=e407]:
+            - list [ref=e409]:
+              - listitem [ref=e410]:
+                - generic [ref=e412]:
+                  - generic [ref=e414]:
+                    - generic [ref=e415]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e416]:
+                    - link "Land Rover Discovery Sport 2023":
+                      - /url: /used/2023-Land_Rover-Discovery_Sport-id13262943.html
+                      - img "Land Rover Discovery Sport 2023" [ref=e417] [cursor=pointer]
+                    - generic [ref=e418]:
+                      - text: "Stock: BP7578"
+                      - text: "VIN: SALCL2FXXPH922333"
+                  - generic [ref=e419]:
+                    - generic [ref=e423] [cursor=pointer]:
+                      - generic [ref=e424]: 
+                      - generic [ref=e425]: Finance it!
+                    - generic [ref=e427]:
+                      - link "2023 Discovery Sport R-DYNAMIC SE in Oakville near Mississauga" [ref=e428] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Discovery_Sport-id13262943.html
+                        - generic [ref=e429]:
+                          - generic [ref=e430]: 2023 Discovery Sport
+                          - generic [ref=e431]: R-DYNAMIC SE
+                          - generic [ref=e432]: in Oakville near Mississauga
+                      - generic [ref=e433]:
+                        - text: 33,790 $
+                        - generic [ref=e434]: "*Taxes & licenses not included."
+                        - generic [ref=e436] [cursor=pointer]: 
+                    - generic [ref=e438]:
+                      - generic [ref=e439]: "82,250 KM. 9-Speed Auto., Ext: Blue, Int: Black"
+                      - generic [ref=e440]: 
+                    - link "Carfax" [ref=e444] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=wmt6KlIv8pMfgOpdPerxw6/Qbk861dX2
+                      - img "Carfax" [ref=e445]
+              - listitem [ref=e446]:
+                - generic [ref=e448]:
+                  - generic [ref=e450]:
+                    - generic [ref=e451]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e452]:
+                    - link "Land Rover Range Rover Evoque 2022":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Evoque-id12833103.html
+                      - img "Land Rover Range Rover Evoque 2022" [ref=e453] [cursor=pointer]
+                    - generic [ref=e454]:
+                      - text: "Stock: BP7539"
+                      - text: "VIN: SALZJ2FX7NH173925"
+                  - generic [ref=e455]:
+                    - generic [ref=e459] [cursor=pointer]:
+                      - generic [ref=e460]: 
+                      - generic [ref=e461]: Finance it!
+                    - generic [ref=e463]:
+                      - link "2022 Range Rover Evoque S in Oakville near Mississauga" [ref=e464] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Evoque-id12833103.html
+                        - generic [ref=e465]:
+                          - generic [ref=e466]: 2022 Range Rover Evoque
+                          - generic [ref=e467]: S
+                          - generic [ref=e468]: in Oakville near Mississauga
+                      - generic [ref=e469]:
+                        - text: 38,790 $
+                        - generic [ref=e470]: "*Taxes & licenses not included."
+                        - generic [ref=e472] [cursor=pointer]: 
+                    - generic [ref=e474]:
+                      - generic [ref=e475]: "54,875 KM. 9-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e476]: 
+                    - link "Carfax" [ref=e480] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=O1t8wjynl1NhnPiBLFxH/ft0GCI8kfJ5
+                      - img "Carfax" [ref=e481]
+              - listitem [ref=e482]:
+                - generic [ref=e484]:
+                  - generic [ref=e486]:
+                    - generic [ref=e487]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e488]:
+                    - link "Land Rover Range Rover Velar 2022":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13337849.html
+                      - img "Land Rover Range Rover Velar 2022" [ref=e489] [cursor=pointer]
+                    - generic [ref=e490]:
+                      - text: "Stock: BP7589"
+                      - text: "VIN: SALYJ2EX4NA345267"
+                  - generic [ref=e491]:
+                    - generic [ref=e495] [cursor=pointer]:
+                      - generic [ref=e496]: 
+                      - generic [ref=e497]: Finance it!
+                    - generic [ref=e499]:
+                      - link "2022 Range Rover Velar S in Oakville near Mississauga" [ref=e500] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13337849.html
+                        - generic [ref=e501]:
+                          - generic [ref=e502]: 2022 Range Rover Velar
+                          - generic [ref=e503]: S
+                          - generic [ref=e504]: in Oakville near Mississauga
+                      - generic [ref=e505]:
+                        - text: 40,790 $
+                        - generic [ref=e506]: "*Taxes & licenses not included."
+                        - generic [ref=e508] [cursor=pointer]: 
+                    - generic [ref=e510]:
+                      - generic [ref=e511]: "74,275 KM. 8-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e512]: 
+                    - link "Carfax" [ref=e516] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=WqbTg69YlKyettV9t9GuJ9xVCmRUwUk2
+                      - img "Carfax" [ref=e517]
+              - listitem [ref=e518]:
+                - generic [ref=e520]:
+                  - generic [ref=e522]:
+                    - generic [ref=e523]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e524]:
+                    - link "2023 Land Rover Range Rover Evoque in Oakville near Mississauga":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13333599.html
+                    - generic [ref=e525]:
+                      - text: "Stock: BP7551"
+                      - text: "VIN: SALZL2FX7PH205415"
+                  - generic [ref=e526]:
+                    - generic [ref=e530] [cursor=pointer]:
+                      - generic [ref=e531]: 
+                      - generic [ref=e532]: Finance it!
+                    - generic [ref=e534]:
+                      - link "2023 Range Rover Evoque R-DYNAMIC SE in Oakville near Mississauga" [ref=e535] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13333599.html
+                        - generic [ref=e536]:
+                          - generic [ref=e537]: 2023 Range Rover Evoque
+                          - generic [ref=e538]: R-DYNAMIC SE
+                          - generic [ref=e539]: in Oakville near Mississauga
+                      - generic [ref=e540]:
+                        - text: 43,790 $
+                        - generic [ref=e541]: "*Taxes & licenses not included."
+                        - generic [ref=e543] [cursor=pointer]: 
+                    - generic [ref=e545]:
+                      - generic [ref=e546]: "22,630 KM. 9-Speed Auto., Ext: Grey, Int: Black"
+                      - generic [ref=e547]: 
+              - listitem [ref=e550]:
+                - generic [ref=e552]:
+                  - generic [ref=e554]:
+                    - generic [ref=e555]:
+                      - generic [ref=e556]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e557]:
+                    - link "2023 Land Rover Range Rover Evoque in Oakville near Mississauga":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13373504.html
+                    - generic [ref=e558]:
+                      - text: "Stock: BP7563A"
+                      - text: "VIN: SALZP2FX8PH210238"
+                  - generic [ref=e559]:
+                    - generic [ref=e563] [cursor=pointer]:
+                      - generic [ref=e564]: 
+                      - generic [ref=e565]: Finance it!
+                    - generic [ref=e567]:
+                      - link "2023 Range Rover Evoque SE in Oakville near Mississauga" [ref=e568] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13373504.html
+                        - generic [ref=e569]:
+                          - generic [ref=e570]: 2023 Range Rover Evoque
+                          - generic [ref=e571]: SE
+                          - generic [ref=e572]: in Oakville near Mississauga
+                      - generic [ref=e573]:
+                        - text: 43,790 $
+                        - generic [ref=e574]: "*Taxes & licenses not included."
+                        - generic [ref=e576] [cursor=pointer]: 
+                    - generic [ref=e578]:
+                      - generic [ref=e579]: "33,000 KM. 9-Speed Auto., Ext: White, Int: Black"
+                      - generic [ref=e580]: 
+                    - link "Carfax" [ref=e584] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=zqc+FsmGCXqR5pxu40mQH6Ta5YCUINAM
+                      - img "Carfax" [ref=e585]
+              - listitem [ref=e586]:
+                - generic [ref=e588]:
+                  - generic [ref=e590]:
+                    - generic [ref=e591]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e592]:
+                    - link "2022 Land Rover Range Rover Velar in Oakville near Mississauga":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13281611.html
+                    - generic [ref=e593]:
+                      - text: "Stock: BP7579"
+                      - text: "VIN: SALYJ2EU1NA335902"
+                  - generic [ref=e594]:
+                    - generic [ref=e598] [cursor=pointer]:
+                      - generic [ref=e599]: 
+                      - generic [ref=e600]: Finance it!
+                    - generic [ref=e602]:
+                      - link "2022 Range Rover Velar S in Oakville near Mississauga" [ref=e603] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13281611.html
+                        - generic [ref=e604]:
+                          - generic [ref=e605]: 2022 Range Rover Velar
+                          - generic [ref=e606]: S
+                          - generic [ref=e607]: in Oakville near Mississauga
+                      - generic [ref=e608]:
+                        - text: 43,790 $
+                        - generic [ref=e609]: "*Taxes & licenses not included."
+                        - generic [ref=e611] [cursor=pointer]: 
+                    - generic [ref=e613]:
+                      - generic [ref=e614]: "59,450 KM. 8-Speed Auto., Ext: White, Int: Black"
+                      - generic [ref=e615]: 
+                    - link "Carfax" [ref=e619] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=AXz22POG4lfybl5QfCcgjDe2u/jS9fv9
+                      - img "Carfax" [ref=e620]
+              - listitem [ref=e621]:
+                - generic [ref=e623]:
+                  - generic [ref=e625]:
+                    - generic [ref=e626]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e627]:
+                    - link "2023 Land Rover Range Rover Velar in Oakville near Mississauga":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13281603.html
+                    - generic [ref=e628]:
+                      - text: "Stock: BP7576"
+                      - text: "VIN: SALYJ2EX5PA349623"
+                  - generic [ref=e629]:
+                    - generic [ref=e633] [cursor=pointer]:
+                      - generic [ref=e634]: 
+                      - generic [ref=e635]: Finance it!
+                    - generic [ref=e637]:
+                      - link "2023 Range Rover Velar S in Oakville near Mississauga" [ref=e638] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13281603.html
+                        - generic [ref=e639]:
+                          - generic [ref=e640]: 2023 Range Rover Velar
+                          - generic [ref=e641]: S
+                          - generic [ref=e642]: in Oakville near Mississauga
+                      - generic [ref=e643]:
+                        - text: 47,790 $
+                        - generic [ref=e644]: "*Taxes & licenses not included."
+                        - generic [ref=e646] [cursor=pointer]: 
+                    - generic [ref=e648]:
+                      - generic [ref=e649]: "62,350 KM. 8-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e650]: 
+                    - link "Carfax" [ref=e654] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=oKfsaxqu9lZ1eaj0wv+O3SRfXtNPhhXO
+                      - img "Carfax" [ref=e655]
+              - listitem [ref=e656]:
+                - generic [ref=e658]:
+                  - generic [ref=e660]:
+                    - generic [ref=e661]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e662]:
+                    - link "2019 Land Rover Range Rover in Oakville near Mississauga":
+                      - /url: /used/2019-Land_Rover-Range_Rover-id13281606.html
+                    - generic [ref=e663]:
+                      - text: "Stock: R25263A"
+                      - text: "VIN: SALGS2RE5KA543241"
+                  - generic [ref=e664]:
+                    - generic [ref=e668] [cursor=pointer]:
+                      - generic [ref=e669]: 
+                      - generic [ref=e670]: Finance it!
+                    - generic [ref=e672]:
+                      - link "2019 Range Rover BASE in Oakville near Mississauga" [ref=e673] [cursor=pointer]:
+                        - /url: /used/2019-Land_Rover-Range_Rover-id13281606.html
+                        - generic [ref=e674]:
+                          - generic [ref=e675]: 2019 Range Rover
+                          - generic [ref=e676]: BASE
+                          - generic [ref=e677]: in Oakville near Mississauga
+                      - generic [ref=e678]:
+                        - text: 60,790 $
+                        - generic [ref=e679]: "*Taxes & licenses not included."
+                        - generic [ref=e681] [cursor=pointer]: 
+                    - generic [ref=e683]:
+                      - generic [ref=e684]: "39,050 KM. 8-Speed Auto., Ext: White, Int: Black"
+                      - generic [ref=e685]: 
+                    - link "Carfax" [ref=e689] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=5+lnAfFg0iUntP3lSyDaOlW84ktZxtXQ
+                      - img "Carfax" [ref=e690]
+              - listitem [ref=e691]:
+                - generic [ref=e693]:
+                  - generic [ref=e695]:
+                    - generic [ref=e696]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e697]:
+                    - link "2025 Land Rover Range Rover Evoque in Oakville near Mississauga":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12676843.html
+                    - generic [ref=e698]:
+                      - text: "Stock: R25444A"
+                      - text: "VIN: SALZL2FX7SH273917"
+                  - generic [ref=e699]:
+                    - generic [ref=e703] [cursor=pointer]:
+                      - generic [ref=e704]: 
+                      - generic [ref=e705]: Finance it!
+                    - generic [ref=e707]:
+                      - link "2025 Range Rover Evoque DYNAMIC SE in Oakville near Mississauga" [ref=e708] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Evoque-id12676843.html
+                        - generic [ref=e709]:
+                          - generic [ref=e710]: 2025 Range Rover Evoque
+                          - generic [ref=e711]: DYNAMIC SE
+                          - generic [ref=e712]: in Oakville near Mississauga
+                      - generic [ref=e713]:
+                        - text: 64,790 $
+                        - generic [ref=e714]: "*Taxes & licenses not included."
+                        - generic [ref=e716] [cursor=pointer]: 
+                    - generic [ref=e718]:
+                      - generic [ref=e719]: "1,250 KM. 9-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e720]: 
+              - listitem [ref=e723]:
+                - generic [ref=e725]:
+                  - generic [ref=e727]:
+                    - generic [ref=e728]:
+                      - generic [ref=e729]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e730]:
+                    - link "2024 Land Rover Defender in Oakville near Mississauga":
+                      - /url: /used/2024-Land_Rover-Defender-id13389355.html
+                    - generic [ref=e731]:
+                      - text: "Stock: R26065A"
+                      - text: "VIN: SALE27EU3R2260830"
+                  - generic [ref=e732]:
+                    - generic [ref=e736] [cursor=pointer]:
+                      - generic [ref=e737]: 
+                      - generic [ref=e738]: Finance it!
+                    - generic [ref=e740]:
+                      - link "2024 Defender X-DYNAMIC SE in Oakville near Mississauga" [ref=e741] [cursor=pointer]:
+                        - /url: /used/2024-Land_Rover-Defender-id13389355.html
+                        - generic [ref=e742]:
+                          - generic [ref=e743]: 2024 Defender
+                          - generic [ref=e744]: X-DYNAMIC SE
+                          - generic [ref=e745]: in Oakville near Mississauga
+                      - generic [ref=e746]:
+                        - text: 87,990 $
+                        - generic [ref=e747]: "*Taxes & licenses not included."
+                        - generic [ref=e749] [cursor=pointer]: 
+                    - generic [ref=e751]:
+                      - generic [ref=e752]: "26,375 KM. 8-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e753]: 
+                    - link "Carfax" [ref=e757] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=NkK9hyf0ZWmLCvEC26R/xqR99jBo06CM
+                      - img "Carfax" [ref=e758]
+              - listitem [ref=e759]:
+                - generic [ref=e761]:
+                  - generic [ref=e763]:
+                    - generic [ref=e764]:
+                      - generic [ref=e765]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e766]:
+                    - link "2024 Land Rover Range Rover Sport in Oakville near Mississauga":
+                      - /url: /used/2024-Land_Rover-Range_Rover_Sport-id13354674.html
+                    - generic [ref=e767]:
+                      - text: "Stock: BP7588"
+                      - text: "VIN: SAL1Z9F91RA412206"
+                  - generic [ref=e768]:
+                    - generic [ref=e772] [cursor=pointer]:
+                      - generic [ref=e773]: 
+                      - generic [ref=e774]: Finance it!
+                    - generic [ref=e776]:
+                      - link "2024 Range Rover Sport SV EDITION ONE OBSIDIAN BLACK in Oakville near Mississauga" [ref=e777] [cursor=pointer]:
+                        - /url: /used/2024-Land_Rover-Range_Rover_Sport-id13354674.html
+                        - generic [ref=e778]:
+                          - generic [ref=e779]: 2024 Range Rover Sport
+                          - generic [ref=e780]: SV EDITION ONE OBSIDIAN BLACK
+                          - generic [ref=e781]: in Oakville near Mississauga
+                      - generic [ref=e782]:
+                        - text: 176,790 $
+                        - generic [ref=e783]: "*Taxes & licenses not included."
+                        - generic [ref=e785] [cursor=pointer]: 
+                    - generic [ref=e787]:
+                      - generic [ref=e788]: "25,230 KM. 8-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e789]: 
+                    - link "Carfax" [ref=e793] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=vQ6A8CH3aA4kIl2lcrLTt2WyY50C2g4A
+                      - img "Carfax" [ref=e794]
+              - listitem [ref=e795]:
+                - generic [ref=e797]:
+                  - generic [ref=e799]:
+                    - generic [ref=e800]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e801]:
+                    - link "2018 Jaguar E-PACE in Oakville near Mississauga":
+                      - /url: /used/2018-Jaguar-E_PACE-id13281614.html
+                    - generic [ref=e802]:
+                      - text: "Stock: BP7487A"
+                      - text: "VIN: SADFJ2FX7J1Z02166"
+                  - generic [ref=e803]:
+                    - generic [ref=e807] [cursor=pointer]:
+                      - generic [ref=e808]: 
+                      - generic [ref=e809]: Finance it!
+                    - generic [ref=e811]:
+                      - link "Jaguar 2018 E-PACE S in Oakville near Mississauga" [ref=e812] [cursor=pointer]:
+                        - /url: /used/2018-Jaguar-E_PACE-id13281614.html
+                        - generic [ref=e813]:
+                          - generic [ref=e814]: Jaguar
+                          - generic [ref=e815]: 2018 E-PACE
+                          - generic [ref=e816]: S
+                          - generic [ref=e817]: in Oakville near Mississauga
+                      - generic [ref=e818]:
+                        - text: 28,790 $
+                        - generic [ref=e819]: "*Taxes & licenses not included."
+                        - generic [ref=e821] [cursor=pointer]: 
+                    - generic [ref=e823]:
+                      - generic [ref=e824]: "64,130 KM. 9-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e825]: 
+                    - link "Carfax" [ref=e829] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=PK7rrjPDZ10Vb9bOyPhLezmXRv0Rgp7M
+                      - img "Carfax" [ref=e830]
+              - listitem [ref=e831]:
+                - generic [ref=e833]:
+                  - generic [ref=e835]:
+                    - generic [ref=e836]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e837]:
+                    - link "2023 Jaguar F-PACE in Oakville near Mississauga":
+                      - /url: /used/2023-Jaguar-F_PACE-id12849772.html
+                    - generic [ref=e838]:
+                      - text: "Stock: BP7541"
+                      - text: "VIN: SADCJ2EXXPA704906"
+                  - generic [ref=e839]:
+                    - generic [ref=e843] [cursor=pointer]:
+                      - generic [ref=e844]: 
+                      - generic [ref=e845]: Finance it!
+                    - generic [ref=e847]:
+                      - link "Jaguar 2023 F-PACE S in Oakville near Mississauga" [ref=e848] [cursor=pointer]:
+                        - /url: /used/2023-Jaguar-F_PACE-id12849772.html
+                        - generic [ref=e849]:
+                          - generic [ref=e850]: Jaguar
+                          - generic [ref=e851]: 2023 F-PACE
+                          - generic [ref=e852]: S
+                          - generic [ref=e853]: in Oakville near Mississauga
+                      - generic [ref=e854]:
+                        - text: 40,790 $
+                        - generic [ref=e855]: "*Taxes & licenses not included."
+                        - generic [ref=e857] [cursor=pointer]: 
+                    - generic [ref=e859]:
+                      - generic [ref=e860]: "52,700 KM. 8-Speed Auto., Ext: Red, Int: Black"
+                      - generic [ref=e861]: 
+                    - link "Carfax" [ref=e865] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=xtqjp+eBYXWzf24cK7X8kwXlw7DQfrgT
+                      - img "Carfax" [ref=e866]
+              - listitem [ref=e867]:
+                - generic [ref=e869]:
+                  - generic [ref=e871]:
+                    - generic [ref=e872]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e873]:
+                    - link "2022 Jaguar F-PACE in Oakville near Mississauga":
+                      - /url: /used/2022-Jaguar-F_PACE-id13281608.html
+                    - generic [ref=e874]:
+                      - text: "Stock: BP7574"
+                      - text: "VIN: SADCT2EX2NA701926"
+                  - generic [ref=e875]:
+                    - generic [ref=e879] [cursor=pointer]:
+                      - generic [ref=e880]: 
+                      - generic [ref=e881]: Finance it!
+                    - generic [ref=e883]:
+                      - link "Jaguar 2022 F-PACE P250 R-DYNAMIC S in Oakville near Mississauga" [ref=e884] [cursor=pointer]:
+                        - /url: /used/2022-Jaguar-F_PACE-id13281608.html
+                        - generic [ref=e885]:
+                          - generic [ref=e886]: Jaguar
+                          - generic [ref=e887]: 2022 F-PACE
+                          - generic [ref=e888]: P250 R-DYNAMIC S
+                          - generic [ref=e889]: in Oakville near Mississauga
+                      - generic [ref=e890]:
+                        - text: 40,790 $
+                        - generic [ref=e891]: "*Taxes & licenses not included."
+                        - generic [ref=e893] [cursor=pointer]: 
+                    - generic [ref=e895]:
+                      - generic [ref=e896]: "53,120 KM. 8-Speed Auto., Ext: Blue, Int: Black"
+                      - generic [ref=e897]: 
+                    - link "Carfax" [ref=e901] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=uoYD6pEh13QfAbepVUWuFW4cI35H7Emo
+                      - img "Carfax" [ref=e902]
+              - listitem [ref=e903]:
+                - generic [ref=e905]:
+                  - generic [ref=e907]:
+                    - generic [ref=e908]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e909]:
+                    - link "2022 Jaguar F-PACE in Oakville near Mississauga":
+                      - /url: /used/2022-Jaguar-F_PACE-id12849771.html
+                    - generic [ref=e910]:
+                      - text: "Stock: BP7542"
+                      - text: "VIN: SADCT2EX1NA698811"
+                  - generic [ref=e911]:
+                    - generic [ref=e915] [cursor=pointer]:
+                      - generic [ref=e916]: 
+                      - generic [ref=e917]: Finance it!
+                    - generic [ref=e919]:
+                      - link "Jaguar 2022 F-PACE P250 R-DYNAMIC S in Oakville near Mississauga" [ref=e920] [cursor=pointer]:
+                        - /url: /used/2022-Jaguar-F_PACE-id12849771.html
+                        - generic [ref=e921]:
+                          - generic [ref=e922]: Jaguar
+                          - generic [ref=e923]: 2022 F-PACE
+                          - generic [ref=e924]: P250 R-DYNAMIC S
+                          - generic [ref=e925]: in Oakville near Mississauga
+                      - generic [ref=e926]:
+                        - text: 40,790 $
+                        - generic [ref=e927]: "*Taxes & licenses not included."
+                        - generic [ref=e929] [cursor=pointer]: 
+                    - generic [ref=e931]:
+                      - generic [ref=e932]: "60,150 KM. 8-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e933]: 
+                    - link "Carfax" [ref=e937] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=DZ0BX+Dd4cZc5DetOq5+dakjqOR+4weM
+                      - img "Carfax" [ref=e938]
+              - listitem [ref=e939]:
+                - generic [ref=e941]:
+                  - generic [ref=e943]:
+                    - generic [ref=e944]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e945]:
+                    - link "2023 Jaguar F-PACE in Oakville near Mississauga":
+                      - /url: /used/2023-Jaguar-F_PACE-id12889164.html
+                    - generic [ref=e946]:
+                      - text: "Stock: BP7544"
+                      - text: "VIN: SADCT2EX9PA708701"
+                  - generic [ref=e947]:
+                    - generic [ref=e951] [cursor=pointer]:
+                      - generic [ref=e952]: 
+                      - generic [ref=e953]: Finance it!
+                    - generic [ref=e955]:
+                      - link "Jaguar 2023 F-PACE R-DYNAMIC S in Oakville near Mississauga" [ref=e956] [cursor=pointer]:
+                        - /url: /used/2023-Jaguar-F_PACE-id12889164.html
+                        - generic [ref=e957]:
+                          - generic [ref=e958]: Jaguar
+                          - generic [ref=e959]: 2023 F-PACE
+                          - generic [ref=e960]: R-DYNAMIC S
+                          - generic [ref=e961]: in Oakville near Mississauga
+                      - generic [ref=e962]:
+                        - text: 44,790 $
+                        - generic [ref=e963]: "*Taxes & licenses not included."
+                        - generic [ref=e965] [cursor=pointer]: 
+                    - generic [ref=e967]:
+                      - generic [ref=e968]: "69,975 KM. 8-Speed Auto., Ext: Blue, Int: Brown"
+                      - generic [ref=e969]: 
+                    - link "Carfax" [ref=e973] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=ObwrBPxsmveHE8mMNBRGFlKl5QiMyR6V
+                      - img "Carfax" [ref=e974]
+              - listitem [ref=e975]:
+                - generic [ref=e977]:
+                  - generic [ref=e979]:
+                    - generic [ref=e980]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e981]:
+                    - link "2023 Jaguar F-TYPE in Oakville near Mississauga":
+                      - /url: /used/2023-Jaguar-F_TYPE-id13242743.html
+                    - generic [ref=e982]:
+                      - text: "Stock: BP7580"
+                      - text: "VIN: SAJD51FE4PCK82018"
+                  - generic [ref=e983]:
+                    - generic [ref=e987] [cursor=pointer]:
+                      - generic [ref=e988]: 
+                      - generic [ref=e989]: Finance it!
+                    - generic [ref=e991]:
+                      - link "Jaguar 2023 F-TYPE R in Oakville near Mississauga" [ref=e992] [cursor=pointer]:
+                        - /url: /used/2023-Jaguar-F_TYPE-id13242743.html
+                        - generic [ref=e993]:
+                          - generic [ref=e994]: Jaguar
+                          - generic [ref=e995]: 2023 F-TYPE
+                          - generic [ref=e996]: R
+                          - generic [ref=e997]: in Oakville near Mississauga
+                      - generic [ref=e998]:
+                        - text: 86,790 $
+                        - generic [ref=e999]: "*Taxes & licenses not included."
+                        - generic [ref=e1001] [cursor=pointer]: 
+                    - generic [ref=e1003]:
+                      - generic [ref=e1004]: "51,850 KM. 8-Speed Auto., Ext: Green, Int: Tan"
+                      - generic [ref=e1005]: 
+                    - link "Carfax" [ref=e1009] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=0p5vmg2orvAETYLqgxCiuYqiJsKE+7PH
+                      - img "Carfax" [ref=e1010]
+              - listitem [ref=e1011]:
+                - generic [ref=e1013]:
+                  - generic [ref=e1015]:
+                    - generic [ref=e1016]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1017]:
+                    - link "2018 Audi S5 Sportback in Oakville near Mississauga":
+                      - /url: /used/2018-Audi-S5-id13322041.html
+                    - generic [ref=e1018]:
+                      - text: "Stock: R25402A"
+                      - text: "VIN: WAUC4CF52JA100387"
+                  - generic [ref=e1019]:
+                    - generic [ref=e1023] [cursor=pointer]:
+                      - generic [ref=e1024]: 
+                      - generic [ref=e1025]: Finance it!
+                    - generic [ref=e1027]:
+                      - link "Audi 2018 S5 TECHNIK in Oakville near Mississauga" [ref=e1028] [cursor=pointer]:
+                        - /url: /used/2018-Audi-S5-id13322041.html
+                        - generic [ref=e1029]:
+                          - generic [ref=e1030]: Audi
+                          - generic [ref=e1031]: 2018 S5
+                          - generic [ref=e1032]: TECHNIK
+                          - generic [ref=e1033]: in Oakville near Mississauga
+                      - generic [ref=e1034]:
+                        - text: 27,790 $
+                        - generic [ref=e1035]: "*Taxes & licenses not included."
+                        - generic [ref=e1037] [cursor=pointer]: 
+                    - generic [ref=e1039]:
+                      - generic [ref=e1040]: "106,375 KM. Tiptronic, Ext: Grey, Int: Black"
+                      - generic [ref=e1041]: 
+                    - link "Carfax" [ref=e1045] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=Xe1Md3JCEJ9lJUIx8jmFZOzJc/K6NBPs
+                      - img "Carfax" [ref=e1046]
+              - listitem [ref=e1047]:
+                - generic [ref=e1049]:
+                  - generic [ref=e1051]:
+                    - generic [ref=e1052]:
+                      - generic [ref=e1053]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1054]:
+                    - link "2023 Audi Q5 Sportback in Oakville near Mississauga":
+                      - /url: /used/2023-Audi-Q5-id13362776.html
+                    - generic [ref=e1055]:
+                      - text: "Stock: R26089A"
+                      - text: "VIN: WA14AAFY1P2091743"
+                  - generic [ref=e1056]:
+                    - generic [ref=e1060] [cursor=pointer]:
+                      - generic [ref=e1061]: 
+                      - generic [ref=e1062]: Finance it!
+                    - generic [ref=e1064]:
+                      - link "Audi 2023 Q5 PROGRESSIV in Oakville near Mississauga" [ref=e1065] [cursor=pointer]:
+                        - /url: /used/2023-Audi-Q5-id13362776.html
+                        - generic [ref=e1066]:
+                          - generic [ref=e1067]: Audi
+                          - generic [ref=e1068]: 2023 Q5
+                          - generic [ref=e1069]: PROGRESSIV
+                          - generic [ref=e1070]: in Oakville near Mississauga
+                      - generic [ref=e1071]:
+                        - text: 45,790 $
+                        - generic [ref=e1072]: "*Taxes & licenses not included."
+                        - generic [ref=e1074] [cursor=pointer]: 
+                    - generic [ref=e1076]:
+                      - generic [ref=e1077]: "10,245 KM. 7-Speed Auto., Ext: Black, Int: Black"
+                      - generic [ref=e1078]: 
+                    - link "Carfax" [ref=e1082] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=kCs+ntfjPrXDzX19u7F3xMehMgvjE0bl
+                      - img "Carfax" [ref=e1083]
+              - listitem [ref=e1084]:
+                - generic [ref=e1086]:
+                  - generic [ref=e1088]:
+                    - generic [ref=e1089]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1090]:
+                    - link "2025 Infiniti QX55 in Oakville near Mississauga":
+                      - /url: /used/2025-Infiniti-QX55-id13062782.html
+                    - generic [ref=e1091]:
+                      - text: "Stock: R25458A"
+                      - text: "VIN: 3PCAJ5KR1SF112238"
+                  - generic [ref=e1092]:
+                    - generic [ref=e1096] [cursor=pointer]:
+                      - generic [ref=e1097]: 
+                      - generic [ref=e1098]: Finance it!
+                    - generic [ref=e1100]:
+                      - link "Infiniti 2025 QX55 ESSENTIAL in Oakville near Mississauga" [ref=e1101] [cursor=pointer]:
+                        - /url: /used/2025-Infiniti-QX55-id13062782.html
+                        - generic [ref=e1102]:
+                          - generic [ref=e1103]: Infiniti
+                          - generic [ref=e1104]: 2025 QX55
+                          - generic [ref=e1105]: ESSENTIAL
+                          - generic [ref=e1106]: in Oakville near Mississauga
+                      - generic [ref=e1107]:
+                        - text: 45,790 $
+                        - generic [ref=e1108]: "*Taxes & licenses not included."
+                        - generic [ref=e1110] [cursor=pointer]: 
+                    - generic [ref=e1112]:
+                      - generic [ref=e1113]: "5,000 KM. CVT, Ext: White, Int: Black"
+                      - generic [ref=e1114]: 
+                    - link "Carfax" [ref=e1118] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=1kDrYPsizy1sp1B5xcuDXGUfcTfEyDh5
+                      - img "Carfax" [ref=e1119]
+              - listitem [ref=e1120]:
+                - generic [ref=e1122]:
+                  - generic [ref=e1124]:
+                    - generic [ref=e1125]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1126]:
+                    - link "2023 Mercedes-Benz GLE in Oakville near Mississauga":
+                      - /url: /used/2023-Mercedes_Benz-GLE_Class-id12791976.html
+                    - generic [ref=e1127]:
+                      - text: "Stock: R26026A"
+                      - text: "VIN: 4JGFB4KB9PA921465"
+                  - generic [ref=e1128]:
+                    - generic [ref=e1132] [cursor=pointer]:
+                      - generic [ref=e1133]: 
+                      - generic [ref=e1134]: Finance it!
+                    - generic [ref=e1136]:
+                      - link "Mercedes-Benz 2023 GLE-Class GLE 350 in Oakville near Mississauga" [ref=e1137] [cursor=pointer]:
+                        - /url: /used/2023-Mercedes_Benz-GLE_Class-id12791976.html
+                        - generic [ref=e1138]:
+                          - generic [ref=e1139]: Mercedes-Benz
+                          - generic [ref=e1140]: 2023 GLE-Class
+                          - generic [ref=e1141]: GLE 350
+                          - generic [ref=e1142]: in Oakville near Mississauga
+                      - generic [ref=e1143]:
+                        - text: 60,790 $
+                        - generic [ref=e1144]: "*Taxes & licenses not included."
+                        - generic [ref=e1146] [cursor=pointer]: 
+                    - generic [ref=e1148]:
+                      - generic [ref=e1149]: "53,750 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e1150]: 
+                    - link "Carfax" [ref=e1154] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=mQtXlE2zXLEkqSbI81JVb9d+KNtzEYZr
+                      - img "Carfax" [ref=e1155]
+              - listitem [ref=e1156]:
+                - generic [ref=e1158]:
+                  - generic [ref=e1160]:
+                    - generic [ref=e1161]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1162]:
+                    - link "2022 Chevrolet Corvette in Oakville near Mississauga":
+                      - /url: /used/2022-Chevrolet-Corvette-id13062781.html
+                    - generic [ref=e1163]:
+                      - text: "Stock: R25519B"
+                      - text: "VIN: 1G1YC2D48N5107495"
+                  - generic [ref=e1164]:
+                    - generic [ref=e1168] [cursor=pointer]:
+                      - generic [ref=e1169]: 
+                      - generic [ref=e1170]: Finance it!
+                    - generic [ref=e1172]:
+                      - link "Chevrolet 2022 Corvette 3LT in Oakville near Mississauga" [ref=e1173] [cursor=pointer]:
+                        - /url: /used/2022-Chevrolet-Corvette-id13062781.html
+                        - generic [ref=e1174]:
+                          - generic [ref=e1175]: Chevrolet
+                          - generic [ref=e1176]: 2022 Corvette
+                          - generic [ref=e1177]: 3LT
+                          - generic [ref=e1178]: in Oakville near Mississauga
+                      - generic [ref=e1179]:
+                        - text: 100,790 $
+                        - generic [ref=e1180]: "*Taxes & licenses not included."
+                        - generic [ref=e1182] [cursor=pointer]: 
+                    - generic [ref=e1184]:
+                      - generic [ref=e1185]: "5,588 KM. 8-Speed Auto., Ext: White, Int: Black"
+                      - generic [ref=e1186]: 
+                    - link "Carfax" [ref=e1190] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=u4QXi9iUp3bA87HvZ5+748ByiqLIWw1i
+                      - img "Carfax" [ref=e1191]
+            - list [ref=e1196]:
+              - listitem "down" [ref=e1197] [cursor=pointer]:
+                - button "" [ref=e1198]:
+                  - generic [ref=e1199]: 
+              - listitem "Page 1" [ref=e1200] [cursor=pointer]:
+                - button "1" [ref=e1201]
+              - listitem "up" [ref=e1202] [cursor=pointer]:
+                - button "" [ref=e1203]:
+                  - generic [ref=e1204]: 
+      - generic [ref=e1206]:
+        - generic [ref=e1207]:
+          - paragraph [ref=e1208]: Our stock by brand
+          - list [ref=e1209]:
+            - listitem [ref=e1210]:
+              - link "Used Land Rover in Oakville near Mississauga" [ref=e1211] [cursor=pointer]:
+                - /url: /used/Land_Rover.html
+              - generic [ref=e1212]: "11"
+            - listitem [ref=e1213]:
+              - link "Used Jaguar in Oakville near Mississauga" [ref=e1214] [cursor=pointer]:
+                - /url: /used/Jaguar.html
+              - generic [ref=e1215]: "6"
+            - listitem [ref=e1216]:
+              - link "Used Audi in Oakville near Mississauga" [ref=e1217] [cursor=pointer]:
+                - /url: /used/Audi.html
+              - generic [ref=e1218]: "2"
+            - listitem [ref=e1219]:
+              - link "Used Chevrolet in Oakville near Mississauga" [ref=e1220] [cursor=pointer]:
+                - /url: /used/Chevrolet.html
+              - generic [ref=e1221]: "1"
+            - listitem [ref=e1222]:
+              - link "Used Infiniti in Oakville near Mississauga" [ref=e1223] [cursor=pointer]:
+                - /url: /used/Infiniti.html
+              - generic [ref=e1224]: "1"
+            - listitem [ref=e1225]:
+              - link "Used Mercedes-Benz in Oakville near Mississauga" [ref=e1226] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz.html
+              - generic [ref=e1227]: "1"
+        - generic [ref=e1228]:
+          - paragraph [ref=e1229]: Our stock by model
+          - list [ref=e1230]:
+            - listitem [ref=e1231]:
+              - link "Used Jaguar F-PACE" [ref=e1232] [cursor=pointer]:
+                - /url: /used/Jaguar-F_PACE.html
+              - generic [ref=e1233]: "4"
+            - listitem [ref=e1234]:
+              - link "Used Range Rover Evoque" [ref=e1235] [cursor=pointer]:
+                - /url: /used/Range_Rover_Evoque.html
+              - generic [ref=e1236]: "4"
+            - listitem [ref=e1237]:
+              - link "Used Range Rover Velar" [ref=e1238] [cursor=pointer]:
+                - /url: /used/Range_Rover_Velar.html
+              - generic [ref=e1239]: "3"
+            - listitem [ref=e1240]:
+              - link "Used Audi Q5" [ref=e1241] [cursor=pointer]:
+                - /url: /used/Audi-Q5.html
+              - generic [ref=e1242]: "1"
+            - listitem [ref=e1243]:
+              - link "Used Audi S5" [ref=e1244] [cursor=pointer]:
+                - /url: /used/Audi-S5.html
+              - generic [ref=e1245]: "1"
+            - listitem [ref=e1246]:
+              - link "Used Chevrolet Corvette" [ref=e1247] [cursor=pointer]:
+                - /url: /used/Chevrolet-Corvette.html
+              - generic [ref=e1248]: "1"
+            - listitem [ref=e1249]:
+              - link "Used Infiniti QX55" [ref=e1250] [cursor=pointer]:
+                - /url: /used/Infiniti-QX55.html
+              - generic [ref=e1251]: "1"
+            - listitem [ref=e1252]:
+              - link "Used Jaguar E-PACE" [ref=e1253] [cursor=pointer]:
+                - /url: /used/Jaguar-E_PACE.html
+              - generic [ref=e1254]: "1"
+            - listitem [ref=e1255]:
+              - link "Used Jaguar F-TYPE" [ref=e1256] [cursor=pointer]:
+                - /url: /used/Jaguar-F_TYPE.html
+              - generic [ref=e1257]: "1"
+            - listitem [ref=e1258]:
+              - link "Used Defender" [ref=e1259] [cursor=pointer]:
+                - /url: /used/Defender.html
+              - generic [ref=e1260]: "1"
+            - listitem [ref=e1261]:
+              - button "Show me more... " [ref=e1262] [cursor=pointer]:
+                - generic [ref=e1263]: Show me more...
+                - generic [ref=e1264]: 
+        - generic [ref=e1265]:
+          - paragraph [ref=e1266]: Our stock by year
+          - list [ref=e1267]:
+            - listitem [ref=e1268]:
+              - link "Used Jaguar F-PACE 2023" [ref=e1269] [cursor=pointer]:
+                - /url: /used/2023-Jaguar-F_PACE.html
+              - generic [ref=e1270]: "2"
+            - listitem [ref=e1271]:
+              - link "Used Jaguar F-PACE 2022" [ref=e1272] [cursor=pointer]:
+                - /url: /used/2022-Jaguar-F_PACE.html
+              - generic [ref=e1273]: "2"
+            - listitem [ref=e1274]:
+              - link "Used Range Rover Evoque 2023" [ref=e1275] [cursor=pointer]:
+                - /url: /used/2023-Range_Rover_Evoque.html
+              - generic [ref=e1276]: "2"
+            - listitem [ref=e1277]:
+              - link "Used Range Rover Velar 2022" [ref=e1278] [cursor=pointer]:
+                - /url: /used/2022-Range_Rover_Velar.html
+              - generic [ref=e1279]: "2"
+            - listitem [ref=e1280]:
+              - link "Used Audi Q5 2023" [ref=e1281] [cursor=pointer]:
+                - /url: /used/2023-Audi-Q5.html
+              - generic [ref=e1282]: "1"
+            - listitem [ref=e1283]:
+              - link "Used Audi S5 2018" [ref=e1284] [cursor=pointer]:
+                - /url: /used/2018-Audi-S5.html
+              - generic [ref=e1285]: "1"
+            - listitem [ref=e1286]:
+              - link "Used Chevrolet Corvette 2022" [ref=e1287] [cursor=pointer]:
+                - /url: /used/2022-Chevrolet-Corvette.html
+              - generic [ref=e1288]: "1"
+            - listitem [ref=e1289]:
+              - link "Used Infiniti QX55 2025" [ref=e1290] [cursor=pointer]:
+                - /url: /used/2025-Infiniti-QX55.html
+              - generic [ref=e1291]: "1"
+            - listitem [ref=e1292]:
+              - link "Used Jaguar E-PACE 2018" [ref=e1293] [cursor=pointer]:
+                - /url: /used/2018-Jaguar-E_PACE.html
+              - generic [ref=e1294]: "1"
+            - listitem [ref=e1295]:
+              - link "Used Jaguar F-TYPE 2023" [ref=e1296] [cursor=pointer]:
+                - /url: /used/2023-Jaguar-F_TYPE.html
+              - generic [ref=e1297]: "1"
+            - listitem [ref=e1298]:
+              - button "Show me more... " [ref=e1299] [cursor=pointer]:
+                - generic [ref=e1300]: Show me more...
+                - generic [ref=e1301]: 
+      - generic [ref=e1305]: Photos for illustration purposes only, and may not reflect exact vehicle (including vehicle colour, trim, options, or other specifications). Some vehicles may be shown with optional equipment or equipment not available in Canada. Specifications, equipment, options and prices are subject to change without notice. Although we endeavour to ensure that the information contained on this website is accurate, the website provider and the dealership are not responsible for any errors or omissions that may occur from time to time. Some data and prices are provided by a third-party and we cannot guarantee their accuracy. Please contact your dealer for verification or if you would like more information on this vehicle.
+  - text: 
+  - contentinfo [ref=e1306]:
+    - generic [ref=e1307]:
+      - iframe [ref=e1308]:
+        
+      - generic [ref=e1309]:
+        - generic [ref=e1310]: Business Hours
+        - list [ref=e1311]:
+          - listitem [ref=e1312] [cursor=pointer]:
+            - 'button "Hours: Sales " [ref=e1313]':
+              - generic [ref=e1314]: 
+              - text: "Hours: Sales "
+          - listitem [ref=e1315] [cursor=pointer]:
+            - 'button "Hours: Service & Parts " [ref=e1316]':
+              - generic [ref=e1317]: 
+              - text: "Hours: Service & Parts "
+    - generic [ref=e1319]:
+      - generic [ref=e1321]: Live the BUDDS' IMPORTED CARS LAND ROVER experience
+      - generic [ref=e1322]:
+        - link "Share" [ref=e1326] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&src=sdkpreparse
+        - iframe [ref=e1328]:
+          - link "Post" [ref=f17e4] [cursor=pointer]:
+            - /url: https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.buddslandrover.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text=BUDDS%27%20IMPORTED%20CARS%20LAND%20ROVER%20%7C%20Used%20Vehicles%20for%20sale%20in%20Oakville%20near%20Mississauga&url=https%3A%2F%2Fwww.buddslandrover.com%2Fused%2Fsearch.html
+            - generic [ref=f17e6]: Post
+      - generic [ref=e1329]:
+        - list [ref=e1331]:
+          - listitem [ref=e1332]:
+            - generic [ref=e1333]: Useful buying tools
+          - listitem [ref=e1334]:
+            - link "After sales service" [ref=e1335] [cursor=pointer]:
+              - /url: /land rover-services.html
+          - listitem [ref=e1336]:
+            - link "BUDDS' IMPORTED CARS LAND ROVER Promotions" [ref=e1337] [cursor=pointer]:
+              - /url: /our-promotions.html
+          - listitem [ref=e1338]:
+            - link "Car Loan Calculator" [ref=e1339] [cursor=pointer]:
+              - /url: /inventory/car-loan-calculator.html
+          - listitem [ref=e1340]:
+            - link "Latest news" [ref=e1341] [cursor=pointer]:
+              - /url: /news.html
+          - listitem [ref=e1342]:
+            - link "Auto Credit and Financing" [ref=e1343] [cursor=pointer]:
+              - /url: /requests/credit.html
+        - generic [ref=e1344]:
+          - list [ref=e1346]:
+            - listitem [ref=e1347]:
+              - generic [ref=e1348]: Additional information
+            - listitem [ref=e1349]:
+              - link "BUDDS' IMPORTED CARS LAND ROVER news" [ref=e1350] [cursor=pointer]:
+                - /url: /news.html
+            - listitem [ref=e1351]:
+              - link "Our team" [ref=e1352] [cursor=pointer]:
+                - /url: /ourteam.html
+            - listitem [ref=e1353]:
+              - link "Communication Preferences" [ref=e1354] [cursor=pointer]:
+                - /url: /communication-preferences.html
+            - listitem [ref=e1355]:
+              - link "Careers" [ref=e1356] [cursor=pointer]:
+                - /url: /requests/auto-jobs.html
+          - list [ref=e1358]:
+            - listitem [ref=e1359]:
+              - generic [ref=e1360]: SUV
+            - listitem [ref=e1361]:
+              - link "2026 Defender" [ref=e1362] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Defender.html
+            - listitem [ref=e1363]:
+              - link "2026 Discovery" [ref=e1364] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery.html
+            - listitem [ref=e1365]:
+              - link "2026 Discovery Sport" [ref=e1366] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery_Sport.html
+            - listitem [ref=e1367]:
+              - link "2025 Land Rover Discovery" [ref=e1368] [cursor=pointer]:
+                - /url: /new/2025-Land_Rover-Land_Rover_Discovery.html
+            - listitem [ref=e1369]:
+              - link "2025 Land Rover Discovery Sport" [ref=e1370] [cursor=pointer]:
+                - /url: /new/2025-Land_Rover-Land_Rover_Discovery_Sport.html
+            - listitem [ref=e1371]:
+              - link "2026 Range Rover" [ref=e1372] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover.html
+            - listitem [ref=e1373]:
+              - link "2026 Range Rover Evoque" [ref=e1374] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1375]:
+              - link "2026 Range Rover Sport" [ref=e1376] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1377]:
+              - link "2026 Range Rover Velar" [ref=e1378] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Velar.html
+          - list [ref=e1380]:
+            - listitem [ref=e1381]:
+              - generic [ref=e1382]: Other useful links
+            - listitem [ref=e1383]:
+              - link "LAND ROVER CANADA" [ref=e1384] [cursor=pointer]:
+                - /url: https://www.landrover.ca/
+        - generic [ref=e1385]:
+          - list [ref=e1387]:
+            - listitem [ref=e1388]:
+              - generic [ref=e1389]: Our top used vehicles
+            - listitem [ref=e1390]:
+              - link "2023 Range Rover Evoque" [ref=e1391] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1392]:
+              - link "2022 Range Rover Velar" [ref=e1393] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1394]:
+              - link "2025 Range Rover Evoque" [ref=e1395] [cursor=pointer]:
+                - /url: /used/2025-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1396]:
+              - link "2024 Range Rover Sport" [ref=e1397] [cursor=pointer]:
+                - /url: /used/2024-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1398]:
+              - link "2023 Discovery Sport" [ref=e1399] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Discovery_Sport.html
+            - listitem [ref=e1400]:
+              - link "2023 Range Rover Velar" [ref=e1401] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1402]:
+              - link "2022 Range Rover Evoque" [ref=e1403] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1404]:
+              - link "2019 Range Rover" [ref=e1405] [cursor=pointer]:
+                - /url: /used/2019-Land_Rover-Range_Rover.html
+          - list [ref=e1407]:
+            - listitem [ref=e1408]:
+              - generic [ref=e1409]: Our top 30 models available
+            - listitem [ref=e1410]:
+              - link "Defender for sale" [ref=e1411] [cursor=pointer]:
+                - /url: /models/Land_Rover-Defender.html
+            - listitem [ref=e1412]:
+              - link "Range Rover Velar for sale" [ref=e1413] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1414]:
+              - link "Range Rover Evoque for sale" [ref=e1415] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1416]:
+              - link "Range Rover Sport for sale" [ref=e1417] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1418]:
+              - link "Discovery Sport for sale" [ref=e1419] [cursor=pointer]:
+                - /url: /models/Land_Rover-Discovery_Sport.html
+            - listitem [ref=e1420]:
+              - link "Range Rover for sale" [ref=e1421] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover.html
+      - generic [ref=e1422]:
+        - generic [ref=e1423]:
+          - heading "BUDDS' IMPORTED CARS LAND ROVER" [level=3] [ref=e1424]
+          - link "227 Wyecroft Road, Oakville, ON, L6K 3S3. Google Map opens in a new tab" [ref=e1426] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=BUDDS%27%2BIMPORTED%2BCARS%2BLAND%2BROVER%2C227+Wyecroft+Road%2COakville%2CON%2CL6K+3S3&destination_place_id=ChIJAQAAiwJdK4gR-TiDRizfRuo&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e1427]:
+              - img [ref=e1428]
+              - text: 227 Wyecroft Road
+              - text: Oakville, ON, L6K 3S3
+          - generic [ref=e1430]:
+            - text: "Toll-free:"
+            - generic [ref=e1431]:
+              - generic [ref=e1432]: 
+              - link "1 833 955-3730" [ref=e1434] [cursor=pointer]:
+                - /url: tel:1 833 955-3730
+        - generic [ref=e1435]:
+          - link "Facebook opens in a new tab" [ref=e1436] [cursor=pointer]:
+            - /url: https://www.facebook.com/BuddsImportedCars
+            - img [ref=e1437]
+          - link "Twitter opens in a new tab" [ref=e1439] [cursor=pointer]:
+            - /url: https://twitter.com/BuddsJLR
+            - img [ref=e1440]
+          - link "Youtube opens in a new tab" [ref=e1442] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCN6aCecP98OyaZ3cpVL6kaw?view_as=subscriber
+            - img [ref=e1443]
+          - link "Instagram opens in a new tab" [ref=e1445] [cursor=pointer]:
+            - /url: https://www.instagram.com/buddsjlr/
+            - img [ref=e1446]
+      - generic [ref=e1450]:
+        - text: © 2000-2026
+        - link "D2C Media opens in a new tab" [ref=e1451] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/
+          - text: D2C Media
+        - text: All rights reserved. D2C Media
+        - link "dealer website opens in a new tab" [ref=e1452] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/products/dealer-websites/
+          - text: dealer website
+        - text: solutions
+        - text: See
+        - link "terms and conditions" [ref=e1453] [cursor=pointer]:
+          - /url: /terms-and-conditions.html
+        - text: and
+        - link "privacy policy" [ref=e1454] [cursor=pointer]:
+          - /url: /privacy-policy.html
+        - text: of BUDDS' IMPORTED CARS LAND ROVER
+        - link "Cars for sale on AutoAubaine.com opens in a new tab":
+          - /url: https://www.autoaubaine.com/en/
+        - generic [ref=e1455]:
+          - text: Member of the
+          - link "AutoAubaine opens in a new tab" [ref=e1456] [cursor=pointer]:
+            - /url: https://www.autoaubaine.com/en/
+            - text: AutoAubaine
+          - text: network
+  - iframe [ref=e1458]:
+    
+  - insertion
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ < > < > $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $

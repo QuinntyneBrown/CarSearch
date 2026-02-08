@@ -1,0 +1,743 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - link "Land Rover Toronto Logo" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - img "Land Rover Toronto Logo" [ref=e10]
+          - link "Land Rover Toronto" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e13]: Land Rover Toronto
+        - navigation [ref=e17]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "New Vehicles" [ref=e22] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e23]:
+              - link "Pre-Owned Vehicles" [ref=e24] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e25]:
+              - link "Service & Parts" [ref=e26] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e27]:
+              - link "About Us" [ref=e28] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e29]:
+          - link [ref=e32] [cursor=pointer]:
+            - /url: https://torontojaguar.kinsta.cloud/
+            - img [ref=e33]
+          - img [ref=e60] [cursor=pointer]
+          - generic "My Garage" [ref=e62]:
+            - link [ref=e63] [cursor=pointer]:
+              - /url: /my-garage/
+              - img [ref=e64]
+          - checkbox [ref=e67]
+    - document [ref=e74]:
+      - main [ref=e76]:
+        - generic [ref=e77]:
+          - heading "Pre-Owned Vehicles" [level=1] [ref=e79]
+          - generic [ref=e82]:
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e90]:
+                  - heading "Search" [level=2] [ref=e91]
+                  - generic [ref=e92]:
+                    - generic [ref=e93]: "48"
+                    - generic [ref=e94]: Results
+                - generic [ref=e95]:
+                  - generic [ref=e100]:
+                    - generic [ref=e101] [cursor=pointer]: Status
+                    - img [ref=e103] [cursor=pointer]
+                  - generic [ref=e109]:
+                    - generic [ref=e110] [cursor=pointer]: Year
+                    - img [ref=e112] [cursor=pointer]
+                  - generic [ref=e118]:
+                    - generic [ref=e119] [cursor=pointer]: Make
+                    - img [ref=e121] [cursor=pointer]
+                  - generic [ref=e126]:
+                    - generic [ref=e127]:
+                      - generic [ref=e128] [cursor=pointer]: Model
+                      - img [ref=e1085] [cursor=pointer]
+                    - generic [ref=e1086]:
+                      - generic [ref=e1087] [cursor=pointer]:
+                        - text: 4 SERIES (1)
+                        - checkbox "4 SERIES (1)"
+                      - generic [ref=e1089] [cursor=pointer]:
+                        - text: DEFENDER (6)
+                        - checkbox "DEFENDER (6)"
+                      - generic [ref=e1091] [cursor=pointer]:
+                        - text: DISCOVERY (1)
+                        - checkbox "DISCOVERY (1)"
+                      - generic [ref=e1093] [cursor=pointer]:
+                        - text: DISCOVERY SPORT (8)
+                        - checkbox "DISCOVERY SPORT (8)"
+                      - generic [ref=e1095] [cursor=pointer]:
+                        - text: F-PACE (5)
+                        - checkbox "F-PACE (5)"
+                      - generic [ref=e1097] [cursor=pointer]:
+                        - text: GOLF ALLTRACK (1)
+                        - checkbox "GOLF ALLTRACK (1)"
+                      - generic [ref=e1099] [cursor=pointer]:
+                        - text: MACAN (1)
+                        - checkbox "MACAN (1)"
+                      - generic [ref=e1101] [cursor=pointer]:
+                        - text: RANGE ROVER (8)
+                        - checkbox "RANGE ROVER (8)"
+                      - generic [ref=e1103] [cursor=pointer]:
+                        - text: RANGE ROVER EVOQUE (2)
+                        - checkbox "RANGE ROVER EVOQUE (2)"
+                      - generic [ref=e1105] [cursor=pointer]:
+                        - text: RANGE ROVER SPORT (5)
+                        - checkbox "RANGE ROVER SPORT (5)"
+                      - generic [ref=e1107] [cursor=pointer]:
+                        - text: RANGE ROVER VELAR (7)
+                        - checkbox "RANGE ROVER VELAR (7)"
+                      - generic [ref=e1109] [cursor=pointer]:
+                        - text: RS 6 AVANT (1)
+                        - checkbox "RS 6 AVANT (1)"
+                      - generic [ref=e1111] [cursor=pointer]:
+                        - text: TAYCAN (1)
+                        - checkbox "TAYCAN (1)"
+                      - generic [ref=e1113] [cursor=pointer]:
+                        - text: X4 (1)
+                        - checkbox "X4 (1)"
+                  - generic [ref=e136]:
+                    - generic [ref=e137] [cursor=pointer]: Trim
+                    - img [ref=e139] [cursor=pointer]
+                  - generic [ref=e145]:
+                    - generic [ref=e146] [cursor=pointer]: Engine
+                    - img [ref=e148] [cursor=pointer]
+                  - generic [ref=e154]:
+                    - generic [ref=e155] [cursor=pointer]: Drivetrain
+                    - img [ref=e157] [cursor=pointer]
+                  - generic [ref=e163]:
+                    - generic [ref=e164] [cursor=pointer]: Box size
+                    - img [ref=e166] [cursor=pointer]
+                  - generic [ref=e172]:
+                    - generic [ref=e173] [cursor=pointer]: Colour
+                    - img [ref=e175] [cursor=pointer]
+                  - generic [ref=e181]:
+                    - generic [ref=e182] [cursor=pointer]: Fuel Type
+                    - img [ref=e184] [cursor=pointer]
+                  - generic [ref=e190]:
+                    - generic [ref=e191] [cursor=pointer]: Body Style
+                    - img [ref=e193] [cursor=pointer]
+                  - generic [ref=e199]:
+                    - generic [ref=e200] [cursor=pointer]: Type
+                    - img [ref=e202] [cursor=pointer]
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - generic [ref=e206]:
+                    - generic [ref=e207]:
+                      - generic [ref=e208]: $980
+                      - generic [ref=e209]: Price
+                      - generic [ref=e210]: $169,985
+                    - list [ref=e215]
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - generic [ref=e219]: 6,345 km
+                      - generic [ref=e220]: Mileage
+                      - generic [ref=e221]: 173,898 km
+                    - list [ref=e226]
+                - generic [ref=e229]:
+                  - generic [ref=e230]: Sort By
+                  - generic [ref=e231] [cursor=pointer]:
+                    - img [ref=e233]
+                    - generic [ref=e235]: Pics
+                    - img [ref=e237]
+                  - generic [ref=e239] [cursor=pointer]:
+                    - img [ref=e241]
+                    - generic [ref=e243]: Price
+                    - img [ref=e245]
+                  - generic [ref=e247] [cursor=pointer]:
+                    - img [ref=e249]
+                    - generic [ref=e251]: Year
+                    - img [ref=e253]
+            - generic [ref=e256]:
+              - generic [ref=e258] [cursor=pointer]:
+                - generic [ref=e259]:
+                  - generic [ref=e260]:
+                    - link "used 2024" [ref=e262]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-942496/
+                    - link "Land Rover Discovery Sport Dynamic SE" [ref=e264]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-942496/
+                      - paragraph [ref=e265]: Land Rover Discovery Sport
+                      - paragraph [ref=e266]: Dynamic SE
+                    - generic [ref=e267]:
+                      - 'img "Stock #" [ref=e270]'
+                      - generic [ref=e274]: LR9664
+                    - generic [ref=e275]:
+                      - img "Mileage" [ref=e277]
+                      - generic [ref=e280]: 19,402 km
+                  - generic [ref=e285]: Certified
+                - generic [ref=e287]:
+                  - generic [ref=e288]: $47,524
+                  - generic [ref=e289]: + Tax & Lic
+                - link "Used 2024 Land Rover Discovery Sport Dynamic SE LR9664" [ref=e291]:
+                  - /url: /view/used-2024-land-rover-discovery-sport-942496/
+                  - img "Used 2024 Land Rover Discovery Sport Dynamic SE LR9664" [ref=e294]
+                - generic [ref=e295]:
+                  - link "Learn More" [ref=e296]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-942496/
+                  - link "Confirm Availability" [ref=e298]:
+                    - /url: /form/confirm-availability/?vehicle_id=942496&from=vls
+              - generic [ref=e300] [cursor=pointer]:
+                - generic [ref=e301]:
+                  - generic [ref=e302]:
+                    - link "used 2024" [ref=e304]:
+                      - /url: /view/used-2024-land-rover-defender-942546/
+                    - link "Defender X-Dynamic SE" [ref=e306]:
+                      - /url: /view/used-2024-land-rover-defender-942546/
+                      - paragraph [ref=e307]: Defender
+                      - paragraph [ref=e308]: X-Dynamic SE
+                    - generic [ref=e309]:
+                      - 'img "Stock #" [ref=e312]'
+                      - generic [ref=e316]: LR9536
+                    - generic [ref=e317]:
+                      - img "Mileage" [ref=e319]
+                      - generic [ref=e322]: 19,650 km
+                  - generic [ref=e327]: Certified
+                - generic [ref=e329]:
+                  - generic [ref=e330]: $79,985
+                  - generic [ref=e331]: + Tax & Lic
+                - link "Used 2024 Land Rover Defender X-Dynamic SE LR9536" [ref=e333]:
+                  - /url: /view/used-2024-land-rover-defender-942546/
+                  - img "Used 2024 Land Rover Defender X-Dynamic SE LR9536" [ref=e336]
+                - generic [ref=e337]:
+                  - link "Learn More" [ref=e338]:
+                    - /url: /view/used-2024-land-rover-defender-942546/
+                  - link "Confirm Availability" [ref=e340]:
+                    - /url: /form/confirm-availability/?vehicle_id=942546&from=vls
+              - generic [ref=e342] [cursor=pointer]:
+                - generic [ref=e343]:
+                  - generic [ref=e344]:
+                    - link "used 2024" [ref=e346]:
+                      - /url: /view/used-2024-land-rover-defender-960284/
+                    - link "Defender S" [ref=e348]:
+                      - /url: /view/used-2024-land-rover-defender-960284/
+                      - paragraph [ref=e349]: Defender
+                      - paragraph [ref=e350]: S
+                    - generic [ref=e351]:
+                      - 'img "Stock #" [ref=e354]'
+                      - generic [ref=e358]: LR9717
+                    - generic [ref=e359]:
+                      - img "Mileage" [ref=e361]
+                      - generic [ref=e364]: 30,298 km
+                  - generic [ref=e369]: Certified
+                - generic [ref=e371]:
+                  - generic [ref=e372]: $71,010
+                  - generic [ref=e373]: + Tax & Lic
+                - link "Used 2024 Land Rover Defender S LR9717" [ref=e375]:
+                  - /url: /view/used-2024-land-rover-defender-960284/
+                  - img "Used 2024 Land Rover Defender S LR9717" [ref=e378]
+                - generic [ref=e379]:
+                  - link "Learn More" [ref=e380]:
+                    - /url: /view/used-2024-land-rover-defender-960284/
+                  - link "Confirm Availability" [ref=e382]:
+                    - /url: /form/confirm-availability/?vehicle_id=960284&from=vls
+              - generic [ref=e384] [cursor=pointer]:
+                - generic [ref=e385]:
+                  - generic [ref=e386]:
+                    - link "used 2024" [ref=e388]:
+                      - /url: /view/used-2024-land-rover-range-rover-velar-963719/
+                    - link "Range Rover Velar Dynamic SE" [ref=e390]:
+                      - /url: /view/used-2024-land-rover-range-rover-velar-963719/
+                      - paragraph [ref=e391]: Range Rover Velar
+                      - paragraph [ref=e392]: Dynamic SE
+                    - generic [ref=e393]:
+                      - 'img "Stock #" [ref=e396]'
+                      - generic [ref=e400]: LR9722
+                    - generic [ref=e401]:
+                      - img "Mileage" [ref=e403]
+                      - generic [ref=e406]: 16,227 km
+                  - generic [ref=e411]: Certified
+                - generic [ref=e413]:
+                  - generic [ref=e414]: $65,010
+                  - generic [ref=e415]: + Tax & Lic
+                - link "Used 2024 Land Rover Range Rover Velar Dynamic SE LR9722" [ref=e417]:
+                  - /url: /view/used-2024-land-rover-range-rover-velar-963719/
+                  - img "Used 2024 Land Rover Range Rover Velar Dynamic SE LR9722" [ref=e420]
+                - generic [ref=e421]:
+                  - link "Learn More" [ref=e422]:
+                    - /url: /view/used-2024-land-rover-range-rover-velar-963719/
+                  - link "Confirm Availability" [ref=e424]:
+                    - /url: /form/confirm-availability/?vehicle_id=963719&from=vls
+              - generic [ref=e426] [cursor=pointer]:
+                - generic [ref=e427]:
+                  - generic [ref=e428]:
+                    - link "used 2024" [ref=e430]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-963722/
+                    - link "Land Rover Discovery Sport Dynamic SE" [ref=e432]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-963722/
+                      - paragraph [ref=e433]: Land Rover Discovery Sport
+                      - paragraph [ref=e434]: Dynamic SE
+                    - generic [ref=e435]:
+                      - 'img "Stock #" [ref=e438]'
+                      - generic [ref=e442]: LR9743
+                    - generic [ref=e443]:
+                      - img "Mileage" [ref=e445]
+                      - generic [ref=e448]: 17,055 km
+                  - generic [ref=e453]: Certified
+                - generic [ref=e455]:
+                  - generic [ref=e456]: $47,912
+                  - generic [ref=e457]: + Tax & Lic
+                - link "Used 2024 Land Rover Discovery Sport Dynamic SE LR9743" [ref=e459]:
+                  - /url: /view/used-2024-land-rover-discovery-sport-963722/
+                  - img "Used 2024 Land Rover Discovery Sport Dynamic SE LR9743" [ref=e462]
+                - generic [ref=e463]:
+                  - link "Learn More" [ref=e464]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-963722/
+                  - link "Confirm Availability" [ref=e466]:
+                    - /url: /form/confirm-availability/?vehicle_id=963722&from=vls
+              - generic [ref=e468] [cursor=pointer]:
+                - generic [ref=e469]:
+                  - generic [ref=e470]:
+                    - link "used 2024" [ref=e472]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-969717/
+                    - link "Land Rover Discovery Sport Dynamic SE" [ref=e474]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-969717/
+                      - paragraph [ref=e475]: Land Rover Discovery Sport
+                      - paragraph [ref=e476]: Dynamic SE
+                    - generic [ref=e477]:
+                      - 'img "Stock #" [ref=e480]'
+                      - generic [ref=e484]: LR9758
+                    - generic [ref=e485]:
+                      - img "Mileage" [ref=e487]
+                      - generic [ref=e490]: 17,674 km
+                  - generic [ref=e495]: Certified
+                - generic [ref=e497]:
+                  - generic [ref=e498]: $47,024
+                  - generic [ref=e499]: + Tax & Lic
+                - link "Used 2024 Land Rover Discovery Sport Dynamic SE LR9758" [ref=e501]:
+                  - /url: /view/used-2024-land-rover-discovery-sport-969717/
+                  - img "Used 2024 Land Rover Discovery Sport Dynamic SE LR9758" [ref=e504]
+                - generic [ref=e505]:
+                  - link "Learn More" [ref=e506]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-969717/
+                  - link "Confirm Availability" [ref=e508]:
+                    - /url: /form/confirm-availability/?vehicle_id=969717&from=vls
+              - generic [ref=e510] [cursor=pointer]:
+                - generic [ref=e511]:
+                  - generic [ref=e512]:
+                    - link "used 2024" [ref=e514]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-987423/
+                    - link "Land Rover Discovery Sport Dynamic SE" [ref=e516]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-987423/
+                      - paragraph [ref=e517]: Land Rover Discovery Sport
+                      - paragraph [ref=e518]: Dynamic SE
+                    - generic [ref=e519]:
+                      - 'img "Stock #" [ref=e522]'
+                      - generic [ref=e526]: LR9838
+                    - generic [ref=e527]:
+                      - img "Mileage" [ref=e529]
+                      - generic [ref=e532]: 13,308 km
+                  - generic [ref=e537]: Certified
+                - generic [ref=e539]:
+                  - generic [ref=e540]: $47,024
+                  - generic [ref=e541]: + Tax & Lic
+                - link "Used 2024 Land Rover Discovery Sport Dynamic SE LR9838" [ref=e543]:
+                  - /url: /view/used-2024-land-rover-discovery-sport-987423/
+                  - img "Used 2024 Land Rover Discovery Sport Dynamic SE LR9838" [ref=e546]
+                - generic [ref=e547]:
+                  - link "Learn More" [ref=e548]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-987423/
+                  - link "Confirm Availability" [ref=e550]:
+                    - /url: /form/confirm-availability/?vehicle_id=987423&from=vls
+              - generic [ref=e552] [cursor=pointer]:
+                - generic [ref=e553]:
+                  - generic [ref=e554]:
+                    - link "used 2024" [ref=e556]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-987427/
+                    - link "Land Rover Discovery Sport Dynamic HSE" [ref=e558]:
+                      - /url: /view/used-2024-land-rover-discovery-sport-987427/
+                      - paragraph [ref=e559]: Land Rover Discovery Sport
+                      - paragraph [ref=e560]: Dynamic HSE
+                    - generic [ref=e561]:
+                      - 'img "Stock #" [ref=e564]'
+                      - generic [ref=e568]: LR9851
+                    - generic [ref=e569]:
+                      - img "Mileage" [ref=e571]
+                      - generic [ref=e574]: 18,908 km
+                  - generic [ref=e579]: Certified
+                - generic [ref=e581]:
+                  - generic [ref=e582]: $47,999
+                  - generic [ref=e583]: + Tax & Lic
+                - link "Used 2024 Land Rover Discovery Sport Dynamic HSE LR9851" [ref=e585]:
+                  - /url: /view/used-2024-land-rover-discovery-sport-987427/
+                  - img "Used 2024 Land Rover Discovery Sport Dynamic HSE LR9851" [ref=e588]
+                - generic [ref=e589]:
+                  - link "Learn More" [ref=e590]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-987427/
+                  - link "Confirm Availability" [ref=e592]:
+                    - /url: /form/confirm-availability/?vehicle_id=987427&from=vls
+              - generic [ref=e594] [cursor=pointer]:
+                - generic [ref=e595]:
+                  - generic [ref=e596]:
+                    - link "used 2024" [ref=e598]:
+                      - /url: /view/used-2024-land-rover-range-rover-evoque-1023590/
+                    - link "Range Rover Evoque Dynamic SE" [ref=e600]:
+                      - /url: /view/used-2024-land-rover-range-rover-evoque-1023590/
+                      - paragraph [ref=e601]: Range Rover Evoque
+                      - paragraph [ref=e602]: Dynamic SE
+                    - generic [ref=e603]:
+                      - 'img "Stock #" [ref=e606]'
+                      - generic [ref=e610]: LR9967
+                    - generic [ref=e611]:
+                      - img "Mileage" [ref=e613]
+                      - generic [ref=e616]: 14,982 km
+                  - generic [ref=e621]: Certified
+                - generic [ref=e623]:
+                  - generic [ref=e624]: $49,985
+                  - generic [ref=e625]: + Tax & Lic
+                - link "Used 2024 Land Rover Range Rover Evoque Dynamic SE LR9967" [ref=e627]:
+                  - /url: /view/used-2024-land-rover-range-rover-evoque-1023590/
+                  - img "Used 2024 Land Rover Range Rover Evoque Dynamic SE LR9967" [ref=e630]
+                - generic [ref=e631]:
+                  - link "Learn More" [ref=e632]:
+                    - /url: /view/used-2024-land-rover-range-rover-evoque-1023590/
+                  - link "Confirm Availability" [ref=e634]:
+                    - /url: /form/confirm-availability/?vehicle_id=1023590&from=vls
+              - generic [ref=e636] [cursor=pointer]:
+                - generic [ref=e637]:
+                  - generic [ref=e638]:
+                    - link "used 2023" [ref=e640]:
+                      - /url: /view/used-2023-land-rover-range-rover-velar-1056439/
+                    - link "Range Rover Velar S" [ref=e642]:
+                      - /url: /view/used-2023-land-rover-range-rover-velar-1056439/
+                      - paragraph [ref=e643]: Range Rover Velar
+                      - paragraph [ref=e644]: S
+                    - generic [ref=e645]:
+                      - 'img "Stock #" [ref=e648]'
+                      - generic [ref=e652]: LR8895
+                    - generic [ref=e653]:
+                      - img "Mileage" [ref=e655]
+                      - generic [ref=e658]: 40,537 km
+                  - generic [ref=e663]: Certified
+                - generic [ref=e665]:
+                  - generic [ref=e666]: $46,025
+                  - generic [ref=e667]: + Tax & Lic
+                - link "Used 2023 Land Rover Range Rover Velar S LR8895" [ref=e669]:
+                  - /url: /view/used-2023-land-rover-range-rover-velar-1056439/
+                  - img "Used 2023 Land Rover Range Rover Velar S LR8895" [ref=e672]
+                - generic [ref=e673]:
+                  - link "Learn More" [ref=e674]:
+                    - /url: /view/used-2023-land-rover-range-rover-velar-1056439/
+                  - link "Confirm Availability" [ref=e676]:
+                    - /url: /form/confirm-availability/?vehicle_id=1056439&from=vls
+              - generic [ref=e678] [cursor=pointer]:
+                - generic [ref=e679]:
+                  - generic [ref=e680]:
+                    - link "used 2023" [ref=e682]:
+                      - /url: /view/used-2023-land-rover-range-rover-1534166/
+                    - link "Range Rover First Edition" [ref=e684]:
+                      - /url: /view/used-2023-land-rover-range-rover-1534166/
+                      - paragraph [ref=e685]: Range Rover
+                      - paragraph [ref=e686]: First Edition
+                    - generic [ref=e687]:
+                      - 'img "Stock #" [ref=e690]'
+                      - generic [ref=e694]: LR10978A
+                    - generic [ref=e695]:
+                      - img "Mileage" [ref=e697]
+                      - generic [ref=e700]: 35,934 km
+                  - generic [ref=e705]: Certified
+                - generic [ref=e707]:
+                  - generic [ref=e708]: $128,888
+                  - generic [ref=e709]: + Tax & Lic
+                - link "Used 2023 Land Rover Range Rover First Edition LR10978A" [ref=e711]:
+                  - /url: /view/used-2023-land-rover-range-rover-1534166/
+                  - img "Used 2023 Land Rover Range Rover First Edition LR10978A" [ref=e714]
+                - generic [ref=e715]:
+                  - link "Learn More" [ref=e716]:
+                    - /url: /view/used-2023-land-rover-range-rover-1534166/
+                  - link "Confirm Availability" [ref=e718]:
+                    - /url: /form/confirm-availability/?vehicle_id=1534166&from=vls
+              - generic [ref=e720] [cursor=pointer]:
+                - generic [ref=e722]:
+                  - link "used 2024" [ref=e724]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-1572201/
+                  - link "Land Rover Discovery Sport Dynamic SE" [ref=e726]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-1572201/
+                    - paragraph [ref=e727]: Land Rover Discovery Sport
+                    - paragraph [ref=e728]: Dynamic SE
+                  - generic [ref=e729]:
+                    - 'img "Stock #" [ref=e732]'
+                    - generic [ref=e736]: P7709
+                  - generic [ref=e737]:
+                    - img "Mileage" [ref=e739]
+                    - generic [ref=e742]: 10,976 km
+                - generic [ref=e746]:
+                  - generic [ref=e747]: $47,888
+                  - generic [ref=e748]: + Tax & Lic
+                - link "Used 2024 Land Rover Discovery Sport Dynamic SE P7709" [ref=e750]:
+                  - /url: /view/used-2024-land-rover-discovery-sport-1572201/
+                  - img "Used 2024 Land Rover Discovery Sport Dynamic SE P7709" [ref=e753]
+                - generic [ref=e754]:
+                  - link "Learn More" [ref=e755]:
+                    - /url: /view/used-2024-land-rover-discovery-sport-1572201/
+                  - link "Confirm Availability" [ref=e757]:
+                    - /url: /form/confirm-availability/?vehicle_id=1572201&from=vls
+              - generic [ref=e759] [cursor=pointer]:
+                - generic [ref=e760]:
+                  - generic [ref=e761]:
+                    - link "used 2023" [ref=e763]:
+                      - /url: /view/used-2023-land-rover-range-rover-velar-1594094/
+                    - link "Range Rover Velar S" [ref=e765]:
+                      - /url: /view/used-2023-land-rover-range-rover-velar-1594094/
+                      - paragraph [ref=e766]: Range Rover Velar
+                      - paragraph [ref=e767]: S
+                    - generic [ref=e768]:
+                      - 'img "Stock #" [ref=e771]'
+                      - generic [ref=e775]: LR10963A
+                    - generic [ref=e776]:
+                      - img "Mileage" [ref=e778]
+                      - generic [ref=e781]: 46,454 km
+                  - generic [ref=e786]: Certified
+                - generic [ref=e788]:
+                  - generic [ref=e789]: $45,999
+                  - generic [ref=e790]: + Tax & Lic
+                - link "Used 2023 Land Rover Range Rover Velar S LR10963A" [ref=e792]:
+                  - /url: /view/used-2023-land-rover-range-rover-velar-1594094/
+                  - img "Used 2023 Land Rover Range Rover Velar S LR10963A" [ref=e795]
+                - generic [ref=e796]:
+                  - link "Learn More" [ref=e797]:
+                    - /url: /view/used-2023-land-rover-range-rover-velar-1594094/
+                  - link "Confirm Availability" [ref=e799]:
+                    - /url: /form/confirm-availability/?vehicle_id=1594094&from=vls
+              - generic [ref=e801] [cursor=pointer]:
+                - generic [ref=e802]:
+                  - generic [ref=e803]:
+                    - link "used 2023" [ref=e805]:
+                      - /url: /view/used-2023-land-rover-defender-1594096/
+                    - link "Defender S" [ref=e807]:
+                      - /url: /view/used-2023-land-rover-defender-1594096/
+                      - paragraph [ref=e808]: Defender
+                      - paragraph [ref=e809]: S
+                    - generic [ref=e810]:
+                      - 'img "Stock #" [ref=e813]'
+                      - generic [ref=e817]: LR9510A
+                    - generic [ref=e818]:
+                      - img "Mileage" [ref=e820]
+                      - generic [ref=e823]: 40,906 km
+                  - generic [ref=e828]: Certified
+                - generic [ref=e830]:
+                  - generic [ref=e831]: $62,999
+                  - generic [ref=e832]: + Tax & Lic
+                - link "Used 2023 Land Rover Defender S LR9510A" [ref=e834]:
+                  - /url: /view/used-2023-land-rover-defender-1594096/
+                  - img "Used 2023 Land Rover Defender S LR9510A" [ref=e837]
+                - generic [ref=e838]:
+                  - link "Learn More" [ref=e839]:
+                    - /url: /view/used-2023-land-rover-defender-1594096/
+                  - link "Confirm Availability" [ref=e841]:
+                    - /url: /form/confirm-availability/?vehicle_id=1594096&from=vls
+              - generic [ref=e843] [cursor=pointer]:
+                - generic [ref=e845]:
+                  - link "used 2025" [ref=e847]:
+                    - /url: /view/used-2025-land-rover-range-rover-sport-1594101/
+                  - link "Range Rover Sport Dynamic SE" [ref=e849]:
+                    - /url: /view/used-2025-land-rover-range-rover-sport-1594101/
+                    - paragraph [ref=e850]: Range Rover Sport
+                    - paragraph [ref=e851]: Dynamic SE
+                  - generic [ref=e852]:
+                    - 'img "Stock #" [ref=e855]'
+                    - generic [ref=e859]: P7741
+                  - generic [ref=e860]:
+                    - img "Mileage" [ref=e862]
+                    - generic [ref=e865]: 9,870 km
+                - generic [ref=e869]:
+                  - generic [ref=e870]: $116,999
+                  - generic [ref=e871]: + Tax & Lic
+                - link "Used 2025 Land Rover Range Rover Sport Dynamic SE P7741" [ref=e873]:
+                  - /url: /view/used-2025-land-rover-range-rover-sport-1594101/
+                  - img "Used 2025 Land Rover Range Rover Sport Dynamic SE P7741" [ref=e876]
+                - generic [ref=e877]:
+                  - link "Learn More" [ref=e878]:
+                    - /url: /view/used-2025-land-rover-range-rover-sport-1594101/
+                  - link "Confirm Availability" [ref=e880]:
+                    - /url: /form/confirm-availability/?vehicle_id=1594101&from=vls
+              - generic [ref=e882] [cursor=pointer]:
+                - generic [ref=e883]:
+                  - generic [ref=e884]:
+                    - link "used 2023" [ref=e886]:
+                      - /url: /view/used-2023-land-rover-discovery-sport-1606469/
+                    - link "Land Rover Discovery Sport R-Dynamic HSE" [ref=e888]:
+                      - /url: /view/used-2023-land-rover-discovery-sport-1606469/
+                      - paragraph [ref=e889]: Land Rover Discovery Sport
+                      - paragraph [ref=e890]: R-Dynamic HSE
+                    - generic [ref=e891]:
+                      - 'img "Stock #" [ref=e894]'
+                      - generic [ref=e898]: P7754
+                    - generic [ref=e899]:
+                      - img "Mileage" [ref=e901]
+                      - generic [ref=e904]: 28,192 km
+                  - generic [ref=e909]: Certified
+                - generic [ref=e911]:
+                  - generic [ref=e912]: $43,999
+                  - generic [ref=e913]: + Tax & Lic
+                - link "Used 2023 Land Rover Discovery Sport R-Dynamic HSE P7754" [ref=e915]:
+                  - /url: /view/used-2023-land-rover-discovery-sport-1606469/
+                  - img "Used 2023 Land Rover Discovery Sport R-Dynamic HSE P7754" [ref=e918]
+                - generic [ref=e919]:
+                  - link "Learn More" [ref=e920]:
+                    - /url: /view/used-2023-land-rover-discovery-sport-1606469/
+                  - link "Confirm Availability" [ref=e922]:
+                    - /url: /form/confirm-availability/?vehicle_id=1606469&from=vls
+    - contentinfo [ref=e924]:
+      - generic [ref=e925]:
+        - generic [ref=e926]:
+          - generic [ref=e927]:
+            - link "Land Rover Toronto Logo" [ref=e929] [cursor=pointer]:
+              - /url: https://landrovertoronto.ca
+              - img "Land Rover Toronto Logo" [ref=e930]
+            - generic [ref=e933]:
+              - link "777 Dundas St E," [ref=e934] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/3D74DVzAuPgnj6L8A
+              - link "Toronto," [ref=e935] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/3D74DVzAuPgnj6L8A
+              - link "ON, M4M 0E2" [ref=e936] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/3D74DVzAuPgnj6L8A
+          - generic [ref=e937]:
+            - generic [ref=e940]:
+              - generic [ref=e941]: "General:"
+              - link "416-530-1880" [ref=e942] [cursor=pointer]:
+                - /url: tel:+14165301880
+            - generic [ref=e945]:
+              - combobox [ref=e947] [cursor=pointer]:
+                - option "Sales" [selected]
+                - option "Service"
+                - option "Parts"
+              - list [ref=e950]:
+                - generic [ref=e951]:
+                  - generic [ref=e952]: "Monday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e953]:
+                  - generic [ref=e954]: "Tuesday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e955]:
+                  - generic [ref=e956]: "Wednesday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e957]:
+                  - generic [ref=e958]: "Thursday:"
+                  - text: 9:00am - 7:00pm
+                - generic [ref=e959]:
+                  - generic [ref=e960]: "Friday:"
+                  - text: 9:00am - 6:00pm
+                - generic [ref=e961]:
+                  - generic [ref=e962]: "Saturday:"
+                  - text: 9:00am - 5:00pm
+                - generic [ref=e964]:
+                  - generic [ref=e965]: "Sunday:"
+                  - text: CLOSED
+          - generic [ref=e966]:
+            - generic [ref=e972]:
+              - link "Visit our Facebook page" [ref=e973] [cursor=pointer]:
+                - /url: https://www.facebook.com/JLRtoronto
+                - img [ref=e974]
+              - link "Visit our YouTube channel" [ref=e977] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/landrover?_gl=1*1bxfvr7*_ga*OTIxMzYyOTIwLjE3MDQ3NDY3MTY.*_ga_B7ZBBJZQFN*MTcwNDc0NjcxNS4xLjEuMTcwNDc0Njc5OS4wLjAuMA..*_ga_Z5Q8Z5C7KF*MTcwNDc0NjcxNy4xLjEuMTcwNDc0Njc5OS42MC4wLjA.*_gcl_au*MzQzNzgyNTQ1LjE3MDQ3NDY3MTg.
+                - img [ref=e978]
+              - link "Visit our Instagram page" [ref=e981] [cursor=pointer]:
+                - /url: https://www.instagram.com/jlrtoronto/
+                - img [ref=e982]
+              - link "Visit our Linkedin Page" [ref=e986] [cursor=pointer]:
+                - /url: http://linkedin.com/company/jaguar-land-rover-toronto
+                - img [ref=e987]
+            - form [ref=e992]:
+              - generic [ref=e998]:
+                - textbox "*" [ref=e1008]:
+                  - /placeholder: My email here (*)
+                - button "Subscribe" [ref=e1018]
+        - generic [ref=e1019]:
+          - list [ref=e1021]:
+            - listitem [ref=e1022]:
+              - link "Vehicles":
+                - /url: "#"
+              - list [ref=e1023]:
+                - listitem [ref=e1024]:
+                  - link "2025 Limited Time Model Offers" [ref=e1025] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/2025-limited-time-model-offers/
+                - listitem [ref=e1026]:
+                  - link "New Vehicles" [ref=e1027] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/new-vehicles/
+                - listitem [ref=e1028]:
+                  - link "Pre-Owned Vehicles" [ref=e1029] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/used-vehicles/
+                - listitem [ref=e1030]:
+                  - link "Loyalty Program Offers" [ref=e1031] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/loyalty-program-offers/
+                - listitem [ref=e1032]:
+                  - link "Special Offers" [ref=e1033] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/special-offers/
+            - listitem [ref=e1034]:
+              - link "Shopping Tools":
+                - /url: "#"
+              - list [ref=e1035]:
+                - listitem [ref=e1036]:
+                  - link "Book Service Appointment" [ref=e1037] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/book-service-appointment/
+                - listitem [ref=e1038]:
+                  - link "Order Parts" [ref=e1039] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/order-parts/
+                - listitem [ref=e1040]:
+                  - link "Book a Test Drive" [ref=e1041] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/book-a-test-drive/
+                - listitem [ref=e1042]:
+                  - link "Credit application":
+                    - /url: https://landrovertoronto.ca/auto-credit/
+                  - list [ref=e1043]:
+                    - listitem [ref=e1044]:
+                      - link "Parts & Service Promotions" [ref=e1045] [cursor=pointer]:
+                        - /url: https://landrovertoronto.ca/parts-service-promotions-2/
+                - listitem [ref=e1046]:
+                  - link "Value Your Trade" [ref=e1047] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/value-your-trade/
+            - listitem [ref=e1048]:
+              - link "About Us":
+                - /url: "#"
+              - list [ref=e1049]:
+                - listitem [ref=e1050]:
+                  - link "About Us" [ref=e1051] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/about/
+                - listitem [ref=e1052]:
+                  - link "Contact Us" [ref=e1053] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/contact-us/
+                - listitem [ref=e1054]:
+                  - link "Meet our staff" [ref=e1055] [cursor=pointer]:
+                    - /url: https://landrovertoronto.ca/meet-our-staff/
+            - listitem [ref=e1056]:
+              - link "Land Rover Canada":
+                - /url: "#"
+              - list [ref=e1057]:
+                - listitem [ref=e1058]:
+                  - link "LANDROVER.CA" [ref=e1059] [cursor=pointer]:
+                    - /url: http://www.landrover.ca
+          - generic [ref=e1060]:
+            - generic [ref=e1061]:
+              - link "Sitemap" [ref=e1062] [cursor=pointer]:
+                - /url: /sitemap/
+              - text: "|"
+              - link "Terms and Conditions" [ref=e1063] [cursor=pointer]:
+                - /url: https://landrovertoronto.ca/terms-and-conditions/
+              - text: "|"
+              - link "Privacy Policy" [ref=e1064] [cursor=pointer]:
+                - /url: https://landrovertoronto.ca/privacy-policy/
+              - text: "|"
+            - generic [ref=e1065]:
+              - generic [ref=e1066]: Land Rover Toronto © 2026
+              - text: "|"
+              - generic [ref=e1067]:
+                - text: Powered by
+                - link "Leadbox Not for sale" [ref=e1068] [cursor=pointer]:
+                  - /url: https://leadboxhq.com/you-found-us/?utm_medium=footerlink
+                  - text: Leadbox
+                  - img "Not for sale" [ref=e1069]
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e1071] [cursor=pointer]:
+          - img [ref=e1075]
+          - generic [ref=e1076]:
+            - generic [ref=e1077]: Questions?
+            - generic [ref=e1078]: Connect with us!
+        - img [ref=e1079] [cursor=pointer]

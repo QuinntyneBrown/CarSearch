@@ -1,0 +1,1171 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - link "Skip to main content":
+        - /url: "#main-target"
+      - banner [ref=e5]:
+        - link "AutoTrader.ca logo" [ref=e7] [cursor=pointer]:
+          - /url: https://www.autotrader.ca/
+          - img "AutoTrader.ca logo" [ref=e8]
+        - navigation "Main navigation" [ref=e10]:
+          - generic [ref=e13]:
+            - button "Buying" [ref=e15] [cursor=pointer]
+            - button "Selling" [ref=e17] [cursor=pointer]
+            - button "Research & Advice" [ref=e19] [cursor=pointer]
+          - generic [ref=e20]:
+            - link "My favorites" [ref=e22] [cursor=pointer]:
+              - /url: /favorites
+            - button "Your personal updates" [ref=e29] [cursor=pointer]
+          - button "Log in / Sign up" [ref=e33] [cursor=pointer]
+          - button "Change language" [ref=e35] [cursor=pointer]:
+            - generic [ref=e36]: FR
+    - generic [ref=e39]:
+      - generic [ref=e45]:
+        - button "Feedback" [ref=e46] [cursor=pointer]:
+          - img [ref=e47]
+          - generic [ref=e49]: Feedback
+        - generic [ref=e50]:
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - img [ref=e55]
+              - generic [ref=e58]: Filters
+              - button "Clear all filters" [ref=e59] [cursor=pointer]: Clear all
+            - generic [ref=e60]:
+              - button "Location filter" [ref=e61] [cursor=pointer]:
+                - img [ref=e63]
+                - generic [ref=e66]: Location
+                - img [ref=e67]
+              - button "Vehicle condition filter" [ref=e69] [cursor=pointer]:
+                - img [ref=e71]
+                - generic [ref=e74]: Vehicle condition
+                - img [ref=e75]
+              - button "Seller filter" [ref=e77] [cursor=pointer]:
+                - img [ref=e79]
+                - generic [ref=e82]: Seller
+                - img [ref=e83]
+              - button "Make, Model, Trim filter" [ref=e85] [cursor=pointer]:
+                - img [ref=e87]
+                - generic [ref=e90]: Make, Model, Trim
+                - img [ref=e91]
+              - button "Model year filter" [ref=e93] [cursor=pointer]:
+                - img [ref=e95]
+                - generic [ref=e98]: Model year
+                - img [ref=e99]
+              - button "Price filter" [ref=e101] [cursor=pointer]:
+                - img [ref=e103]
+                - generic [ref=e106]: Price
+                - img [ref=e107]
+              - button "Body type filter" [ref=e109] [cursor=pointer]:
+                - img [ref=e111]
+                - generic [ref=e114]: Body type
+                - img [ref=e115]
+              - button "Exterior color filter" [ref=e117] [cursor=pointer]:
+                - img [ref=e119]
+                - generic [ref=e122]: Exterior color
+                - img [ref=e123]
+              - button "Mileage (km) filter" [ref=e125] [cursor=pointer]:
+                - img [ref=e127]
+                - generic [ref=e130]: Mileage (km)
+                - img [ref=e131]
+              - button "Drivetrain filter" [ref=e133] [cursor=pointer]:
+                - img [ref=e135]
+                - generic [ref=e138]: Drivetrain
+                - img [ref=e139]
+              - button "Fuel type filter" [ref=e141] [cursor=pointer]:
+                - img [ref=e143]
+                - generic [ref=e146]: Fuel type
+                - img [ref=e147]
+              - button "Engine filter" [ref=e149] [cursor=pointer]:
+                - img [ref=e151]
+                - generic [ref=e154]: Engine
+                - img [ref=e155]
+              - button "Transmission filter" [ref=e157] [cursor=pointer]:
+                - img [ref=e159]
+                - generic [ref=e162]: Transmission
+                - img [ref=e163]
+              - button "Seats and doors filter" [ref=e165] [cursor=pointer]:
+                - img [ref=e167]
+                - generic [ref=e170]: Seats and doors
+                - img [ref=e171]
+              - button "Equipment filter" [ref=e173] [cursor=pointer]:
+                - img [ref=e175]
+                - generic [ref=e178]: Equipment
+                - img [ref=e179]
+              - button "Online since filter" [ref=e181] [cursor=pointer]:
+                - img [ref=e183]
+                - generic [ref=e186]: Online since
+                - img [ref=e187]
+              - button "Keyword search filter" [ref=e189] [cursor=pointer]:
+                - img [ref=e191]
+                - generic [ref=e194]: Keyword search
+                - img [ref=e195]
+          - main [ref=e197]:
+            - generic [ref=e199]:
+              - heading "120 results for Land Rover Range Rover" [level=1] [ref=e201]
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - generic [ref=e204] [cursor=pointer]:
+                    - generic [ref=e205]: "Sort:"
+                    - combobox "Sort List Link" [ref=e206]: Default
+                  - combobox "Sort:" [ref=e207] [cursor=pointer]:
+                    - option "Default" [selected]
+                    - 'option "Posted Date: Old to New"'
+                    - 'option "Posted Date: New to Old"'
+                    - 'option "Price: High to Low"'
+                    - 'option "Price: Low to High"'
+                    - 'option "Kilometres: High to Low"'
+                    - 'option "Kilometres: Low to High"'
+                    - 'option "Year: New to Old"'
+                    - 'option "Year: Old to New"'
+                    - option "Location Nearest"
+                - generic [ref=e208]:
+                  - generic [ref=e209] [cursor=pointer]:
+                    - generic [ref=e210]: "Display:"
+                    - generic [ref=e211]: "20"
+                  - 'combobox "Display: 20" [ref=e212] [cursor=pointer]':
+                    - option "20" [selected]
+                    - option "40"
+                    - option "60"
+                    - option "100"
+            - generic [ref=e214]:
+              - generic [ref=e215]:
+                - generic [ref=e216]:
+                  - button "Land Rover Range Rover" [ref=e218] [cursor=pointer]:
+                    - generic "Land Rover Range Rover" [ref=e219]
+                    - img [ref=e221]
+                  - button "100 km around L5b1c2 Mississauga, ON" [disabled] [ref=e224]:
+                    - generic "100 km around L5b1c2 Mississauga, ON" [ref=e225]
+                  - button "New" [ref=e227] [cursor=pointer]:
+                    - generic "New" [ref=e228]
+                    - img [ref=e230]
+                  - button "Used" [ref=e233] [cursor=pointer]:
+                    - generic "Used" [ref=e234]
+                    - img [ref=e236]
+                - button "Show more" [ref=e239] [cursor=pointer]
+              - button "Save search" [ref=e242] [cursor=pointer]:
+                - generic [ref=e243]:
+                  - img [ref=e244]
+                  - text: Save search
+            - article [ref=e246] [cursor=pointer]:
+              - generic [ref=e247]:
+                - generic [ref=e255]:
+                  - img [ref=e256]
+                  - text: "26"
+                - generic [ref=e258]:
+                  - button "Land Rover Range Rover P400 Westminster - Certified Pre Owned - ONE OWNER" [ref=e259]:
+                    - heading "2022 Land Rover Range Rover P400 Westminster - Certified Pre Owned - ONE OWNER" [level=2] [ref=e260]:
+                      - generic [ref=e261]: 2022 Land Rover Range Rover
+                      - generic [ref=e262]: P400 Westminster - Certified Pre Owned - ONE OWNER
+                  - button "Add to list" [ref=e263]:
+                    - img [ref=e265]
+                    - generic [ref=e267]: Add to list
+                - generic [ref=e268]:
+                  - generic [ref=e270]:
+                    - paragraph [ref=e271]: $79,995
+                    - generic "Great price" [ref=e273]:
+                      - generic [ref=e274]: Great
+                      - text: price
+                  - table [ref=e275]:
+                    - cell "Certified pre-owned" [ref=e276]:
+                      - img [ref=e277]
+                      - text: Certified pre-owned
+                    - cell "23,650 km" [ref=e279]:
+                      - img [ref=e280]
+                      - text: 23,650 km
+                    - cell "Automatic" [ref=e282]:
+                      - img [ref=e283]
+                      - text: Automatic
+                    - cell "Gas" [ref=e285]:
+                      - img [ref=e286]
+                      - text: Gas
+                  - generic [ref=e288]:
+                    - text: 2022 Land Rover Range Rover Westminster Santorini Black Metallic
+                    - text: One owner, certified pre owned, no accidents and low KM!
+                    - text: Ebony/Ebony/Ebony/Ebony Leather.
+                    - text: Join the Jaguar Land Rover Metro West community and book your test drive review with one of our consultants. We look forward to hearing from you soon! Thank you for considering one of our vehicles. Marino's Automotive Group is a family owned and operated company consisting of Honda Queensway, Jaguar Land Rover Metro West, Marino's Fine Cars Subaru and Volvo Cars Metro West. Our commitment to excellence in Customer Service is based on our long-standing belief that each of our customers represents the overall success of our business. For more information on this vehicle, please contact us and we will be happy to answer any question you may have. Contact us for an appointment.
+              - generic [ref=e290]:
+                - generic [ref=e291]: Jaguar Land Rover Metro West
+                - generic [ref=e292]: Etobicoke, ON • 11 km from you
+            - article [ref=e293] [cursor=pointer]:
+              - generic [ref=e294]:
+                - generic [ref=e302]:
+                  - img [ref=e303]
+                  - text: "44"
+                - button "Land Rover Range Rover Autobiography|V8SUPERCHARGED|4WD|REARDVD|MASSAGE|+" [ref=e306]:
+                  - heading "2017 Land Rover Range Rover Autobiography|V8SUPERCHARGED|4WD|REARDVD|MASSAGE|+" [level=2] [ref=e307]:
+                    - generic [ref=e308]: 2017 Land Rover Range Rover
+                    - generic [ref=e309]: Autobiography|V8SUPERCHARGED|4WD|REARDVD|MASSAGE|+
+                - generic [ref=e310]:
+                  - generic [ref=e312]:
+                    - paragraph [ref=e313]: $31,995
+                    - generic "Great price" [ref=e315]:
+                      - generic [ref=e316]: Great
+                      - text: price
+                  - table [ref=e317]:
+                    - cell "146,218 km" [ref=e318]:
+                      - img [ref=e319]
+                      - text: 146,218 km
+                    - cell "Automatic" [ref=e321]:
+                      - img [ref=e322]
+                      - text: Automatic
+                    - cell "Gas" [ref=e324]:
+                      - img [ref=e325]
+                      - text: Gas
+                  - generic [ref=e327]:
+                    - strong [ref=e328]: WINTER SPECIAL!
+                    - text: FEATURING V8 SUPERCHARGED, 4WD, HEADS UP DISPLAY, REAR DVD SCREENS WITH HEADPHONES, FRONT AND REAR MASSAGE SEATS, POWER REAR RECLINING SEATS, 4 PASSENGER LUXURY SEATING, MULTICOLOUR AMBIENT LIGHTING, PANORAMIC ROOF, OFFROAD DISPLAYS, MULTI DRIVE AND TERRAIN MODES, HIGHLY LOADED, EXTREMELY CLEAN! FINISHED IN GOLDISH SILVER ON MATCHING CREAM INTERIOR, WOOD TRIMS, PARTIALLY WOOD STEERING WHEEL, STITCHED LEATHER SEATS, HEATED/COOLED SEATS, REAR HEATED/COOLED SEATS, HEATED STEERING WHEEL, NAVIGATION SYSTEM, BACKUP CAMERA, PARKING SENSORS, FORWARD ALERT, AEB, REVERSE TRAFFIC DETECTION, LANE KEEP ASSIST, BLIND SPOT MONITOR, TRAFFIC SIGN RECOGNITION, DRIVER FATIGUE ALERT, AM, FM, SATELLITE, APPLECARPLAY, ANDROIDAUTO, BROWSER, BLUETOOTH, PREMIUM ALLOYS, STEERING WHEEL CONTROLS, PREMIUM MERIDIAN SOUND SYSTEM, POWER OPTIONS, POWER DUAL DOOR TRUNK, POWER FOLDING MIRRORS, AND MUCH MORE!!!
+                    - strong
+                    - text: As per OMVIC regulations, this vehicle is not drivable, not certified and not e-tested. Certification is available for $899.
+                    - strong [ref=e329]:
+                      - text: All our vehicles are in excellent condition and have been fully inspected by an in-house licensed mechanic.
+                      - text: The advertised price is a finance only price, if you wish to purchase the vehicle for cash additional $2,000 surcharge will apply. Applicable prices and special offers are subject to change with or without notice and shall be at the full discretion of Favorit Motors.
+              - generic [ref=e330]:
+                - generic [ref=e331]: FAVORIT MOTORS
+                - generic [ref=e332]: Toronto, ON • 26 km from you
+            - article [ref=e333] [cursor=pointer]:
+              - generic [ref=e334]:
+                - button "Land Rover Range Rover SUPERCHARGED/CLEAN TITLE|MASSAGE SEATS/22 INCH WHE" [ref=e337]:
+                  - heading "2014 Land Rover Range Rover SUPERCHARGED/CLEAN TITLE|MASSAGE SEATS/22 INCH WHE" [level=2] [ref=e338]:
+                    - generic [ref=e339]: 2014 Land Rover Range Rover
+                    - generic [ref=e340]: SUPERCHARGED/CLEAN TITLE|MASSAGE SEATS/22 INCH WHE
+                - generic [ref=e341]:
+                  - paragraph [ref=e344]: $21,888
+                  - table [ref=e345]:
+                    - cell "80,000 km" [ref=e346]:
+                      - img [ref=e347]
+                      - text: 80,000 km
+                    - cell "Automatic" [ref=e349]:
+                      - img [ref=e350]
+                      - text: Automatic
+                    - cell "Flex Fuel" [ref=e352]:
+                      - img [ref=e353]
+                      - text: Flex Fuel
+                  - generic [ref=e355]:
+                    - text: GALERI TORONTO
+                    - text: Operated by GALERI AUTO GROUP
+                    - text: NEW YEAR SPECIAL SALE UNTIL THE END OF FEBRUARY
+                    - text: ALL EXTENDED WARRANTIES ARE %50 OFF
+                    - text: Safety certification is $999.
+                    - text: HST and additional fees are not included in the advertised price.
+                    - text: Vehicle Information
+                    - text: "Year: 2014"
+                    - text: "Make: Land Rover"
+                    - text: "Model: Range Rover"
+                    - text: "Trim: Supercharged"
+                    - text: "Title: CLEAN TITLE"
+                    - text: "VIN: SALGS2TF3EA163658"
+                    - text: Factory Installed Options & Features
+                    - text: 5.0L Supercharged V8 Engine
+                    - text: 8 Speed Automatic Transmission
+                    - text: All Wheel Drive
+                    - text: Terrain Response System
+                    - text: Adaptive Air Suspension
+                    - text: 22 Inch Alloy Wheels
+                    - text: OEM Roof Rails and Roof Racks
+                    - text: Power Adjustable Front Seats
+                    - text: Heated and Ventilated Front Seats
+                    - text: Massage Front Seats
+                    - text: Leather Interior
+                    - text: Panoramic Sunroof
+                    - text: Navigation System
+                    - text: Rear View Camera
+                    - text: Front and Rear Parking Sensors
+                    - text: Blind Spot Monitoring
+                    - text: Adaptive Cruise Control
+                    - text: Keyless Entry
+                    - text: Push Button Start
+                    - text: Power Tailgate
+                    - text: Four Zone Automatic Climate Control
+                    - text: Meridian Premium Sound System
+                    - text: Bluetooth Connectivity
+                    - text: USB Input
+                    - text: Xenon Headlights
+                    - text: LED Daytime Running Lights
+                    - text: Rain Sensing Wipers
+                    - text: "Address:"
+                    - text: 3359 Lake Shore Blvd W, Etobicoke, ON M8W 1N1
+                    - text: OPERATING HOURS
+                    - text: MONDAY-FRIDAY 10:00 AM - 8:00 PM
+                    - text: SATURDAY 11:00 AM - 5:00 PM
+                    - text: "SUNDAY: 12:00 PM - 3:00 PM"
+                    - text: For over two decades, GALERI AUTO GROUP has built a trusted reputation in the pre-owned automotive industry, offering clients a premium and reliable car-buying experience both locally and internationally. We specialize in the import and export of high-quality pre-owned vehicles and provide a full range of services including vehicle sales, flexible financing options, and global shipping solutions. Our commitment to excellence and customer satisfaction has made us a recognized name in the automotive market.
+                    - text: As per OMVIC regulations, vehicles being sold AS-IS are not represented as roadworthy or mechanically sound. Certification is available for an additional $999 if requested. Our no-haggle pricing ensures transparent, below-market pricing with a simple, pressure-free buying experience. HST & Licensing Extra.
+              - generic [ref=e357]:
+                - generic [ref=e358]: Galeri Toronto
+                - generic [ref=e359]: Etobicoke, ON • 9 km from you
+            - article [ref=e362] [cursor=pointer]:
+              - generic [ref=e363]:
+                - button "Land Rover Range Rover P525 Westminster|V8SUPERCHARGED|LONG|HUD|RECLINE|+" [ref=e366]:
+                  - heading "2021 Land Rover Range Rover P525 Westminster|V8SUPERCHARGED|LONG|HUD|RECLINE|+" [level=2] [ref=e367]:
+                    - generic [ref=e368]: 2021 Land Rover Range Rover
+                    - generic [ref=e369]: P525 Westminster|V8SUPERCHARGED|LONG|HUD|RECLINE|+
+                - generic [ref=e370]:
+                  - generic [ref=e372]:
+                    - paragraph [ref=e373]: $59,995
+                    - generic "Great price" [ref=e375]:
+                      - generic [ref=e376]: Great
+                      - text: price
+                  - table [ref=e377]:
+                    - cell "57,983 km" [ref=e378]:
+                      - img [ref=e379]
+                      - text: 57,983 km
+                    - cell "Automatic" [ref=e381]:
+                      - img [ref=e382]
+                      - text: Automatic
+                    - cell "Gas" [ref=e384]:
+                      - img [ref=e385]
+                      - text: Gas
+                  - generic [ref=e387]:
+                    - strong [ref=e388]: WINTER SPECIAL!
+                    - text: FEATURING WESTMINSTER EDITION, LONG WHEEL BASE, V8 SUPERCHARGED, 4WD, POWER REAR RECLINING SEATS, HEADS UP DISPLAY, HEIGHT ADJUSTABLE SUSPENSION, MULTI DRIVE AND TERRAIN MODES, OFFROAD DISPLAY, MULTICOLOUR AMBIENT LIGHTING, DRINK COOLER, AIR IONIZATION, DIGITAL GAUGE CLUSTER NAVIGATION DISPLAY, HIGHLY LOADED, EXTREMELY CLEAN! FINISHED IN LIGHT GRAY ON MATCHING BLACK INTERIOR, STITCHED LEATHER SEATS, HEATED/COOLED SEATS, REAR HEATED/COOLED SEATS, HEATED STEERING WHEEL, NAVIGATION SYSTEM, 360 BACKUP CAMERA, PARKING SENSORS, COLLISION AVOIDANCE, STEERING ASSISTANCE, DRIVER CONDITION MONITOR, AM, FM, SATELLITE, APPLECARPLAY, ANDROIDAUTO, BROWSER, BLUETOOTH, ALLOYS, STEERING WHEEL CONTROLS, PREMIUM MERIDIAN SOUND SYSTEM, POWER OPTIONS, POWER DUAL DOOR TRUNK, POWER FOLDING SEATS, POWER REAR WINDOW SHADES, PANORAMIC ROOF, AND MUCH MORE!!!
+                    - strong
+                    - text: As per OMVIC regulations, this vehicle is not drivable, not certified and not e-tested. Certification is available for $899.
+                    - strong [ref=e389]:
+                      - text: All our vehicles are in excellent condition and have been fully inspected by an in-house licensed mechanic.
+                      - text: The advertised price is a finance only price, if you wish to purchase the vehicle for cash additional $2,000 surcharge will apply. Applicable prices and special offers are subject to change with or without notice and shall be at the full discretion of Favorit Motors.
+              - generic [ref=e390]:
+                - generic [ref=e391]: FAVORIT MOTORS
+                - generic [ref=e392]: Toronto, ON • 26 km from you
+            - article [ref=e393] [cursor=pointer]:
+              - generic [ref=e394]:
+                - button "Land Rover Range Rover $5000 $445 BI WEEKLY |P525|HSE WESTMINSTER|MASSAGE" [ref=e397]:
+                  - heading "2021 Land Rover Range Rover $5000 $445 BI WEEKLY |P525|HSE WESTMINSTER|MASSAGE" [level=2] [ref=e398]:
+                    - generic [ref=e399]: 2021 Land Rover Range Rover
+                    - generic [ref=e400]: $5000 $445 BI WEEKLY |P525|HSE WESTMINSTER|MASSAGE
+                - generic [ref=e401]:
+                  - generic [ref=e403]:
+                    - paragraph [ref=e404]: $49,888
+                    - generic "Great price" [ref=e406]:
+                      - generic [ref=e407]: Great
+                      - text: price
+                  - table [ref=e408]:
+                    - cell "100,000 km" [ref=e409]:
+                      - img [ref=e410]
+                      - text: 100,000 km
+                    - cell "Automatic" [ref=e412]:
+                      - img [ref=e413]
+                      - text: Automatic
+                    - cell "Gas" [ref=e415]:
+                      - img [ref=e416]
+                      - text: Gas
+                  - generic [ref=e418]:
+                    - strong [ref=e419]: "*CALL FOR APPOINTMENT"
+                    - list [ref=e420]:
+                      - listitem [ref=e421]:
+                        - text: HSE WESTMINSTER, P525, V8 SUPERCHARGED, MASSAGE SEATS, BLACK PACK, FULL SIZE
+                        - strong [ref=e422]: "* ACCIDENT FREE, ONTARIO VEHICLE"
+                        - text: "* LOWEST FINANCING RATES AVAILABLE"
+                        - strong [ref=e423]: "* Santorini Black Metallic on Ivory Perforated Leather Interior, 5.0L, V8 Supercharged, AWD, HSE Westminster Edition, Loaded with Heads-Up Display, Navigation, Back-Up Camera, Adaptive Cruise Control, Driver's Assistance Package with Collision Avoidance, Forward Alert, Blind Spot Assist, Steering Assist, Lane Keep Assist, AEB Autonomous Emergency Braking, Reverse Cross Traffic Monitor, Traffic Sign Recognition, TSR Speed Alert, Driver Condition Monitor & Door Warning Sensors, 22inch Gloss Black Alloy Wheels, Panoramic Roof, Front & Rear Heated & Cooled Ventilated Seats, Heated Steering Wheel, ECO Stop/Start Mode, Front & Rear Parking Distance Sensors, Adjustable Air Ride Suspension, Adjustable Ambient Lighting, Meridian Premium Sound System, Paddle Shifters, Keyless Go with Push Button Start, Soft-Close Vacuum Doors, Cool Box, Adjustable Drive Modes, Power Liftgate, 4-Zone Auto Climate Control,Homelink Garage Door Opener, Keyless Entry."
+                        - text: .
+                        - text: Vehicle is not drivable and not certified. Certification is available for $899. A variety of financing options are available for an additional $999. Find out about our extended warranty options.
+                        - strong
+              - generic [ref=e424]:
+                - generic [ref=e425]: FARAZ AUTO SALES
+                - generic [ref=e426]: North York, ON • 23 km from you
+            - article [ref=e427] [cursor=pointer]:
+              - generic [ref=e428]:
+                - button "Land Rover Range Rover Westminster P400" [ref=e431]:
+                  - heading "2022 Land Rover Range Rover Westminster P400" [level=2] [ref=e432]:
+                    - generic [ref=e433]: 2022 Land Rover Range Rover
+                    - generic [ref=e434]: Westminster P400
+                - generic [ref=e435]:
+                  - generic [ref=e437]:
+                    - paragraph [ref=e438]: $65,999
+                    - generic "Great price" [ref=e440]:
+                      - generic [ref=e441]: Great
+                      - text: price
+                  - table [ref=e442]:
+                    - cell "78,900 km" [ref=e443]:
+                      - img [ref=e444]
+                      - text: 78,900 km
+                    - cell "Automatic" [ref=e446]:
+                      - img [ref=e447]
+                      - text: Automatic
+                    - cell "Gas" [ref=e449]:
+                      - img [ref=e450]
+                      - text: Gas
+                  - generic [ref=e452]:
+                    - text: 2022 Land Rover Range Rover Westminster P400 3.0L P400 Inline6 Turbocharged Engine with MildHybrid (MHEV), 8Speed Automatic Transmission, AllWheel Drive, Air Suspension with Adaptive Dynamics, Leather Seats, Heated & Ventilated Front Seats, Heated Rear Seats, Heated Steering Wheel, Panoramic Sunroof, Meridian Premium Audio, Touchscreen Infotainment with Apple CarPlay & Android Auto, Navigation, MultiZone Climate Control, Adaptive Cruise Control, Blind Spot Monitoring, Lane Keep Assist, Front & Rear Parking Sensors, 360° Camera System, LED Headlights, Terrain Response® OffRoad Modes, Power Tailgate.
+                    - text: VIP MOTORS QUALITY TRUST EXPERIENCE
+                    - text: 300 QUEEN ST. EAST, BRAMPTON ON | 
+                    - text: Discover a refined car-buying experience at VIP Motors, a trusted dealership proudly serving customers from across Ontario and beyond.
+                    - text: With over 150 vehicles in inventory, we offer a wide selection of quality pre-owned cars, SUVs, and trucks to suit every lifestyle and budget.
+                    - text: Walk-ins are welcome, and test drives are available by appointment or in person.
+                    - separator [ref=e453]
+                    - separator [ref=e454]
+                    - separator [ref=e455]
+                    - separator [ref=e456]
+                    - separator [ref=e457]
+                    - separator [ref=e458]
+                    - separator [ref=e459]
+                    - separator [ref=e460]
+                    - separator [ref=e461]
+                    - separator [ref=e462]
+                    - text: FINANCING ALL CREDIT WELCOME
+                    - text: We offer flexible financing solutions for all credit situations.
+                    - text: Whether you have good credit, are rebuilding, a newcomer to Canada, a student, or on a work permit, our finance specialists are here to help.
+                    - text: We work with most major Canadian banks and lenders, offering financing terms of up to 96 months (O.A.C.).
+                    - separator [ref=e463]
+                    - separator [ref=e464]
+                    - separator [ref=e465]
+                    - separator [ref=e466]
+                    - separator [ref=e467]
+                    - separator [ref=e468]
+                    - separator [ref=e469]
+                    - separator [ref=e470]
+                    - separator [ref=e471]
+                    - separator [ref=e472]
+                    - text: INSPECTION & VEHICLE PREPARATION
+                    - text: Every vehicle at VIP Motors undergoes a comprehensive 210-point inspection performed by a licensed mechanic.
+                    - text: Our inspection process ensures safety, reliability, and performance standards are met.
+                    - text: Each vehicle is professionally detailed before delivery, ensuring a clean and presentable condition at delivery.
+                    - separator [ref=e473]
+                    - separator [ref=e474]
+                    - separator [ref=e475]
+                    - separator [ref=e476]
+                    - separator [ref=e477]
+                    - separator [ref=e478]
+                    - separator [ref=e479]
+                    - separator [ref=e480]
+                    - separator [ref=e481]
+                    - separator [ref=e482]
+                    - text: CUSTOMER SATISFACTION
+                    - text: We are committed to providing exceptional customer service before and after the sale.
+                    - text: VIP Motors is proud to maintain a 4.8-star rating on Google Reviews, reflecting our honesty, professionalism, and dedication to our customers.
+                    - text: Your satisfaction and long-term confidence matter to us.
+                    - separator [ref=e483]
+                    - separator [ref=e484]
+                    - separator [ref=e485]
+                    - separator [ref=e486]
+                    - separator [ref=e487]
+                    - separator [ref=e488]
+                    - separator [ref=e489]
+                    - separator [ref=e490]
+                    - separator [ref=e491]
+                    - separator [ref=e492]
+                    - text: WARRANTY OPTIONS
+                    - text: For added peace of mind, extended warranty options are available on most vehicles.
+                    - text: Choose from multiple coverage plans and flexible term options to match your needs.
+                    - text: Our team will assist you in selecting the right protection for your vehicle.
+              - generic [ref=e493]:
+                - generic [ref=e494]: VIP Motors Canada
+                - generic [ref=e495]: Brampton, ON • 19 km from you
+            - article [ref=e496] [cursor=pointer]:
+              - generic [ref=e497]:
+                - button "Land Rover Range Rover HSE| WESTMINISTER EDITION | CLEAN CARFAX" [ref=e500]:
+                  - heading "2021 Land Rover Range Rover HSE| WESTMINISTER EDITION | CLEAN CARFAX" [level=2] [ref=e501]:
+                    - generic [ref=e502]: 2021 Land Rover Range Rover
+                    - generic [ref=e503]: HSE| WESTMINISTER EDITION | CLEAN CARFAX
+                - generic [ref=e504]:
+                  - generic [ref=e506]:
+                    - paragraph [ref=e507]: $64,999
+                    - generic "Great price" [ref=e509]:
+                      - generic [ref=e510]: Great
+                      - text: price
+                  - table [ref=e511]:
+                    - cell "63,619 km" [ref=e512]:
+                      - img [ref=e513]
+                      - text: 63,619 km
+                    - cell "Automatic" [ref=e515]:
+                      - img [ref=e516]
+                      - text: Automatic
+                    - cell "Gas" [ref=e518]:
+                      - img [ref=e519]
+                      - text: Gas
+                  - generic [ref=e521]:
+                    - text: This 2021 Land Rover Range Rover is a true standout with its sleek black exterior and luxurious black interior. With its impressive mileage and clean Carfax, this HSE | WESTMINISTER EDITION is ready to take you on your next adventure in style. Don't miss out on this 4X4 beauty!
+                    - text: To comply with OMVIC regulations, please note that the vehicle advertised is not drive able, certified, or e-tested. However, we offer the option of certification for a nominal fee of $799. Rest assured, all our vehicles are meticulously inspected by our licensed in-house mechanic to ensure their excellent condition.
+                    - text: A variety of financing options are available for an additional $999. Find out about our extended warranty options. Give us a call at
+              - generic [ref=e522]:
+                - generic [ref=e523]: AUTOVILLA CAR SALES INC.
+                - generic [ref=e524]: Mississauga, ON • 9 km from you
+            - article [ref=e525] [cursor=pointer]:
+              - generic [ref=e526]:
+                - button "Land Rover Range Rover TD6 | DIESEL | HSE | PANO | CARPLAY | MERIDIAN" [ref=e529]:
+                  - heading "2019 Land Rover Range Rover TD6 | DIESEL | HSE | PANO | CARPLAY | MERIDIAN" [level=2] [ref=e530]:
+                    - generic [ref=e531]: 2019 Land Rover Range Rover
+                    - generic [ref=e532]: TD6 | DIESEL | HSE | PANO | CARPLAY | MERIDIAN
+                - generic [ref=e533]:
+                  - generic [ref=e535]:
+                    - paragraph [ref=e536]: $43,450
+                    - generic "Great price" [ref=e538]:
+                      - generic [ref=e539]: Great
+                      - text: price
+                  - table [ref=e540]:
+                    - cell "115,746 km" [ref=e541]:
+                      - img [ref=e542]
+                      - text: 115,746 km
+                    - cell "Automatic" [ref=e544]:
+                      - img [ref=e545]
+                      - text: Automatic
+                    - cell "Diesel" [ref=e547]:
+                      - img [ref=e548]
+                      - text: Diesel
+                  - generic [ref=e550]:
+                    - text: TRADE IN! This 2019 Range Rover comes equipped with AWD, leather interior, heated/ventilated front seats, carplay, back up camera, naviagation, meridian sound system, panormic sunroof, heated steering, heads up display and so much more. Purchase with complete peace of mind from Oakville Mitsubishi! Each and every vehicle we have is thoroughly inspected and all are certified, e-tested and ready for a new driveway to call home!! With our hassle free pricing policy, do not pay for 90 days, and commitment to service second to none, you will not have a better experience buying your new car!! Get a free CarProof with every vehicle Book Your Appointment Today. Buy with confidence with a large, reputable southwestern Ontario dealership group Know your dealership, trust your dealer, read our extensive number of positive online reviews on DealerRater & Google
+                    - list [ref=e551]:
+                      - listitem [ref=e552]: This vehicle is Safety Certified, Emissions-tested & Professionally Reconditioned & Detailed unless otherwise indicated* Selling Price does not include HST & Licensing.* Got a vehicle to trade? Drive it in and have our professional appraiser look at it!* Financing available! Bad Credit? No Credit? Bankrupt? We'll help you rebuild your credit! OAC! Low finance rates available! (Based on Credit rating and On Approved Credit) Financing not available on any Vehicle listed AS-IS. Apply Now!* Our Professional and Friendly staff are ready to assist you!We are conveniently located between the Third Line and Dorval Road exit by the QEW.
+              - generic [ref=e553]:
+                - generic [ref=e554]: Oakville Mitsubishi
+                - generic [ref=e555]: Oakville, ON • 18 km from you
+            - article [ref=e558] [cursor=pointer]:
+              - generic [ref=e559]:
+                - button "Land Rover Range Rover P530 SE SWB - Certified Pre Owned - Like New!" [ref=e562]:
+                  - heading "2023 Land Rover Range Rover P530 SE SWB - Certified Pre Owned - Like New!" [level=2] [ref=e563]:
+                    - generic [ref=e564]: 2023 Land Rover Range Rover
+                    - generic [ref=e565]: P530 SE SWB - Certified Pre Owned - Like New!
+                - generic [ref=e566]:
+                  - generic [ref=e568]:
+                    - paragraph [ref=e569]: $128,995
+                    - generic "Fair price" [ref=e571]:
+                      - generic [ref=e572]: Fair
+                      - text: price
+                  - table [ref=e573]:
+                    - cell "Certified pre-owned" [ref=e574]:
+                      - img [ref=e575]
+                      - text: Certified pre-owned
+                    - cell "53,078 km" [ref=e577]:
+                      - img [ref=e578]
+                      - text: 53,078 km
+                    - cell "Automatic" [ref=e580]:
+                      - img [ref=e581]
+                      - text: Automatic
+                    - cell "Gas" [ref=e583]:
+                      - img [ref=e584]
+                      - text: Gas
+                  - generic [ref=e586]:
+                    - text: 2023 Land Rover Range Rover SE Batumi Gold Premium Metallic
+                    - text: Caraway/Caraway Leather.
+                    - text: Elevate your driving experience with our Certified Pre-Owned Program. Each vehicle undergoes a rigorous 165-point inspection, includes a comprehensive warranty, and offers exclusive financing terms tailored to you.
+                    - text: "Certified. Land Rover Certified Details:"
+                    - list [ref=e588]:
+                      - listitem [ref=e589]:
+                        - text: 24/7 Roadside Assistance
+                        - text: "* Coverage for up to 7 years or up to 160,000 kms from the original in-service date"
+                        - text: "* $0 Deductible for repairs covered under CPO Warranty Repairs. Carfax Canada Vehicle History Report"
+                        - text: "* COMPETITIVE FINANCE TERMS. To help make your dream of owning a Land Rover vehicle a reality, Land Rover offers competitive finance rates and flexible terms, plus the assurance of outstanding customer service"
+                        - text: "* Rigorous 165 Multi-Point Inspection"
+                        - text: Join the Jaguar Land Rover Metro West community and book your test drive review with one of our consultants. We look forward to hearing from you soon! Thank you for considering one of our vehicles. Marino's Automotive Group is a family owned and operated company consisting of Honda Queensway, Jaguar Land Rover Metro West, Marino's Fine Cars Subaru and Volvo Cars Metro West. Our commitment to excellence in Customer Service is based on our long-standing belief that each of our customers represents the overall success of our business. For more information on this vehicle, please contact us and we will be happy to answer any question you may have. Contact us for an appointment.
+              - generic [ref=e590]:
+                - generic [ref=e591]: Jaguar Land Rover Metro West
+                - generic [ref=e592]: Etobicoke, ON • 11 km from you
+            - article [ref=e593] [cursor=pointer]:
+              - generic [ref=e594]:
+                - button "Land Rover Range Rover HSE" [ref=e597]:
+                  - heading "2020 Land Rover Range Rover HSE" [level=2] [ref=e598]:
+                    - generic [ref=e599]: 2020 Land Rover Range Rover
+                    - generic [ref=e600]: HSE
+                - generic [ref=e601]:
+                  - generic [ref=e603]:
+                    - paragraph [ref=e604]: $57,488
+                    - generic "Great price" [ref=e606]:
+                      - generic [ref=e607]: Great
+                      - text: price
+                  - table [ref=e608]:
+                    - cell "82,996 km" [ref=e609]:
+                      - img [ref=e610]
+                      - text: 82,996 km
+                    - cell "Automatic" [ref=e612]:
+                      - img [ref=e613]
+                      - text: Automatic
+                    - cell "Gas" [ref=e615]:
+                      - img [ref=e616]
+                      - text: Gas
+                  - generic [ref=e618]:
+                    - text: "Awards:"
+                    - list [ref=e619]:
+                      - listitem [ref=e620]:
+                        - text: ALG Canada Residual Value Awards
+                        - text: Odometer is 7270 kilometers below market average!
+                        - text: White 2020 Land Rover Range Rover 5.0L V8 Supercharged 4WD
+                        - text: "8-Speed Automatic 5.0L V8 Supercharged Black Leather, 360 Degree Surround Camera, Activity Key, Adaptive Cruise Control, Adaptive Cruise Control w/Steering Assist, Advanced Tow Assist, Blind Spot Assist, Drive Pro Pack, Driver Assist Pack, High-Speed Emergency Braking, Navigation system: InControl Navigation Pro, Park Assist, Tow Hitch Receiver, Towing Pack."
+                        - strong [ref=e622]: ABOVE IS THE SPECIAL FINANCING PRICE, $1500 MORE FOR CASH PURCHASES
+                        - text: PLEASE CALL AHEAD TO CHECK AVAILABILITY
+                        - strong [ref=e623]:
+                          - text: We believe in a haggle-free environment and provide our best price upfront. We compare our vehicles with competing inventory and adjust our prices daily. At Airport Kia, our team is dedicated to providing exceptional customer service and making your car buying and ownership experience as smooth and enjoyable as possible. From our knowledgeable sales associates who are always ready to help you find the perfect vehicle for your needs and budget, to our expert technicians who are committed to keeping your Kia running smoothly and efficiently, our team is here to meet all of your automotive needs and exceed your expectations. We're proud to be a family-owned dealership, and we treat every customer like family too. That means personalized service tailored to your needs, a warm and welcoming atmosphere, and a commitment to honesty, integrity, and transparency in all of our interactions. So when you choose Airport Kia, you can rest assured that you're in good hands with our team. Visit us today at 3295 Derry Road East, Mississauga, Ontario L4T 1A8 or give us a call at to experience the Airport Kia difference for yourself.
+                          - text: "Airport Kia is proud to serve Toronto, Ottawa, Mississauga, Brampton, Hamilton, London, Markham, Vaughn, Kitchener, Richmond Hill, Burlington, Sudbury, Oshawa, Barrie, St. Catharines, Guelph, Cambridge, Kingston, Thunder Bay, Waterloo, Brantford, Pickering, Niagara Falls, Peterborough, Sault Ste. Marie, Sarnia, North Bay, Belleville, Timmins, Woodstock, St. Thomas, Stratford, Orillia, Owen Sound. Aurora, Milton, Oakville, Parry Sound, Whitby. Our used car may include: Mercedes-Benz, Sprinter, AMG, BMW, MINI, Jaguar, Land Rover, Chrysler, Dodge, Jeep, RAM, FIAT, Ford, Lincoln, Honda, Lexus, Toyota, Mazda, Chevrolet, Buick, GMC, and Corvette, With over 23 brands we look forward to serving all your automotive needs!"
+              - generic [ref=e624]:
+                - generic [ref=e625]: Airport Kia
+                - generic [ref=e626]: Mississauga, ON • 17 km from you
+            - article [ref=e627] [cursor=pointer]:
+              - generic [ref=e628]:
+                - button "Land Rover Range Rover SC|V8 SUPERCHARGED|LOW KM'S|PARK ASSIST|ACCIDENT F" [ref=e631]:
+                  - heading "2017 Land Rover Range Rover SC|V8 SUPERCHARGED|LOW KM'S|PARK ASSIST|ACCIDENT F" [level=2] [ref=e632]:
+                    - generic [ref=e633]: 2017 Land Rover Range Rover
+                    - generic [ref=e634]: SC|V8 SUPERCHARGED|LOW KM'S|PARK ASSIST|ACCIDENT F
+                - generic [ref=e635]:
+                  - paragraph [ref=e638]: $39,888
+                  - table [ref=e639]:
+                    - cell "52,000 km" [ref=e640]:
+                      - img [ref=e641]
+                      - text: 52,000 km
+                    - cell "Automatic" [ref=e643]:
+                      - img [ref=e644]
+                      - text: Automatic
+                    - cell "Gas" [ref=e646]:
+                      - img [ref=e647]
+                      - text: Gas
+                  - generic [ref=e649]:
+                    - strong [ref=e650]: "*CALL FOR APPOINTMENT"
+                    - list [ref=e651]:
+                      - listitem [ref=e652]:
+                        - text: V8 SUPERCHARGED, LOW KM'S
+                        - strong [ref=e653]: "* ACCIDENT FREE, ONE OWNER, ONTARIO VEHICLE"
+                        - text: "* LOWEST FINANCING RATES AVAILABLE"
+                        - strong [ref=e654]: "* Santorini Black Metallic on Black Perforated Leather Interior, 5.0L, V8 Supercharged, AWD, Loaded with Navigation, 360 Degree Surround View Camera, Driver's Assistance Package with Blind Spot Assist, AEB Autonomous Emergecny Braking, Park Assist with Automatic Parking, Lane Departure Warning, Reverse Traffic Detection, Traffic Sign Recognition, TSR Speed Alert & Driver Fatigue Alert, Front & Rear Parking Distance Sensors, 22inch Wheels, Panoramic Roof, Meridian Premium Sound System, Heated & Cooled Ventilated Memory Seats, Rear Heated Seats, Leather Heated Steering Wheel, Adjustable Ambient Lighting, ECO Stop/Start Mode, Soft-Close Vacuum Doors, Adjustable Air Ride Suspension, Paddle Shifters, Keyless Go with Push Button Start, Power Liftgate, 4-Zone Auto Climate Control, LED Headlights, Bluetooth Phone & Audio Connection, Satellite Radio, CD Player, SD & USB Inputs, Homelink Garage Door Opener, Keyless Entry."
+                        - text: .
+                        - strong
+                        - text: .
+                        - strong
+                        - text: .
+                        - strong
+                        - text: Vehicle is not drivable and not certified. Certification is available for $899. A variety of financing options are available for an additional $999. Find out about our extended warranty options.
+                        - strong [ref=e655]
+              - generic [ref=e656]:
+                - generic [ref=e657]: FARAZ AUTO SALES
+                - generic [ref=e658]: North York, ON • 23 km from you
+            - article [ref=e659] [cursor=pointer]:
+              - generic [ref=e660]:
+                - button "Land Rover Range Rover P530 SE SWB 3D CAMERA NAVIGATION BLIN SPOTS" [ref=e663]:
+                  - heading "2023 Land Rover Range Rover P530 SE SWB 3D CAMERA NAVIGATION BLIN SPOTS" [level=2] [ref=e664]:
+                    - generic [ref=e665]: 2023 Land Rover Range Rover
+                    - generic [ref=e666]: P530 SE SWB 3D CAMERA NAVIGATION BLIN SPOTS
+                - generic [ref=e667]:
+                  - generic [ref=e669]:
+                    - paragraph [ref=e670]: $122,888
+                    - generic "Great price" [ref=e672]:
+                      - generic [ref=e673]: Great
+                      - text: price
+                  - table [ref=e674]:
+                    - cell "46,862 km" [ref=e675]:
+                      - img [ref=e676]
+                      - text: 46,862 km
+                    - cell "Automatic" [ref=e678]:
+                      - img [ref=e679]
+                      - text: Automatic
+                    - cell "Gas" [ref=e681]:
+                      - img [ref=e682]
+                      - text: Gas
+                  - generic [ref=e684]:
+                    - text: "Finance special price shown. Cash purchase: +$2,000."
+                    - text: Accident Free, Clean Carfax, Navigation, Blind Spots, Paddle Shifters, Panoramic Sunroof, Meridian Premium Sound System, Air Suspension, Paddle Shifters, Heated and Cooled Seats, Air Condition, and Much More!!!
+                    - strong [ref=e686]: "*Multi-point inspection"
+                    - text: "*"
+                    - text: Carfax Verified - We provide Carfax Report on every vehicle in stock.
+                    - text: Warranty - Extended warranties/coverages are available on every vehicle sold. Some conditions applied.
+                    - text: Trade - Have a trade? We take any motor vehicle - any year and model!
+                    - text: Please bring your current vehicle in for a free appraisal.
+                    - text: New immigrants, students, good or bad credit, no credit - Welcome! Financing is available. Some conditions applied.
+                    - text: We are working with all major Banks, Financial Institutions and Leasing companies - to secure and provide the lowest rates and payments for our Customers.
+                    - text: No-HASSLE, No-HAGGLE, just the BEST PRICES UP-FRONT!
+                    - text: We are also offering GAP (guaranteed asset protection), road/hazard protection and aftermarket products/services on sold vehicles.
+                    - text: AUTOPIA CARS Inc. is a trusted Family Owned and Operated Business and we pride ourselves in offering a high standard of customer satisfaction. Reputation is a high priority to us.
+                    - text: We are an authorized repair facility accepted by the Warranty (underwriters) companies with the technicians on site.
+                    - text: This vehicle can be Certified for an additional $1299. If vehicle is not Certified as per OMVIC Regulations, it's not deemed to be drivable, safe and road worthy.
+                    - text: To get more information about our inventory please visit our website:autopiacars.ca
+                    - strong [ref=e687]: PRICE PLUS HST AND LICENCING
+                    - text: "Our Indoor Showroom Location Is at:"
+                    - text: 2160 Steeles Ave West
+                    - text: (Steeles and Keele)
+                    - text: Concord, ON L4K 2Y7
+                    - text: Although every reasonable effort is made to ensure the information provided is update and accurate. We do not take any responsibility for any errors, omissions or typographic mistakes found on all on these pages. Prices may change without notice. Please verify any information in question with our sales team at autopiacars.ca
+              - generic [ref=e688]:
+                - generic [ref=e689]: Autopia Cars Inc
+                - generic [ref=e690]: Concord, ON • 28 km from you
+            - article [ref=e691] [cursor=pointer]:
+              - generic [ref=e692]:
+                - button "Land Rover Range Rover HSE Westminster EDITION V6 Turbo Luxury SUV AWD" [ref=e695]:
+                  - heading "2022 Land Rover Range Rover HSE Westminster EDITION V6 Turbo Luxury SUV AWD" [level=2] [ref=e696]:
+                    - generic [ref=e697]: 2022 Land Rover Range Rover
+                    - generic [ref=e698]: HSE Westminster EDITION V6 Turbo Luxury SUV AWD
+                - generic [ref=e699]:
+                  - generic [ref=e701]:
+                    - paragraph [ref=e702]: $63,950
+                    - generic "Great price" [ref=e704]:
+                      - generic [ref=e705]: Great
+                      - text: price
+                  - table [ref=e706]:
+                    - cell "82,867 km" [ref=e707]:
+                      - img [ref=e708]
+                      - text: 82,867 km
+                    - cell "Automatic" [ref=e710]:
+                      - img [ref=e711]
+                      - text: Automatic
+                    - cell "Electric/Gas" [ref=e713]:
+                      - img [ref=e714]
+                      - text: Electric/Gas
+                  - generic [ref=e716]:
+                    - text: "Finance special price shown. Cash purchase: +$2,000."
+                    - strong [ref=e717]: "*BY APPOINTMENT ONLY"
+                    - text: "*"
+                    - text: "HIGH-VALUE FEATURES:"
+                    - text: "-Turbocharged 3.0L V6"
+                    - text: "-Intelligent All-Wheel Drive"
+                    - text: "-Panoramic Sunroof"
+                    - text: "-Heated Front Seats"
+                    - text: "-Navigation System"
+                    - text: "-Apple CarPlay & Android Auto Integration"
+                    - text: "-Surround/360° Camera with Parking Sensors"
+                    - text: "-Blind-Spot Monitoring & Lane-Keep Assist"
+                    - text: "-Meridian® Sound System"
+                    - text: "-Power Tailgate"
+                    - text: "-Air Suspension with Terrain Response & Adjustable Ride Height"
+                    - text: "-Premium Leather"
+                    - strong [ref=e719]: "*Multi-point inspection"
+                    - text: "*"
+                    - text: Carfax Verified - We provide Carfax Report on every vehicle in stock.
+                    - text: Warranty - Extended warranties/coverages are available on every vehicle sold. Some conditions applied.
+                    - text: Trade - Have a trade? We take any motor vehicle - any year and model!
+                    - text: Please bring your current vehicle in for a free appraisal.
+                    - text: New immigrants, students, good or bad credit, no credit - Welcome! Financing is available. Some conditions applied.
+                    - text: We are working with all major Banks, Financial Institutions and Leasing companies - to secure and provide the lowest rates and payments for our Customers.
+                    - text: No-HASSLE, No-HAGGLE, just the BEST PRICES UP-FRONT!
+                    - text: We are also offering GAP (guaranteed asset protection), road/hazard protection and aftermarket products/services on sold vehicles.
+                    - text: AUTOPIA CARS Inc. is a trusted Family Owned and Operated Business and we pride ourselves in offering a high standard of customer satisfaction. Reputation is a high priority to us.
+                    - text: We are an authorized repair facility accepted by the Warranty (underwriters) companies with the technicians on site.
+                    - text: This vehicle can be Certified for an additional $1299. If vehicle is not Certified as per OMVIC Regulations, it's not deemed to be drivable, safe and road worthy.
+                    - text: To get more information about our inventory please visit our website:autopiacars.ca
+                    - strong [ref=e720]: PRICE PLUS HST AND LICENCING
+                    - text: "Our Indoor Showroom Location Is at:"
+                    - text: 2160 Steeles Ave West
+                    - text: (Steeles and Keele)
+                    - text: Concord, ON L4K 2Y7
+                    - text: Although every reasonable effort is made to ensure the information provided is update and accurate. We do not take any responsibility for any errors, omissions or typographic mistakes found on all on these pages. Prices may change without notice. Please verify any information in question with our sales team at autopiacars.ca
+              - generic [ref=e721]:
+                - generic [ref=e722]: Autopia Cars Inc
+                - generic [ref=e723]: Concord, ON • 28 km from you
+            - article [ref=e726] [cursor=pointer]:
+              - generic [ref=e727]:
+                - button "Land Rover Range Rover P530 SE SWB | AWD | Meridian Spkr | PanSunroof" [ref=e730]:
+                  - heading "2023 Land Rover Range Rover P530 SE SWB | AWD | Meridian Spkr | PanSunroof" [level=2] [ref=e731]:
+                    - generic [ref=e732]: 2023 Land Rover Range Rover
+                    - generic [ref=e733]: P530 SE SWB | AWD | Meridian Spkr | PanSunroof
+                - generic [ref=e734]:
+                  - generic [ref=e736]:
+                    - paragraph [ref=e737]: $124,900
+                    - generic "Good price" [ref=e739]:
+                      - generic [ref=e740]: Good
+                      - text: price
+                  - table [ref=e741]:
+                    - cell "69,658 km" [ref=e742]:
+                      - img [ref=e743]
+                      - text: 69,658 km
+                    - cell "Automatic" [ref=e745]:
+                      - img [ref=e746]
+                      - text: Automatic
+                    - cell "Gas" [ref=e748]:
+                      - img [ref=e749]
+                      - text: Gas
+                  - generic [ref=e751]:
+                    - text: The 2023 Land Rover Range Rover P530 SE SWB is a luxury SUV featuring a 4.4-liter twin-turbocharged V8 engine that delivers 523 horsepower and 553 lb-ft of torque, paired with an 8-speed automatic transmission and all-wheel drive.
+                    - text: BOOK YOUR TEST DRIVE TODAY!
+                    - text: Mississauga Chrysler Jeep Dodge Ram is your expert for used and new cars in Mississauga and the surrounding regions. Our knowledgeable finance managers work with an extensive network of banks to ensure you secure approval, regardless of your credit history.
+                    - text: We specialize in assisting newcomers, individuals with bad credit, those who have experienced bankruptcy, students, and individuals with work permits. Our extensive inventory of new and pre-owned vehicles is sure to include the perfect fit for your needs, from Sedans, Compact SUVs, Full-Sized SUVs, Trucks, Convertibles, Coupes, Crossovers, Electric Vehicles, Minivans, and more.
+                    - text: For years, we have proudly served the areas of Mississauga, Toronto, Brampton, Oakville, Burlington, Hamilton, Vaughan, Richmond Hill, Markham, Milton, Georgetown, Niagara Falls, St. Catharines, Welland, Fort Erie, Kitchener-Waterloo, and the GTA.
+                    - text: All advertised prices reflect a cash sale only. All manufacturer rebates and government incentives have been applied to advertised prices. Terms and conditions may vary for iZEV rebate. See Mississauga Chrysler for details. Optional Finance and Lease terms are available. A Loan Processing Fee may apply to facilitate selected Finance or Lease options. If opting to trade an encumbered vehicle towards a purchase and require Mississauga Chrysler to facilitate a lien payout on your behalf, a Lien Check/Payout Fee may apply. Contact us for details.
+              - generic [ref=e752]:
+                - generic [ref=e753]: Mississauga Chrysler
+                - generic [ref=e754]: Mississauga, ON • 10 km from you
+            - article [ref=e755] [cursor=pointer]:
+              - generic [ref=e756]:
+                - button "Land Rover Range Rover P525 | AUTOBIOGRAPHY | 22\"RIM | MERIDIAN | PANO" [ref=e759]:
+                  - heading "2022 Land Rover Range Rover P525 | AUTOBIOGRAPHY | 22\"RIM | MERIDIAN | PANO" [level=2] [ref=e760]:
+                    - generic [ref=e761]: 2022 Land Rover Range Rover
+                    - generic [ref=e762]: P525 | AUTOBIOGRAPHY | 22"RIM | MERIDIAN | PANO
+                - generic [ref=e763]:
+                  - generic [ref=e765]:
+                    - paragraph [ref=e766]: $84,900
+                    - generic "Great price" [ref=e768]:
+                      - generic [ref=e769]: Great
+                      - text: price
+                  - table [ref=e770]:
+                    - cell "60,798 km" [ref=e771]:
+                      - img [ref=e772]
+                      - text: 60,798 km
+                    - cell "Automatic" [ref=e774]:
+                      - img [ref=e775]
+                      - text: Automatic
+                    - cell "Gas" [ref=e777]:
+                      - img [ref=e778]
+                      - text: Gas
+                  - generic [ref=e780]:
+                    - text: This 2022 Land Rover Range Rover P525 Autobiography is a clean Carfax, local Ontario vehicle that epitomizes power and refinement. Finished in elegant White, it features an 8-cylinder engine and luxurious craftsmanship throughout. From its commanding presence on 22" Aluminum Alloy Wheels to the panoramic sunroof, Meridian sound system, and semi-aniline leather interior, every detail is tailored for supreme comfort and sophistication. With warranty coverage until April 21, 2026, it blends timeless style, cutting-edge technology, and confident performance.
+                    - text: Key Features Include
+                    - text: 22" Aluminum Alloy Wheels
+                    - text: Autobiography Package
+                    - text: Meridian Surround Sound System
+                    - text: Panoramic Sunroof
+                    - text: Adaptive Cruise Control
+                    - text: Heated and Ventilated Front Seats
+                    - text: Head-Up Display
+                    - text: Electronic Air Suspension
+                    - text: Blind Spot Assist
+                    - text: 360 Surround View Camera
+                    - text: NOW OFFERING 3 MONTH DEFERRED FINANCING PAYMENTS ON APPROVED CREDIT.
+                    - text: WE OFFER THE BEST FINANCE RATES, AND DON'T CHARGE ANY FINANCING FEE
+                    - text: Looking for a top-rated pre-owned luxury car dealership in the GTA? Look no further than Toronto Auto Brokers (TAB)! We're proud to have won multiple awards, including the 2024 AutoTrader Best Priced Dealer, the 2024 CarGurus Award, the 2025 Top Choice Award, the 2025 Consumer Satisfaction Award, the 2025 Canadian Choice Award, the 2025 Three Best Rated Dealer Award, and many more!
+                    - text: With 30 years of experience serving the Greater Toronto Area, TAB is a respected and trusted name in the pre-owned luxury car industry. Our 30,000 sq.Ft indoor showroom is home to a wide range of luxury vehicles from top brands like BMW, Mercedes-Benz, Audi, Porsche, Land Rover, Jaguar, Aston Martin, Bentley, Maserati, and more. And we don't just serve the GTA, we're proud to offer our services to all cities in Canada, including Vancouver, Montreal, Calgary, Edmonton, Winnipeg, Saskatchewan, Halifax, and more.
+                    - text: At TAB, we're committed to providing a no-pressure environment and honest work ethics. As a family-owned and operated business, we treat every customer like family and ensure that every interaction is a positive one. Come experience the TAB Lifestyle at its truest form, luxury car buying has never been more enjoyable and exciting!
+                    - text: We offer a variety of services to make your purchase experience as easy and stress-free as possible. From competitive and simple financing and leasing options to extended warranties, aftermarket services, and full history reports on every vehicle, we have everything you need to make an informed decision. We welcome every trade, even if you're just looking to sell your car without buying, and when it comes to financing or leasing, we offer same day approvals, with access to over 50 lenders, including all of the banks in Canada. Feel free to check out your own Equifax credit score without affecting your credit score, simply click on the Equifax tab above and see if you qualify.
+                    - text: So if you're looking for a luxury pre-owned car dealership in Toronto, look no further than TAB! We proudly serve the GTA, including Toronto, Etobicoke, Woodbridge, North York, York Region, Vaughan, Thornhill, Richmond Hill, Mississauga, Scarborough, Markham, Oshawa, Peteborough, Hamilton, Newmarket, Orangeville, Aurora, Brantford, Barrie, Kitchener, Niagara Falls, Oakville, Cambridge, Kitchener, Waterloo, Guelph, London, Windsor, Orillia, Pickering, Ajax, Whitby, Durham, Cobourg, Belleville, Kingston, Ottawa, Montreal, Vancouver, Winnipeg, Calgary, Edmonton, Regina, Halifax, and more.
+                    - text: Call us today or visit our website to learn more about our inventory and services. And remember, all prices exclude applicable taxes and licensing, and vehicles can be certified at an additional cost of $999.
+              - generic [ref=e781]:
+                - generic [ref=e782]: Toronto Auto Brokers
+                - generic [ref=e783]: Vaughan, ON • 25 km from you
+            - article [ref=e784] [cursor=pointer]:
+              - generic [ref=e785]:
+                - button "Land Rover Range Rover" [ref=e788]:
+                  - heading "2019 Land Rover Range Rover" [level=2] [ref=e789]:
+                    - generic [ref=e790]: 2019 Land Rover Range Rover
+                - generic [ref=e791]:
+                  - generic [ref=e793]:
+                    - paragraph [ref=e794]: $60,790
+                    - generic "Great price" [ref=e796]:
+                      - generic [ref=e797]: Great
+                      - text: price
+                  - table [ref=e798]:
+                    - cell "39,050 km" [ref=e799]:
+                      - img [ref=e800]
+                      - text: 39,050 km
+                    - cell "Automatic" [ref=e802]:
+                      - img [ref=e803]
+                      - text: Automatic
+                    - cell "Gas" [ref=e805]:
+                      - img [ref=e806]
+                      - text: Gas
+              - generic [ref=e808]:
+                - generic [ref=e809]: Budds' Imported Cars
+                - generic [ref=e810]: Oakville, ON • 14 km from you
+            - article [ref=e811] [cursor=pointer]:
+              - generic [ref=e812]:
+                - button "Land Rover Range Rover P400 WESTMINSTER | MASSAGE | HUD | 21\" WHEELS" [ref=e815]:
+                  - heading "2021 Land Rover Range Rover P400 WESTMINSTER | MASSAGE | HUD | 21\" WHEELS" [level=2] [ref=e816]:
+                    - generic [ref=e817]: 2021 Land Rover Range Rover
+                    - generic [ref=e818]: P400 WESTMINSTER | MASSAGE | HUD | 21" WHEELS
+                - generic [ref=e819]:
+                  - generic [ref=e821]:
+                    - paragraph [ref=e822]: $67,900
+                    - generic "Great price" [ref=e824]:
+                      - generic [ref=e825]: Great
+                      - text: price
+                  - table [ref=e826]:
+                    - cell "48,291 km" [ref=e827]:
+                      - img [ref=e828]
+                      - text: 48,291 km
+                    - cell "Automatic" [ref=e830]:
+                      - img [ref=e831]
+                      - text: Automatic
+                    - cell "Electric/Gas" [ref=e833]:
+                      - img [ref=e834]
+                      - text: Electric/Gas
+                  - generic [ref=e836]:
+                    - text: This beautiful 2021 Land Rover Range Rover P400 Westminster is a local Ontario vehicle. Designed for luxury and performance, it features a powerful mild-hybrid straight-six engine and a sleek black exterior. With premium comfort features and advanced technology, this SUV ensures an unparalleled driving experience.
+                    - text: Key Features Include
+                    - text: Meridian Premium Sound System with 18 Speakers
+                    - text: 21-inch Alloy Wheels
+                    - text: Massage Front Seats
+                    - text: Head-Up Display
+                    - text: Heated and Cooled Front Seats
+                    - text: Heated Rear Seats
+                    - text: Heated Steering Wheel
+                    - text: Panoramic Sunroof
+                    - text: Adaptive Cruise Control
+                    - text: Lane Keep Assist
+                    - text: Blind Spot Monitoring
+                    - text: 360-Degree Camera
+                    - text: Navigation System
+                    - text: Apple CarPlay & Android Auto
+                    - text: Power Tailgate
+                    - text: NOW OFFERING 3 MONTH DEFERRED FINANCING PAYMENTS ON APPROVED CREDIT.
+                    - text: WE OFFER THE BEST FINANCE RATES, AND DON'T CHARGE ANY FINANCING FEE
+                    - text: Looking for a top-rated pre-owned luxury car dealership in the GTA? Look no further than Toronto Auto Brokers (TAB)! We're proud to have won multiple awards, including the 2024 AutoTrader Best Priced Dealer, the 2024 CarGurus Award, the 2025 Top Choice Award, the 2025 Consumer Satisfaction Award, the 2025 Canadian Choice Award, the 2024 Three Best Rated Dealer Award, and many more!
+                    - text: With 30 years of experience serving the Greater Toronto Area, TAB is a respected and trusted name in the pre-owned luxury car industry. Our 30,000 sq.Ft indoor showroom is home to a wide range of luxury vehicles from top brands like BMW, Mercedes-Benz, Audi, Porsche, Land Rover, Jaguar, Aston Martin, Bentley, Maserati, and more. And we don't just serve the GTA, we're proud to offer our services to all cities in Canada, including Vancouver, Montreal, Calgary, Edmonton, Winnipeg, Saskatchewan, Halifax, and more.
+                    - text: At TAB, we're committed to providing a no-pressure environment and honest work ethics. As a family-owned and operated business, we treat every customer like family and ensure that every interaction is a positive one. Come experience the TAB Lifestyle at its truest form, luxury car buying has never been more enjoyable and exciting!
+                    - text: We offer a variety of services to make your purchase experience as easy and stress-free as possible. From competitive and simple financing and leasing options to extended warranties, aftermarket services, and full history reports on every vehicle, we have everything you need to make an informed decision. We welcome every trade, even if you're just looking to sell your car without buying, and when it comes to financing or leasing, we offer same day approvals, with access to over 50 lenders, including all of the banks in Canada. Feel free to check out your own Equifax credit score without affecting your credit score, simply click on the Equifax tab above and see if you qualify.
+                    - text: So if you're looking for a luxury pre-owned car dealership in Toronto, look no further than TAB! We proudly serve the GTA, including Toronto, Etobicoke, Woodbridge, North York, York Region, Vaughan, Thornhill, Richmond Hill, Mississauga, Scarborough, Markham, Oshawa, Peteborough, Hamilton, Newmarket, Orangeville, Aurora, Brantford, Barrie, Kitchener, Niagara Falls, Oakville, Cambridge, Kitchener, Waterloo, Guelph, London, Windsor, Orillia, Pickering, Ajax, Whitby, Durham, Cobourg, Belleville, Kingston, Ottawa, Montreal, Vancouver, Winnipeg, Calgary, Edmonton, Regina, Halifax, and more.
+                    - text: Call us today or visit our website to learn more about our inventory and services. And remember, all prices exclude applicable taxes and licensing, and vehicles can be certified at an additional cost of $999.
+              - generic [ref=e837]:
+                - generic [ref=e838]: Toronto Auto Brokers
+                - generic [ref=e839]: Vaughan, ON • 25 km from you
+            - article [ref=e840] [cursor=pointer]:
+              - generic [ref=e841]:
+                - button "Land Rover Range Rover V6 VERY LOW KM's RARE COLOR COMBO BLACK PACK" [ref=e844]:
+                  - heading "2022 Land Rover Range Rover V6 VERY LOW KM's RARE COLOR COMBO BLACK PACK" [level=2] [ref=e845]:
+                    - generic [ref=e846]: 2022 Land Rover Range Rover
+                    - generic [ref=e847]: V6 VERY LOW KM's RARE COLOR COMBO BLACK PACK
+                - generic [ref=e848]:
+                  - generic [ref=e850]:
+                    - paragraph [ref=e851]: $75,990
+                    - generic "Great price" [ref=e853]:
+                      - generic [ref=e854]: Great
+                      - text: price
+                  - table [ref=e855]:
+                    - cell "46,424 km" [ref=e856]:
+                      - img [ref=e857]
+                      - text: 46,424 km
+                    - cell "Automatic" [ref=e859]:
+                      - img [ref=e860]
+                      - text: Automatic
+                    - cell "Electric/Gas" [ref=e862]:
+                      - img [ref=e863]
+                      - text: Electric/Gas
+                  - generic [ref=e865]:
+                    - text: 2022 Land Rover Range Rover Portofino Blue Metallic Westminster 3.0L I6 Turbocharged 4WD 8-Speed Automatic Leather, Black Brake Calipers, Black Contrast Roof, Black Exterior Pack, Domestic Plug Sockets, Ebony Morzine Headlining, Grand Black Veneer, Heated Windscreen, Wood & Leather Steering Wheel.
+                    - text: Coventry North Jaguar Land Rover has been serving the Vaughan, Woodbridge, Richmond Hill, Thornhill, Maple, Etobicoke, North York, Brampton, Newmarket, Markham, and surrounding areas for over 20 years. We are proud to offer a superior selection of top quality Pre-Owned Jaguar Land Rover vehicles. Do not forget to ask about or flexible finance and lease options. Good, poor, or bad credit welcomed. Extended warranties and protection packages available.
+              - generic [ref=e866]:
+                - generic [ref=e867]: Coventry North
+                - generic [ref=e868]: Woodbridge, ON • 26 km from you
+            - article [ref=e871] [cursor=pointer]:
+              - generic [ref=e872]:
+                - button "Land Rover Range Rover CPO/TECH PACKAGE/CLEAN CARFAX/BEAUTIFUL SPEC" [ref=e875]:
+                  - heading "2023 Land Rover Range Rover CPO/TECH PACKAGE/CLEAN CARFAX/BEAUTIFUL SPEC" [level=2] [ref=e876]:
+                    - generic [ref=e877]: 2023 Land Rover Range Rover
+                    - generic [ref=e878]: CPO/TECH PACKAGE/CLEAN CARFAX/BEAUTIFUL SPEC
+                - generic [ref=e879]:
+                  - generic [ref=e881]:
+                    - paragraph [ref=e882]: $116,998
+                    - generic "Good price" [ref=e884]:
+                      - generic [ref=e885]: Good
+                      - text: price
+                  - table [ref=e886]:
+                    - cell "79,911 km" [ref=e887]:
+                      - img [ref=e888]
+                      - text: 79,911 km
+                    - cell "Automatic" [ref=e890]:
+                      - img [ref=e891]
+                      - text: Automatic
+                    - cell "Gas" [ref=e893]:
+                      - img [ref=e894]
+                      - text: Gas
+                  - generic [ref=e896]:
+                    - text: 2023 Range Rover P530 SE SWB | Land Rover Certified Pre-Owned | Clean Carfax | Safety Certified | Now Available at Jaguar Land Rover Brampton
+                    - text: Experience uncompromising luxury, commanding performance, and cutting-edge technology in this 2023 Range Rover P530 SE SWB, now available as a Land Rover Certified Pre-Owned vehicle at Jaguar Land Rover Brampton, proudly serving Toronto and the GTA.
+                    - text: Finished in classic Fuji White with an Ebony Windsor leather interior, this short wheelbase Range Rover delivers the perfect balance of elegant design and exhilarating V8 power. With a clean Carfax and only 79,911 km, this flagship SUV has been meticulously inspected, reconditioned, and certified to meet Land Rovers highest standards.
+                    - text: "Vehicle Highlights & Key Features:"
+                    - text: "Powertrain & Performance:"
+                    - text: 5.0L Supercharged V8 Engine producing 530 horsepower
+                    - text: Smooth and responsive 8-Speed Automatic Transmission
+                    - text: Permanent Four-Wheel Drive for confident all-season capability
+                    - text: Adaptive air suspension delivering an exceptionally refined ride
+                    - text: Effortless power with unmistakable Range Rover presence
+                    - text: "Exterior & Design:"
+                    - text: Fuji White Solid Exterior with timeless, sophisticated styling
+                    - text: 22-inch Style 1072 Diamond Turned Wheels with Satin Black Contrast
+                    - text: 22-inch Full-Size Spare Wheel
+                    - text: Heated Windscreen for added winter convenience
+                    - text: Sleek LED Headlights and Signature Range Rover lighting design
+                    - text: "Interior Comfort & Luxury:"
+                    - text: Ebony Perforated Windsor Leather Seats with Ebony Interior
+                    - text: 20-Way Heated and Ventilated Power Front Seats with Memory
+                    - text: Exceptional craftsmanship and premium materials throughout
+                    - text: Spacious short wheelbase layout with executive-level comfort
+                    - text: Quiet, serene cabin designed for long-distance luxury driving
+                    - text: "Technology & Convenience:"
+                    - text: Technology Package equipped
+                    - text: Touch Pro Duo infotainment system with dual touchscreens
+                    - text: Navigation system with real-time traffic updates
+                    - text: Meridian premium sound system for immersive audio quality
+                    - text: Park Assist for stress-free urban and tight-space parking
+                    - text: Digital driver display with customizable vehicle information
+                    - text: "Safety & Driver Assistance:"
+                    - text: Comprehensive driver assistance and safety technologies
+                    - text: Park Assist system for confident maneuvering
+                    - text: Advanced traction and stability control systems
+                    - text: Safety Certified to Ontario standards
+                    - text: "Additional Benefits:"
+                    - text: Land Rover Certified Pre-Owned for added peace of mind
+                    - text: Clean Carfax Report no accidents
+                    - text: Fully inspected and reconditioned by factory-trained technicians
+                    - text: Competitive financing and extended warranty options available
+                    - text: Trade-ins welcome top market value offered
+                    - text: This 2023 Range Rover P530 SE SWB represents the pinnacle of luxury SUV engineering, blending iconic design, V8 performance, and advanced technology into one truly exceptional vehicle. Ideal for discerning drivers who demand comfort, power, and prestige without compromise.
+                    - text: Available now at Jaguar Land Rover Brampton.
+                    - text: Opportunities to own a Certified Pre-Owned V8 Range Rover at this value are rare. Contact us today to schedule your private viewing or test drive.
+                    - strong [ref=e898]: Safety inspection, Full detail & Carfax report included in price of vehicle
+                    - text: ">> FINANCE OR LEASING OPTIONS AT COMPETITIVE RATES"
+                    - text: "-Our Finance loans are open"
+                    - text: "-Finance Options May Be Available for up to 84 Months on select vehicles."
+                    - text: "> Got a vehicle to trade? Try us for the most competitive valuations in the GTA!"
+                    - text: This vehicle has been thoroughly inspected and reconditioned, and comes safety certified, ready for its next owner to enjoy! It also comes with a comprehensive background check through CarFax.
+                    - text: We are easily located just off the 410 at Mayfield on the Brampton Caledon Border.
+                    - text: Serving GTA, HAMILTON, TORONTO, HALTON REGION, BRAMPTON, MISSISAUGA, ETOBICOKE, NIAGRA, ST CATHERINES, GUELPH, MILTON, SCARBOUROUGH
+                    - text: Proud partners of ZANCHIN AUTO GROUP. Retailing vehicles in the GTA since 1973, REPSENTING 38 Dealerships, 19 Brands
+                    - text: "*Although every attempt is made to ensure the accuracy of the data above, due to the possibility of human error, we cannot guarantee the accuracy of the displayed information. Please contact the dealership for verification or if you would like more information on this vehicle*"
+              - generic [ref=e899]:
+                - generic [ref=e900]: Jaguar Land Rover Brampton
+                - generic [ref=e901]: Brampton, ON • 26 km from you
+            - article [ref=e902] [cursor=pointer]:
+              - generic [ref=e903]:
+                - button "Land Rover Range Rover P530 SE SWB" [ref=e906]:
+                  - heading "2023 Land Rover Range Rover P530 SE SWB" [level=2] [ref=e907]:
+                    - generic [ref=e908]: 2023 Land Rover Range Rover
+                    - generic [ref=e909]: P530 SE SWB
+                - generic [ref=e910]:
+                  - generic [ref=e912]:
+                    - paragraph [ref=e913]: $129,900
+                    - generic "Great price" [ref=e915]:
+                      - generic [ref=e916]: Great
+                      - text: price
+                  - table [ref=e917]:
+                    - cell "30,000 km" [ref=e918]:
+                      - img [ref=e919]
+                      - text: 30,000 km
+                    - cell "Automatic" [ref=e921]:
+                      - img [ref=e922]
+                      - text: Automatic
+                    - cell "Gas" [ref=e924]:
+                      - img [ref=e925]
+                      - text: Gas
+                  - generic [ref=e927]:
+                    - text: "*VIEWINGS BY APPOINTMENT ONLY*"
+                    - text: Just in! 2024 Land Rover Range Rover SE P530.
+                    - text: "Featuring: Clean CARFAX and 5 seat configuration."
+                    - text: Zauber International Leasing is home to some of the most exclusive vehicles across the world. We offer Sales, Leasing, and Financing on all our inventory, as well as competitive pricing on all trades. Be sure to act fast as our inventory is moving on a weekly basis. Please call or email for more info or you can visit us at 8635 Keele St. Unit 7 Concord, ON L4P 3P5.
+                    - text: "*VIEWINGS BY APPOINTMENT ONLY*"
+              - generic [ref=e929]:
+                - generic [ref=e930]: ZAUBER INTERNATIONAL LEASING
+                - generic [ref=e931]: Vaughan, ON • 31 km from you
+            - generic [ref=e932]:
+              - generic [ref=e933]: Do you want to be informed about new cars for your search?
+              - button "Save search" [ref=e934] [cursor=pointer]:
+                - generic [ref=e935]:
+                  - img [ref=e936]
+                  - text: Save search
+            - navigation "Pagination" [ref=e939]:
+              - list [ref=e940]:
+                - listitem:
+                  - button "Go to previous page" [disabled]:
+                    - img
+                    - paragraph: Previous
+                - listitem [ref=e941]:
+                  - button "Go to page 1" [ref=e942] [cursor=pointer]: "1"
+                - listitem [ref=e943]:
+                  - button "Go to page 2" [ref=e944] [cursor=pointer]: "2"
+                - listitem [ref=e945]:
+                  - button "Go to page 3" [ref=e946] [cursor=pointer]: "3"
+                - listitem [ref=e947]:
+                  - button "Go to page 4" [ref=e948] [cursor=pointer]: "4"
+                - listitem [ref=e949]:
+                  - button "Go to page 5" [ref=e950] [cursor=pointer]: "5"
+                - listitem [ref=e951]:
+                  - button "Go to page 6" [ref=e952] [cursor=pointer]: "6"
+                - listitem [ref=e953]:
+                  - button "Go to next page" [ref=e954] [cursor=pointer]:
+                    - paragraph [ref=e955]: Next
+                    - img [ref=e956]
+            - list [ref=e960]:
+              - listitem [ref=e961]:
+                - text: All information is deemed accurate but should be confirmed with the seller. Mileage reflects the reading at the time of listing. All applicable taxes and licensing fees are not included in the listed price. Vehicle images are representative “stock photos” and reflect the actual vehicle’s color, year, make, model, and trim. For complete details, please contact the dealer.
+                - text: "Disclaimer: This listing experience is currently in a beta phase and may be subject to updates or modifications."
+      - list [ref=e963]:
+        - listitem [ref=e964]:
+          - link "Home" [ref=e965] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e966]:
+          - link "Search" [ref=e967] [cursor=pointer]:
+            - /url: /lst
+        - listitem [ref=e968]:
+          - generic [ref=e969]: Land Rover
+    - generic [ref=e971]:
+      - button "Back to top" [ref=e974] [cursor=pointer]
+      - contentinfo [ref=e976]:
+        - generic [ref=e977]:
+          - generic [ref=e979]:
+            - generic [ref=e981]: About us
+            - list [ref=e983]:
+              - listitem [ref=e984]:
+                - link "TRADER Corporation((opens in a new window))" [ref=e985] [cursor=pointer]:
+                  - /url: http://go.trader.ca/
+                  - text: TRADER Corporation
+              - listitem [ref=e986]:
+                - link "Careers((opens in a new window))" [ref=e987] [cursor=pointer]:
+                  - /url: https://careers.trader.ca/
+                  - text: Careers
+              - listitem [ref=e988]:
+                - link "Privacy Policy((opens in a new window))" [ref=e989] [cursor=pointer]:
+                  - /url: https://www.autotrader.ca/privacy-statement
+                  - text: Privacy Policy
+          - generic [ref=e991]:
+            - generic [ref=e993]: Resources
+            - list [ref=e995]:
+              - listitem [ref=e996]:
+                - link "Vehicle Research((opens in a new window))" [ref=e997] [cursor=pointer]:
+                  - /url: https://www.autotrader.ca/research/
+                  - text: Vehicle Research
+              - listitem [ref=e998]:
+                - link "Car Dealer Locator((opens in a new window))" [ref=e999] [cursor=pointer]:
+                  - /url: https://www.autotrader.ca/dealersearch/
+                  - text: Car Dealer Locator
+              - listitem [ref=e1000]:
+                - link "Car Buying & Selling Tips((opens in a new window))" [ref=e1001] [cursor=pointer]:
+                  - /url: https://www.autotrader.ca/car-buying-and-selling-tips.aspx
+                  - text: Car Buying & Selling Tips
+              - listitem [ref=e1002]:
+                - link "Safety Tips((opens in a new window))" [ref=e1003] [cursor=pointer]:
+                  - /url: https://www.autotrader.ca/FraudProtectionTips/
+                  - text: Safety Tips
+              - listitem [ref=e1004]:
+                - link "Compare CPO((opens in a new window))" [ref=e1005] [cursor=pointer]:
+                  - /url: https://www.autotrader.ca/cpo
+                  - text: Compare CPO
+              - listitem [ref=e1006]:
+                - link "Dealer Services((opens in a new window))" [ref=e1007] [cursor=pointer]:
+                  - /url: https://www.autotrader.ca/dealer/signup/
+                  - text: Dealer Services
+          - generic [ref=e1008]:
+            - generic [ref=e1009]:
+              - generic [ref=e1011]: Partners
+              - list [ref=e1013]:
+                - listitem [ref=e1014]:
+                  - link "Autohebdo.net((opens in a new window))" [ref=e1015] [cursor=pointer]:
+                    - /url: https://www.autohebdo.net/
+                    - text: Autohebdo.net
+            - generic [ref=e1016]:
+              - generic [ref=e1018]: Customer Support
+              - list [ref=e1020]:
+                - listitem [ref=e1021]:
+                  - link "FAQ((opens in a new window))" [ref=e1022] [cursor=pointer]:
+                    - /url: https://www.autotrader.ca/faq
+                    - text: FAQ
+                - listitem [ref=e1023]:
+                  - link "AdChoices((opens in a new window))" [ref=e1024] [cursor=pointer]:
+                    - /url: https://optout.aboutads.info/
+                    - text: AdChoices
+                - listitem [ref=e1025]:
+                  - link "Elections Ads Registry((opens in a new window))" [ref=e1026] [cursor=pointer]:
+                    - /url: https://autotrader.politicaladregistry.com/
+                    - text: Elections Ads Registry
+                - listitem [ref=e1027]:
+                  - link "Contact Us((opens in a new window))" [ref=e1028] [cursor=pointer]:
+                    - /url: https://www.autotrader.ca/general/info/ContactUs.aspx
+                    - text: Contact Us
+        - generic [ref=e1029]:
+          - generic [ref=e1030]: Stay in touch
+          - list [ref=e1031]:
+            - listitem [ref=e1032]:
+              - link "AutoTrader for iOS (opens in a new window)" [ref=e1033] [cursor=pointer]:
+                - /url: https://apps.apple.com/ca/app/autotrader-buy-sell-cars/id368660809
+                - text: AutoTrader for iOS
+            - listitem [ref=e1034]:
+              - link "AutoTrader for Android (opens in a new window)" [ref=e1035] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=ca.autotrader.userapp
+                - text: AutoTrader for Android
+          - list [ref=e1036]:
+            - listitem [ref=e1037] [cursor=pointer]:
+              - button "AutoTrader facebook_autotrader" [ref=e1038]
+            - listitem [ref=e1039] [cursor=pointer]:
+              - button "AutoTrader x_autotrader" [ref=e1040]
+            - listitem [ref=e1041] [cursor=pointer]:
+              - button "AutoTrader instagram_autotrader" [ref=e1042]
+            - listitem [ref=e1043] [cursor=pointer]:
+              - button "AutoTrader youtube_autotrader" [ref=e1044]
+            - listitem [ref=e1045] [cursor=pointer]:
+              - button "AutoTrader tiktok_autotrader" [ref=e1046]
+        - generic [ref=e1047]:
+          - generic [ref=e1048]:
+            - generic [ref=e1049]: © Copyright 2026 TRADER Corporation.
+            - generic [ref=e1050]: All rights reserved. All other trademarks are the property of their respective owners.
+          - link "AutoTrader.ca (opens in a new window)" [ref=e1052] [cursor=pointer]:
+            - /url: https://www.autotrader.ca
+            - img "AutoTrader.ca (opens in a new window)" [ref=e1053]
+  - alert [ref=e1054]

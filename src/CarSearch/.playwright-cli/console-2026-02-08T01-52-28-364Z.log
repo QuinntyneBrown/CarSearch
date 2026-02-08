@@ -1,0 +1,35 @@
+[     334ms] [WARNING] <link rel=preload> uses an unsupported `as` value @ https://coventrynorthlandrover.com/pre-owned-inventory/:127
+[     562ms] [ERROR] Refused to execute script from 'https://coventrynorthlandrover.com/' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://coventrynorthlandrover.com/pre-owned-inventory/:0
+[     646ms] [WARNING] LBX: lastUpdate session storage not found @ https://coventrynorthlandrover.com/wp-content/themes/lbx-iag/public/scripts/app.js?id=17e3c0fabf5064e46a8d4401afddb4a0:0
+[     726ms] [WARNING] LBX: Inv has no response or 5 mins has passed or no lastUpdateInventoryJSON @ https://coventrynorthlandrover.com/wp-content/themes/lbx-iag/public/scripts/app.js?id=17e3c0fabf5064e46a8d4401afddb4a0:0
+[     895ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js:0
+[     921ms] SyntaxError: Identifier 'observer' has already been declared
+    at <anonymous>:1:1
+    at https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:909:429
+    at aR (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:911:31)
+    at Od.$Q (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:908:85)
+    at Od.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:314:187)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:243:466)
+    at nb (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:205:209)
+    at mb (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:204:527)
+    at Od.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:267:473)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:243:466)
+[    1468ms] [ERROR] Attestation check for Attribution Reporting on https://www.google-analytics.com failed. @ https://coventrynorthlandrover.com/pre-owned-inventory/:0
+[    1570ms] [WARNING] [Meta Pixel] - Invalid PixelID: null. @ https://connect.facebook.net/en_US/fbevents.js:171
+[    1572ms] [WARNING] [Meta Pixel] - You are sending a non-standard event 'DAP SRP'. The preferred way to send these events is using trackCustom. See 'https://developers.facebook.com/docs/ads-for-websites/pixel-events/#events' for more information. @ https://connect.facebook.net/en_US/fbevents.js:171
+[    7417ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    7459ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/9ca77d042cbd8631/1770515554218/8e6624c5e8b031be6010fdd79b663099b1df06f827f5a1ab32ef25439703a2fe/kUiYWvnPIIMYOor:0
+[    7546ms] [ERROR]  Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    7730ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    7730ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    7731ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    7731ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    8066ms] [WARNING] [Cloudflare Turnstile] Error: 600010. @ https://chat.matador.ai/assets/index-CFlNOWvb.js:3
+[   11114ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rchpR.LxYrPTVRDhrk_SXMPputHwGnfcr7xZUrmUQAThHc-1770515553-1.3.1.1-2NiVLX3nHzaXWTl0UxYmWV0131z42SZ1SC8wDuCtfS4/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/api/normal?lang=auto:0
+[   11162ms] [ERROR]  Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rchpR.LxYrPTVRDhrk_SXMPputHwGnfcr7xZUrmUQAThHc-1770515553-1.3.1.1-2NiVLX3nHzaXWTl0UxYmWV0131z42SZ1SC8wDuCtfS4/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/api/normal?lang=auto:0
+[   11297ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rchpR.LxYrPTVRDhrk_SXMPputHwGnfcr7xZUrmUQAThHc-1770515553-1.3.1.1-2NiVLX3nHzaXWTl0UxYmWV0131z42SZ1SC8wDuCtfS4/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/api/normal?lang=auto:0
+[   11297ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rchpR.LxYrPTVRDhrk_SXMPputHwGnfcr7xZUrmUQAThHc-1770515553-1.3.1.1-2NiVLX3nHzaXWTl0UxYmWV0131z42SZ1SC8wDuCtfS4/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/api/normal?lang=auto:0
+[   11298ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rchpR.LxYrPTVRDhrk_SXMPputHwGnfcr7xZUrmUQAThHc-1770515553-1.3.1.1-2NiVLX3nHzaXWTl0UxYmWV0131z42SZ1SC8wDuCtfS4/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/api/normal?lang=auto:0
+[   11298ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rchpR.LxYrPTVRDhrk_SXMPputHwGnfcr7xZUrmUQAThHc-1770515553-1.3.1.1-2NiVLX3nHzaXWTl0UxYmWV0131z42SZ1SC8wDuCtfS4/5iclb/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/api/normal?lang=auto:0
+[   11537ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/9ca77d1d5e0c8631/1770515558203/060fe4371f3f1fb0f9def958228b8e685b35295fd33e005a4e2064f6cc78c481/KC_-AT70_9jELAt:0
+[   11938ms] [WARNING] [Cloudflare Turnstile] Error: 600010. @ https://chat.matador.ai/assets/index-CFlNOWvb.js:3

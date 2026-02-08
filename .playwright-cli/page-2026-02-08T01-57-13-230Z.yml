@@ -1,0 +1,2293 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link " Service Appointment" [ref=e6] [cursor=pointer]:
+        - /url: /requests/service-appointment.html
+        - generic [ref=e7]: 
+        - text: Service Appointment
+      - generic [ref=e8]:
+        - link "Mercedes-Benz Mississauga Logo" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - img "Mercedes-Benz Mississauga" [ref=e12]
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Mercedes-Benz Mississauga" [level=3] [ref=e16]
+            - link "6120 Mavis Rd., Mississauga, ON, L5V 2X4. Google Map opens in a new tab" [ref=e18] [cursor=pointer]:
+              - /url: https://www.google.ca/maps/dir/?api=1&destination=Mercedes-Benz%2BMississauga%2C6120+Mavis+Rd.%2CMississauga%2CON%2CL5V+2X4&destination_place_id=ChIJxRHuG_VAK4gRd7ynxM38-fs&hl=en&t=m&z=16&ie=UTF8
+              - generic [ref=e19]:
+                - img [ref=e20]
+                - text: 6120 Mavis Rd., Mississauga, ON, L5V 2X4
+          - generic [ref=e23]:
+            - text: "General:"
+            - link "905 363-3322" [ref=e25] [cursor=pointer]:
+              - /url: tel:905 363-3322
+      - list [ref=e30]:
+        - listitem [ref=e31]:
+          - link "ABOUT US" [ref=e32] [cursor=pointer]:
+            - /url: /contactus.html
+          - text:  
+        - listitem [ref=e33]:
+          - link "SERVICE & PARTS" [ref=e34] [cursor=pointer]:
+            - /url: /mercedes-benz-services.html
+        - listitem [ref=e35]:
+          - link "OFFERS" [ref=e36] [cursor=pointer]:
+            - /url: /our-promotions.html
+        - listitem [ref=e37]:
+          - link "FINANCING" [ref=e38] [cursor=pointer]:
+            - /url: /requests/credit.html
+        - listitem [ref=e39]:
+          - link "DEMO VEHICLES" [ref=e40] [cursor=pointer]:
+            - /url: /demos/search.html
+        - listitem [ref=e41]:
+          - link "VAN CENTRE" [ref=e42] [cursor=pointer]:
+            - /url: /new/commercial.html
+        - listitem [ref=e43]:
+          - link "ELECTRIC" [ref=e44] [cursor=pointer]:
+            - /url: /mercedes-benz-all-electric-vehicles.html
+        - listitem [ref=e45]:
+          - link "PRE-OWNED" [ref=e46] [cursor=pointer]:
+            - /url: /used/search.html
+        - listitem [ref=e47]:
+          - link "NEW VEHICLES" [ref=e48] [cursor=pointer]:
+            - /url: /new/new.html
+    - generic [ref=e50]:
+      - combobox "Make" [ref=e53]:
+        - option "My car" [selected]
+        - option "Acura"
+        - option "Alfa Romeo"
+        - option "Audi"
+        - option "BMW"
+        - option "BrightDrop"
+        - option "Buick"
+        - option "Cadillac"
+        - option "Chevrolet"
+        - option "Chrysler"
+        - option "Dodge"
+        - option "FIAT"
+        - option "Ford"
+        - option "Genesis"
+        - option "GMC"
+        - option "Honda"
+        - option "HUMMER"
+        - option "Hyundai"
+        - option "INEOS"
+        - option "INFINITI"
+        - option "Isuzu"
+        - option "Jaguar"
+        - option "Jeep"
+        - option "Kia"
+        - option "Land Rover"
+        - option "Lexus"
+        - option "Lincoln"
+        - option "Lucid"
+        - option "Maserati"
+        - option "Mazda"
+        - option "Mercedes-Benz"
+        - option "Mercury"
+        - option "MINI"
+        - option "Mitsubishi"
+        - option "Nissan"
+        - option "Oldsmobile"
+        - option "Plymouth"
+        - option "Polestar"
+        - option "Pontiac"
+        - option "Porsche"
+        - option "Ram"
+        - option "Rivian"
+        - option "Saab"
+        - option "Saturn"
+        - option "Scion"
+        - option "smart"
+        - option "Subaru"
+        - option "Suzuki"
+        - option "Tesla"
+        - option "Toyota"
+        - option "VinFast"
+        - option "Volkswagen"
+        - option "Volvo"
+      - combobox "Year" [ref=e56]:
+        - option [selected]
+      - combobox "Model" [ref=e59]
+      - combobox "Trim Level" [ref=e62]
+      - button "Value My Trade!" [ref=e63] [cursor=pointer]:
+        - generic [ref=e64]: 
+        - generic [ref=e65]: Value My Trade!
+      - generic [ref=e2150]:
+        - generic [ref=e2151]: Value your Trade for Free Online!
+        - img "accutrade logo en" [ref=e2152]
+  - generic [ref=e66]:
+    - generic [ref=e69]:
+      - link "Home" [ref=e3899] [cursor=pointer]:
+        - /url: /eng/
+      - text: » Mercedes-Benz for Sale
+    - generic [ref=e75]:
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - heading "Mercedes-Benz for Sale in Mississauga" [level=1] [ref=e2184]:
+            - generic [ref=e81]: 
+            - generic [ref=e82]:
+              - generic [ref=e83]: Mercedes-Benz for Sale
+              - generic [ref=e84]: in Mississauga
+          - generic:
+            - generic [ref=e86] [cursor=pointer]: 
+            - text: 
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]:
+            - generic [ref=e90]: "Sort order:"
+            - generic [ref=e91]: House make first
+          - generic [ref=e93]: 
+      - option "12 Month" [selected]
+      - option "24 Month"
+      - option "36 Month"
+      - option "48 Month"
+      - option "60 Month"
+      - option "72 Month"
+      - option "84 Month"
+      - option "96 Month"
+      - option "Monthly" [selected]
+      - option "Bi-weekly"
+      - option "Weekly"
+      - text:  $
+      - generic [ref=e94]:
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - generic:
+                - generic:
+                  - generic [ref=e100]: Search
+                  - generic [ref=e105]:
+                    - textbox "Trim, Cyl., Trans., etc..." [ref=e106]
+                    - generic [ref=e107]: "0"
+            - generic [ref=e109]:
+              - generic:
+                - button "Category " [ref=e112] [cursor=pointer]:
+                  - generic [ref=e113]: Category
+                  - generic [ref=e115]: 
+                - generic [ref=e116]: clear
+                - generic [ref=e117]:
+                  - list [ref=e120]:
+                    - listitem "Used vehicles" [ref=e121] [cursor=pointer]:
+                      - button "Pre-Owned vehicles 23" [ref=e3900]:
+                        - generic [ref=e123]: Pre-Owned vehicles
+                        - generic [ref=e124]: "23"
+                    - listitem "Demo vehicles" [ref=e125] [cursor=pointer]:
+                      - button "Demo vehicles 13" [ref=e3901]:
+                        - generic [ref=e127]: Demo vehicles
+                        - generic [ref=e128]: "13"
+                    - listitem "New Inventory" [ref=e129] [cursor=pointer]:
+                      - button "New Inventory 223" [ref=e3902]:
+                        - generic [ref=e131]: New Inventory
+                        - generic [ref=e132]: "223"
+                  - generic [ref=e133]:
+                    - generic [ref=e134]: "Show only:"
+                    - generic [ref=e135]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - list: 
+                    - list [ref=e140]:
+                      - listitem "Certified vehicles" [ref=e141] [cursor=pointer]:
+                        - button " Certified vehicles 21" [ref=e3903]:
+                          - generic [ref=e143]: 
+                          - generic [ref=e144]: Certified vehicles
+                          - generic [ref=e145]: "21"
+                    - generic [ref=e146]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - list: 
+            - generic [ref=e147]:
+              - generic [ref=e149]: Body Type
+              - list [ref=e153]:
+                - listitem "Cars" [ref=e154]:
+                  - generic [ref=e155]:
+                    - button " Cars" [ref=e156] [cursor=pointer]:
+                      - generic [ref=e157]: 
+                      - text: Cars
+                    - generic [ref=e158]: "6"
+                - text:  
+                - listitem "Convert." [ref=e159] [cursor=pointer]:
+                  - generic [ref=e160]:
+                    - button " Convert." [ref=e161]:
+                      - generic [ref=e162]: 
+                      - text: Convert.
+                    - generic [ref=e163]: "0"
+                - text: 
+                - listitem "Commerc." [ref=e164]:
+                  - generic [ref=e165]:
+                    - button " Commerc." [ref=e166] [cursor=pointer]:
+                      - generic [ref=e167]: 
+                      - text: Commerc.
+                    - generic [ref=e168]: "11"
+                - listitem "SUV" [ref=e169]:
+                  - generic [ref=e170]:
+                    - button " SUV" [ref=e171] [cursor=pointer]:
+                      - generic [ref=e172]: 
+                      - text: SUV
+                    - generic [ref=e173]: "19"
+            - generic [ref=e175]:
+              - generic:
+                - button "Brand " [ref=e178] [cursor=pointer]:
+                  - generic [ref=e179]: Brand
+                  - generic [ref=e181]: 
+                - generic [ref=e182]: clear
+                - list [ref=e186]:
+                  - listitem "Mercedes-Benz" [ref=e187] [cursor=pointer]:
+                    - button "Mercedes-Benz 36" [ref=e3904]:
+                      - generic [ref=e189]: Mercedes-Benz
+                      - generic [ref=e190]: "36"
+                  - listitem "RAM" [ref=e191] [cursor=pointer]:
+                    - button "RAM 1" [ref=e192]:
+                      - generic [ref=e193]: RAM
+                      - generic [ref=e194]: "1"
+            - generic [ref=e195]:
+              - generic [ref=e197]: 
+              - generic [ref=e198]:
+                - generic:
+                  - button "Model " [ref=e201] [cursor=pointer]:
+                    - generic [ref=e202]: Model
+                    - generic [ref=e204]: 
+                  - list [ref=e2189]:
+                    - listitem [ref=e2190] [cursor=pointer]: Mercedes-Benz
+                    - listitem "A 220" [ref=e2191] [cursor=pointer]:
+                      - button "A 220 0" [ref=e3905]:
+                        - generic [ref=e2193]: A 220
+                        - generic [ref=e2194]: "0"
+                    - listitem "A 35 AMG" [ref=e2195] [cursor=pointer]:
+                      - button "A 35 AMG 0" [ref=e3906]:
+                        - generic [ref=e2197]: A 35 AMG
+                        - generic [ref=e2198]: "0"
+                    - listitem "AMG GT" [ref=e2199] [cursor=pointer]:
+                      - button "AMG GT 0" [ref=e3907]:
+                        - generic [ref=e2201]: AMG GT
+                        - generic [ref=e2202]: "0"
+                    - listitem "C 300" [ref=e2203] [cursor=pointer]:
+                      - button "C 300 1" [ref=e3908]:
+                        - generic [ref=e2205]: C 300
+                        - generic [ref=e2206]: "1"
+                    - listitem "CLA 250" [ref=e2207] [cursor=pointer]:
+                      - button "CLA 250 1" [ref=e3909]:
+                        - generic [ref=e2209]: CLA 250
+                        - generic [ref=e2210]: "1"
+                    - listitem "CLA 35 AMG" [ref=e2211] [cursor=pointer]:
+                      - button "CLA 35 AMG 1" [ref=e3910]:
+                        - generic [ref=e2213]: CLA 35 AMG
+                        - generic [ref=e2214]: "1"
+                    - listitem "CLA 45 AMG" [ref=e2215] [cursor=pointer]:
+                      - button "CLA 45 AMG 1" [ref=e2216]:
+                        - generic [ref=e2217]: CLA 45 AMG
+                        - generic [ref=e2218]: "1"
+                    - listitem "E 350" [ref=e2219] [cursor=pointer]:
+                      - button "E 350 0" [ref=e3911]:
+                        - generic [ref=e2221]: E 350
+                        - generic [ref=e2222]: "0"
+                    - listitem "E 450" [ref=e2223] [cursor=pointer]:
+                      - button "E 450 2" [ref=e3912]:
+                        - generic [ref=e2225]: E 450
+                        - generic [ref=e2226]: "2"
+                    - listitem "EQB 300" [ref=e2227] [cursor=pointer]:
+                      - button "EQB 300 0" [ref=e3913]:
+                        - generic [ref=e2229]: EQB 300
+                        - generic [ref=e2230]: "0"
+                    - listitem "EQE" [ref=e2231] [cursor=pointer]:
+                      - button "EQE 0" [ref=e3914]:
+                        - generic [ref=e2233]: EQE
+                        - generic [ref=e2234]: "0"
+                    - listitem "EQS" [ref=e2235] [cursor=pointer]:
+                      - button "EQS 0" [ref=e3915]:
+                        - generic [ref=e2237]: EQS
+                        - generic [ref=e2238]: "0"
+                    - listitem "EQS 580" [ref=e2239] [cursor=pointer]:
+                      - button "EQS 580 1" [ref=e2240]:
+                        - generic [ref=e2241]: EQS 580
+                        - generic [ref=e2242]: "1"
+                    - listitem "G 63 AMG" [ref=e2243] [cursor=pointer]:
+                      - button "G 63 AMG 0" [ref=e3916]:
+                        - generic [ref=e2245]: G 63 AMG
+                        - generic [ref=e2246]: "0"
+                    - listitem "GLA 250" [ref=e2247] [cursor=pointer]:
+                      - button "GLA 250 0" [ref=e3917]:
+                        - generic [ref=e2249]: GLA 250
+                        - generic [ref=e2250]: "0"
+                    - listitem "GLB 250" [ref=e2251] [cursor=pointer]:
+                      - button "GLB 250 2" [ref=e3918]:
+                        - generic [ref=e2253]: GLB 250
+                        - generic [ref=e2254]: "2"
+                    - listitem "GLB 35 AMG" [ref=e2255] [cursor=pointer]:
+                      - button "GLB 35 AMG 2" [ref=e3919]:
+                        - generic [ref=e2257]: GLB 35 AMG
+                        - generic [ref=e2258]: "2"
+                    - listitem "GLC" [ref=e2259] [cursor=pointer]:
+                      - button "GLC 0" [ref=e3920]:
+                        - generic [ref=e2261]: GLC
+                        - generic [ref=e2262]: "0"
+                    - listitem "GLC 300" [ref=e2263] [cursor=pointer]:
+                      - button "GLC 300 4" [ref=e3921]:
+                        - generic [ref=e2265]: GLC 300
+                        - generic [ref=e2266]: "4"
+                    - listitem "GLC 350e" [ref=e2267] [cursor=pointer]:
+                      - button "GLC 350e 0" [ref=e3922]:
+                        - generic [ref=e2269]: GLC 350e
+                        - generic [ref=e2270]: "0"
+                    - listitem "GLC 43 AMG" [ref=e2271] [cursor=pointer]:
+                      - button "GLC 43 AMG 1" [ref=e3923]:
+                        - generic [ref=e2273]: GLC 43 AMG
+                        - generic [ref=e2274]: "1"
+                    - listitem "GLE 350" [ref=e2275] [cursor=pointer]:
+                      - button "GLE 350 5" [ref=e3924]:
+                        - generic [ref=e2277]: GLE 350
+                        - generic [ref=e2278]: "5"
+                    - listitem "GLE 450" [ref=e2279] [cursor=pointer]:
+                      - button "GLE 450 2" [ref=e3925]:
+                        - generic [ref=e2281]: GLE 450
+                        - generic [ref=e2282]: "2"
+                    - listitem "GLE 450e" [ref=e2283] [cursor=pointer]:
+                      - button "GLE 450e 1" [ref=e3926]:
+                        - generic [ref=e2285]: GLE 450e
+                        - generic [ref=e2286]: "1"
+                    - listitem "GLE 63 AMG" [ref=e2287] [cursor=pointer]:
+                      - button "GLE 63 AMG 0" [ref=e3927]:
+                        - generic [ref=e2289]: GLE 63 AMG
+                        - generic [ref=e2290]: "0"
+                    - listitem "GLS 450" [ref=e2291] [cursor=pointer]:
+                      - button "GLS 450 1" [ref=e3928]:
+                        - generic [ref=e2293]: GLS 450
+                        - generic [ref=e2294]: "1"
+                    - listitem "Maybach" [ref=e2295] [cursor=pointer]:
+                      - button "Maybach 0" [ref=e3929]:
+                        - generic [ref=e2297]: Maybach
+                        - generic [ref=e2298]: "0"
+                    - listitem "Metris" [ref=e2299] [cursor=pointer]:
+                      - button "Metris 0" [ref=e3930]:
+                        - generic [ref=e2301]: Metris
+                        - generic [ref=e2302]: "0"
+                    - listitem "S 560" [ref=e2303] [cursor=pointer]:
+                      - button "S 560 0" [ref=e3931]:
+                        - generic [ref=e2305]: S 560
+                        - generic [ref=e2306]: "0"
+                    - listitem "Sprinter" [ref=e2307] [cursor=pointer]:
+                      - button "Sprinter 7" [ref=e2308]:
+                        - generic [ref=e2309]: Sprinter
+                        - generic [ref=e2310]: "7"
+                    - listitem "Sprinter 2500 Cargo" [ref=e2311] [cursor=pointer]:
+                      - button "Sprinter 2500 Cargo 3" [ref=e2312]:
+                        - generic [ref=e2313]: Sprinter 2500 Cargo
+                        - generic [ref=e2314]: "3"
+                    - listitem "Sprinter 3500 Cargo" [ref=e2315] [cursor=pointer]:
+                      - button "Sprinter 3500 Cargo 1" [ref=e2316]:
+                        - generic [ref=e2317]: Sprinter 3500 Cargo
+                        - generic [ref=e2318]: "1"
+            - generic [ref=e206]:
+              - generic [ref=e208]: 
+              - button "Trim " [ref=e212]:
+                - generic [ref=e213]: Trim
+                - generic [ref=e215]: 
+            - generic [ref=e217]:
+              - generic [ref=e219]: Year
+              - generic [ref=e223]:
+                - generic [ref=e224]:
+                  - spinbutton [ref=e225]: "2018"
+                  - spinbutton [ref=e226]: "2026"
+                - generic [ref=e227]:
+                  - slider: "2018"
+                  - slider: "2026"
+                  - generic [ref=e229]: 2020 - 2026 (36)
+            - generic [ref=e230]:
+              - generic [ref=e232]: Price
+              - generic [ref=e236]:
+                - generic [ref=e237]:
+                  - spinbutton [ref=e238]: "33000"
+                  - spinbutton [ref=e239]: "326000"
+                - generic [ref=e240]:
+                  - slider: "33000"
+                  - slider: "326000"
+                  - generic [ref=e242]: $39,000 - $146,000 (36)
+            - generic [ref=e243]:
+              - generic [ref=e245]: Mileage
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - textbox [disabled] [ref=e251]: 0km
+                  - textbox [disabled] [ref=e252]: 190,000km
+                - generic [ref=e253]:
+                  - slider: "0"
+                  - slider: "190000"
+                  - generic [ref=e255]: 0km - 190,000km (36)
+            - button "Transmission " [ref=e260] [cursor=pointer]:
+              - generic [ref=e261]: Transmission
+              - generic [ref=e263]: 
+            - button "Powertrain " [ref=e269] [cursor=pointer]:
+              - generic [ref=e270]: Powertrain
+              - generic [ref=e272]: 
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - generic [ref=e276]: Ext. Colors
+                - generic [ref=e277]: clear
+              - list [ref=e280]:
+                - listitem "Black" [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283]:
+                    - generic [ref=e287]: 
+                    - generic [ref=e288]: "36"
+                - listitem "Grey" [ref=e289] [cursor=pointer]:
+                  - generic [ref=e291]:
+                    - generic [ref=e295]: 
+                    - generic [ref=e296]: "16"
+                - listitem "Silver" [ref=e297] [cursor=pointer]:
+                  - generic [ref=e299]:
+                    - generic [ref=e303]: 
+                    - generic [ref=e304]: "10"
+                - listitem "White" [ref=e305] [cursor=pointer]:
+                  - generic [ref=e307]:
+                    - generic [ref=e311]: 
+                    - generic [ref=e312]: "36"
+                - listitem "Blue" [ref=e313] [cursor=pointer]:
+                  - generic [ref=e315]:
+                    - generic [ref=e319]: 
+                    - generic [ref=e320]: "3"
+                - text:          
+                - listitem "Other" [ref=e321] [cursor=pointer]:
+                  - generic [ref=e323]:
+                    - generic [ref=e327]: 
+                    - generic [ref=e328]: "1"
+            - generic [ref=e330]:
+              - generic:
+                - button "Fuel " [ref=e333] [cursor=pointer]:
+                  - generic [ref=e334]: Fuel
+                  - generic [ref=e336]: 
+                - text: 
+            - button "Options " [ref=e342] [cursor=pointer]:
+              - generic [ref=e343]: Options
+              - generic [ref=e345]: 
+            - button "Doors " [ref=e351] [cursor=pointer]:
+              - generic [ref=e352]: Doors
+              - generic [ref=e354]: 
+            - button "Passengers " [ref=e360] [cursor=pointer]:
+              - generic [ref=e361]: Passengers
+              - generic [ref=e363]: 
+            - button "Engine " [ref=e369] [cursor=pointer]:
+              - generic [ref=e370]: Engine
+              - generic [ref=e372]: 
+            - button "New Arrivals " [ref=e378] [cursor=pointer]:
+              - generic [ref=e379]: New Arrivals
+              - generic [ref=e381]: 
+            - button "Delivery Status " [ref=e387] [cursor=pointer]:
+              - generic [ref=e388]: Delivery Status
+              - generic [ref=e390]: 
+          - generic [ref=e2321] [cursor=pointer]:
+            - emphasis [ref=e2322]: 
+            - generic [ref=e2323]:
+              - generic [ref=e2324]: "36"
+              - generic [ref=e2325]: Results
+        - generic [ref=e392]:
+          - list [ref=e394]:
+            - listitem [ref=e395] [cursor=pointer]:
+              - button "Remove filters" [ref=e396]:
+                - generic [ref=e397]: Remove filters
+            - listitem [ref=e398] [cursor=pointer]:
+              - button "Demo vehicles " [ref=e399]:
+                - generic [ref=e400]: Demo vehicles
+                - generic [ref=e402]: 
+            - listitem [ref=e403] [cursor=pointer]:
+              - button "Pre-Owned vehicles " [ref=e404]:
+                - generic [ref=e405]: Pre-Owned vehicles
+                - generic [ref=e407]: 
+            - listitem [ref=e2326] [cursor=pointer]:
+              - button "Mercedes-Benz " [ref=e2327]:
+                - generic [ref=e2328]: Mercedes-Benz
+                - generic [ref=e2330]: 
+            - listitem [ref=e3932] [cursor=pointer]:
+              - button "White " [ref=e3933]:
+                - generic [ref=e3934]: White
+                - generic [ref=e3936]: 
+          - generic [ref=e408]:
+            - list [ref=e3937]:
+              - listitem [ref=e3938]:
+                - generic [ref=e3940]:
+                  - generic [ref=e3942]:
+                    - generic [ref=e3943]:
+                      - generic [ref=e3944]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3945]:
+                    - link "Mercedes-Benz Sprinter 2500 Cargo 2021":
+                      - /url: /used/2021-Mercedes_Benz-Sprinter_2500_Cargo-id13360980.html
+                      - img "Mercedes-Benz Sprinter 2500 Cargo 2021" [ref=e3946] [cursor=pointer]
+                    - generic [ref=e3947]:
+                      - text: "Stock: SP25403008A"
+                      - text: "VIN: W1Y4DBHY8MP412946"
+                  - generic [ref=e3948]:
+                    - generic [ref=e3952] [cursor=pointer]:
+                      - generic [ref=e3953]: 
+                      - generic [ref=e3954]: Finance it!
+                    - generic [ref=e3956]:
+                      - link "Mercedes-Benz 2021 Sprinter 2500 Cargo in Mississauga" [ref=e3957] [cursor=pointer]:
+                        - /url: /used/2021-Mercedes_Benz-Sprinter_2500_Cargo-id13360980.html
+                        - generic [ref=e3958]:
+                          - generic [ref=e3959]: Mercedes-Benz
+                          - generic [ref=e3960]: 2021 Sprinter 2500 Cargo
+                          - generic [ref=e3961]: in Mississauga
+                      - generic [ref=e3962]:
+                        - text: 39,998 $
+                        - generic [ref=e3963]: "*Taxes & licenses not included."
+                        - generic [ref=e3965] [cursor=pointer]: 
+                    - generic [ref=e3967]:
+                      - generic [ref=e3968]: "110,000 KM. Auto., Ext: White,"
+                      - generic [ref=e3969]: 
+                    - link "Carfax" [ref=e3973] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=HRrIwC/NSsQg5J9Bycmb7UJAXjVRG+Ty
+                      - img "Carfax" [ref=e3974]
+              - listitem [ref=e3975]:
+                - generic [ref=e3977]:
+                  - generic [ref=e3979]:
+                    - generic [ref=e3980]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e3981]:
+                    - link "Mercedes-Benz Sprinter 2020":
+                      - /url: /used/2020-Mercedes_Benz-Sprinter-id13345840.html
+                      - img "Mercedes-Benz Sprinter 2020" [ref=e3982] [cursor=pointer]
+                    - generic [ref=e3983]:
+                      - text: "Stock: SP25502391A"
+                      - text: "VIN: W1Y4EBHY2LP293111"
+                  - generic [ref=e3984]:
+                    - generic [ref=e3988] [cursor=pointer]:
+                      - generic [ref=e3989]: 
+                      - generic [ref=e3990]: Finance it!
+                    - generic [ref=e3992]:
+                      - link "Mercedes-Benz 2020 Sprinter in Mississauga" [ref=e3993] [cursor=pointer]:
+                        - /url: /used/2020-Mercedes_Benz-Sprinter-id13345840.html
+                        - generic [ref=e3994]:
+                          - generic [ref=e3995]: Mercedes-Benz
+                          - generic [ref=e3996]: 2020 Sprinter
+                          - generic [ref=e3997]: in Mississauga
+                      - generic [ref=e3998]:
+                        - text: 40,997 $
+                        - generic [ref=e3999]: "*Taxes & licenses not included."
+                        - generic [ref=e4001] [cursor=pointer]: 
+                    - generic [ref=e4003]:
+                      - generic [ref=e4004]: "127,308 KM. Auto., Ext: White,"
+                      - generic [ref=e4005]: 
+                    - link "Carfax" [ref=e4009] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=NvGGphN2/ROg/7L7PkQ2yTto3M5QC4hG
+                      - img "Carfax" [ref=e4010]
+              - listitem [ref=e4011]:
+                - generic [ref=e4013]:
+                  - generic [ref=e4015]:
+                    - generic [ref=e4016]:
+                      - generic [ref=e4017]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4018]:
+                    - link "Mercedes-Benz GLC 300 2022":
+                      - /url: /used/2022-Mercedes_Benz-GLC_300-id13392788.html
+                      - img "Mercedes-Benz GLC 300 2022" [ref=e4019] [cursor=pointer]
+                    - generic [ref=e4020]:
+                      - text: "Stock: MP4601508"
+                      - text: "VIN: W1N0G8EB5NV392660"
+                  - generic [ref=e4021]:
+                    - generic [ref=e4025] [cursor=pointer]:
+                      - generic [ref=e4026]: 
+                      - generic [ref=e4027]: Finance it!
+                    - generic [ref=e4029]:
+                      - link "Mercedes-Benz 2022 GLC 300 4matic Suv in Mississauga" [ref=e4030] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-GLC_300-id13392788.html
+                        - generic [ref=e4031]:
+                          - generic [ref=e4032]: Mercedes-Benz
+                          - generic [ref=e4033]: 2022 GLC 300
+                          - generic [ref=e4034]: 4matic Suv
+                          - generic [ref=e4035]: in Mississauga
+                      - generic [ref=e4036]:
+                        - text: 44,800 $
+                        - generic [ref=e4037]: "*Taxes & licenses not included."
+                        - generic [ref=e4039] [cursor=pointer]: 
+                    - generic [ref=e4041]:
+                      - generic [ref=e4042]: "17,310 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4043]: 
+                    - link "Carfax" [ref=e4047] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=+jtl1PEJVOzjCO8y5ZNbwha1WeH+KMfH
+                      - img "Carfax" [ref=e4048]
+                    - img "Mercedes-benz Certified" [ref=e4053]
+              - listitem [ref=e4054]:
+                - generic [ref=e4056]:
+                  - generic [ref=e4058]:
+                    - generic [ref=e4059]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4060]:
+                    - link "2021 Mercedes-Benz Sprinter Cargo Van in Mississauga":
+                      - /url: /used/2021-Mercedes_Benz-Sprinter-id13341084.html
+                    - generic [ref=e4061]:
+                      - text: "Stock: SP25503208A"
+                      - text: "VIN: W1Y4EBVY4MP410208"
+                  - generic [ref=e4062]:
+                    - generic [ref=e4066] [cursor=pointer]:
+                      - generic [ref=e4067]: 
+                      - generic [ref=e4068]: Finance it!
+                    - generic [ref=e4070]:
+                      - link "Mercedes-Benz 2021 Sprinter in Mississauga" [ref=e4071] [cursor=pointer]:
+                        - /url: /used/2021-Mercedes_Benz-Sprinter-id13341084.html
+                        - generic [ref=e4072]:
+                          - generic [ref=e4073]: Mercedes-Benz
+                          - generic [ref=e4074]: 2021 Sprinter
+                          - generic [ref=e4075]: in Mississauga
+                      - generic [ref=e4076]:
+                        - text: 46,997 $
+                        - generic [ref=e4077]: "*Taxes & licenses not included."
+                        - generic [ref=e4079] [cursor=pointer]: 
+                    - generic [ref=e4081]:
+                      - generic [ref=e4082]: "184,151 KM. Auto., Ext: White,"
+                      - generic [ref=e4083]: 
+                    - link "Carfax" [ref=e4087] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=OqnJa/hUHa/2cuQkVt8uwgRNKVH5g4jg
+                      - img "Carfax" [ref=e4088]
+              - listitem [ref=e4089]:
+                - generic [ref=e4091]:
+                  - generic [ref=e4093]:
+                    - generic [ref=e4094]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4095]:
+                    - link "Mercedes-Benz Sprinter 2500 Cargo 2022":
+                      - /url: /used/2022-Mercedes_Benz-Sprinter_2500_Cargo-id13150467.html
+                      - img "Mercedes-Benz Sprinter 2500 Cargo 2022" [ref=e4096] [cursor=pointer]
+                    - generic [ref=e4097]:
+                      - text: "Stock: SP25500471A"
+                      - text: "VIN: W1Y4DBHY3NP482985"
+                  - generic [ref=e4098]:
+                    - generic [ref=e4102] [cursor=pointer]:
+                      - generic [ref=e4103]: 
+                      - generic [ref=e4104]: Finance it!
+                    - generic [ref=e4106]:
+                      - link "Mercedes-Benz 2022 Sprinter 2500 Cargo in Mississauga" [ref=e4107] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-Sprinter_2500_Cargo-id13150467.html
+                        - generic [ref=e4108]:
+                          - generic [ref=e4109]: Mercedes-Benz
+                          - generic [ref=e4110]: 2022 Sprinter 2500 Cargo
+                          - generic [ref=e4111]: in Mississauga
+                      - generic [ref=e4112]:
+                        - text: 49,888 $
+                        - generic [ref=e4113]: "*Taxes & licenses not included."
+                        - generic [ref=e4115] [cursor=pointer]: 
+                    - generic [ref=e4117]:
+                      - generic [ref=e4118]: "71,452 KM. Auto., Ext: White,"
+                      - generic [ref=e4119]: 
+                    - link "Carfax" [ref=e4123] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=xPGCeV6xtA17mDJJ/kBVolVe+DGBkp/P
+                      - img "Carfax" [ref=e4124]
+              - listitem [ref=e4125]:
+                - generic [ref=e4127]:
+                  - generic [ref=e4129]:
+                    - generic [ref=e4130]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4131]:
+                    - link "Mercedes-Benz Sprinter 2500 Cargo 2023":
+                      - /url: /used/2023-Mercedes_Benz-Sprinter_2500_Cargo-id13035358.html
+                      - img "Mercedes-Benz Sprinter 2500 Cargo 2023" [ref=e4132] [cursor=pointer]
+                    - generic [ref=e4133]:
+                      - text: "Stock: SP25501588A"
+                      - text: "VIN: W1Y4KBHY8PP533230"
+                  - generic [ref=e4134]:
+                    - generic [ref=e4138] [cursor=pointer]:
+                      - generic [ref=e4139]: 
+                      - generic [ref=e4140]: Finance it!
+                    - generic [ref=e4142]:
+                      - link "Mercedes-Benz 2023 Sprinter 2500 Cargo Low Roof Std in Mississauga" [ref=e4143] [cursor=pointer]:
+                        - /url: /used/2023-Mercedes_Benz-Sprinter_2500_Cargo-id13035358.html
+                        - generic [ref=e4144]:
+                          - generic [ref=e4145]: Mercedes-Benz
+                          - generic [ref=e4146]: 2023 Sprinter 2500 Cargo
+                          - generic [ref=e4147]: Low Roof Std
+                          - generic [ref=e4148]: in Mississauga
+                      - generic [ref=e4149]:
+                        - text: 49,888 $
+                        - generic [ref=e4150]: "*Taxes & licenses not included."
+                        - generic [ref=e4152] [cursor=pointer]: 
+                    - generic [ref=e4154]:
+                      - generic [ref=e4155]: "91,466 KM. Auto., Ext: White,"
+                      - generic [ref=e4156]: 
+                    - link "Carfax" [ref=e4160] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=aT3dKeyDYrwhPXL8/N0x0sudnimF7yyh
+                      - img "Carfax" [ref=e4161]
+              - listitem [ref=e4162]:
+                - generic [ref=e4164]:
+                  - generic [ref=e4166]:
+                    - generic [ref=e4167]:
+                      - generic [ref=e4168]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4169]:
+                    - link "Mercedes-Benz GLC 300 2023":
+                      - /url: /used/2023-Mercedes_Benz-GLC_300-id13398341.html
+                      - img "Mercedes-Benz GLC 300 2023" [ref=e4170] [cursor=pointer]
+                    - generic [ref=e4171]:
+                      - text: "Stock: M26523123A"
+                      - text: "VIN: W1NKM4HB2PF039960"
+                  - generic [ref=e4172]:
+                    - generic [ref=e4176] [cursor=pointer]:
+                      - generic [ref=e4177]: 
+                      - generic [ref=e4178]: Finance it!
+                    - generic [ref=e4180]:
+                      - link "Mercedes-Benz 2023 GLC 300 4matic Suv in Mississauga" [ref=e4181] [cursor=pointer]:
+                        - /url: /used/2023-Mercedes_Benz-GLC_300-id13398341.html
+                        - generic [ref=e4182]:
+                          - generic [ref=e4183]: Mercedes-Benz
+                          - generic [ref=e4184]: 2023 GLC 300
+                          - generic [ref=e4185]: 4matic Suv
+                          - generic [ref=e4186]: in Mississauga
+                      - generic [ref=e4187]:
+                        - text: 54,800 $
+                        - generic [ref=e4188]: "*Taxes & licenses not included."
+                        - generic [ref=e4190] [cursor=pointer]: 
+                    - generic [ref=e4192]:
+                      - generic [ref=e4193]: "39,306 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4194]: 
+                    - link "Carfax" [ref=e4198] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=CWWehnVHxSLXsAyvVzzzvQMUJP/rshP0
+                      - img "Carfax" [ref=e4199]
+                    - img "Mercedes-benz Certified" [ref=e4204]
+              - listitem [ref=e4205]:
+                - generic [ref=e4207]:
+                  - generic [ref=e4209]:
+                    - generic [ref=e4210]:
+                      - generic [ref=e4211]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4212]:
+                    - link "Mercedes-Benz GLE 350 2022":
+                      - /url: /used/2022-Mercedes_Benz-GLE_350-id13403441.html
+                      - img "Mercedes-Benz GLE 350 2022" [ref=e4213] [cursor=pointer]
+                    - generic [ref=e4214]:
+                      - text: "Stock: MP4602244"
+                      - text: "VIN: 4JGFB4KE0NA730721"
+                  - generic [ref=e4215]:
+                    - generic [ref=e4219] [cursor=pointer]:
+                      - generic [ref=e4220]: 
+                      - generic [ref=e4221]: Finance it!
+                    - generic [ref=e4223]:
+                      - link "Mercedes-Benz 2022 GLE 350 4matic Suv in Mississauga" [ref=e4224] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-GLE_350-id13403441.html
+                        - generic [ref=e4225]:
+                          - generic [ref=e4226]: Mercedes-Benz
+                          - generic [ref=e4227]: 2022 GLE 350
+                          - generic [ref=e4228]: 4matic Suv
+                          - generic [ref=e4229]: in Mississauga
+                      - generic [ref=e4230]:
+                        - text: 55,800 $
+                        - generic [ref=e4231]: "*Taxes & licenses not included."
+                        - generic [ref=e4233] [cursor=pointer]: 
+                    - generic [ref=e4235]:
+                      - generic [ref=e4236]: "67,303 KM. Auto., Ext: White, Int: Beige"
+                      - generic [ref=e4237]: 
+                    - link "Carfax" [ref=e4241] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=F4xeQjiQCSj7o2wxa0hX43SiAAl5Iha1
+                      - img "Carfax" [ref=e4242]
+                    - img "Mercedes-benz Certified" [ref=e4247]
+              - listitem [ref=e4248]:
+                - generic [ref=e4250]:
+                  - generic [ref=e4252]:
+                    - generic [ref=e4253]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4254]:
+                    - link "Mercedes-Benz C 300 2024":
+                      - /url: /used/2024-Mercedes_Benz-C_300-id13122690.html
+                      - img "Mercedes-Benz C 300 2024" [ref=e4255] [cursor=pointer]
+                    - generic [ref=e4256]:
+                      - text: "Stock: MP4410677"
+                      - text: "VIN: W1KAF4HB4RR176449"
+                  - generic [ref=e4257]:
+                    - generic [ref=e4261] [cursor=pointer]:
+                      - generic [ref=e4262]: 
+                      - generic [ref=e4263]: Finance it!
+                    - generic [ref=e4265]:
+                      - link "Mercedes-Benz 2024 C 300 4matic Sedan in Mississauga" [ref=e4266] [cursor=pointer]:
+                        - /url: /used/2024-Mercedes_Benz-C_300-id13122690.html
+                        - generic [ref=e4267]:
+                          - generic [ref=e4268]: Mercedes-Benz
+                          - generic [ref=e4269]: 2024 C 300
+                          - generic [ref=e4270]: 4matic Sedan
+                          - generic [ref=e4271]: in Mississauga
+                      - generic [ref=e4272]:
+                        - text: 55,900 $
+                        - generic [ref=e4273]: "*Taxes & licenses not included."
+                        - generic [ref=e4275] [cursor=pointer]: 
+                    - generic [ref=e4277]:
+                      - generic [ref=e4278]: "13,474 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4279]: 
+                    - link "Carfax" [ref=e4283] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=D+QkIs/4OtA2kK3JNtx0BTPv1E33qgZu
+                      - img "Carfax" [ref=e4284]
+                    - img "Mercedes-benz Certified" [ref=e4289]
+              - listitem [ref=e4290]:
+                - generic [ref=e4292]:
+                  - generic [ref=e4294]:
+                    - generic [ref=e4295]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4296]:
+                    - link "Mercedes-Benz Sprinter 3500 Cargo 2023":
+                      - /url: /used/2023-Mercedes_Benz-Sprinter_3500_Cargo-id13345839.html
+                      - img "Mercedes-Benz Sprinter 3500 Cargo 2023" [ref=e4297] [cursor=pointer]
+                    - generic [ref=e4298]:
+                      - text: "Stock: S25502587A"
+                      - text: "VIN: W1Y5NCHY8PP588245"
+                  - generic [ref=e4299]:
+                    - generic [ref=e4303] [cursor=pointer]:
+                      - generic [ref=e4304]: 
+                      - generic [ref=e4305]: Finance it!
+                    - generic [ref=e4307]:
+                      - link "Mercedes-Benz 2023 Sprinter 3500 Cargo High Roof High in Mississauga" [ref=e4308] [cursor=pointer]:
+                        - /url: /used/2023-Mercedes_Benz-Sprinter_3500_Cargo-id13345839.html
+                        - generic [ref=e4309]:
+                          - generic [ref=e4310]: Mercedes-Benz
+                          - generic [ref=e4311]: 2023 Sprinter 3500 Cargo
+                          - generic [ref=e4312]: High Roof High
+                          - generic [ref=e4313]: in Mississauga
+                      - generic [ref=e4314]:
+                        - text: 55,997 $
+                        - generic [ref=e4315]: "*Taxes & licenses not included."
+                        - generic [ref=e4317] [cursor=pointer]: 
+                    - generic [ref=e4319]:
+                      - generic [ref=e4320]: "61,000 KM. Auto., Ext: White,"
+                      - generic [ref=e4321]: 
+                    - link "Carfax" [ref=e4325] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=X46A4qJO1/7YAiaIIOTV+DU9BlN7e12f
+                      - img "Carfax" [ref=e4326]
+              - listitem [ref=e4327]:
+                - generic [ref=e4329]:
+                  - generic [ref=e4331]:
+                    - generic [ref=e4332]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4333]:
+                    - link "2022 Mercedes-Benz GLE in Mississauga":
+                      - /url: /used/2022-Mercedes_Benz-GLE_350-id13260271.html
+                    - generic [ref=e4334]:
+                      - text: "Stock: M26529122A"
+                      - text: "VIN: 4JGFB4KB0NA722351"
+                  - generic [ref=e4335]:
+                    - generic [ref=e4339] [cursor=pointer]:
+                      - generic [ref=e4340]: 
+                      - generic [ref=e4341]: Finance it!
+                    - generic [ref=e4343]:
+                      - link "Mercedes-Benz 2022 GLE 350 4matic Suv Sport in Mississauga" [ref=e4344] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-GLE_350-id13260271.html
+                        - generic [ref=e4345]:
+                          - generic [ref=e4346]: Mercedes-Benz
+                          - generic [ref=e4347]: 2022 GLE 350
+                          - generic [ref=e4348]: 4matic Suv Sport
+                          - generic [ref=e4349]: in Mississauga
+                      - generic [ref=e4350]:
+                        - text: 57,500 $
+                        - generic [ref=e4351]: "*Taxes & licenses not included."
+                        - generic [ref=e4353] [cursor=pointer]: 
+                    - generic [ref=e4355]:
+                      - generic [ref=e4356]: "57,761 KM. Auto., Ext: White, Int: Beige"
+                      - generic [ref=e4357]: 
+                    - link "Carfax" [ref=e4361] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=1i9EyvMWncWbEr2PA+0lv1kVV75oN5vr
+                      - img "Carfax" [ref=e4362]
+                    - img "Mercedes-benz Certified" [ref=e4367]
+              - listitem [ref=e4368]:
+                - generic [ref=e4370]:
+                  - generic [ref=e4372]:
+                    - generic [ref=e4373]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4374]:
+                    - link "2022 Mercedes-Benz GLE in Mississauga":
+                      - /url: /used/2022-Mercedes_Benz-GLE_350-id13246175.html
+                    - generic [ref=e4375]:
+                      - text: "Stock: M26515205A"
+                      - text: "VIN: 4JGFB4KB0NA691991"
+                  - generic [ref=e4376]:
+                    - generic [ref=e4380] [cursor=pointer]:
+                      - generic [ref=e4381]: 
+                      - generic [ref=e4382]: Finance it!
+                    - generic [ref=e4384]:
+                      - link "Mercedes-Benz 2022 GLE 350 4matic Suv in Mississauga" [ref=e4385] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-GLE_350-id13246175.html
+                        - generic [ref=e4386]:
+                          - generic [ref=e4387]: Mercedes-Benz
+                          - generic [ref=e4388]: 2022 GLE 350
+                          - generic [ref=e4389]: 4matic Suv
+                          - generic [ref=e4390]: in Mississauga
+                      - generic [ref=e4391]:
+                        - text: 57,700 $
+                        - generic [ref=e4392]: "*Taxes & licenses not included."
+                        - generic [ref=e4394] [cursor=pointer]: 
+                    - generic [ref=e4396]:
+                      - generic [ref=e4397]: "66,863 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4398]: 
+                    - link "Carfax" [ref=e4402] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=DXq3opady8iD9QuJln4BGbsQffCL2diL
+                      - img "Carfax" [ref=e4403]
+                    - img "Mercedes-benz Certified" [ref=e4408]
+              - listitem [ref=e4409]:
+                - generic [ref=e4411]:
+                  - generic [ref=e4413]:
+                    - generic [ref=e4414]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4415]:
+                    - link "2025 Mercedes-Benz CLA in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-CLA_250-id12771013.html
+                    - generic [ref=e4416]:
+                      - text: "Stock: 25463447-DEMO"
+                      - text: "VIN: W1K5J4HBXSN510531"
+                  - generic [ref=e4417]:
+                    - generic [ref=e4421] [cursor=pointer]:
+                      - generic [ref=e4422]: 
+                      - generic [ref=e4423]: Finance it!
+                    - generic [ref=e4425]:
+                      - link "Mercedes-Benz 2025 CLA 250 4matic Coupe in Mississauga" [ref=e4426] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-CLA_250-id12771013.html
+                        - generic [ref=e4427]:
+                          - generic [ref=e4428]: Mercedes-Benz
+                          - generic [ref=e4429]: 2025 CLA 250
+                          - generic [ref=e4430]: 4matic Coupe
+                          - generic [ref=e4431]: in Mississauga
+                      - generic [ref=e4432]:
+                        - text: 61,061 $
+                        - generic [ref=e4433]: "*Taxes & licenses not included."
+                        - generic [ref=e4435] [cursor=pointer]: 
+                    - generic [ref=e4437]:
+                      - generic [ref=e4438]: "1,450 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4439]: 
+                    - img "Mercedes-benz Certified" [ref=e4444]
+                    - generic [ref=e4445]:
+                      - button "Calculator" [ref=e4447] [cursor=pointer]: 
+                      - generic [ref=e4448]:
+                        - generic [ref=e4449]: Leasing 48 months
+                        - generic [ref=e4450]:
+                          - generic [ref=e4451]: $381
+                          - generic [ref=e4452]: "@"
+                          - generic [ref=e4453]: 2.99%
+                        - generic [ref=e4454]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e4456] [cursor=pointer]: 
+              - listitem [ref=e4457]:
+                - generic [ref=e4459]:
+                  - generic [ref=e4461]:
+                    - generic [ref=e4462]:
+                      - generic [ref=e4463]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4464]:
+                    - link "2022 Mercedes-Benz GLE in Mississauga":
+                      - /url: /used/2022-Mercedes_Benz-GLE_350-id13392786.html
+                    - generic [ref=e4465]:
+                      - text: "Stock: MP4295525"
+                      - text: "VIN: 4JGFB4KE4NA726123"
+                  - generic [ref=e4466]:
+                    - generic [ref=e4470] [cursor=pointer]:
+                      - generic [ref=e4471]: 
+                      - generic [ref=e4472]: Finance it!
+                    - generic [ref=e4474]:
+                      - link "Mercedes-Benz 2022 GLE 350 4matic Suv in Mississauga" [ref=e4475] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-GLE_350-id13392786.html
+                        - generic [ref=e4476]:
+                          - generic [ref=e4477]: Mercedes-Benz
+                          - generic [ref=e4478]: 2022 GLE 350
+                          - generic [ref=e4479]: 4matic Suv
+                          - generic [ref=e4480]: in Mississauga
+                      - generic [ref=e4481]:
+                        - text: 61,800 $
+                        - generic [ref=e4482]: "*Taxes & licenses not included."
+                        - generic [ref=e4484] [cursor=pointer]: 
+                    - generic [ref=e4486]:
+                      - generic [ref=e4487]: "42,150 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4488]: 
+                    - link "Carfax" [ref=e4492] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=9njpJMykIkYodMLJrJ0EAXwOJoMhJZzv
+                      - img "Carfax" [ref=e4493]
+                    - img "Mercedes-benz Certified" [ref=e4498]
+              - listitem [ref=e4499]:
+                - generic [ref=e4501]:
+                  - generic [ref=e4503]:
+                    - generic [ref=e4504]:
+                      - generic [ref=e4505]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4506]:
+                    - link "2023 Mercedes-Benz E-Class in Mississauga":
+                      - /url: /used/2023-Mercedes_Benz-E_450-id13398343.html
+                    - generic [ref=e4507]:
+                      - text: "Stock: M26527847A"
+                      - text: "VIN: W1KZF5KB4PB166723"
+                  - generic [ref=e4508]:
+                    - generic [ref=e4512] [cursor=pointer]:
+                      - generic [ref=e4513]: 
+                      - generic [ref=e4514]: Finance it!
+                    - generic [ref=e4516]:
+                      - link "Mercedes-Benz 2023 E 450 4matic Sedan in Mississauga" [ref=e4517] [cursor=pointer]:
+                        - /url: /used/2023-Mercedes_Benz-E_450-id13398343.html
+                        - generic [ref=e4518]:
+                          - generic [ref=e4519]: Mercedes-Benz
+                          - generic [ref=e4520]: 2023 E 450
+                          - generic [ref=e4521]: 4matic Sedan
+                          - generic [ref=e4522]: in Mississauga
+                      - generic [ref=e4523]:
+                        - text: 62,800 $
+                        - generic [ref=e4524]: "*Taxes & licenses not included."
+                        - generic [ref=e4526] [cursor=pointer]: 
+                    - generic [ref=e4528]:
+                      - generic [ref=e4529]: "36,188 KM. Auto., Ext: White, Int: Brown"
+                      - generic [ref=e4530]: 
+                    - link "Carfax" [ref=e4534] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=zfR9op2hjydB8zNdtu4dKKdeGIuQcIrG
+                      - img "Carfax" [ref=e4535]
+                    - img "Mercedes-benz Certified" [ref=e4540]
+              - listitem [ref=e4541]:
+                - generic [ref=e4543]:
+                  - generic [ref=e4545]:
+                    - generic [ref=e4546]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4547]:
+                    - link "2025 Mercedes-Benz GLC in Mississauga":
+                      - /url: /used/2025-Mercedes_Benz-GLC_300-id13100588.html
+                    - generic [ref=e4548]:
+                      - text: "Stock: M26510969A"
+                      - text: "VIN: W1NKM4HB4SF280265"
+                  - generic [ref=e4549]:
+                    - generic [ref=e4553] [cursor=pointer]:
+                      - generic [ref=e4554]: 
+                      - generic [ref=e4555]: Finance it!
+                    - generic [ref=e4557]:
+                      - link "Mercedes-Benz 2025 GLC 300 4matic Suv in Mississauga" [ref=e4558] [cursor=pointer]:
+                        - /url: /used/2025-Mercedes_Benz-GLC_300-id13100588.html
+                        - generic [ref=e4559]:
+                          - generic [ref=e4560]: Mercedes-Benz
+                          - generic [ref=e4561]: 2025 GLC 300
+                          - generic [ref=e4562]: 4matic Suv
+                          - generic [ref=e4563]: in Mississauga
+                      - generic [ref=e4564]:
+                        - text: 62,800 $
+                        - generic [ref=e4565]: "*Taxes & licenses not included."
+                        - generic [ref=e4567] [cursor=pointer]: 
+                    - generic [ref=e4569]:
+                      - generic [ref=e4570]: "29,771 KM. Auto., Ext: White, Int: Beige"
+                      - generic [ref=e4571]: 
+                    - link "Carfax" [ref=e4575] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=0vjtlSKtKUzf7kJopYSUsRxwfjDDGmFH
+                      - img "Carfax" [ref=e4576]
+                    - img "Mercedes-benz Certified" [ref=e4581]
+              - listitem [ref=e4582]:
+                - generic [ref=e4584]:
+                  - generic [ref=e4586]:
+                    - generic [ref=e4587]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4588]:
+                    - link "2022 Mercedes-Benz GLE in Mississauga":
+                      - /url: /used/2022-Mercedes_Benz-GLE_450-id13341075.html
+                    - generic [ref=e4589]:
+                      - text: "Stock: MP4590536"
+                      - text: "VIN: 4JGFB5KB9NA830201"
+                  - generic [ref=e4590]:
+                    - generic [ref=e4594] [cursor=pointer]:
+                      - generic [ref=e4595]: 
+                      - generic [ref=e4596]: Finance it!
+                    - generic [ref=e4598]:
+                      - link "Mercedes-Benz 2022 GLE 450 4matic Suv in Mississauga" [ref=e4599] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-GLE_450-id13341075.html
+                        - generic [ref=e4600]:
+                          - generic [ref=e4601]: Mercedes-Benz
+                          - generic [ref=e4602]: 2022 GLE 450
+                          - generic [ref=e4603]: 4matic Suv
+                          - generic [ref=e4604]: in Mississauga
+                      - generic [ref=e4605]:
+                        - text: 62,800 $
+                        - generic [ref=e4606]: "*Taxes & licenses not included."
+                        - generic [ref=e4608] [cursor=pointer]: 
+                    - generic [ref=e4610]:
+                      - generic [ref=e4611]: "61,996 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4612]: 
+                    - link "Carfax" [ref=e4616] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=AH9P1lXSiykqKWBtzOHDJKCjcgcMa6MU
+                      - img "Carfax" [ref=e4617]
+                    - img "Mercedes-benz Certified" [ref=e4622]
+              - listitem [ref=e4623]:
+                - generic [ref=e4625]:
+                  - generic [ref=e4627]:
+                    - generic [ref=e4628]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4629]:
+                    - link "2023 Mercedes-Benz CLA in Mississauga":
+                      - /url: /used/2023-Mercedes_Benz-CLA_45_AMG-id13155236.html
+                    - generic [ref=e4630]:
+                      - text: "Stock: M25465840AA"
+                      - text: "VIN: W1K5J5DB9PN392491"
+                  - generic [ref=e4631]:
+                    - generic [ref=e4635] [cursor=pointer]:
+                      - generic [ref=e4636]: 
+                      - generic [ref=e4637]: Finance it!
+                    - generic [ref=e4639]:
+                      - link "Mercedes-Benz 2023 CLA 45 AMG 4matic+ Coupe in Mississauga" [ref=e4640] [cursor=pointer]:
+                        - /url: /used/2023-Mercedes_Benz-CLA_45_AMG-id13155236.html
+                        - generic [ref=e4641]:
+                          - generic [ref=e4642]: Mercedes-Benz
+                          - generic [ref=e4643]: 2023 CLA 45 AMG
+                          - generic [ref=e4644]: 4matic+ Coupe
+                          - generic [ref=e4645]: in Mississauga
+                      - generic [ref=e4646]:
+                        - text: 62,900 $
+                        - generic [ref=e4647]: "*Taxes & licenses not included."
+                        - generic [ref=e4649] [cursor=pointer]: 
+                    - generic [ref=e4651]:
+                      - generic [ref=e4652]: "43,186 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4653]: 
+                    - link "Carfax" [ref=e4657] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=7AHtOyhw51/I/qp+miMU48azHk3UQXl9
+                      - img "Carfax" [ref=e4658]
+                    - img "Mercedes-benz Certified" [ref=e4663]
+              - listitem [ref=e4664]:
+                - generic [ref=e4666]:
+                  - generic [ref=e4668]:
+                    - generic [ref=e4669]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4670]:
+                    - link "2022 Mercedes-Benz GLE in Mississauga":
+                      - /url: /used/2022-Mercedes_Benz-GLE_450-id13198958.html
+                    - generic [ref=e4671]:
+                      - text: "Stock: MP4554460"
+                      - text: "VIN: 4JGFB5KB0NA583473"
+                  - generic [ref=e4672]:
+                    - generic [ref=e4676] [cursor=pointer]:
+                      - generic [ref=e4677]: 
+                      - generic [ref=e4678]: Finance it!
+                    - generic [ref=e4680]:
+                      - link "Mercedes-Benz 2022 GLE 450 4matic Suv in Mississauga" [ref=e4681] [cursor=pointer]:
+                        - /url: /used/2022-Mercedes_Benz-GLE_450-id13198958.html
+                        - generic [ref=e4682]:
+                          - generic [ref=e4683]: Mercedes-Benz
+                          - generic [ref=e4684]: 2022 GLE 450
+                          - generic [ref=e4685]: 4matic Suv
+                          - generic [ref=e4686]: in Mississauga
+                      - generic [ref=e4687]:
+                        - text: 63,900 $
+                        - generic [ref=e4688]: "*Taxes & licenses not included."
+                        - generic [ref=e4690] [cursor=pointer]: 
+                    - generic [ref=e4692]:
+                      - generic [ref=e4693]: "75,344 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4694]: 
+                    - link "Carfax" [ref=e4698] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=MediTpJdqqvh5QuDdCTNeLwFrI/eLFCf
+                      - img "Carfax" [ref=e4699]
+                    - img "Mercedes-benz Certified" [ref=e4704]
+              - listitem [ref=e4705]:
+                - generic [ref=e4707]:
+                  - generic [ref=e4709]:
+                    - generic [ref=e4710]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4711]:
+                    - link "2025 Mercedes-Benz GLB in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-GLB_250-id12309548.html
+                    - generic [ref=e4712]:
+                      - text: "Stock: 25506110-DEMO"
+                      - text: "VIN: W1N4M4HB7SW431947"
+                  - generic [ref=e4713]:
+                    - generic [ref=e4717] [cursor=pointer]:
+                      - generic [ref=e4718]: 
+                      - generic [ref=e4719]: Finance it!
+                    - generic [ref=e4721]:
+                      - link "Mercedes-Benz 2025 GLB 250 4matic Suv in Mississauga" [ref=e4722] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-GLB_250-id12309548.html
+                        - generic [ref=e4723]:
+                          - generic [ref=e4724]: Mercedes-Benz
+                          - generic [ref=e4725]: 2025 GLB 250
+                          - generic [ref=e4726]: 4matic Suv
+                          - generic [ref=e4727]: in Mississauga
+                      - generic [ref=e4728]:
+                        - text: 68,911 $
+                        - generic [ref=e4729]: "*Taxes & licenses not included."
+                        - generic [ref=e4731] [cursor=pointer]: 
+                    - generic [ref=e4733]:
+                      - generic [ref=e4734]: "90 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4735]: 
+                    - generic [ref=e4737]:
+                      - button "Calculator" [ref=e4739] [cursor=pointer]: 
+                      - generic [ref=e4740]:
+                        - generic [ref=e4741]: Leasing 48 months
+                        - generic [ref=e4742]:
+                          - generic [ref=e4743]: $422
+                          - generic [ref=e4744]: "@"
+                          - generic [ref=e4745]: 2.99%
+                        - generic [ref=e4746]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e4748] [cursor=pointer]: 
+              - listitem [ref=e4749]:
+                - generic [ref=e4751]:
+                  - generic [ref=e4753]:
+                    - generic [ref=e4754]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4755]:
+                    - link "2024 Mercedes-Benz GLE in Mississauga":
+                      - /url: /used/2024-Mercedes_Benz-GLE_350-id13294764.html
+                    - generic [ref=e4756]:
+                      - text: "Stock: MP4495718"
+                      - text: "VIN: 4JGFB4FB0RB184079"
+                  - generic [ref=e4757]:
+                    - generic [ref=e4761] [cursor=pointer]:
+                      - generic [ref=e4762]: 
+                      - generic [ref=e4763]: Finance it!
+                    - generic [ref=e4765]:
+                      - link "Mercedes-Benz 2024 GLE 350 4matic Suv in Mississauga" [ref=e4766] [cursor=pointer]:
+                        - /url: /used/2024-Mercedes_Benz-GLE_350-id13294764.html
+                        - generic [ref=e4767]:
+                          - generic [ref=e4768]: Mercedes-Benz
+                          - generic [ref=e4769]: 2024 GLE 350
+                          - generic [ref=e4770]: 4matic Suv
+                          - generic [ref=e4771]: in Mississauga
+                      - generic [ref=e4772]:
+                        - text: 69,800 $
+                        - generic [ref=e4773]: "*Taxes & licenses not included."
+                        - generic [ref=e4775] [cursor=pointer]: 
+                    - generic [ref=e4777]:
+                      - generic [ref=e4778]: "53,205 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4779]: 
+                    - link "Carfax" [ref=e4783] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=os+1+cSXsyggdcmI/NDRJQL7+/ns3a4O
+                      - img "Carfax" [ref=e4784]
+                    - img "Mercedes-benz Certified" [ref=e4789]
+              - listitem [ref=e4790]:
+                - generic [ref=e4792]:
+                  - generic [ref=e4794]:
+                    - generic [ref=e4795]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4796]:
+                    - link "2025 Mercedes-Benz GLB in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-GLB_250-id13100595.html
+                    - generic [ref=e4797]:
+                      - text: "Stock: 25462083-DEMO"
+                      - text: "VIN: W1N4M4HB4SW393450"
+                  - generic [ref=e4798]:
+                    - generic [ref=e4802] [cursor=pointer]:
+                      - generic [ref=e4803]: 
+                      - generic [ref=e4804]: Finance it!
+                    - generic [ref=e4806]:
+                      - link "Mercedes-Benz 2025 GLB 250 4matic Suv in Mississauga" [ref=e4807] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-GLB_250-id13100595.html
+                        - generic [ref=e4808]:
+                          - generic [ref=e4809]: Mercedes-Benz
+                          - generic [ref=e4810]: 2025 GLB 250
+                          - generic [ref=e4811]: 4matic Suv
+                          - generic [ref=e4812]: in Mississauga
+                      - generic [ref=e4813]:
+                        - text: 70,561 $
+                        - generic [ref=e4814]: "*Taxes & licenses not included."
+                        - generic [ref=e4816] [cursor=pointer]: 
+                    - generic [ref=e4818]:
+                      - generic [ref=e4819]: "4,078 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4820]: 
+                    - img "Mercedes-benz Certified" [ref=e4825]
+                    - generic [ref=e4826]:
+                      - button "Calculator" [ref=e4828] [cursor=pointer]: 
+                      - generic [ref=e4829]:
+                        - generic [ref=e4830]: Leasing 48 months
+                        - generic [ref=e4831]:
+                          - generic [ref=e4832]: $431
+                          - generic [ref=e4833]: "@"
+                          - generic [ref=e4834]: 2.99%
+                        - generic [ref=e4835]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e4837] [cursor=pointer]: 
+              - listitem [ref=e4838]:
+                - generic [ref=e4840]:
+                  - generic [ref=e4842]:
+                    - generic [ref=e4843]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4844]:
+                    - link "2025 Mercedes-Benz GLC in Mississauga":
+                      - /url: /used/2025-Mercedes_Benz-GLC_300-id13310567.html
+                    - generic [ref=e4845]:
+                      - text: "Stock: M26517564A"
+                      - text: "VIN: W1NKJ4HB3SF292142"
+                  - generic [ref=e4846]:
+                    - generic [ref=e4850] [cursor=pointer]:
+                      - generic [ref=e4851]: 
+                      - generic [ref=e4852]: Finance it!
+                    - generic [ref=e4854]:
+                      - link "Mercedes-Benz 2025 GLC 300 4matic Coupe in Mississauga" [ref=e4855] [cursor=pointer]:
+                        - /url: /used/2025-Mercedes_Benz-GLC_300-id13310567.html
+                        - generic [ref=e4856]:
+                          - generic [ref=e4857]: Mercedes-Benz
+                          - generic [ref=e4858]: 2025 GLC 300
+                          - generic [ref=e4859]: 4matic Coupe
+                          - generic [ref=e4860]: in Mississauga
+                      - generic [ref=e4861]:
+                        - text: 73,800 $
+                        - generic [ref=e4862]: "*Taxes & licenses not included."
+                        - generic [ref=e4864] [cursor=pointer]: 
+                    - generic [ref=e4866]:
+                      - generic [ref=e4867]: "8,370 KM. Auto., Ext: White, Int: Red"
+                      - generic [ref=e4868]: 
+                    - link "Carfax" [ref=e4872] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=mapnM1p+C7C97AlUWTgmaycpAXtbLxEs
+                      - img "Carfax" [ref=e4873]
+                    - img "Mercedes-benz Certified" [ref=e4878]
+              - listitem [ref=e4879]:
+                - generic [ref=e4881]:
+                  - generic [ref=e4883]:
+                    - generic [ref=e4884]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4885]:
+                    - link "2026 Mercedes-Benz CLA in Mississauga":
+                      - /url: /demos/2026-Mercedes_Benz-CLA_35_AMG-id13211652.html
+                    - generic [ref=e4886]:
+                      - text: "Stock: 26520666-DEMO"
+                      - text: "VIN: W1K5J5BB7TN604429"
+                  - generic [ref=e4887]:
+                    - generic [ref=e4891] [cursor=pointer]:
+                      - generic [ref=e4892]: 
+                      - generic [ref=e4893]: Finance it!
+                    - generic [ref=e4895]:
+                      - link "Mercedes-Benz 2026 CLA 35 AMG 4matic Coupe in Mississauga" [ref=e4896] [cursor=pointer]:
+                        - /url: /demos/2026-Mercedes_Benz-CLA_35_AMG-id13211652.html
+                        - generic [ref=e4897]:
+                          - generic [ref=e4898]: Mercedes-Benz
+                          - generic [ref=e4899]: 2026 CLA 35 AMG
+                          - generic [ref=e4900]: 4matic Coupe
+                          - generic [ref=e4901]: in Mississauga
+                      - generic [ref=e4902]:
+                        - text: 75,811 $
+                        - generic [ref=e4903]: "*Taxes & licenses not included."
+                        - generic [ref=e4905] [cursor=pointer]: 
+                    - generic [ref=e4907]:
+                      - generic [ref=e4908]: "90 KM. Auto., Ext: White, Int: Red"
+                      - generic [ref=e4909]: 
+                    - generic [ref=e4911]:
+                      - button "Calculator" [ref=e4913] [cursor=pointer]: 
+                      - generic [ref=e4914]:
+                        - generic [ref=e4915]: Leasing 48 months
+                        - generic [ref=e4916]:
+                          - generic [ref=e4917]: $499
+                          - generic [ref=e4918]: "@"
+                          - generic [ref=e4919]: 4.99%
+                        - generic [ref=e4920]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e4922] [cursor=pointer]: 
+              - listitem [ref=e4923]:
+                - generic [ref=e4925]:
+                  - generic [ref=e4927]:
+                    - generic [ref=e4928]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4929]:
+                    - link "2025 Mercedes-Benz Sprinter Crew Van in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-Sprinter-id13122703.html
+                    - generic [ref=e4930]:
+                      - text: "Stock: 25403224-DEMO"
+                      - text: "VIN: W1W4KBHY1SP828199"
+                  - generic [ref=e4931]:
+                    - generic [ref=e4935] [cursor=pointer]:
+                      - generic [ref=e4936]: 
+                      - generic [ref=e4937]: Finance it!
+                    - generic [ref=e4939]:
+                      - link "Mercedes-Benz 2025 Sprinter 2500 High Roof I4 in Mississauga" [ref=e4940] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-Sprinter-id13122703.html
+                        - generic [ref=e4941]:
+                          - generic [ref=e4942]: Mercedes-Benz
+                          - generic [ref=e4943]: 2025 Sprinter
+                          - generic [ref=e4944]: 2500 High Roof I4
+                          - generic [ref=e4945]: in Mississauga
+                      - generic [ref=e4946]:
+                        - text: 78,287 $
+                        - generic [ref=e4947]: "*Taxes & licenses not included."
+                        - generic [ref=e4949] [cursor=pointer]: 
+                    - generic [ref=e4951]:
+                      - generic [ref=e4952]: "7,950 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4953]: 
+              - listitem [ref=e4955]:
+                - generic [ref=e4957]:
+                  - generic [ref=e4959]:
+                    - generic [ref=e4960]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e4961]:
+                    - link "2025 Mercedes-Benz GLB in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-GLB_35_AMG-id12647024.html
+                    - generic [ref=e4962]:
+                      - text: "Stock: 25502217-DEMO"
+                      - text: "VIN: W1N4M5BB7SW427086"
+                  - generic [ref=e4963]:
+                    - generic [ref=e4967] [cursor=pointer]:
+                      - generic [ref=e4968]: 
+                      - generic [ref=e4969]: Finance it!
+                    - generic [ref=e4971]:
+                      - link "Mercedes-Benz 2025 GLB 35 AMG 4matic Suv in Mississauga" [ref=e4972] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-GLB_35_AMG-id12647024.html
+                        - generic [ref=e4973]:
+                          - generic [ref=e4974]: Mercedes-Benz
+                          - generic [ref=e4975]: 2025 GLB 35 AMG
+                          - generic [ref=e4976]: 4matic Suv
+                          - generic [ref=e4977]: in Mississauga
+                      - generic [ref=e4978]:
+                        - text: 78,741 $
+                        - generic [ref=e4979]: "*Taxes & licenses not included."
+                        - generic [ref=e4981] [cursor=pointer]: 
+                    - generic [ref=e4983]:
+                      - generic [ref=e4984]: "8,035 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e4985]: 
+                    - img "Mercedes-benz Certified" [ref=e4990]
+                    - generic [ref=e4991]:
+                      - button "Calculator" [ref=e4993] [cursor=pointer]: 
+                      - generic [ref=e4994]:
+                        - generic [ref=e4995]: Leasing 48 months
+                        - generic [ref=e4996]:
+                          - generic [ref=e4997]: $486
+                          - generic [ref=e4998]: "@"
+                          - generic [ref=e4999]: 2.99%
+                        - generic [ref=e5000]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e5002] [cursor=pointer]: 
+              - listitem [ref=e5003]:
+                - generic [ref=e5005]:
+                  - generic [ref=e5007]:
+                    - generic [ref=e5008]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5009]:
+                    - link "2025 Mercedes-Benz GLB in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-GLB_35_AMG-id12923667.html
+                    - generic [ref=e5010]:
+                      - text: "Stock: 25466347-DEMO"
+                      - text: "VIN: W1N4M5BB4SW399649"
+                  - generic [ref=e5011]:
+                    - generic [ref=e5015] [cursor=pointer]:
+                      - generic [ref=e5016]: 
+                      - generic [ref=e5017]: Finance it!
+                    - generic [ref=e5019]:
+                      - link "Mercedes-Benz 2025 GLB 35 AMG 4matic Suv in Mississauga" [ref=e5020] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-GLB_35_AMG-id12923667.html
+                        - generic [ref=e5021]:
+                          - generic [ref=e5022]: Mercedes-Benz
+                          - generic [ref=e5023]: 2025 GLB 35 AMG
+                          - generic [ref=e5024]: 4matic Suv
+                          - generic [ref=e5025]: in Mississauga
+                      - generic [ref=e5026]:
+                        - text: 80,591 $
+                        - generic [ref=e5027]: "*Taxes & licenses not included."
+                        - generic [ref=e5029] [cursor=pointer]: 
+                    - generic [ref=e5031]:
+                      - generic [ref=e5032]: "6,500 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5033]: 
+                    - img "Mercedes-benz Certified" [ref=e5038]
+                    - generic [ref=e5039]:
+                      - button "Calculator" [ref=e5041] [cursor=pointer]: 
+                      - generic [ref=e5042]:
+                        - generic [ref=e5043]: Leasing 48 months
+                        - generic [ref=e5044]:
+                          - generic [ref=e5045]: $497
+                          - generic [ref=e5046]: "@"
+                          - generic [ref=e5047]: 2.99%
+                        - generic [ref=e5048]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e5050] [cursor=pointer]: 
+              - listitem [ref=e5051]:
+                - generic [ref=e5053]:
+                  - generic [ref=e5055]:
+                    - generic [ref=e5056]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5057]:
+                    - link "2025 Mercedes-Benz Sprinter Cargo Van in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-Sprinter-id13122705.html
+                    - generic [ref=e5058]:
+                      - text: "Stock: 25501989-DEMO"
+                      - text: "VIN: W1Y5NCHY1SP813551"
+                  - generic [ref=e5059]:
+                    - generic [ref=e5063] [cursor=pointer]:
+                      - generic [ref=e5064]: 
+                      - generic [ref=e5065]: Finance it!
+                    - generic [ref=e5067]:
+                      - link "Mercedes-Benz 2025 Sprinter 3500 High Roof I4 in Mississauga" [ref=e5068] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-Sprinter-id13122705.html
+                        - generic [ref=e5069]:
+                          - generic [ref=e5070]: Mercedes-Benz
+                          - generic [ref=e5071]: 2025 Sprinter
+                          - generic [ref=e5072]: 3500 High Roof I4
+                          - generic [ref=e5073]: in Mississauga
+                      - generic [ref=e5074]:
+                        - text: 84,489 $
+                        - generic [ref=e5075]: "*Taxes & licenses not included."
+                        - generic [ref=e5077] [cursor=pointer]: 
+                    - generic [ref=e5079]:
+                      - generic [ref=e5080]: "7,128 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5081]: 
+              - listitem [ref=e5083]:
+                - generic [ref=e5085]:
+                  - generic [ref=e5087]:
+                    - generic [ref=e5088]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5089]:
+                    - link "2025 Mercedes-Benz Sprinter Cargo Van in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-Sprinter-id13360982.html
+                    - generic [ref=e5090]:
+                      - text: "Stock: 25501560-DEMO"
+                      - text: "VIN: W1Y5NCHY1SP809676"
+                  - generic [ref=e5091]:
+                    - generic [ref=e5095] [cursor=pointer]:
+                      - generic [ref=e5096]: 
+                      - generic [ref=e5097]: Finance it!
+                    - generic [ref=e5099]:
+                      - link "Mercedes-Benz 2025 Sprinter 3500 High Roof I4 in Mississauga" [ref=e5100] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-Sprinter-id13360982.html
+                        - generic [ref=e5101]:
+                          - generic [ref=e5102]: Mercedes-Benz
+                          - generic [ref=e5103]: 2025 Sprinter
+                          - generic [ref=e5104]: 3500 High Roof I4
+                          - generic [ref=e5105]: in Mississauga
+                      - generic [ref=e5106]:
+                        - text: 86,349 $
+                        - generic [ref=e5107]: "*Taxes & licenses not included."
+                        - generic [ref=e5109] [cursor=pointer]: 
+                    - generic [ref=e5111]:
+                      - generic [ref=e5112]: "7,000 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5113]: 
+              - listitem [ref=e5114]:
+                - generic [ref=e5116]:
+                  - generic [ref=e5118]:
+                    - generic [ref=e5119]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5120]:
+                    - link "2025 Mercedes-Benz Sprinter Cargo Van in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-Sprinter-id13360984.html
+                    - generic [ref=e5121]:
+                      - text: "Stock: 25503358-DEMO"
+                      - text: "VIN: W1Y5NCHY1SP835498"
+                  - generic [ref=e5122]:
+                    - generic [ref=e5126] [cursor=pointer]:
+                      - generic [ref=e5127]: 
+                      - generic [ref=e5128]: Finance it!
+                    - generic [ref=e5130]:
+                      - link "Mercedes-Benz 2025 Sprinter 3500 High Roof I4 in Mississauga" [ref=e5131] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-Sprinter-id13360984.html
+                        - generic [ref=e5132]:
+                          - generic [ref=e5133]: Mercedes-Benz
+                          - generic [ref=e5134]: 2025 Sprinter
+                          - generic [ref=e5135]: 3500 High Roof I4
+                          - generic [ref=e5136]: in Mississauga
+                      - generic [ref=e5137]:
+                        - text: 89,860 $
+                        - generic [ref=e5138]: "*Taxes & licenses not included."
+                        - generic [ref=e5140] [cursor=pointer]: 
+                    - generic [ref=e5142]:
+                      - generic [ref=e5143]: "1,800 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5144]: 
+              - listitem [ref=e5145]:
+                - generic [ref=e5147]:
+                  - generic [ref=e5149]:
+                    - generic [ref=e5150]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5151]:
+                    - link "2026 Mercedes-Benz GLC in Mississauga":
+                      - /url: /used/2026-Mercedes_Benz-GLC_43_AMG-id13226411.html
+                    - generic [ref=e5152]:
+                      - text: "Stock: M26522960A"
+                      - text: "VIN: W1NKM8HB8TF443010"
+                  - generic [ref=e5153]:
+                    - generic [ref=e5157] [cursor=pointer]:
+                      - generic [ref=e5158]: 
+                      - generic [ref=e5159]: Finance it!
+                    - generic [ref=e5161]:
+                      - link "Mercedes-Benz 2026 GLC 43 AMG 4matic+ Suv in Mississauga" [ref=e5162] [cursor=pointer]:
+                        - /url: /used/2026-Mercedes_Benz-GLC_43_AMG-id13226411.html
+                        - generic [ref=e5163]:
+                          - generic [ref=e5164]: Mercedes-Benz
+                          - generic [ref=e5165]: 2026 GLC 43 AMG
+                          - generic [ref=e5166]: 4matic+ Suv
+                          - generic [ref=e5167]: in Mississauga
+                      - generic [ref=e5168]:
+                        - text: 96,600 $
+                        - generic [ref=e5169]: "*Taxes & licenses not included."
+                        - generic [ref=e5171] [cursor=pointer]: 
+                    - generic [ref=e5173]:
+                      - generic [ref=e5174]: "880 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5175]: 
+                    - link "Carfax" [ref=e5179] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=s0BtnmBDt+RN6abCEA8GXti9X2Vko1+5
+                      - img "Carfax" [ref=e5180]
+                    - img "Mercedes-benz Certified" [ref=e5185]
+              - listitem [ref=e5186]:
+                - generic [ref=e5188]:
+                  - generic [ref=e5190]:
+                    - generic [ref=e5191]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5192]:
+                    - link "2024 Mercedes-Benz GLS in Mississauga":
+                      - /url: /used/2024-Mercedes_Benz-GLS_450-id13226409.html
+                    - generic [ref=e5193]:
+                      - text: "Stock: M25511269A"
+                      - text: "VIN: 4JGFF5KE9RB100402"
+                  - generic [ref=e5194]:
+                    - generic [ref=e5198] [cursor=pointer]:
+                      - generic [ref=e5199]: 
+                      - generic [ref=e5200]: Finance it!
+                    - generic [ref=e5202]:
+                      - link "Mercedes-Benz 2024 GLS 450 4matic Suv in Mississauga" [ref=e5203] [cursor=pointer]:
+                        - /url: /used/2024-Mercedes_Benz-GLS_450-id13226409.html
+                        - generic [ref=e5204]:
+                          - generic [ref=e5205]: Mercedes-Benz
+                          - generic [ref=e5206]: 2024 GLS 450
+                          - generic [ref=e5207]: 4matic Suv
+                          - generic [ref=e5208]: in Mississauga
+                      - generic [ref=e5209]:
+                        - text: 98,800 $
+                        - generic [ref=e5210]: "*Taxes & licenses not included."
+                        - generic [ref=e5212] [cursor=pointer]: 
+                    - generic [ref=e5214]:
+                      - generic [ref=e5215]: "61,189 KM. Auto., Ext: White, Int: Beige"
+                      - generic [ref=e5216]: 
+                    - link "Carfax" [ref=e5220] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=LA1JVUkOzCBLVNO0iWJPPy3XYwbAquon
+                      - img "Carfax" [ref=e5221]
+                    - img "Mercedes-benz Certified" [ref=e5226]
+              - listitem [ref=e5227]:
+                - generic [ref=e5229]:
+                  - generic [ref=e5231]:
+                    - generic [ref=e5232]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5233]:
+                    - link "2025 Mercedes-Benz E-Class in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-E_450-id12666828.html
+                    - generic [ref=e5234]:
+                      - text: "Stock: 25474255-DEMO"
+                      - text: "VIN: W1KLF6BB1SA127940"
+                  - generic [ref=e5235]:
+                    - generic [ref=e5239] [cursor=pointer]:
+                      - generic [ref=e5240]: 
+                      - generic [ref=e5241]: Finance it!
+                    - generic [ref=e5243]:
+                      - link "Mercedes-Benz 2025 E 450 4matic Sedan in Mississauga" [ref=e5244] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-E_450-id12666828.html
+                        - generic [ref=e5245]:
+                          - generic [ref=e5246]: Mercedes-Benz
+                          - generic [ref=e5247]: 2025 E 450
+                          - generic [ref=e5248]: 4matic Sedan
+                          - generic [ref=e5249]: in Mississauga
+                      - generic [ref=e5250]:
+                        - text: 99,741 $
+                        - generic [ref=e5251]: "*Taxes & licenses not included."
+                        - generic [ref=e5253] [cursor=pointer]: 
+                    - generic [ref=e5255]:
+                      - generic [ref=e5256]: "90 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5257]: 
+                    - generic [ref=e5259]:
+                      - button "Calculator" [ref=e5261] [cursor=pointer]: 
+                      - generic [ref=e5262]:
+                        - generic [ref=e5263]: Financing 84 months
+                        - generic [ref=e5264]:
+                          - generic [ref=e5265]: $713
+                          - generic [ref=e5266]: "@"
+                          - generic [ref=e5267]: 7.84%
+                        - generic [ref=e5268]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e5270] [cursor=pointer]: 
+              - listitem [ref=e5271]:
+                - generic [ref=e5273]:
+                  - generic [ref=e5275]:
+                    - generic [ref=e5276]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5277]:
+                    - link "2025 Mercedes-Benz GLE PHEV in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-GLE_450e-id12732488.html
+                    - generic [ref=e5278]:
+                      - text: "Stock: 25502587-DEMO"
+                      - text: "VIN: 4JGFB4GB7SB441033"
+                  - generic [ref=e5279]:
+                    - generic [ref=e5283] [cursor=pointer]:
+                      - generic [ref=e5284]: 
+                      - generic [ref=e5285]: Finance it!
+                    - generic [ref=e5287]:
+                      - link "Mercedes-Benz 2025 GLE 450e 4matic Suv in Mississauga" [ref=e5288] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-GLE_450e-id12732488.html
+                        - generic [ref=e5289]:
+                          - generic [ref=e5290]: Mercedes-Benz
+                          - generic [ref=e5291]: 2025 GLE 450e
+                          - generic [ref=e5292]: 4matic Suv
+                          - generic [ref=e5293]: in Mississauga
+                      - generic [ref=e5294]:
+                        - text: 100,046 $
+                        - generic [ref=e5295]: "*Taxes & licenses not included."
+                        - generic [ref=e5297] [cursor=pointer]: 
+                    - generic [ref=e5299]:
+                      - generic [ref=e5300]: "7,500 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5301]: 
+                    - img "Mercedes-benz Certified" [ref=e5306]
+                    - generic [ref=e5307]:
+                      - button "Calculator" [ref=e5309] [cursor=pointer]: 
+                      - generic [ref=e5310]:
+                        - generic [ref=e5311]: Leasing 48 months
+                        - generic [ref=e5312]:
+                          - generic [ref=e5313]: $664
+                          - generic [ref=e5314]: "@"
+                          - generic [ref=e5315]: 5.49%
+                        - generic [ref=e5316]: "*Taxes & licenses not included./2wks 0 $ cash down"
+                      - generic [ref=e5318] [cursor=pointer]: 
+              - listitem [ref=e5319]:
+                - generic [ref=e5321]:
+                  - generic [ref=e5323]:
+                    - generic [ref=e5324]: Demo
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5325]:
+                    - link "2025 Mercedes-Benz Sprinter Cargo Van in Mississauga":
+                      - /url: /demos/2025-Mercedes_Benz-Sprinter-id13160903.html
+                    - generic [ref=e5326]:
+                      - text: "Stock: 25403569-DEMO"
+                      - text: "VIN: W1Y4NDHY9SP785399"
+                  - generic [ref=e5327]:
+                    - generic [ref=e5331] [cursor=pointer]:
+                      - generic [ref=e5332]: 
+                      - generic [ref=e5333]: Finance it!
+                    - generic [ref=e5335]:
+                      - link "Mercedes-Benz 2025 Sprinter 2500 High Roof I4 in Mississauga" [ref=e5336] [cursor=pointer]:
+                        - /url: /demos/2025-Mercedes_Benz-Sprinter-id13160903.html
+                        - generic [ref=e5337]:
+                          - generic [ref=e5338]: Mercedes-Benz
+                          - generic [ref=e5339]: 2025 Sprinter
+                          - generic [ref=e5340]: 2500 High Roof I4
+                          - generic [ref=e5341]: in Mississauga
+                      - generic [ref=e5342]:
+                        - text: 110,544 $
+                        - generic [ref=e5343]: "*Taxes & licenses not included."
+                        - generic [ref=e5345] [cursor=pointer]: 
+                    - generic [ref=e5347]:
+                      - generic [ref=e5348]: "3,100 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e5349]: 
+              - listitem [ref=e5351]:
+                - generic [ref=e5353]:
+                  - generic [ref=e5355]:
+                    - generic [ref=e5356]: Great Value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e5357]:
+                    - link "2024 Mercedes-Benz EQS in Mississauga":
+                      - /url: /used/2024-Mercedes_Benz-EQS_580-id13100592.html
+                    - generic [ref=e5358]:
+                      - text: "Stock: 24209652"
+                      - text: "VIN: W1KCG4EB4RA047636"
+                  - generic [ref=e5359]:
+                    - generic [ref=e5363] [cursor=pointer]:
+                      - generic [ref=e5364]: 
+                      - generic [ref=e5365]: Finance it!
+                    - generic [ref=e5367]:
+                      - link "Mercedes-Benz 2024 EQS 580 4matic Sedan in Mississauga" [ref=e5368] [cursor=pointer]:
+                        - /url: /used/2024-Mercedes_Benz-EQS_580-id13100592.html
+                        - generic [ref=e5369]:
+                          - generic [ref=e5370]: Mercedes-Benz
+                          - generic [ref=e5371]: 2024 EQS 580
+                          - generic [ref=e5372]: 4matic Sedan
+                          - generic [ref=e5373]: in Mississauga
+                      - generic [ref=e5374]:
+                        - text: 145,989 $
+                        - generic [ref=e5375]: "*Taxes & licenses not included."
+                        - generic [ref=e5377] [cursor=pointer]: 
+                    - generic [ref=e5379]:
+                      - generic [ref=e5380]: "90 KM. Auto., Ext: White, Int: Beige"
+                      - generic [ref=e5381]: 
+            - list [ref=e5384]:
+              - listitem "down" [ref=e5385] [cursor=pointer]:
+                - button "" [ref=e5386]:
+                  - generic [ref=e5387]: 
+              - listitem "Page 1" [ref=e5388] [cursor=pointer]:
+                - button "1" [ref=e5389]
+              - listitem "up" [ref=e5390] [cursor=pointer]:
+                - button "" [ref=e5391]:
+                  - generic [ref=e5392]: 
+      - generic [ref=e5393]:
+        - generic [ref=e5394]:
+          - paragraph [ref=e5395]: Our stock by brand
+          - list [ref=e5396]:
+            - listitem [ref=e5397]:
+              - link "Pre-Owned Mercedes-Benz in Mississauga" [ref=e5398] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz.html
+              - generic [ref=e5399]: "62"
+            - listitem [ref=e5400]:
+              - link "Mercedes-Benz (demo) in Mississauga" [ref=e5401] [cursor=pointer]:
+                - /url: /demos/Mercedes_Benz.html
+              - generic [ref=e5402]: "40"
+        - generic [ref=e5403]:
+          - paragraph [ref=e5404]: Our stock by model
+          - list [ref=e5405]:
+            - listitem [ref=e5406]:
+              - link "Pre-Owned Mercedes-Benz GLC 300" [ref=e5407] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz-GLC_300.html
+              - generic [ref=e5408]: "12"
+            - listitem [ref=e5409]:
+              - link "Mercedes-Benz GLB 250 (demo)" [ref=e5410] [cursor=pointer]:
+                - /url: /demos/Mercedes_Benz-GLB_250.html
+              - generic [ref=e5411]: "8"
+            - listitem [ref=e5412]:
+              - link "Pre-Owned Mercedes-Benz GLE 350" [ref=e5413] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz-GLE_350.html
+              - generic [ref=e5414]: "7"
+            - listitem [ref=e5415]:
+              - link "Pre-Owned Mercedes-Benz GLE 450" [ref=e5416] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz-GLE_450.html
+              - generic [ref=e5417]: "6"
+            - listitem [ref=e5418]:
+              - link "Pre-Owned Mercedes-Benz C 300" [ref=e5419] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz-C_300.html
+              - generic [ref=e5420]: "5"
+            - listitem [ref=e5421]:
+              - link "Pre-Owned Mercedes-Benz CLA 250" [ref=e5422] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz-CLA_250.html
+              - generic [ref=e5423]: "5"
+            - listitem [ref=e5424]:
+              - link "Mercedes-Benz Sprinter (demo)" [ref=e5425] [cursor=pointer]:
+                - /url: /demos/Mercedes_Benz-Sprinter.html
+              - generic [ref=e5426]: "5"
+            - listitem [ref=e5427]:
+              - link "Mercedes-Benz GLE 450e (demo)" [ref=e5428] [cursor=pointer]:
+                - /url: /demos/Mercedes_Benz-GLE_450e.html
+              - generic [ref=e5429]: "4"
+            - listitem [ref=e5430]:
+              - link "Pre-Owned Mercedes-Benz E 450" [ref=e5431] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz-E_450.html
+              - generic [ref=e5432]: "3"
+            - listitem [ref=e5433]:
+              - link "Pre-Owned Mercedes-Benz EQE" [ref=e5434] [cursor=pointer]:
+                - /url: /used/Mercedes_Benz-EQE.html
+              - generic [ref=e5435]: "3"
+            - listitem [ref=e5436]:
+              - button "Show me more... " [ref=e5437] [cursor=pointer]:
+                - generic [ref=e5438]: Show me more...
+                - generic [ref=e5439]: 
+        - generic [ref=e5440]:
+          - paragraph [ref=e5441]: Our stock by year
+          - list [ref=e5442]:
+            - listitem [ref=e5443]:
+              - link "Mercedes-Benz 2025 (demo)" [ref=e5444] [cursor=pointer]:
+                - /url: /demos/2025-Mercedes_Benz.html
+              - generic [ref=e5445]: "28"
+            - listitem [ref=e5446]:
+              - link "Pre-Owned Mercedes-Benz 2022" [ref=e5447] [cursor=pointer]:
+                - /url: /used/2022-Mercedes_Benz.html
+              - generic [ref=e5448]: "20"
+            - listitem [ref=e5449]:
+              - link "Pre-Owned Mercedes-Benz 2023" [ref=e5450] [cursor=pointer]:
+                - /url: /used/2023-Mercedes_Benz.html
+              - generic [ref=e5451]: "15"
+            - listitem [ref=e5452]:
+              - link "Mercedes-Benz 2026 (demo)" [ref=e5453] [cursor=pointer]:
+                - /url: /demos/2026-Mercedes_Benz.html
+              - generic [ref=e5454]: "12"
+            - listitem [ref=e5455]:
+              - link "Pre-Owned Mercedes-Benz 2024" [ref=e5456] [cursor=pointer]:
+                - /url: /used/2024-Mercedes_Benz.html
+              - generic [ref=e5457]: "11"
+            - listitem [ref=e5458]:
+              - link "Pre-Owned Mercedes-Benz 2025" [ref=e5459] [cursor=pointer]:
+                - /url: /used/2025-Mercedes_Benz.html
+              - generic [ref=e5460]: "9"
+            - listitem [ref=e5461]:
+              - link "Pre-Owned Mercedes-Benz 2021" [ref=e5462] [cursor=pointer]:
+                - /url: /used/2021-Mercedes_Benz.html
+              - generic [ref=e5463]: "4"
+            - listitem [ref=e5464]:
+              - link "Pre-Owned Mercedes-Benz 2026" [ref=e5465] [cursor=pointer]:
+                - /url: /used/2026-Mercedes_Benz.html
+              - generic [ref=e5466]: "1"
+            - listitem [ref=e5467]:
+              - link "Pre-Owned Mercedes-Benz 2018" [ref=e5468] [cursor=pointer]:
+                - /url: /used/2018-Mercedes_Benz.html
+              - generic [ref=e5469]: "1"
+            - listitem [ref=e5470]:
+              - link "Pre-Owned Mercedes-Benz 2020" [ref=e5471] [cursor=pointer]:
+                - /url: /used/2020-Mercedes_Benz.html
+              - generic [ref=e5472]: "1"
+      - generic [ref=e1940]: The amount shown reflects an estimate of the amount that you can expect to pay in Canadian dollars. Taxes are excluded (unless selected otherwise). Photos for illustration purposes only. While we strive to ensure that the information on this website is accurate, we recommend contacting us directly to verify details and obtain additional information about the vehicle, including confirmation of prices, colors, trims, options, and other specifications.
+  - text: 
+  - contentinfo [ref=e1941]:
+    - generic [ref=e1942]:
+      - iframe [ref=e1943]:
+        
+      - generic [ref=e1944]:
+        - generic [ref=e1945]: Business Hours
+        - list [ref=e1946]:
+          - listitem [ref=e1947] [cursor=pointer]:
+            - 'button "Hours: Sales " [ref=e1948]':
+              - generic [ref=e1949]: 
+              - text: "Hours: Sales "
+          - listitem [ref=e1950] [cursor=pointer]:
+            - 'button "Hours: Service " [ref=e1951]':
+              - generic [ref=e1952]: 
+              - text: "Hours: Service "
+          - listitem [ref=e1953] [cursor=pointer]:
+            - 'button "Hours: Parts " [ref=e1954]':
+              - generic [ref=e1955]: 
+              - text: "Hours: Parts "
+          - listitem [ref=e1956] [cursor=pointer]:
+            - 'button "Hours: Vans " [ref=e1957]':
+              - generic [ref=e1958]: 
+              - text: "Hours: Vans "
+    - generic [ref=e1960]:
+      - generic [ref=e1962]: Live the Mercedes-Benz Mississauga experience
+      - link "Share" [ref=e1967] [cursor=pointer]:
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&src=sdkpreparse
+      - generic [ref=e1968]:
+        - generic [ref=e1969]:
+          - list [ref=e1970]:
+            - listitem [ref=e1971]:
+              - generic [ref=e1972]: Useful buying tools
+            - listitem [ref=e1973]:
+              - link "Request price" [ref=e1974] [cursor=pointer]:
+                - /url: /requests/price-new.html
+            - listitem [ref=e1975]:
+              - link "After sales service" [ref=e1976] [cursor=pointer]:
+                - /url: /mercedes-benz-services.html
+            - listitem [ref=e1977]:
+              - link "Mercedes-Benz Mississauga Promotions" [ref=e1978] [cursor=pointer]:
+                - /url: /our-promotions.html
+            - listitem [ref=e1979]:
+              - link "Car Loan Calculator" [ref=e1980] [cursor=pointer]:
+                - /url: /inventory/car-loan-calculator.html
+            - listitem [ref=e1981]:
+              - link "Auto Credit and Financing" [ref=e1982] [cursor=pointer]:
+                - /url: /requests/credit.html
+          - list [ref=e1984]:
+            - listitem [ref=e1985]:
+              - generic [ref=e1986]: New Cars
+            - listitem [ref=e1987]:
+              - link "2026 AMG GT" [ref=e1988] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-AMG_GT.html
+            - listitem [ref=e1989]:
+              - link "2026 CLA" [ref=e1990] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-CLA.html
+            - listitem [ref=e1991]:
+              - link "2026 CLE" [ref=e1992] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-CLE.html
+            - listitem [ref=e1993]:
+              - link "2026 C-Class" [ref=e1994] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-C_Class.html
+            - listitem [ref=e1995]:
+              - link "2026 E-Class" [ref=e1996] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-E_Class.html
+            - listitem [ref=e1997]:
+              - link "2026 S-Class" [ref=e1998] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-S_Class.html
+          - list [ref=e2000]:
+            - listitem [ref=e2001]:
+              - generic [ref=e2002]: Electrics
+            - listitem [ref=e2003]:
+              - link "2025 EQB" [ref=e2004] [cursor=pointer]:
+                - /url: /new/2025-Mercedes_Benz-EQB.html
+            - listitem [ref=e2005]:
+              - link "2026 EQE" [ref=e2006] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-EQE.html
+            - listitem [ref=e2007]:
+              - link "2026 EQS" [ref=e2008] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-EQS.html
+            - listitem [ref=e2009]:
+              - link "2026 G-Class G 580e" [ref=e2010] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-G_Class_G_580e.html
+          - list [ref=e2012]:
+            - listitem [ref=e2013]:
+              - generic [ref=e2014]: Convertibles
+            - listitem [ref=e2015]:
+              - link "2026 CLE Convertible - Cabriolet" [ref=e2016] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-CLE_Convertible___Cabriolet.html
+            - listitem [ref=e2017]:
+              - link "2026 SL" [ref=e2018] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-SL.html
+        - generic [ref=e2019]:
+          - list [ref=e2021]:
+            - listitem [ref=e2022]:
+              - generic [ref=e2023]: Additional information
+            - listitem [ref=e2024]:
+              - link "Our team" [ref=e2025] [cursor=pointer]:
+                - /url: /ourteam.html
+            - listitem [ref=e2026]:
+              - link "Communication Preferences" [ref=e2027] [cursor=pointer]:
+                - /url: /communication-preferences.html
+            - listitem [ref=e2028]:
+              - link "Delete all cookies from this site" [ref=e2029] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e2030]:
+              - link "Careers" [ref=e2031] [cursor=pointer]:
+                - /url: /requests/auto-jobs.html
+          - list [ref=e2033]:
+            - listitem [ref=e2034]:
+              - generic [ref=e2035]: SUV
+            - listitem [ref=e2036]:
+              - link "2026 GLA" [ref=e2037] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-GLA.html
+            - listitem [ref=e2038]:
+              - link "2026 GLB" [ref=e2039] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-GLB.html
+            - listitem [ref=e2040]:
+              - link "2026 GLC" [ref=e2041] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-GLC.html
+            - listitem [ref=e2042]:
+              - link "2026 GLE" [ref=e2043] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-GLE.html
+            - listitem [ref=e2044]:
+              - link "2026 GLS" [ref=e2045] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-GLS.html
+            - listitem [ref=e2046]:
+              - link "2026 G-Class" [ref=e2047] [cursor=pointer]:
+                - /url: /new/2026-Mercedes_Benz-G_Class.html
+        - generic [ref=e2048]:
+          - list [ref=e2050]:
+            - listitem [ref=e2051]:
+              - generic [ref=e2052]: Our top 30 Pre-Owned vehicles
+            - listitem [ref=e2053]:
+              - link "2025 Mercedes-Benz GLC 300" [ref=e2054] [cursor=pointer]:
+                - /url: /used/2025-Mercedes_Benz-GLC_300.html
+            - listitem [ref=e2055]:
+              - link "2023 Mercedes-Benz GLC 300" [ref=e2056] [cursor=pointer]:
+                - /url: /used/2023-Mercedes_Benz-GLC_300.html
+            - listitem [ref=e2057]:
+              - link "2022 Mercedes-Benz GLE 350" [ref=e2058] [cursor=pointer]:
+                - /url: /used/2022-Mercedes_Benz-GLE_350.html
+            - listitem [ref=e2059]:
+              - link "2023 Mercedes-Benz CLA 250" [ref=e2060] [cursor=pointer]:
+                - /url: /used/2023-Mercedes_Benz-CLA_250.html
+            - listitem [ref=e2061]:
+              - link "2022 Mercedes-Benz GLE 450" [ref=e2062] [cursor=pointer]:
+                - /url: /used/2022-Mercedes_Benz-GLE_450.html
+            - listitem [ref=e2063]:
+              - link "2025 Mercedes-Benz C 300" [ref=e2064] [cursor=pointer]:
+                - /url: /used/2025-Mercedes_Benz-C_300.html
+            - listitem [ref=e2065]:
+              - link "2024 Mercedes-Benz C 300" [ref=e2066] [cursor=pointer]:
+                - /url: /used/2024-Mercedes_Benz-C_300.html
+            - listitem [ref=e2067]:
+              - link "2024 Mercedes-Benz EQE" [ref=e2068] [cursor=pointer]:
+                - /url: /used/2024-Mercedes_Benz-EQE.html
+            - listitem [ref=e2069]:
+              - link "2023 Mercedes-Benz E 450" [ref=e2070] [cursor=pointer]:
+                - /url: /used/2023-Mercedes_Benz-E_450.html
+            - listitem [ref=e2071]:
+              - link "2022 Mercedes-Benz GLC 300" [ref=e2072] [cursor=pointer]:
+                - /url: /used/2022-Mercedes_Benz-GLC_300.html
+            - listitem [ref=e2073]:
+              - button "View More" [ref=e2074]:
+                - generic [ref=e2075] [cursor=pointer]: View More
+          - list [ref=e2077]:
+            - listitem [ref=e2078]:
+              - generic [ref=e2079]: Our demos
+            - listitem [ref=e2080]:
+              - link "Mercedes-Benz demos" [ref=e2081] [cursor=pointer]:
+                - /url: /demos/Mercedes_Benz.html
+          - list [ref=e2083]:
+            - listitem [ref=e2084]:
+              - generic [ref=e2085]: Our top 30 models available
+            - listitem [ref=e2086]:
+              - link "Mercedes-Benz SPRINTER for sale" [ref=e2087] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-Sprinter.html
+            - listitem [ref=e2088]:
+              - link "Mercedes-Benz GLC 300 for sale" [ref=e2089] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-GLC_300.html
+            - listitem [ref=e2090]:
+              - link "Mercedes-Benz GLE 450 for sale" [ref=e2091] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-GLE_450.html
+            - listitem [ref=e2092]:
+              - link "Mercedes-Benz GLA 250 for sale" [ref=e2093] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-GLA_250.html
+            - listitem [ref=e2094]:
+              - link "Mercedes-Benz CLA 250 for sale" [ref=e2095] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-CLA_250.html
+            - listitem [ref=e2096]:
+              - link "Mercedes-Benz GLS 450 for sale" [ref=e2097] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-GLS_450.html
+            - listitem [ref=e2098]:
+              - link "Mercedes-Benz GLE 350 for sale" [ref=e2099] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-GLE_350.html
+            - listitem [ref=e2100]:
+              - link "Mercedes-Benz GLE 53 for sale" [ref=e2101] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-GLE_53.html
+            - listitem [ref=e2102]:
+              - link "Mercedes-Benz C 300 for sale" [ref=e2103] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-C_300.html
+            - listitem [ref=e2104]:
+              - link "Mercedes-Benz GLC 43 AMG for sale" [ref=e2105] [cursor=pointer]:
+                - /url: /models/Mercedes_Benz-GLC_43_AMG.html
+            - listitem [ref=e2106]:
+              - button "View More" [ref=e2107]:
+                - generic [ref=e2108] [cursor=pointer]: View More
+      - generic [ref=e2109]:
+        - generic [ref=e2110]:
+          - heading "Mercedes-Benz Mississauga" [level=3] [ref=e2111]
+          - link "6120 Mavis Rd., Mississauga, ON, L5V 2X4. Google Map opens in a new tab" [ref=e2113] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=Mercedes-Benz%2BMississauga%2C6120+Mavis+Rd.%2CMississauga%2CON%2CL5V+2X4&destination_place_id=ChIJxRHuG_VAK4gRd7ynxM38-fs&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e2114]:
+              - img [ref=e2115]
+              - text: 6120 Mavis Rd.
+              - text: Mississauga, ON, L5V 2X4
+        - generic [ref=e2117]:
+          - link "Facebook opens in a new tab" [ref=e2118] [cursor=pointer]:
+            - /url: https://www.facebook.com/mbmississaugaca/
+            - img [ref=e2119]
+          - link "Instagram opens in a new tab" [ref=e2121] [cursor=pointer]:
+            - /url: https://www.instagram.com/mercedesbenz_mississauga/
+            - img [ref=e2122]
+      - generic [ref=e2126]:
+        - text: © 2000-2026
+        - link "D2C Media opens in a new tab" [ref=e2127] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/
+          - text: D2C Media
+        - text: All rights reserved. D2C Media
+        - link "dealer website opens in a new tab" [ref=e2128] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/products/dealer-websites/
+          - text: dealer website
+        - text: solutions
+        - text: See
+        - link "terms and conditions" [ref=e2129] [cursor=pointer]:
+          - /url: /terms-and-conditions.html
+        - text: and
+        - link "privacy policy" [ref=e2130] [cursor=pointer]:
+          - /url: /privacy-policy.html
+        - text: of Mercedes-Benz Mississauga
+        - link "Cars for sale on AutoAubaine.com opens in a new tab":
+          - /url: https://www.autoaubaine.com/en/
+        - generic [ref=e2131]:
+          - text: Member of the
+          - link "AutoAubaine opens in a new tab" [ref=e2132] [cursor=pointer]:
+            - /url: https://www.autoaubaine.com/en/
+            - text: AutoAubaine
+          - text: network
+  - iframe [ref=e2134]:
+    
+  - insertion
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ < > < >
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img
+          - generic:
+            - generic: Questions?
+            - generic: Connect with us!
+        - img [ref=e2144] [cursor=pointer]
+  - button "Click to expand" [ref=e2160] [cursor=pointer]:
+    - generic [ref=e2161]:
+      - generic [ref=e2163]:
+        - img "showstoppers text with mercedes lineup" [ref=e2166]
+        - heading "Exclusive Auto Show Offers are Here! Receive a limited 1% rate reduction on select 2026 models and all remaining 2025 models until February 28th!" [level=1] [ref=e2170]
+        - img [ref=e2177]
+      - img [ref=e2180]
+  - generic [ref=e3878]:
+    - combobox "Make" [ref=e3881]:
+      - option "My car" [selected]
+      - option "Acura"
+      - option "Alfa Romeo"
+      - option "Audi"
+      - option "BMW"
+      - option "BrightDrop"
+      - option "Buick"
+      - option "Cadillac"
+      - option "Chevrolet"
+      - option "Chrysler"
+      - option "Dodge"
+      - option "FIAT"
+      - option "Ford"
+      - option "Genesis"
+      - option "GMC"
+      - option "Honda"
+      - option "HUMMER"
+      - option "Hyundai"
+      - option "INEOS"
+      - option "INFINITI"
+      - option "Isuzu"
+      - option "Jaguar"
+      - option "Jeep"
+      - option "Kia"
+      - option "Land Rover"
+      - option "Lexus"
+      - option "Lincoln"
+      - option "Lucid"
+      - option "Maserati"
+      - option "Mazda"
+      - option "Mercedes-Benz"
+      - option "Mercury"
+      - option "MINI"
+      - option "Mitsubishi"
+      - option "Nissan"
+      - option "Oldsmobile"
+      - option "Plymouth"
+      - option "Polestar"
+      - option "Pontiac"
+      - option "Porsche"
+      - option "Ram"
+      - option "Rivian"
+      - option "Saab"
+      - option "Saturn"
+      - option "Scion"
+      - option "smart"
+      - option "Subaru"
+      - option "Suzuki"
+      - option "Tesla"
+      - option "Toyota"
+      - option "VinFast"
+      - option "Volkswagen"
+      - option "Volvo"
+    - combobox "Year" [ref=e3884]:
+      - option [selected]
+    - combobox "Model" [ref=e3887]
+    - combobox "Trim Level" [ref=e3890]
+    - button "Value My Trade!" [ref=e3891] [cursor=pointer]:
+      - generic [ref=e3892]: 
+      - generic [ref=e3893]: Value My Trade!
+    - generic [ref=e3895]:
+      - generic [ref=e3896]: Value your Trade for Free Online!
+      - img "accutrade logo en" [ref=e3897]
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $

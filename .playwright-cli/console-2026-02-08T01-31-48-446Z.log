@@ -1,0 +1,3 @@
+[     118ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.autotrader.ca/:0
+[     364ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.autotrader.ca/Images/SVG/en-CA/autotrader-logo.svg:0
+[     498ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.autotrader.ca/favicon.ico:0

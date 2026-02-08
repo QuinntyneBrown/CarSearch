@@ -1,0 +1,807 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "LAND ROVER BRAMPTON Logo" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img "LAND ROVER BRAMPTON" [ref=e9]
+      - generic [ref=e10]:
+        - generic [ref=e14]:
+          - heading "LAND ROVER BRAMPTON" [level=3] [ref=e15]
+          - link "50 Coachworks Cres, Brampton, ON, L6R 3Y2. Google Map opens in a new tab" [ref=e17] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=LAND%2BROVER%2BBRAMPTON%2C50+Coachworks+Cres%2CBrampton%2CON%2CL6R+3Y2&destination_place_id=ChIJs1gkDF4XK4gRetZJJiPMlb0&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e18]:
+              - img [ref=e19]
+              - text: 50 Coachworks Cres, Brampton, ON, L6R 3Y2
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - generic [ref=e23]: 
+              - link "905 500-2005" [ref=e25] [cursor=pointer]:
+                - /url: tel:905 500-2005
+            - generic [ref=e26]: 
+        - generic [ref=e27]:
+          - link "Opens in new tab" [ref=e29] [cursor=pointer]:
+            - /url: https://www.jaguarbrampton.com/en/
+            - text: VIEW OUR JAGUAR WEBSITE
+            - generic [ref=e30]: 
+          - generic [ref=e31]:
+            - link " Service Appointment" [ref=e33] [cursor=pointer]:
+              - /url: /requests/service-appointment.html
+              - generic [ref=e34]: 
+              - text: Service Appointment
+            - list [ref=e36]:
+              - listitem [ref=e37]:
+                - link "FR" [ref=e38] [cursor=pointer]:
+                  - /url: /occasion/recherche.html
+                  - generic [ref=e39]: FR
+                - generic "English" [ref=e40]:
+                  - generic [ref=e41]: EN
+      - list [ref=e46]:
+        - listitem [ref=e47]:
+          - link "NEW VEHICLES" [ref=e48] [cursor=pointer]:
+            - /url: /new/new.html
+        - listitem [ref=e49]:
+          - link "PRE-OWNED" [ref=e50] [cursor=pointer]:
+            - /url: /used/search.html
+        - listitem [ref=e51]:
+          - link "SPECIAL OFFERS" [ref=e52] [cursor=pointer]:
+            - /url: /our-promotions.html
+        - listitem [ref=e53]:
+          - link "FINANCING" [ref=e54] [cursor=pointer]:
+            - /url: /requests/credit.html
+        - listitem [ref=e55]:
+          - link "SERVICE & PARTS" [ref=e56] [cursor=pointer]:
+            - /url: /land rover-services.html
+        - listitem [ref=e57]:
+          - link "ABOUT US" [ref=e58] [cursor=pointer]:
+            - /url: /contactus.html
+          - text:  
+    - generic [ref=e60]:
+      - combobox "Make" [ref=e63]:
+        - option "My car" [selected]
+        - option "Acura"
+        - option "Alfa Romeo"
+        - option "Audi"
+        - option "BMW"
+        - option "BrightDrop"
+        - option "Buick"
+        - option "Cadillac"
+        - option "Chevrolet"
+        - option "Chrysler"
+        - option "Dodge"
+        - option "FIAT"
+        - option "Ford"
+        - option "Genesis"
+        - option "GMC"
+        - option "Honda"
+        - option "HUMMER"
+        - option "Hyundai"
+        - option "INEOS"
+        - option "INFINITI"
+        - option "Isuzu"
+        - option "Jaguar"
+        - option "Jeep"
+        - option "Kia"
+        - option "Land Rover"
+        - option "Lexus"
+        - option "Lincoln"
+        - option "Lucid"
+        - option "Maserati"
+        - option "Mazda"
+        - option "Mercedes-Benz"
+        - option "Mercury"
+        - option "MINI"
+        - option "Mitsubishi"
+        - option "Nissan"
+        - option "Oldsmobile"
+        - option "Plymouth"
+        - option "Polestar"
+        - option "Pontiac"
+        - option "Porsche"
+        - option "Ram"
+        - option "Rivian"
+        - option "Saab"
+        - option "Saturn"
+        - option "Scion"
+        - option "smart"
+        - option "Subaru"
+        - option "Suzuki"
+        - option "Tesla"
+        - option "Toyota"
+        - option "VinFast"
+        - option "Volkswagen"
+        - option "Volvo"
+      - combobox "Year" [ref=e66]:
+        - option [selected]
+      - combobox "Model" [ref=e69]
+      - combobox "Trim Level" [ref=e72]
+      - button "Value My Trade!" [ref=e73] [cursor=pointer]:
+        - generic [ref=e74]: 
+        - generic [ref=e75]: Value My Trade!
+  - generic [ref=e76]:
+    - generic [ref=e79]:
+      - link "Home" [ref=e2734] [cursor=pointer]:
+        - /url: /eng/
+      - text: » Used Land Rover Range Rover for Sale
+    - generic [ref=e85]:
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - heading "Used Land Rover Range Rover for Sale in Brampton" [level=1] [ref=e2735]:
+            - generic [ref=e91]: 
+            - generic [ref=e92]:
+              - generic [ref=e93]: Used Land Rover Range Rover for Sale
+              - generic [ref=e94]: in Brampton
+          - generic:
+            - generic [ref=e96] [cursor=pointer]: 
+            - text: 
+        - generic [ref=e98] [cursor=pointer]:
+          - generic [ref=e99]:
+            - generic [ref=e100]: "Sort order:"
+            - generic [ref=e101]: House make first
+          - generic [ref=e103]: 
+      - option "12 Month" [selected]
+      - option "24 Month"
+      - option "36 Month"
+      - option "48 Month"
+      - option "60 Month"
+      - option "72 Month"
+      - option "84 Month"
+      - option "96 Month"
+      - option "Monthly" [selected]
+      - text:  $
+      - generic [ref=e104]:
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - generic:
+                - generic:
+                  - generic [ref=e110]: Search
+                  - generic [ref=e115]:
+                    - textbox "Trim, Cyl., Trans., etc..." [ref=e116]
+                    - generic [ref=e117]: "0"
+            - generic [ref=e119]:
+              - generic:
+                - button "Category " [ref=e122] [cursor=pointer]:
+                  - generic [ref=e123]: Category
+                  - generic [ref=e125]: 
+                - generic [ref=e126]: clear
+                - generic [ref=e127]:
+                  - list [ref=e130]:
+                    - listitem "Used vehicles" [ref=e131] [cursor=pointer]:
+                      - button "Used vehicles 2" [ref=e2736]:
+                        - generic [ref=e133]: Used vehicles
+                        - generic [ref=e134]: "2"
+                    - listitem "Demo vehicles" [ref=e135] [cursor=pointer]:
+                      - button "Demo vehicles 0" [ref=e2737]:
+                        - generic [ref=e137]: Demo vehicles
+                        - generic [ref=e138]: "0"
+                    - listitem "New Inventory" [ref=e139] [cursor=pointer]:
+                      - button "New Inventory 4" [ref=e2738]:
+                        - generic [ref=e141]: New Inventory
+                        - generic [ref=e142]: "4"
+                  - generic [ref=e143]:
+                    - generic [ref=e144]: "Show only:"
+                    - generic [ref=e145]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - list: 
+                    - list [ref=e150]:
+                      - listitem "Certified vehicles" [ref=e151] [cursor=pointer]:
+                        - button " Certified vehicles 0" [ref=e2739]:
+                          - generic [ref=e153]: 
+                          - generic [ref=e154]: Certified vehicles
+                          - generic [ref=e155]: "0"
+                    - generic [ref=e156]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - list: 
+            - generic [ref=e157]:
+              - generic [ref=e159]: Body Type
+              - list [ref=e163]:
+                - listitem "Cars" [ref=e164] [cursor=pointer]:
+                  - generic [ref=e165]:
+                    - button " Cars" [ref=e166]:
+                      - generic [ref=e167]: 
+                      - text: Cars
+                    - generic [ref=e168]: "0"
+                - text:  
+                - listitem "Convert." [ref=e169] [cursor=pointer]:
+                  - generic [ref=e170]:
+                    - button " Convert." [ref=e171]:
+                      - generic [ref=e172]: 
+                      - text: Convert.
+                    - generic [ref=e173]: "0"
+                - text:  
+                - listitem "SUV" [ref=e174]:
+                  - generic [ref=e175]:
+                    - button " SUV" [ref=e176] [cursor=pointer]:
+                      - generic [ref=e177]: 
+                      - text: SUV
+                    - generic [ref=e178]: "2"
+            - generic [ref=e180]:
+              - generic:
+                - button "Brand " [ref=e183] [cursor=pointer]:
+                  - generic [ref=e184]: Brand
+                  - generic [ref=e186]: 
+                - generic [ref=e187]: clear
+                - list [ref=e191]:
+                  - listitem "Audi" [ref=e192] [cursor=pointer]:
+                    - button "Audi 0" [ref=e2740]:
+                      - generic [ref=e194]: Audi
+                      - generic [ref=e195]: "0"
+                  - listitem "BMW" [ref=e196] [cursor=pointer]:
+                    - button "BMW 0" [ref=e2741]:
+                      - generic [ref=e198]: BMW
+                      - generic [ref=e199]: "0"
+                  - listitem "Jaguar" [ref=e200] [cursor=pointer]:
+                    - button "Jaguar 0" [ref=e2742]:
+                      - generic [ref=e202]: Jaguar
+                      - generic [ref=e203]: "0"
+                  - listitem "Jeep" [ref=e204] [cursor=pointer]:
+                    - button "Jeep 0" [ref=e2743]:
+                      - generic [ref=e206]: Jeep
+                      - generic [ref=e207]: "0"
+                  - listitem "Land Rover" [ref=e208] [cursor=pointer]:
+                    - button "Land Rover 2" [ref=e2744]:
+                      - generic [ref=e210]: Land Rover
+                      - generic [ref=e211]: "2"
+                  - listitem "MINI" [ref=e212] [cursor=pointer]:
+                    - button "MINI 0" [ref=e2745]:
+                      - generic [ref=e214]: MINI
+                      - generic [ref=e215]: "0"
+                  - listitem "Nissan" [ref=e216] [cursor=pointer]:
+                    - button "Nissan 0" [ref=e2746]:
+                      - generic [ref=e218]: Nissan
+                      - generic [ref=e219]: "0"
+            - generic [ref=e220]:
+              - generic [ref=e222]: 
+              - generic [ref=e223]:
+                - generic:
+                  - button "Model " [ref=e226] [cursor=pointer]:
+                    - generic [ref=e227]: Model
+                    - generic [ref=e229]: 
+                  - generic [ref=e230]: clear
+                  - list [ref=e1824]:
+                    - listitem [ref=e1825] [cursor=pointer]: Land Rover
+                    - listitem "Defender" [ref=e1826] [cursor=pointer]:
+                      - button "Defender 4" [ref=e1827]:
+                        - generic [ref=e1828]: Defender
+                        - generic [ref=e1829]: "4"
+                    - listitem "Range Rover" [ref=e1830] [cursor=pointer]:
+                      - button "Range Rover 2" [active] [ref=e1831]:
+                        - generic [ref=e1832]: Range Rover
+                        - generic [ref=e1833]: "2"
+                    - listitem "Range Rover Evoque" [ref=e1834] [cursor=pointer]:
+                      - button "Range Rover Evoque 4" [ref=e1835]:
+                        - generic [ref=e1836]: Range Rover Evoque
+                        - generic [ref=e1837]: "4"
+                    - listitem "Range Rover Sport" [ref=e1838] [cursor=pointer]:
+                      - button "Range Rover Sport 7" [ref=e1839]:
+                        - generic [ref=e1840]: Range Rover Sport
+                        - generic [ref=e1841]: "7"
+                    - listitem "Range Rover Velar" [ref=e1842] [cursor=pointer]:
+                      - button "Range Rover Velar 5" [ref=e1843]:
+                        - generic [ref=e1844]: Range Rover Velar
+                        - generic [ref=e1845]: "5"
+            - generic [ref=e231]:
+              - generic [ref=e233]: 
+              - generic [ref=e234]:
+                - generic:
+                  - button "Trim " [ref=e237] [cursor=pointer]:
+                    - generic [ref=e238]: Trim
+                    - generic [ref=e240]: 
+                  - list [ref=e2750]:
+                    - listitem [ref=e2751] [cursor=pointer]: Range Rover
+                    - listitem "SE" [ref=e2752] [cursor=pointer]:
+                      - button "SE 2" [ref=e2753]:
+                        - generic [ref=e2754]: SE
+                        - generic [ref=e2755]: "2"
+            - generic [ref=e242]:
+              - generic [ref=e244]: Year
+              - generic [ref=e248]:
+                - generic [ref=e249]:
+                  - spinbutton [ref=e250]: "2018"
+                  - spinbutton [ref=e251]: "2026"
+                - generic [ref=e252]:
+                  - slider: "2018"
+                  - slider: "2026"
+                  - generic [ref=e254]: 2023 (2)
+            - generic [ref=e255]:
+              - generic [ref=e257]: Price
+              - generic [ref=e261]:
+                - generic [ref=e262]:
+                  - spinbutton [ref=e263]: "19000"
+                  - spinbutton [ref=e264]: "215000"
+                - generic [ref=e265]:
+                  - slider: "19000"
+                  - slider: "215000"
+                  - generic [ref=e267]: $116,000 - $117,000 (2)
+            - generic [ref=e268]:
+              - generic [ref=e270]: Mileage
+              - generic [ref=e274]:
+                - generic [ref=e275]:
+                  - textbox [disabled] [ref=e276]: 0km
+                  - textbox [disabled] [ref=e277]: 150,000km
+                - generic [ref=e278]:
+                  - slider: "0"
+                  - slider: "150000"
+                  - generic [ref=e280]: 70,000km - 80,000km (2)
+            - button "Transmission " [ref=e285] [cursor=pointer]:
+              - generic [ref=e286]: Transmission
+              - generic [ref=e288]: 
+            - button "Powertrain " [ref=e294] [cursor=pointer]:
+              - generic [ref=e295]: Powertrain
+              - generic [ref=e297]: 
+            - generic [ref=e299]:
+              - generic [ref=e301]: Ext. Colors
+              - list [ref=e305]:
+                - listitem "Black" [ref=e306] [cursor=pointer]:
+                  - generic [ref=e308]:
+                    - generic [ref=e312]: 
+                    - generic [ref=e313]: "0"
+                - listitem "Grey" [ref=e314] [cursor=pointer]:
+                  - generic [ref=e316]:
+                    - generic [ref=e320]: 
+                    - generic [ref=e321]: "1"
+                - text: 
+                - listitem "White" [ref=e322] [cursor=pointer]:
+                  - generic [ref=e324]:
+                    - generic [ref=e328]: 
+                    - generic [ref=e329]: "1"
+                - listitem "Blue" [ref=e330] [cursor=pointer]:
+                  - generic [ref=e332]:
+                    - generic [ref=e336]: 
+                    - generic [ref=e337]: "0"
+                - listitem "Green" [ref=e338] [cursor=pointer]:
+                  - generic [ref=e340]:
+                    - generic [ref=e344]: 
+                    - generic [ref=e345]: "0"
+                - listitem "Red" [ref=e346] [cursor=pointer]:
+                  - generic [ref=e348]:
+                    - generic [ref=e352]: 
+                    - generic [ref=e353]: "0"
+                - text:   
+                - listitem "Gold" [ref=e354] [cursor=pointer]:
+                  - generic [ref=e356]:
+                    - generic [ref=e360]: 
+                    - generic [ref=e361]: "0"
+                - text:   
+                - listitem "Yellow" [ref=e362] [cursor=pointer]:
+                  - generic [ref=e364]:
+                    - generic [ref=e368]: 
+                    - generic [ref=e369]: "0"
+                - listitem "Other" [ref=e370] [cursor=pointer]:
+                  - generic [ref=e372]:
+                    - generic [ref=e376]: 
+                    - generic [ref=e377]: "0"
+            - generic [ref=e379]:
+              - generic:
+                - button "Fuel " [ref=e382] [cursor=pointer]:
+                  - generic [ref=e383]: Fuel
+                  - generic [ref=e385]: 
+                - text: 
+            - button "Options " [ref=e391] [cursor=pointer]:
+              - generic [ref=e392]: Options
+              - generic [ref=e394]: 
+            - button "Doors " [ref=e400] [cursor=pointer]:
+              - generic [ref=e401]: Doors
+              - generic [ref=e403]: 
+            - button "Passengers " [ref=e409] [cursor=pointer]:
+              - generic [ref=e410]: Passengers
+              - generic [ref=e412]: 
+            - button "New Arrivals " [ref=e418] [cursor=pointer]:
+              - generic [ref=e419]: New Arrivals
+              - generic [ref=e421]: 
+            - button "Delivery Status " [ref=e427] [cursor=pointer]:
+              - generic [ref=e428]: Delivery Status
+              - generic [ref=e430]: 
+          - generic [ref=e1848] [cursor=pointer]:
+            - emphasis [ref=e1849]: 
+            - generic [ref=e1850]:
+              - generic [ref=e1851]: "2"
+              - generic [ref=e1852]: Results
+        - generic [ref=e432]:
+          - list [ref=e434]:
+            - listitem [ref=e435] [cursor=pointer]:
+              - button "Remove filters" [ref=e436]:
+                - generic [ref=e437]: Remove filters
+            - listitem [ref=e438] [cursor=pointer]:
+              - button "Used vehicles " [ref=e439]:
+                - generic [ref=e440]: Used vehicles
+                - generic [ref=e442]: 
+            - listitem [ref=e1853] [cursor=pointer]:
+              - button "Land Rover " [ref=e1854]:
+                - generic [ref=e1855]: Land Rover
+                - generic [ref=e1857]: 
+            - listitem [ref=e2756] [cursor=pointer]:
+              - button "Range Rover " [ref=e2757]:
+                - generic [ref=e2758]: Range Rover
+                - generic [ref=e2760]: 
+          - generic [ref=e443]:
+            - list [ref=e2761]:
+              - listitem [ref=e2762]:
+                - generic [ref=e2764]:
+                  - generic [ref=e2766]:
+                    - generic [ref=e2767]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2768]:
+                    - link "Land Rover Range Rover 2023":
+                      - /url: /used/2023-Land_Rover-Range_Rover-id13031261.html
+                      - img "Land Rover Range Rover 2023" [ref=e2769] [cursor=pointer]
+                    - generic [ref=e2770]: "Stock: L25-726A"
+                  - generic [ref=e2771]:
+                    - generic [ref=e2775] [cursor=pointer]:
+                      - generic [ref=e2776]: 
+                      - generic [ref=e2777]: Finance it!
+                    - generic [ref=e2779]:
+                      - link "2023 Range Rover P530 SE SWB in Brampton" [ref=e2780] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover-id13031261.html
+                        - generic [ref=e2781]:
+                          - generic [ref=e2782]: 2023 Range Rover
+                          - generic [ref=e2783]: P530 SE SWB
+                          - generic [ref=e2784]: in Brampton
+                      - generic [ref=e2785]:
+                        - text: 116,998 $
+                        - generic [ref=e2786]: "*Taxes & licenses not included."
+                        - generic [ref=e2788] [cursor=pointer]: 
+                    - generic [ref=e2790]:
+                      - generic [ref=e2791]: "76,987 KM. Auto., Ext: Grey, Int: Caraway w/ Caraway Windsor Int"
+                      - generic [ref=e2792]: 
+                    - link "Carfax" [ref=e2796] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=vSRXfBXpVVhZBaUwFlWOd597fKLXTqJo
+                      - img "Carfax" [ref=e2797]
+              - listitem [ref=e2798]:
+                - generic [ref=e2800]:
+                  - generic [ref=e2802]:
+                    - generic [ref=e2803]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e2804]:
+                    - link "Land Rover Range Rover 2023":
+                      - /url: /used/2023-Land_Rover-Range_Rover-id13340934.html
+                      - img "Land Rover Range Rover 2023" [ref=e2805] [cursor=pointer]
+                    - generic [ref=e2806]: "Stock: L26-222A"
+                  - generic [ref=e2807]:
+                    - generic [ref=e2811] [cursor=pointer]:
+                      - generic [ref=e2812]: 
+                      - generic [ref=e2813]: Finance it!
+                    - generic [ref=e2815]:
+                      - link "2023 Range Rover P530 SE SWB CPO/TECH PACKAGE/CLEAN CARFAX/BEAUTIFUL SPEC in Brampton" [ref=e2816] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover-id13340934.html
+                        - generic [ref=e2817]:
+                          - generic [ref=e2818]: 2023 Range Rover
+                          - generic [ref=e2819]: P530 SE SWB CPO/TECH PACKAGE/CLEAN CARFAX/BEAUTIFUL SPEC
+                          - generic [ref=e2820]: in Brampton
+                      - generic [ref=e2821]:
+                        - text: 116,998 $
+                        - generic [ref=e2822]: "*Taxes & licenses not included."
+                        - generic [ref=e2824] [cursor=pointer]: 
+                    - generic [ref=e2826]:
+                      - generic [ref=e2827]: "79,911 KM. Auto., Ext: White,"
+                      - generic [ref=e2828]: 
+                    - link "Carfax" [ref=e2832] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=BiQ+VM8mS9fIdXUlL5Rw0JNnZy4ejYhD
+                      - img "Carfax" [ref=e2833]
+            - list [ref=e2834]:
+              - listitem "down" [ref=e2835] [cursor=pointer]:
+                - button "" [ref=e2836]:
+                  - generic [ref=e2837]: 
+              - listitem "Page 1" [ref=e2838] [cursor=pointer]:
+                - button "1" [ref=e2839]
+              - listitem "up" [ref=e2840] [cursor=pointer]:
+                - button "" [ref=e2841]:
+                  - generic [ref=e2842]: 
+      - generic [ref=e2843]:
+        - generic [ref=e2844]:
+          - paragraph [ref=e2845]: Our stock by year
+          - list [ref=e2846]:
+            - listitem [ref=e2847]:
+              - link "Used Range Rover 2023" [ref=e2848] [cursor=pointer]:
+                - /url: /used/2023-Range_Rover.html
+              - generic [ref=e2849]: "2"
+        - generic [ref=e2850]:
+          - paragraph [ref=e2851]: Our stock by model
+          - list [ref=e2852]:
+            - listitem [ref=e2853]:
+              - link "Used Range Rover Sport" [ref=e2854] [cursor=pointer]:
+                - /url: /used/Range_Rover_Sport.html
+              - generic [ref=e2855]: "7"
+            - listitem [ref=e2856]:
+              - link "Used Range Rover Velar" [ref=e2857] [cursor=pointer]:
+                - /url: /used/Range_Rover_Velar.html
+              - generic [ref=e2858]: "5"
+            - listitem [ref=e2859]:
+              - link "Used Defender" [ref=e2860] [cursor=pointer]:
+                - /url: /used/Defender.html
+              - generic [ref=e2861]: "4"
+            - listitem [ref=e2862]:
+              - link "Used Range Rover Evoque" [ref=e2863] [cursor=pointer]:
+                - /url: /used/Range_Rover_Evoque.html
+              - generic [ref=e2864]: "4"
+            - listitem [ref=e2865]:
+              - link "Used Range Rover" [ref=e2866] [cursor=pointer]:
+                - /url: /used/Range_Rover.html
+              - generic [ref=e2867]: "2"
+        - generic [ref=e2868]:
+          - paragraph [ref=e2869]: Our stock by city
+          - list [ref=e2870]:
+            - listitem [ref=e2871]:
+              - link "Used Range Rover in Brampton" [ref=e2872] [cursor=pointer]:
+                - /url: /used/Range_Rover.html
+              - generic [ref=e2873]: "1"
+      - generic [ref=e1645]: Photos for illustration purposes only, and may not reflect exact vehicle (including vehicle colour, trim, options, or other specifications). Some vehicles may be shown with optional equipment or equipment not available in Canada. Specifications, equipment, options and prices are subject to change without notice. Although we endeavour to ensure that the information contained on this website is accurate, the website provider and the dealership are not responsible for any errors or omissions that may occur from time to time. Some data and prices are provided by a third-party and we cannot guarantee their accuracy. Please contact your dealer for verification or if you would like more information on this vehicle.
+  - text: 
+  - contentinfo [ref=e1646]:
+    - generic [ref=e1647]:
+      - iframe [ref=e1648]:
+        
+      - generic [ref=e1649]:
+        - generic [ref=e1650]: Business Hours
+        - list [ref=e1651]:
+          - listitem [ref=e1652] [cursor=pointer]:
+            - 'button "Hours: Sales " [ref=e1653]':
+              - generic [ref=e1654]: 
+              - text: "Hours: Sales "
+          - listitem [ref=e1655] [cursor=pointer]:
+            - 'button "Hours: Service & Parts " [ref=e1656]':
+              - generic [ref=e1657]: 
+              - text: "Hours: Service & Parts "
+    - generic [ref=e1659]:
+      - generic [ref=e1661]: Live the LAND ROVER BRAMPTON experience
+      - generic [ref=e1662]:
+        - link "Share" [ref=e1666] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&src=sdkpreparse
+        - iframe [ref=e1668]:
+          - link "Post" [ref=f18e4] [cursor=pointer]:
+            - /url: https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.landroverbrampton.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text=LAND%20ROVER%20BRAMPTON%20%7C%20Used%20Vehicles%20for%20sale%20in%20Brampton&url=https%3A%2F%2Fwww.landroverbrampton.com%2Fused%2Fsearch.html
+            - generic [ref=f18e6]: Post
+      - generic [ref=e1669]:
+        - list [ref=e1671]:
+          - listitem [ref=e1672]:
+            - generic [ref=e1673]: Useful buying tools
+          - listitem [ref=e1674]:
+            - link "After sales service" [ref=e1675] [cursor=pointer]:
+              - /url: /land rover-services.html
+          - listitem [ref=e1676]:
+            - link "LAND ROVER BRAMPTON Promotions" [ref=e1677] [cursor=pointer]:
+              - /url: /our-promotions.html
+          - listitem [ref=e1678]:
+            - link "Car Loan Calculator" [ref=e1679] [cursor=pointer]:
+              - /url: /inventory/car-loan-calculator.html
+          - listitem [ref=e1680]:
+            - link "Auto Credit and Financing" [ref=e1681] [cursor=pointer]:
+              - /url: /requests/credit.html
+        - generic [ref=e1682]:
+          - list [ref=e1684]:
+            - listitem [ref=e1685]:
+              - generic [ref=e1686]: Additional information
+            - listitem [ref=e1687]:
+              - link "Our team" [ref=e1688] [cursor=pointer]:
+                - /url: /ourteam.html
+            - listitem [ref=e1689]:
+              - link "Communication Preferences" [ref=e1690] [cursor=pointer]:
+                - /url: /communication-preferences.html
+            - listitem [ref=e1691]:
+              - link "Delete all cookies from this site" [ref=e1692] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1693]:
+              - link "Careers" [ref=e1694] [cursor=pointer]:
+                - /url: /requests/auto-jobs.html
+          - list [ref=e1696]:
+            - listitem [ref=e1697]:
+              - generic [ref=e1698]: SUV
+            - listitem [ref=e1699]:
+              - link "2026 Defender" [ref=e1700] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Defender.html
+            - listitem [ref=e1701]:
+              - link "2026 Discovery" [ref=e1702] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery.html
+            - listitem [ref=e1703]:
+              - link "2026 Discovery Sport" [ref=e1704] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery_Sport.html
+            - listitem [ref=e1705]:
+              - link "2026 Range Rover" [ref=e1706] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover.html
+            - listitem [ref=e1707]:
+              - link "2026 Range Rover Evoque" [ref=e1708] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1709]:
+              - link "2026 Range Rover Sport" [ref=e1710] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1711]:
+              - link "2026 Range Rover Velar" [ref=e1712] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Velar.html
+          - list [ref=e1714]:
+            - listitem [ref=e1715]:
+              - generic [ref=e1716]: Other useful links
+            - listitem [ref=e1717]:
+              - link "LAND ROVER CANADA" [ref=e1718] [cursor=pointer]:
+                - /url: https://www.landrover.ca/
+        - generic [ref=e1719]:
+          - list [ref=e1721]:
+            - listitem [ref=e1722]:
+              - generic [ref=e1723]: Our top 30 used vehicles
+            - listitem [ref=e1724]:
+              - link "2023 Defender" [ref=e1725] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Defender.html
+            - listitem [ref=e1726]:
+              - link "2023 Range Rover Evoque" [ref=e1727] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1728]:
+              - link "2023 Range Rover Sport" [ref=e1729] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1730]:
+              - link "2023 Range Rover Velar" [ref=e1731] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1732]:
+              - link "2023 Range Rover" [ref=e1733] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover.html
+            - listitem [ref=e1734]:
+              - link "2022 Range Rover Velar" [ref=e1735] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1736]:
+              - link "2025 Range Rover Sport" [ref=e1737] [cursor=pointer]:
+                - /url: /used/2025-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1738]:
+              - link "2024 Defender" [ref=e1739] [cursor=pointer]:
+                - /url: /used/2024-Land_Rover-Defender.html
+            - listitem [ref=e1740]:
+              - link "2024 Range Rover" [ref=e1741] [cursor=pointer]:
+                - /url: /used/2024-Land_Rover-Range_Rover.html
+            - listitem [ref=e1742]:
+              - link "2022 Range Rover Evoque" [ref=e1743] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1744]:
+              - button "View More" [ref=e1745]:
+                - generic [ref=e1746] [cursor=pointer]: View More
+          - list [ref=e1748]:
+            - listitem [ref=e1749]:
+              - generic [ref=e1750]: Our demos
+            - listitem [ref=e1751]:
+              - link "Range Rover Sport Demos" [ref=e1752] [cursor=pointer]:
+                - /url: /demos/Land_Rover-Range_Rover_Sport.html
+          - list [ref=e1754]:
+            - listitem [ref=e1755]:
+              - generic [ref=e1756]: Our top 30 models available
+            - listitem [ref=e1757]:
+              - link "Defender for sale" [ref=e1758] [cursor=pointer]:
+                - /url: /models/Land_Rover-Defender.html
+            - listitem [ref=e1759]:
+              - link "Range Rover Velar for sale" [ref=e1760] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1761]:
+              - link "Range Rover Evoque for sale" [ref=e1762] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1763]:
+              - link "Range Rover Sport for sale" [ref=e1764] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1765]:
+              - link "Range Rover for sale" [ref=e1766] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover.html
+      - generic [ref=e1767]:
+        - generic [ref=e1768]:
+          - heading "LAND ROVER BRAMPTON" [level=3] [ref=e1769]
+          - link "50 Coachworks Cres, Brampton, ON, L6R 3Y2. Google Map opens in a new tab" [ref=e1771] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=LAND%2BROVER%2BBRAMPTON%2C50+Coachworks+Cres%2CBrampton%2CON%2CL6R+3Y2&destination_place_id=ChIJs1gkDF4XK4gRetZJJiPMlb0&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e1772]:
+              - img [ref=e1773]
+              - text: 50 Coachworks Cres
+              - text: Brampton, ON, L6R 3Y2
+          - generic [ref=e1776]:
+            - generic [ref=e1777]: 
+            - link "905 500-2005" [ref=e1779] [cursor=pointer]:
+              - /url: tel:905 500-2005
+        - generic [ref=e1780]:
+          - link "Facebook opens in a new tab" [ref=e1781] [cursor=pointer]:
+            - /url: https://www.facebook.com/landroverbrampton
+            - img [ref=e1782]
+          - link "Twitter opens in a new tab" [ref=e1784] [cursor=pointer]:
+            - /url: https://twitter.com/LandRoverCanada
+            - img [ref=e1785]
+          - link "Youtube opens in a new tab" [ref=e1787] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCIWtCdXOqREwGsn1ymM3rxA
+            - img [ref=e1788]
+          - link "Instagram opens in a new tab" [ref=e1790] [cursor=pointer]:
+            - /url: https://www.instagram.com/landrover.brampton/?igshid=e78l6ti31ggd
+            - img [ref=e1791]
+      - generic [ref=e1795]:
+        - text: © 2000-2026
+        - link "D2C Media opens in a new tab" [ref=e1796] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/
+          - text: D2C Media
+        - text: All rights reserved. D2C Media
+        - link "dealer website opens in a new tab" [ref=e1797] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/products/dealer-websites/
+          - text: dealer website
+        - text: solutions
+        - text: See
+        - link "terms and conditions" [ref=e1798] [cursor=pointer]:
+          - /url: /terms-and-conditions.html
+        - text: and
+        - link "privacy policy" [ref=e1799] [cursor=pointer]:
+          - /url: /privacy-policy.html
+        - text: of LAND ROVER BRAMPTON
+  - iframe [ref=e1801]:
+    
+  - insertion
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ < > < >
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e1803] [cursor=pointer]:
+          - img [ref=e1807]
+          - generic [ref=e1808]:
+            - generic [ref=e1809]: Questions?
+            - generic [ref=e1810]: Connect with us!
+        - img [ref=e1811] [cursor=pointer]
+  - generic [ref=e2717]:
+    - combobox "Make" [ref=e2720]:
+      - option "My car" [selected]
+      - option "Acura"
+      - option "Alfa Romeo"
+      - option "Audi"
+      - option "BMW"
+      - option "BrightDrop"
+      - option "Buick"
+      - option "Cadillac"
+      - option "Chevrolet"
+      - option "Chrysler"
+      - option "Dodge"
+      - option "FIAT"
+      - option "Ford"
+      - option "Genesis"
+      - option "GMC"
+      - option "Honda"
+      - option "HUMMER"
+      - option "Hyundai"
+      - option "INEOS"
+      - option "INFINITI"
+      - option "Isuzu"
+      - option "Jaguar"
+      - option "Jeep"
+      - option "Kia"
+      - option "Land Rover"
+      - option "Lexus"
+      - option "Lincoln"
+      - option "Lucid"
+      - option "Maserati"
+      - option "Mazda"
+      - option "Mercedes-Benz"
+      - option "Mercury"
+      - option "MINI"
+      - option "Mitsubishi"
+      - option "Nissan"
+      - option "Oldsmobile"
+      - option "Plymouth"
+      - option "Polestar"
+      - option "Pontiac"
+      - option "Porsche"
+      - option "Ram"
+      - option "Rivian"
+      - option "Saab"
+      - option "Saturn"
+      - option "Scion"
+      - option "smart"
+      - option "Subaru"
+      - option "Suzuki"
+      - option "Tesla"
+      - option "Toyota"
+      - option "VinFast"
+      - option "Volkswagen"
+      - option "Volvo"
+    - combobox "Year" [ref=e2723]:
+      - option [selected]
+    - combobox "Model" [ref=e2726]
+    - combobox "Trim Level" [ref=e2729]
+    - button "Value My Trade!" [ref=e2730] [cursor=pointer]:
+      - generic [ref=e2731]: 
+      - generic [ref=e2732]: Value My Trade!
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $

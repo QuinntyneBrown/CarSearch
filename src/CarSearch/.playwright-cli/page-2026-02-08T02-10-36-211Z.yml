@@ -1,0 +1,773 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "We’re moving soon. In March 2026, BMW Toronto relocates to 740 Dundas St. East. Learn more." [ref=e3] [cursor=pointer]:
+      - /url: /bmw-toronto-is-moving
+    - generic [ref=e4]:
+      - link "BMW Logo BMW Toronto 11 Sunlight Park Rd, Toronto, ON M4M 1B5" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "BMW Logo" [ref=e6]
+        - generic [ref=e7]:
+          - generic [ref=e8]: BMW Toronto
+          - generic [ref=e9]: 11 Sunlight Park Rd, Toronto, ON M4M 1B5
+      - generic [ref=e10]:
+        - link "New" [ref=e11] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Pre-Owned" [ref=e12] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Demo" [ref=e13] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Special Offers" [ref=e14] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Service" [ref=e15] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Parts" [ref=e16] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Motorcycles" [ref=e17] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "中文服務" [ref=e19] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "" [ref=e20] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - button "" [ref=e21]: 
+      - generic [ref=e23]:
+        - link [ref=e24] [cursor=pointer]:
+          - /url: tel:(416) 623-4269
+          - img [ref=e25]: 
+        - link [ref=e27] [cursor=pointer]:
+          - /url: http://maps.google.com/?q=BMW%20Toronto
+          - img [ref=e28]: 
+        - img [ref=e31]: 
+      - text: 
+  - main [ref=e33]:
+    - heading "Shop Pre-Owned Inventory" [level=1] [ref=e35]
+    - heading "SHOP PRE-OWNED INVENTORY." [level=1] [ref=e37]
+    - generic [ref=e38]:
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - generic [ref=e43]: FILTERS
+          - button "Reset All " [ref=e44] [cursor=pointer]:
+            - text: Reset All
+            - generic [ref=e45]: 
+        - generic [ref=e46]:
+          - generic [ref=e48]:
+            - checkbox "Certified Pre-Owned only" [ref=e49] [cursor=pointer]
+            - text: Certified Pre-Owned only
+          - generic [ref=e51]:
+            - checkbox "With Photos Only" [ref=e52] [cursor=pointer]
+            - text: With Photos Only
+        - generic [ref=e53]:
+          - button "Make " [ref=e54] [cursor=pointer]:
+            - generic [ref=e55]: Make
+            - generic [ref=e56]: 
+          - generic [ref=e57]:
+            - button "Reset " [ref=e4559] [cursor=pointer]:
+              - text: Reset
+              - generic [ref=e4560]: 
+            - generic [ref=e58]:
+              - button "Audi" [ref=e59] [cursor=pointer]
+              - button "BMW" [ref=e60] [cursor=pointer]
+              - button "Chevrolet" [ref=e61] [cursor=pointer]
+              - button "Mercedes-Benz" [ref=e62] [cursor=pointer]
+              - button "MINI" [ref=e63] [cursor=pointer]
+        - generic [ref=e64]:
+          - button "Body Style " [ref=e65] [cursor=pointer]:
+            - generic [ref=e66]: Body Style
+            - generic [ref=e67]: 
+          - generic [ref=e68]:
+            - text: 
+            - generic [ref=e69]:
+              - button "Convertible" [ref=e70] [cursor=pointer]
+              - button "Coupé" [ref=e71] [cursor=pointer]
+              - button "Sedan" [ref=e72] [cursor=pointer]
+              - button "SUV" [ref=e73] [cursor=pointer]
+        - generic [ref=e74]:
+          - button "Model " [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]: Model
+            - generic [ref=e77]: 
+          - generic [ref=e78]:
+            - button "Reset " [ref=e8794] [cursor=pointer]:
+              - text: Reset
+              - generic [ref=e8795]: 
+            - generic [ref=e79]: Audi
+            - button "A5" [ref=e81] [cursor=pointer]
+            - generic [ref=e82]: BMW
+            - generic [ref=e83]:
+              - button "2 Series" [ref=e84] [cursor=pointer]
+              - button "3 Series" [ref=e85] [cursor=pointer]
+              - button "4 Series" [ref=e86] [cursor=pointer]
+              - button "5 Series" [ref=e87] [cursor=pointer]
+              - button "8 Series" [ref=e88] [cursor=pointer]
+              - button "iX" [ref=e89] [cursor=pointer]
+              - button "M2" [ref=e90] [cursor=pointer]
+              - button "M3" [ref=e91] [cursor=pointer]
+              - button "X1" [ref=e92] [cursor=pointer]
+              - button "X2" [ref=e93] [cursor=pointer]
+              - button "X3" [ref=e94] [cursor=pointer]
+              - button "X4" [ref=e95] [cursor=pointer]
+              - button "X5" [ref=e96] [cursor=pointer]
+              - button "X5 M" [ref=e97] [cursor=pointer]
+              - button "X7" [ref=e98] [cursor=pointer]
+            - generic [ref=e99]: Chevrolet
+            - button "Corvette" [ref=e101] [cursor=pointer]
+            - generic [ref=e102]: Mercedes-Benz
+            - generic [ref=e103]:
+              - button "C-Class" [ref=e104] [cursor=pointer]
+              - button "GLE" [ref=e105] [cursor=pointer]
+            - generic [ref=e106]: MINI
+            - button "3 Door" [ref=e108] [cursor=pointer]
+        - generic [ref=e8796]:
+          - button "Trim " [ref=e8797] [cursor=pointer]:
+            - generic [ref=e8798]: Trim
+            - generic [ref=e8799]: 
+          - text: 
+        - generic [ref=e109]:
+          - button "Fuel Type " [ref=e110] [cursor=pointer]:
+            - generic [ref=e111]: Fuel Type
+            - generic [ref=e112]: 
+          - generic [ref=e113]:
+            - text: 
+            - generic [ref=e114]:
+              - button "Gas" [ref=e115] [cursor=pointer]
+              - button "Hybrid" [ref=e116] [cursor=pointer]
+              - button "Electric" [ref=e117] [cursor=pointer]
+        - generic [ref=e118]:
+          - button "Transmission " [ref=e119] [cursor=pointer]:
+            - generic [ref=e120]: Transmission
+            - generic [ref=e121]: 
+          - generic [ref=e122]:
+            - text: 
+            - generic [ref=e123]:
+              - button "Automatic" [ref=e124] [cursor=pointer]
+              - button "Manual" [ref=e125] [cursor=pointer]
+        - text:  
+        - generic [ref=e126]:
+          - button "Model Year " [ref=e127] [cursor=pointer]:
+            - generic [ref=e128]: Model Year
+            - generic [ref=e129]: 
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - combobox [ref=e132]:
+                - option "Any" [selected]
+                - option "2003"
+                - option "2004"
+                - option "2005"
+                - option "2006"
+                - option "2007"
+                - option "2008"
+                - option "2009"
+                - option "2010"
+                - option "2011"
+                - option "2012"
+                - option "2013"
+                - option "2014"
+                - option "2015"
+                - option "2016"
+                - option "2017"
+                - option "2018"
+                - option "2019"
+                - option "2020"
+                - option "2021"
+                - option "2022"
+                - option "2023"
+                - option "2024"
+                - option "2025"
+                - option "2026"
+              - strong [ref=e133]: TO
+              - combobox [ref=e134]:
+                - option "Any" [selected]
+                - option "2026"
+                - option "2025"
+                - option "2024"
+                - option "2023"
+                - option "2022"
+                - option "2021"
+                - option "2020"
+                - option "2019"
+                - option "2018"
+                - option "2017"
+                - option "2016"
+                - option "2015"
+                - option "2014"
+                - option "2013"
+                - option "2012"
+                - option "2011"
+                - option "2010"
+                - option "2009"
+                - option "2008"
+                - option "2007"
+                - option "2006"
+                - option "2005"
+                - option "2004"
+                - option "2003"
+            - generic: 
+        - generic [ref=e135]:
+          - button "Price " [ref=e136] [cursor=pointer]:
+            - generic [ref=e137]: Price
+            - generic [ref=e138]: 
+          - generic [ref=e139]:
+            - table [ref=e140]:
+              - rowgroup [ref=e141]:
+                - row "Min  $ " [ref=e142]:
+                  - cell "Min" [ref=e143]:
+                    - generic [ref=e144]: Min
+                  - cell " $ " [ref=e145]:
+                    - generic [ref=e146]:
+                      - button "" [ref=e147] [cursor=pointer]:
+                        - generic [ref=e148]: 
+                      - generic [ref=e149]: $
+                      - spinbutton "Min" [ref=e150]
+                      - button "" [ref=e151] [cursor=pointer]:
+                        - generic [ref=e152]: 
+                - row "Max  $ " [ref=e153]:
+                  - cell "Max" [ref=e154]:
+                    - generic [ref=e155]: Max
+                  - cell " $ " [ref=e156]:
+                    - generic [ref=e157]:
+                      - button "" [ref=e158] [cursor=pointer]:
+                        - generic [ref=e159]: 
+                      - generic [ref=e160]: $
+                      - spinbutton "Max" [ref=e161]
+                      - button "" [ref=e162] [cursor=pointer]:
+                        - generic [ref=e163]: 
+            - generic: 
+        - generic [ref=e164]:
+          - button "Kilometers " [ref=e165] [cursor=pointer]:
+            - generic [ref=e166]: Kilometers
+            - generic [ref=e167]: 
+          - generic [ref=e168]:
+            - table [ref=e169]:
+              - rowgroup [ref=e170]:
+                - row "Min  " [ref=e171]:
+                  - cell "Min" [ref=e172]:
+                    - generic [ref=e173]: Min
+                  - cell " " [ref=e174]:
+                    - generic [ref=e175]:
+                      - button "" [ref=e176] [cursor=pointer]:
+                        - generic [ref=e177]: 
+                      - spinbutton "Min" [ref=e178]
+                      - button "" [ref=e179] [cursor=pointer]:
+                        - generic [ref=e180]: 
+                - row "Max  " [ref=e181]:
+                  - cell "Max" [ref=e182]:
+                    - generic [ref=e183]: Max
+                  - cell " " [ref=e184]:
+                    - generic [ref=e185]:
+                      - button "" [ref=e186] [cursor=pointer]:
+                        - generic [ref=e187]: 
+                      - spinbutton "Max" [ref=e188]
+                      - button "" [ref=e189] [cursor=pointer]:
+                        - generic [ref=e190]: 
+            - generic: 
+      - generic [ref=e191]:
+        - link "We Lease Pre-Owned Vehicles. Ask us for details." [ref=e192] [cursor=pointer]:
+          - /url: https://www.torontoautoleasing.ca/
+          - img [ref=e193]
+          - generic [ref=e194]:
+            - text: We Lease
+            - text: Pre-Owned Vehicles.
+            - text: Ask us for details.
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - text: Powered By
+            - img "Carfax Canada Logo" [ref=e198]
+          - heading "Find out what your trade-in is worth." [level=2] [ref=e199]
+          - generic [ref=e200]:
+            - generic [ref=e201]:
+              - generic "Vehicle Year" [ref=e202]:
+                - generic [ref=e203]:
+                  - combobox "Vehicle Year" [ref=e204]:
+                    - option "Year" [selected]
+                    - option "2027"
+                    - option "2026"
+                    - option "2025"
+                    - option "2024"
+                    - option "2023"
+                    - option "2022"
+                    - option "2021"
+                    - option "2020"
+                    - option "2019"
+                    - option "2018"
+                    - option "2017"
+                    - option "2016"
+                    - option "2015"
+                    - option "2014"
+                    - option "2013"
+                    - option "2012"
+                    - option "2011"
+                    - option "2010"
+                    - option "2009"
+                    - option "2008"
+                    - option "2007"
+                    - option "2006"
+                    - option "2005"
+                    - option "2004"
+                    - option "2003"
+                    - option "2002"
+                    - option "2001"
+                    - option "2000"
+                  - img "Downward facing chevron to open vehicle year dropdown"
+              - generic "Vehicle Make" [ref=e205]:
+                - generic [ref=e206]:
+                  - combobox "Vehicle Make" [disabled] [ref=e207]:
+                    - option "Make" [selected]
+                  - img "Downward facing chevron to open vehicle make dropdown"
+              - generic "Vehicle Model" [ref=e208]:
+                - generic [ref=e209]:
+                  - combobox "Vehicle Model" [disabled] [ref=e210]:
+                    - option "Model" [selected]
+                  - img "Downward facing chevron to open vehicle model dropdown"
+              - button "Get started with your vehicle trade-in value." [ref=e211] [cursor=pointer]: Go
+            - generic "Search by VIN" [ref=e212] [cursor=pointer]
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - generic [ref=e215]: "6"
+            - text: VEHICLES AVAILABLE.
+          - generic [ref=e218]:
+            - img [ref=e219]: 
+            - textbox "Start typing to search by VIN, Model, Stock Number, etc..." [ref=e221]
+            - button "Close" [ref=e222] [cursor=pointer]
+          - generic [ref=e224]:
+            - strong [ref=e225]: 
+            - combobox "Sort Order" [ref=e226]:
+              - option "Oldest First" [selected]
+              - option "Newest First"
+              - option "Price (Low to High)"
+              - option "Price (High to Low)"
+              - option "Year (Low to High)"
+              - option "Year (High to Low)"
+              - option "KM (Low to High)"
+              - option "KM (High to Low)"
+        - generic [ref=e227]:
+          - generic [ref=e8800]:
+            - generic [ref=e8801]:
+              - img [ref=e8802]
+              - generic [ref=e8803]:
+                - img "Front" [ref=e8807]
+                - button "Previous" [ref=e8808] [cursor=pointer]:
+                  - generic [ref=e8810]: Previous
+                - button "Next" [ref=e8811] [cursor=pointer]:
+                  - generic [ref=e8813]: Next
+                - link [ref=e8814] [cursor=pointer]:
+                  - /url: /inventory-vehicle?sn=NT4891A
+            - generic [ref=e8817]:
+              - generic [ref=e8820]: Available Now
+              - generic [ref=e8821]:
+                - text: Certified Pre-Owned Vehicle
+                - generic [ref=e8822]: "- 40,848 /km"
+              - generic [ref=e8823]:
+                - strong [ref=e8824]: "2022"
+                - text: BMW X5 xDrive40i
+              - generic [ref=e8825]: "Stock # NT4891A"
+            - generic [ref=e8827]:
+              - generic [ref=e8828]: "Purchase Price:"
+              - strong [ref=e8829]: $54,995.00
+              - button "legal info icon" [ref=e8830] [cursor=pointer]
+              - generic [ref=e8831]: + Taxes and Licensing
+            - generic [ref=e8832]:
+              - generic [ref=e8833]:
+                - generic [ref=e8834]:
+                  - generic [ref=e8835]: EXTERIOR
+                  - generic [ref=e8836]: Alpine White
+                - generic [ref=e8837]:
+                  - generic [ref=e8838]: INTERIOR
+                  - generic [ref=e8839]: Cognac, Perforated Vernasca Leather Upholstery
+                - generic [ref=e8840]:
+                  - generic [ref=e8841]: MILEAGE
+                  - generic [ref=e8842]: 40,848 km
+              - generic [ref=e8844]:
+                - generic [ref=e8845]: KEY FEATURES
+                - generic [ref=e8846]:
+                  - img [ref=e8848]
+                  - img [ref=e8850]
+                  - img [ref=e8852]
+                  - img [ref=e8854]
+                  - img [ref=e8856]
+                  - img [ref=e8858]
+            - generic [ref=e8860]:
+              - link [ref=e8861] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - img [ref=e8862]
+                - img [ref=e8863]
+              - link "CARFAX Canada ONE OWNER TM" [ref=e8866] [cursor=pointer]:
+                - /url: https://vhr.carfax.ca/main?id=sUySy1jCtNYRcpX4EglKPJeeTjHvgfQK
+                - img "CARFAX Canada ONE OWNER TM" [ref=e8867]
+            - separator [ref=e8868]
+            - generic [ref=e8869]:
+              - link "View Details" [ref=e8870] [cursor=pointer]:
+                - /url: /inventory-vehicle?sn=NT4891A
+              - button "Estimate Payment" [ref=e8871] [cursor=pointer]
+          - generic [ref=e8872]:
+            - generic [ref=e8873]:
+              - img [ref=e8874]
+              - generic [ref=e8875]:
+                - img "Front" [ref=e8879]
+                - button "Previous" [ref=e8880] [cursor=pointer]:
+                  - generic [ref=e8882]: Previous
+                - button "Next" [ref=e8883] [cursor=pointer]:
+                  - generic [ref=e8885]: Next
+                - link [ref=e8886] [cursor=pointer]:
+                  - /url: /inventory-vehicle?sn=NN19976A
+            - generic [ref=e8889]:
+              - generic [ref=e8892]: Available Now
+              - generic [ref=e8893]:
+                - text: Certified Pre-Owned Vehicle
+                - generic [ref=e8894]: "- 47,755 /km"
+              - generic [ref=e8895]:
+                - strong [ref=e8896]: "2022"
+                - text: BMW X5 xDrive40i
+              - generic [ref=e8897]: "Stock # NN19976A"
+            - generic [ref=e8899]:
+              - generic [ref=e8900]: "Purchase Price:"
+              - strong [ref=e8901]: $52,995.00
+              - button "legal info icon" [ref=e8902] [cursor=pointer]
+              - generic [ref=e8903]: + Taxes and Licensing
+            - generic [ref=e8904]:
+              - generic [ref=e8905]:
+                - generic [ref=e8906]:
+                  - generic [ref=e8907]: EXTERIOR
+                  - generic [ref=e8908]: Arctic Grey Metallic
+                - generic [ref=e8909]:
+                  - generic [ref=e8910]: INTERIOR
+                  - generic [ref=e8911]: Black, Perforated Vernasca Leather Upholstery
+                - generic [ref=e8912]:
+                  - generic [ref=e8913]: MILEAGE
+                  - generic [ref=e8914]: 47,755 km
+              - generic [ref=e8916]:
+                - generic [ref=e8917]: KEY FEATURES
+                - generic [ref=e8918]:
+                  - img [ref=e8920]
+                  - img [ref=e8922]
+                  - img [ref=e8924]
+                  - img [ref=e8926]
+                  - img [ref=e8928]
+                  - img [ref=e8930]
+            - generic [ref=e8932]:
+              - link [ref=e8933] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - img [ref=e8934]
+                - img [ref=e8935]
+              - link "CARFAX Canada ONE OWNER TM" [ref=e8938] [cursor=pointer]:
+                - /url: https://vhr.carfax.ca/main?id=zOnnLP5ti2FKaB1B1RHtoAYua+EzVFYF
+                - img "CARFAX Canada ONE OWNER TM" [ref=e8939]
+            - separator [ref=e8940]
+            - generic [ref=e8941]:
+              - link "View Details" [ref=e8942] [cursor=pointer]:
+                - /url: /inventory-vehicle?sn=NN19976A
+              - button "Estimate Payment" [ref=e8943] [cursor=pointer]
+          - generic [ref=e8944]:
+            - generic [ref=e8945]:
+              - img [ref=e8946]
+              - generic [ref=e8947]:
+                - img "Front" [ref=e8951]
+                - button "Previous" [ref=e8952] [cursor=pointer]:
+                  - generic [ref=e8954]: Previous
+                - button "Next" [ref=e8955] [cursor=pointer]:
+                  - generic [ref=e8957]: Next
+                - link [ref=e8958] [cursor=pointer]:
+                  - /url: /inventory-vehicle?sn=U12424
+            - generic [ref=e8961]:
+              - generic [ref=e8964]: Available Now
+              - generic [ref=e8965]:
+                - text: Certified Pre-Owned Vehicle
+                - generic [ref=e8966]: "- 52,636 /km"
+              - generic [ref=e8967]:
+                - strong [ref=e8968]: "2024"
+                - text: BMW X5 X5 xDrive50e
+              - generic [ref=e8969]: "Stock # U12424"
+            - generic [ref=e8971]:
+              - generic [ref=e8972]: "Purchase Price:"
+              - strong [ref=e8973]: $79,995.00
+              - button "legal info icon" [ref=e8974] [cursor=pointer]
+              - generic [ref=e8975]: + Taxes and Licensing
+            - generic [ref=e8976]:
+              - generic [ref=e8977]:
+                - generic [ref=e8978]:
+                  - generic [ref=e8979]: EXTERIOR
+                  - generic [ref=e8980]: Manhattan Metallic
+                - generic [ref=e8981]:
+                  - generic [ref=e8982]: INTERIOR
+                  - generic [ref=e8983]: Cognac, Sensafin Upholstery W/decor Stitching
+                - generic [ref=e8984]:
+                  - generic [ref=e8985]: MILEAGE
+                  - generic [ref=e8986]: 52,636 km
+              - generic [ref=e8988]:
+                - generic [ref=e8989]: KEY FEATURES
+                - generic [ref=e8990]:
+                  - img [ref=e8992]
+                  - img [ref=e8994]
+                  - img [ref=e8996]
+                  - img [ref=e8998]
+                  - img [ref=e9000]
+                  - img [ref=e9002]
+            - generic [ref=e9004]:
+              - link [ref=e9005] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - img [ref=e9006]
+                - img [ref=e9007]
+              - link "CARFAX Canada NO REPORTED ACCIDENTS TM ONE OWNER TM" [ref=e9010] [cursor=pointer]:
+                - /url: https://vhr.carfax.ca/main?id=mGOST8IaO3tTJocuxXVvyf8m1nCk26yR
+                - img "CARFAX Canada NO REPORTED ACCIDENTS TM ONE OWNER TM" [ref=e9011]
+            - separator [ref=e9012]
+            - generic [ref=e9013]:
+              - link "View Details" [ref=e9014] [cursor=pointer]:
+                - /url: /inventory-vehicle?sn=U12424
+              - button "Estimate Payment" [ref=e9015] [cursor=pointer]
+          - generic [ref=e9016]:
+            - generic [ref=e9017]:
+              - img [ref=e9018]
+              - generic [ref=e9019]:
+                - img "Front" [ref=e9023]
+                - button "Previous" [ref=e9024] [cursor=pointer]:
+                  - generic [ref=e9026]: Previous
+                - button "Next" [ref=e9027] [cursor=pointer]:
+                  - generic [ref=e9029]: Next
+                - link [ref=e9030] [cursor=pointer]:
+                  - /url: /inventory-vehicle?sn=U12428
+            - generic [ref=e9033]:
+              - generic [ref=e9036]: Available Now
+              - generic [ref=e9037]:
+                - text: Certified Pre-Owned Vehicle
+                - generic [ref=e9038]: "- 14,551 /km"
+              - generic [ref=e9039]:
+                - strong [ref=e9040]: "2025"
+                - text: BMW X5 xDrive40i
+              - generic [ref=e9041]: "Stock # U12428"
+            - generic [ref=e9043]:
+              - generic [ref=e9044]: "Purchase Price:"
+              - strong [ref=e9045]: $87,995.00
+              - button "legal info icon" [ref=e9046] [cursor=pointer]
+              - generic [ref=e9047]: + Taxes and Licensing
+            - generic [ref=e9048]:
+              - generic [ref=e9049]:
+                - generic [ref=e9050]:
+                  - generic [ref=e9051]: EXTERIOR
+                  - generic [ref=e9052]: Black Sapphire Metallic
+                - generic [ref=e9053]:
+                  - generic [ref=e9054]: INTERIOR
+                  - generic [ref=e9055]: Black, Sensafin Upholstery W/decor Stitching
+                - generic [ref=e9056]:
+                  - generic [ref=e9057]: MILEAGE
+                  - generic [ref=e9058]: 14,551 km
+              - generic [ref=e9060]:
+                - generic [ref=e9061]: KEY FEATURES
+                - generic [ref=e9062]:
+                  - img [ref=e9064]
+                  - img [ref=e9066]
+                  - img [ref=e9068]
+                  - img [ref=e9070]
+                  - img [ref=e9072]
+                  - img [ref=e9074]
+                  - img [ref=e9076]
+                  - img [ref=e9078]
+            - generic [ref=e9080]:
+              - link [ref=e9081] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - img [ref=e9082]
+                - img [ref=e9083]
+              - link "CARFAX Canada NO REPORTED ACCIDENTS TM ONE OWNER TM" [ref=e9086] [cursor=pointer]:
+                - /url: https://vhr.carfax.ca/main?id=uGhcer1jAbU6oKiyW8DgN7co+25EKzRF
+                - img "CARFAX Canada NO REPORTED ACCIDENTS TM ONE OWNER TM" [ref=e9087]
+            - separator [ref=e9088]
+            - generic [ref=e9089]:
+              - link "View Details" [ref=e9090] [cursor=pointer]:
+                - /url: /inventory-vehicle?sn=U12428
+              - button "Estimate Payment" [ref=e9091] [cursor=pointer]
+          - generic [ref=e9092]:
+            - generic [ref=e9093]:
+              - img [ref=e9094]
+              - generic [ref=e9095]:
+                - generic [ref=e9097]:
+                  - status [ref=e9099]:
+                    - generic [ref=e9100]: Loading...
+                  - img "Front" [ref=e9101]
+                - button "Previous" [ref=e9102] [cursor=pointer]:
+                  - generic [ref=e9104]: Previous
+                - button "Next" [ref=e9105] [cursor=pointer]:
+                  - generic [ref=e9107]: Next
+                - link [ref=e9108] [cursor=pointer]:
+                  - /url: /inventory-vehicle?sn=NN20374A
+            - generic [ref=e9111]:
+              - generic [ref=e9114]: Available Now
+              - generic [ref=e9115]:
+                - text: Certified Pre-Owned Vehicle
+                - generic [ref=e9116]: "- 48,026 /km"
+              - generic [ref=e9117]:
+                - strong [ref=e9118]: "2023"
+                - text: BMW X5 xDrive40i
+              - generic [ref=e9119]: "Stock # NN20374A"
+            - generic [ref=e9121]:
+              - generic [ref=e9122]: "Purchase Price:"
+              - strong [ref=e9123]: $64,995.00
+              - button "legal info icon" [ref=e9124] [cursor=pointer]
+              - generic [ref=e9125]: + Taxes and Licensing
+            - generic [ref=e9126]:
+              - generic [ref=e9127]:
+                - generic [ref=e9128]:
+                  - generic [ref=e9129]: EXTERIOR
+                  - generic [ref=e9130]: Dravit Grey Metallic
+                - generic [ref=e9131]:
+                  - generic [ref=e9132]: INTERIOR
+                  - generic [ref=e9133]: Black, Sensafin Upholstery W/decor Stitching
+                - generic [ref=e9134]:
+                  - generic [ref=e9135]: MILEAGE
+                  - generic [ref=e9136]: 48,026 km
+              - generic [ref=e9138]:
+                - generic [ref=e9139]: KEY FEATURES
+                - generic [ref=e9140]:
+                  - img [ref=e9142]
+                  - img [ref=e9144]
+                  - img [ref=e9146]
+                  - img [ref=e9148]
+                  - img [ref=e9150]
+                  - img [ref=e9152]
+            - generic [ref=e9154]:
+              - link [ref=e9155] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - img [ref=e9156]
+                - img [ref=e9157]
+              - link "CARFAX Canada ONE OWNER TM" [ref=e9160] [cursor=pointer]:
+                - /url: https://vhr.carfax.ca/main?id=buzEYoVKwKoKR99/7xDynU0gA0ahx6Ij
+                - img "CARFAX Canada ONE OWNER TM" [ref=e9161]
+            - separator [ref=e9162]
+            - generic [ref=e9163]:
+              - link "View Details" [ref=e9164] [cursor=pointer]:
+                - /url: /inventory-vehicle?sn=NN20374A
+              - button "Estimate Payment" [ref=e9165] [cursor=pointer]
+          - generic [ref=e9166]:
+            - generic [ref=e9167]:
+              - img [ref=e9168]
+              - generic [ref=e9169]:
+                - generic [ref=e9171]:
+                  - status [ref=e9173]:
+                    - generic [ref=e9174]: Loading...
+                  - img "Front" [ref=e9175]
+                - button "Previous" [ref=e9176] [cursor=pointer]:
+                  - generic [ref=e9178]: Previous
+                - button "Next" [ref=e9179] [cursor=pointer]:
+                  - generic [ref=e9181]: Next
+                - link [ref=e9182] [cursor=pointer]:
+                  - /url: /inventory-vehicle?sn=NT4892A
+            - generic [ref=e9185]:
+              - generic [ref=e9188]: Available Now
+              - generic [ref=e9189]:
+                - text: Certified Pre-Owned Vehicle
+                - generic [ref=e9190]: "- 9,167 /km"
+              - generic [ref=e9191]:
+                - strong [ref=e9192]: "2025"
+                - text: BMW X5 xDrive40i
+              - generic [ref=e9193]: "Stock # NT4892A"
+            - generic [ref=e9195]:
+              - generic [ref=e9196]: "Purchase Price:"
+              - strong [ref=e9197]: $87,995.00
+              - button "legal info icon" [ref=e9198] [cursor=pointer]
+              - generic [ref=e9199]: + Taxes and Licensing
+            - generic [ref=e9200]:
+              - generic [ref=e9201]:
+                - generic [ref=e9202]:
+                  - generic [ref=e9203]: EXTERIOR
+                  - generic [ref=e9204]: Mineral White Metallic
+                - generic [ref=e9205]:
+                  - generic [ref=e9206]: INTERIOR
+                  - generic [ref=e9207]: Coffee, Sensafin Upholstery W/decor Stitching
+                - generic [ref=e9208]:
+                  - generic [ref=e9209]: MILEAGE
+                  - generic [ref=e9210]: 9,167 km
+              - generic [ref=e9212]:
+                - generic [ref=e9213]: KEY FEATURES
+                - generic [ref=e9214]:
+                  - img [ref=e9216]
+                  - img [ref=e9218]
+                  - img [ref=e9220]
+                  - img [ref=e9222]
+                  - img [ref=e9224]
+                  - img [ref=e9226]
+                  - img [ref=e9228]
+                  - img [ref=e9230]
+            - generic [ref=e9232]:
+              - link [ref=e9233] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - img [ref=e9234]
+                - img [ref=e9235]
+              - link "CARFAX Canada LOW KILOMETERS TM" [ref=e9238] [cursor=pointer]:
+                - /url: https://vhr.carfax.ca/main?id=gEdiHtN6U6/rDUWM7Ezm42SrpseC15o/
+                - img "CARFAX Canada LOW KILOMETERS TM" [ref=e9239]
+            - separator [ref=e9240]
+            - generic [ref=e9241]:
+              - link "View Details" [ref=e9242] [cursor=pointer]:
+                - /url: /inventory-vehicle?sn=NT4892A
+              - button "Estimate Payment" [ref=e9243] [cursor=pointer]
+        - generic [ref=e4508]:
+          - generic [ref=e4509]:
+            - button "" [disabled]:
+              - generic: 
+            - generic [ref=e4510]: Showing 1 - 6 of 6 Results
+          - generic [ref=e4511]:
+            - combobox [ref=e4512]:
+              - option "12"
+              - option "24"
+              - option "36"
+              - option "48"
+              - option "60" [selected]
+            - generic: Results per Page
+          - generic [ref=e4513]:
+            - spinbutton [ref=e4514]: "1"
+            - generic [ref=e4515]: of 1
+            - button "" [disabled]:
+              - generic: 
+  - contentinfo [ref=e4518]:
+    - img [ref=e4519]
+    - generic [ref=e4520]:
+      - generic [ref=e4521]:
+        - heading "Connect with BMW Toronto" [level=5] [ref=e4522]
+        - generic [ref=e4523]:
+          - link [ref=e4524] [cursor=pointer]:
+            - /url: https://www.facebook.com/bmwtoronto
+            - img [ref=e4525]: 
+          - link [ref=e4527] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCFxUssZln7WIXt-Bb-zk6Eg
+            - img [ref=e4528]: 
+          - link [ref=e4530] [cursor=pointer]:
+            - /url: https://www.instagram.com/bmwtoronto
+            - img [ref=e4531]: 
+      - generic [ref=e4533]:
+        - generic [ref=e4534]:
+          - heading "Inventory" [level=6] [ref=e4535]
+          - generic [ref=e4536]:
+            - link "New Inventory" [ref=e4537] [cursor=pointer]:
+              - /url: /new-vehicles
+            - link "Used Inventory" [ref=e4538] [cursor=pointer]:
+              - /url: /used-vehicles
+            - link "Certified Pre-Owned Vehicles" [ref=e4539] [cursor=pointer]:
+              - /url: /used-vehicles?cpoOnly=1
+        - generic [ref=e4540]:
+          - heading "Service" [level=6] [ref=e4541]
+          - generic [ref=e4542]:
+            - link "Service Centre" [ref=e4543] [cursor=pointer]:
+              - /url: /service
+            - link "Parts Centre" [ref=e4544] [cursor=pointer]:
+              - /url: https://shop.bmwtoronto.ca/
+        - generic [ref=e4545]:
+          - heading "Lease and Financing" [level=6] [ref=e4546]
+          - generic [ref=e4547]:
+            - link "Toronto Auto Leasing" [ref=e4548] [cursor=pointer]:
+              - /url: https://www.torontoautoleasing.ca
+            - link "Finance Centre" [ref=e4549] [cursor=pointer]:
+              - /url: /finance
+      - generic [ref=e4550]:
+        - generic [ref=e4551]: Copyright © 2026 BMW Toronto
+        - generic [ref=e4552]:
+          - link "Subscribe" [ref=e4553] [cursor=pointer]:
+            - /url: /stay-connected
+          - link "Privacy Policy" [ref=e4554] [cursor=pointer]:
+            - /url: /privacy-policy
+          - link "Terms of Use" [ref=e4555] [cursor=pointer]:
+            - /url: /terms-of-use
+          - link "Accessibility" [ref=e4556] [cursor=pointer]:
+            - /url: /accessibility-policy
+          - link "Contact Us" [ref=e4557] [cursor=pointer]:
+            - /url: /contact-us
+          - link "Sitemap" [ref=e4558] [cursor=pointer]:
+            - /url: /sitemap
+  - text: 

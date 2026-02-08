@@ -1,0 +1,266 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - button "Go to Main Content" [ref=e6] [cursor=pointer]
+    - button "Go to Footer" [ref=e7] [cursor=pointer]
+    - generic [ref=e8]:
+      - text:  Serving you better, each and every day.
+      - banner [ref=e9]:
+        - generic [ref=e12]:
+          - link "Oakville Toyota" [ref=e14] [cursor=pointer]:
+            - /url: /en
+            - figure [ref=e15]:
+              - img "Serving you better, each and every day." [ref=e16]:  Serving you better, each and every day.
+          - generic [ref=e17]:
+            - generic [ref=e18]:
+              - generic [ref=e19]:
+                - generic [ref=e20]:
+                  - text: Sales
+                  - link "1-437-837-7470" [ref=e21] [cursor=pointer]:
+                    - /url: tel:+14378377470
+                - text: ":"
+              - link "2375 Wyecroft Road, Oakville, Ontario, L6L 6L4" [ref=e24] [cursor=pointer]:
+                - /url: http://maps.google.com/?q=Oakville+Toyota+2375+Wyecroft+Road+L6L+6L4+Ontario+Oakville
+                - text: 2375 Wyecroft Road, Oakville, Ontario, L6L 6L4
+            - generic [ref=e25]:
+              - button "Service Appointment" [ref=e26] [cursor=pointer]
+              - generic [ref=e29] [cursor=pointer]:
+                - text: 
+                - link "Select Language  " [ref=e31]:
+                  - /url: "#"
+                  - text: Select Language   ▼
+        - navigation [ref=e34]:
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - link "New Vehicles" [ref=e37] [cursor=pointer]:
+                - /url: /en/new-inventory
+                - text: New Vehicles
+              - text:  4Runner  4Runner Hybrid  Camry Hybrid  Corolla  Corolla Cross  Corolla Cross Hybrid  Corolla Hatchback  Corolla Hybrid  Crown  Crown Signia  GR Corolla  GR Supra  Grand Highlander  Grand Highlander hybrid  Highlander  Highlander Hybrid  Land Cruiser  Prius  Prius Plug-In Hybrid  RAV4 Hybrid  Sequoia Hybrid  Sienna Hybrid  Tacoma  Tacoma Hybrid  Tundra  Tundra Hybrid  bZ
+            - listitem [ref=e38]:
+              - link "Pre-Owned Vehicles" [ref=e39] [cursor=pointer]:
+                - /url: /en/group-used-inventory
+                - text: Pre-Owned Vehicles
+            - listitem [ref=e40]:
+              - link "Trade-In" [ref=e41] [cursor=pointer]:
+                - /url: /en/trade-in
+                - text: Trade-In
+            - listitem [ref=e42]:
+              - link "Special Offers" [ref=e43] [cursor=pointer]:
+                - /url: /en/special-offers
+                - text: Special Offers
+            - listitem [ref=e44]:
+              - link "Service & Parts" [ref=e45] [cursor=pointer]:
+                - /url: /en/toyota-service-centre
+                - text: Service & Parts
+            - listitem [ref=e46]:
+              - link "Financing" [ref=e47] [cursor=pointer]:
+                - /url: /en/financing/apply-for-financing
+                - text: Financing
+            - listitem [ref=e48]:
+              - link "About Us" [ref=e49] [cursor=pointer]:
+                - /url: /en/about-us
+                - text: About Us
+            - listitem [ref=e50]:
+              - button "0" [ref=e51] [cursor=pointer]:
+                - generic [ref=e52]: "0"
+        - link "We want your trade! Find out what your vehicle is worth!" [ref=e56] [cursor=pointer]:
+          - /url: /en/trade-in
+    - main [ref=e57]:
+      - generic [ref=e84]:
+        - article [ref=e85]:
+          - main [ref=e88]
+        - article [ref=e95]:
+          - main [ref=e98]
+        - article [ref=e105]:
+          - main [ref=e108]
+        - article [ref=e115]:
+          - main [ref=e118]
+        - article [ref=e125]:
+          - main [ref=e128]
+        - article [ref=e135]:
+          - main [ref=e138]
+        - article [ref=e145]:
+          - main [ref=e148]
+        - article [ref=e155]:
+          - main [ref=e158]
+        - article [ref=e165]:
+          - main [ref=e168]
+        - article [ref=e175]:
+          - main [ref=e178]
+        - article [ref=e185]:
+          - main [ref=e188]
+        - article [ref=e195]:
+          - main [ref=e198]
+      - generic [ref=e212]:
+        - heading "Let Us Help You Find Your Perfect Vehicle" [level=2] [ref=e213]
+        - generic [ref=e216]:
+          - group "Advisor Appointment (used)" [ref=e218]:
+            - generic [ref=e219]: Advisor Appointment (used)
+            - generic [ref=e220]:
+              - generic [ref=e223]:
+                - generic [ref=e224]:
+                  - text: How can we help you?
+                  - generic [ref=e225]: info
+                - textbox "How can we help you? info" [ref=e226]:
+                  - /placeholder: How can we help you?
+              - generic [ref=e227]:
+                - generic [ref=e228]:
+                  - generic [ref=e229]:
+                    - text: First Name *
+                    - generic [ref=e230]: firstname
+                  - textbox "First Name * firstname" [ref=e231]:
+                    - /placeholder: First Name
+                - generic [ref=e232]:
+                  - generic [ref=e233]:
+                    - text: Last Name *
+                    - generic [ref=e234]: lastname
+                  - textbox "Last Name * lastname" [ref=e235]:
+                    - /placeholder: Last Name
+                - generic [ref=e236]:
+                  - generic [ref=e237]:
+                    - text: Phone *
+                    - generic [ref=e238]: phone
+                  - textbox "Phone * phone" [ref=e239]:
+                    - /placeholder: Phone
+                - generic [ref=e240]:
+                  - generic [ref=e241]:
+                    - text: Email *
+                    - generic [ref=e242]: email
+                  - textbox "Email * email" [ref=e243]:
+                    - /placeholder: Email
+          - generic [ref=e246]:
+            - checkbox "I wish to receive news and promotional emails from Oakville Toyota. (Optional)" [ref=e247]
+            - generic [ref=e248] [cursor=pointer]: I wish to receive news and promotional emails from Oakville Toyota. (Optional)
+          - button "Book an Appointment with a Consultant" [ref=e250] [cursor=pointer]
+          - paragraph [ref=e253]:
+            - text: Don't worry! We'll never share or sell your personal information.
+            - link "Privacy Policy" [ref=e254] [cursor=pointer]:
+              - /url: /en/privacy-policy
+              - text: Privacy Policy
+    - contentinfo [ref=e255]:
+      - generic [ref=e257]:
+        - generic [ref=e258]:
+          - generic [ref=e259]:
+            - heading "Contact Us" [level=1] [ref=e260]
+            - generic [ref=e261]:
+              - heading "Oakville Toyota" [level=1] [ref=e262]
+              - link "2375 Wyecroft Road, Oakville, Ontario, L6L 6L4" [ref=e263] [cursor=pointer]:
+                - /url: http://maps.google.com/?q=Oakville+Toyota+2375+Wyecroft+Road+L6L+6L4+Ontario+Oakville
+                - text: 2375 Wyecroft Road, Oakville,
+                - generic [ref=e264]: Ontario, L6L 6L4
+            - generic [ref=e265]:
+              - text: "Local :"
+              - link "1-905-842-8400" [ref=e266] [cursor=pointer]:
+                - /url: tel:1-905-842-8400
+          - generic [ref=e267]:
+            - heading "Business Hours" [level=1] [ref=e268]
+            - generic [ref=e269]:
+              - tablist "Tabs" [ref=e270]:
+                - tab "Sales" [ref=e271] [cursor=pointer]
+                - tab "Service" [ref=e272] [cursor=pointer]
+              - generic [ref=e273]:
+                - tabpanel "Sales" [ref=e274]:
+                  - table [ref=e275]:
+                    - rowgroup [ref=e276]:
+                      - row "Mon. 9:00AM - 7:00PM" [ref=e277]:
+                        - cell "Mon." [ref=e278]
+                        - cell "9:00AM - 7:00PM" [ref=e279]
+                      - row "Tues. 9:00AM - 7:00PM" [ref=e280]:
+                        - cell "Tues." [ref=e281]
+                        - cell "9:00AM - 7:00PM" [ref=e282]
+                      - row "Wed. 9:00AM - 7:00PM" [ref=e283]:
+                        - cell "Wed." [ref=e284]
+                        - cell "9:00AM - 7:00PM" [ref=e285]
+                      - row "Thurs. 9:00AM - 7:00PM" [ref=e286]:
+                        - cell "Thurs." [ref=e287]
+                        - cell "9:00AM - 7:00PM" [ref=e288]
+                      - row "Fri. 9:00AM - 4:00PM" [ref=e289]:
+                        - cell "Fri." [ref=e290]
+                        - cell "9:00AM - 4:00PM" [ref=e291]
+                      - row "Sat. 9:00AM - 5:00PM" [ref=e292]:
+                        - cell "Sat." [ref=e293]
+                        - cell "9:00AM - 5:00PM" [ref=e294]
+                      - row "Sun. Closed" [ref=e295]:
+                        - cell "Sun." [ref=e296]
+                        - cell "Closed" [ref=e297]
+                - tabpanel "Service" [ref=e298]:
+                  - table [ref=e299]:
+                    - rowgroup [ref=e300]:
+                      - row "Mon. 7:00AM - 6:00PM" [ref=e301]:
+                        - cell "Mon." [ref=e302]
+                        - cell "7:00AM - 6:00PM" [ref=e303]
+                      - row "Tues. 7:00AM - 6:00PM" [ref=e304]:
+                        - cell "Tues." [ref=e305]
+                        - cell "7:00AM - 6:00PM" [ref=e306]
+                      - row "Wed. 7:00AM - 6:00PM" [ref=e307]:
+                        - cell "Wed." [ref=e308]
+                        - cell "7:00AM - 6:00PM" [ref=e309]
+                      - row "Thurs. 7:00AM - 6:00PM" [ref=e310]:
+                        - cell "Thurs." [ref=e311]
+                        - cell "7:00AM - 6:00PM" [ref=e312]
+                      - row "Fri. 7:00AM - 4:00PM" [ref=e313]:
+                        - cell "Fri." [ref=e314]
+                        - cell "7:00AM - 4:00PM" [ref=e315]
+                      - row "Sat. 7:30AM - 4:00PM" [ref=e316]:
+                        - cell "Sat." [ref=e317]
+                        - cell "7:30AM - 4:00PM" [ref=e318]
+                      - row "Sun. Closed" [ref=e319]:
+                        - cell "Sun." [ref=e320]
+                        - cell "Closed" [ref=e321]
+          - generic [ref=e322]:
+            - heading "Location" [level=1] [ref=e323]
+            - link "Oakville Toyota" [ref=e324] [cursor=pointer]:
+              - /url: http://maps.google.com/?q=Oakville+Toyota+2375+Wyecroft+Road+L6L+6L4+Ontario+Oakville
+              - figure [ref=e325]:
+                - img "Oakville Toyota" [ref=e326]:  Oakville Toyota
+          - generic [ref=e327]:
+            - heading "Useful Links" [level=1] [ref=e328]
+            - link "View Our Special Offers" [ref=e329] [cursor=pointer]:
+              - /url: /en/special-offers
+            - link "Book Service Appointment" [ref=e330] [cursor=pointer]:
+              - /url: /en/toyota-service-centre
+            - link "Apply For Financing" [ref=e331] [cursor=pointer]:
+              - /url: /en/financing/apply-for-financing
+            - link "Reserve Your New Toyota" [ref=e332] [cursor=pointer]:
+              - /url: /en/new-inventory
+            - link "Browse Repriced Vehicles" [ref=e333] [cursor=pointer]:
+              - /url: /en/used-featured-inventory
+            - link "View Certified Pre-Owned Inventory" [ref=e334] [cursor=pointer]:
+              - /url: /en/certified-inventory
+            - link "Trade-In Your Vehicle" [ref=e335] [cursor=pointer]:
+              - /url: /en/trade-in
+        - generic [ref=e336]:
+          - generic [ref=e337]:
+            - generic [ref=e339]:
+              - link "Facebook - New Window" [ref=e340] [cursor=pointer]:
+                - /url: https://www.facebook.com/OakvilleToyota/
+              - link "Twitter - New Window" [ref=e341] [cursor=pointer]:
+                - /url: https://twitter.com/oakville_toyota
+              - link "Instagram - New Window" [ref=e342] [cursor=pointer]:
+                - /url: https://www.instagram.com/newoakvilletoyota/
+              - link "LinkedIn | Oakville Toyota" [ref=e343] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/oakville-toyota/
+            - button "Contact Us" [ref=e344] [cursor=pointer]
+          - img "The Humberview Group" [ref=e345]:  The Humberview Group
+          - img "OMVIC" [ref=e346]:  OMVIC
+          - img "Best Managed Companies" [ref=e347]:  Best Managed Companies
+      - generic [ref=e351]:
+        - text: © 2026 Oakville Toyota
+        - link "| Sitemap" [ref=e352] [cursor=pointer]:
+          - /url: /en/sitemap
+        - link "| Terms of Use" [ref=e353] [cursor=pointer]:
+          - /url: /en/terms-of-use
+        - link "| Privacy Policy" [ref=e354] [cursor=pointer]:
+          - /url: /en/privacy-policy
+        - link "| Accessibility" [ref=e355] [cursor=pointer]:
+          - /url: /en/accessibility
+  - complementary [ref=e356] [cursor=pointer]:
+    - figure [ref=e357]:
+      - img "Logo Access 360" [ref=e358]:  Logo Access 360
+  - text: 
+  - img [ref=e361]
+  - generic:
+    - paragraph
+    - paragraph
+    - paragraph
+    - paragraph
+    - paragraph

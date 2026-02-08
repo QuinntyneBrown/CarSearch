@@ -1,0 +1,23 @@
+[     992ms] [WARNING] <link rel=preload> uses an unsupported `as` value @ https://coventrynorthlandrover.com/new-inventory/:125
+[    1193ms] [ERROR] Refused to execute script from 'https://coventrynorthlandrover.com/' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://coventrynorthlandrover.com/new-inventory/:0
+[    1253ms] [WARNING] LBX: lastUpdate session storage not found @ https://coventrynorthlandrover.com/wp-content/themes/lbx-iag/public/scripts/app.js?id=17e3c0fabf5064e46a8d4401afddb4a0:0
+[    1352ms] [WARNING] LBX: Inv has no response or 5 mins has passed or no lastUpdateInventoryJSON @ https://coventrynorthlandrover.com/wp-content/themes/lbx-iag/public/scripts/app.js?id=17e3c0fabf5064e46a8d4401afddb4a0:0
+[    1505ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js:0
+[    1591ms] SyntaxError: Identifier 'observer' has already been declared
+    at <anonymous>:1:1
+    at https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:909:429
+    at aR (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:911:31)
+    at Od.$Q (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:908:85)
+    at Od.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:314:187)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:243:466)
+    at nb (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:205:209)
+    at mb (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:204:527)
+    at Od.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:267:473)
+    at k.apply (https://www.googletagmanager.com/gtm.js?id=GTM-NC9HJWL:243:466)
+[    1981ms] [ERROR] Attestation check for Attribution Reporting on https://www.google-analytics.com failed. @ https://coventrynorthlandrover.com/new-inventory/:0
+[    2283ms] [WARNING] [Meta Pixel] - Invalid PixelID: null. @ https://connect.facebook.net/en_US/fbevents.js:171
+[    2288ms] [WARNING] [Meta Pixel] - You are sending a non-standard event 'DAP SRP'. The preferred way to send these events is using trackCustom. See 'https://developers.facebook.com/docs/ads-for-websites/pixel-events/#events' for more information. @ https://connect.facebook.net/en_US/fbevents.js:171
+[    4784ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/ghkgv/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    4785ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/ghkgv/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    4789ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/ghkgv/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0
+[    4789ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/ov2/av0/rch/ghkgv/0x4AAAAAAA5YSuWDpwpgy3tz/auto/fbE/new/normal?lang=auto:0

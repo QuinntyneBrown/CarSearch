@@ -1,0 +1,1704 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "LAND ROVER BRAMPTON Logo" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img "LAND ROVER BRAMPTON" [ref=e9]
+      - generic [ref=e10]:
+        - generic [ref=e14]:
+          - heading "LAND ROVER BRAMPTON" [level=3] [ref=e15]
+          - link "50 Coachworks Cres, Brampton, ON, L6R 3Y2. Google Map opens in a new tab" [ref=e17] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=LAND%2BROVER%2BBRAMPTON%2C50+Coachworks+Cres%2CBrampton%2CON%2CL6R+3Y2&destination_place_id=ChIJs1gkDF4XK4gRetZJJiPMlb0&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e18]:
+              - img [ref=e19]
+              - text: 50 Coachworks Cres, Brampton, ON, L6R 3Y2
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - generic [ref=e23]: 
+              - link "905 500-2005" [ref=e25] [cursor=pointer]:
+                - /url: tel:905 500-2005
+            - generic [ref=e26]: 
+        - generic [ref=e27]:
+          - link "Opens in new tab" [ref=e29] [cursor=pointer]:
+            - /url: https://www.jaguarbrampton.com/en/
+            - text: VIEW OUR JAGUAR WEBSITE
+            - generic [ref=e30]: 
+          - generic [ref=e31]:
+            - link " Service Appointment" [ref=e33] [cursor=pointer]:
+              - /url: /requests/service-appointment.html
+              - generic [ref=e34]: 
+              - text: Service Appointment
+            - list [ref=e36]:
+              - listitem [ref=e37]:
+                - link "FR" [ref=e38] [cursor=pointer]:
+                  - /url: /occasion/recherche.html
+                  - generic [ref=e39]: FR
+                - generic "English" [ref=e40]:
+                  - generic [ref=e41]: EN
+      - list [ref=e46]:
+        - listitem [ref=e47]:
+          - link "NEW VEHICLES" [ref=e48] [cursor=pointer]:
+            - /url: /new/new.html
+        - listitem [ref=e49]:
+          - link "PRE-OWNED" [ref=e50] [cursor=pointer]:
+            - /url: /used/search.html
+        - listitem [ref=e51]:
+          - link "SPECIAL OFFERS" [ref=e52] [cursor=pointer]:
+            - /url: /our-promotions.html
+        - listitem [ref=e53]:
+          - link "FINANCING" [ref=e54] [cursor=pointer]:
+            - /url: /requests/credit.html
+        - listitem [ref=e55]:
+          - link "SERVICE & PARTS" [ref=e56] [cursor=pointer]:
+            - /url: /land rover-services.html
+        - listitem [ref=e57]:
+          - link "ABOUT US" [ref=e58] [cursor=pointer]:
+            - /url: /contactus.html
+          - text:  
+    - generic [ref=e60]:
+      - combobox "Make" [ref=e63]:
+        - option "My car" [selected]
+        - option "Acura"
+        - option "Alfa Romeo"
+        - option "Audi"
+        - option "BMW"
+        - option "BrightDrop"
+        - option "Buick"
+        - option "Cadillac"
+        - option "Chevrolet"
+        - option "Chrysler"
+        - option "Dodge"
+        - option "FIAT"
+        - option "Ford"
+        - option "Genesis"
+        - option "GMC"
+        - option "Honda"
+        - option "HUMMER"
+        - option "Hyundai"
+        - option "INEOS"
+        - option "INFINITI"
+        - option "Isuzu"
+        - option "Jaguar"
+        - option "Jeep"
+        - option "Kia"
+        - option "Land Rover"
+        - option "Lexus"
+        - option "Lincoln"
+        - option "Lucid"
+        - option "Maserati"
+        - option "Mazda"
+        - option "Mercedes-Benz"
+        - option "Mercury"
+        - option "MINI"
+        - option "Mitsubishi"
+        - option "Nissan"
+        - option "Oldsmobile"
+        - option "Plymouth"
+        - option "Polestar"
+        - option "Pontiac"
+        - option "Porsche"
+        - option "Ram"
+        - option "Rivian"
+        - option "Saab"
+        - option "Saturn"
+        - option "Scion"
+        - option "smart"
+        - option "Subaru"
+        - option "Suzuki"
+        - option "Tesla"
+        - option "Toyota"
+        - option "VinFast"
+        - option "Volkswagen"
+        - option "Volvo"
+      - combobox "Year" [ref=e66]:
+        - option [selected]
+      - combobox "Model" [ref=e69]
+      - combobox "Trim Level" [ref=e72]
+      - button "Value My Trade!" [ref=e73] [cursor=pointer]:
+        - generic [ref=e74]: 
+        - generic [ref=e75]: Value My Trade!
+  - generic [ref=e76]:
+    - generic [ref=e79]:
+      - link "Home" [ref=e81] [cursor=pointer]:
+        - /url: /eng/
+      - text: »
+      - link "Used vehicles for sale" [ref=e83] [cursor=pointer]:
+        - /url: /used/search.html
+    - generic [ref=e85]:
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - heading "Used Vehicles for sale in Brampton" [level=1] [ref=e90]:
+            - generic [ref=e91]: 
+            - generic [ref=e92]:
+              - generic [ref=e93]: Used Vehicles for sale
+              - generic [ref=e94]: in Brampton
+          - generic:
+            - generic [ref=e96] [cursor=pointer]: 
+            - text: 
+        - generic [ref=e98] [cursor=pointer]:
+          - generic [ref=e99]:
+            - generic [ref=e100]: "Sort order:"
+            - generic [ref=e101]: House make first
+          - generic [ref=e103]: 
+      - option "12 Month" [selected]
+      - option "24 Month"
+      - option "36 Month"
+      - option "48 Month"
+      - option "60 Month"
+      - option "72 Month"
+      - option "84 Month"
+      - option "96 Month"
+      - option "Monthly" [selected]
+      - text:  $
+      - generic [ref=e104]:
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - generic:
+              - generic:
+                - generic [ref=e110]: Search
+                - generic [ref=e115]:
+                  - textbox "Trim, Cyl., Trans., etc..." [ref=e116]
+                  - generic [ref=e117]: "0"
+          - generic [ref=e119]:
+            - generic:
+              - button "Category " [ref=e122] [cursor=pointer]:
+                - generic [ref=e123]: Category
+                - generic [ref=e125]: 
+              - generic [ref=e126]: clear
+              - generic [ref=e127]:
+                - list [ref=e130]:
+                  - listitem "Used vehicles" [ref=e131] [cursor=pointer]:
+                    - button "Used vehicles 30" [ref=e132]:
+                      - generic [ref=e133]: Used vehicles
+                      - generic [ref=e134]: "30"
+                  - listitem "Demo vehicles" [ref=e135] [cursor=pointer]:
+                    - button "Demo vehicles 1" [ref=e136]:
+                      - generic [ref=e137]: Demo vehicles
+                      - generic [ref=e138]: "1"
+                  - listitem "New Inventory" [ref=e139] [cursor=pointer]:
+                    - button "New Inventory 70" [ref=e140]:
+                      - generic [ref=e141]: New Inventory
+                      - generic [ref=e142]: "70"
+                - generic [ref=e143]:
+                  - generic [ref=e144]: "Show only:"
+                  - generic [ref=e145]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - list: 
+                  - list [ref=e150]:
+                    - listitem "Certified vehicles" [ref=e151] [cursor=pointer]:
+                      - button " Certified vehicles 4" [ref=e152]:
+                        - generic [ref=e153]: 
+                        - generic [ref=e154]: Certified vehicles
+                        - generic [ref=e155]: "4"
+                  - generic [ref=e156]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - list: 
+          - generic [ref=e157]:
+            - generic [ref=e159]: Body Type
+            - list [ref=e163]:
+              - listitem "Cars" [ref=e164]:
+                - generic [ref=e165]:
+                  - button " Cars" [ref=e166] [cursor=pointer]:
+                    - generic [ref=e167]: 
+                    - text: Cars
+                  - generic [ref=e168]: "3"
+              - text:  
+              - listitem "Convert." [ref=e169]:
+                - generic [ref=e170]:
+                  - button " Convert." [ref=e171] [cursor=pointer]:
+                    - generic [ref=e172]: 
+                    - text: Convert.
+                  - generic [ref=e173]: "1"
+              - text:  
+              - listitem "SUV" [ref=e174]:
+                - generic [ref=e175]:
+                  - button " SUV" [ref=e176] [cursor=pointer]:
+                    - generic [ref=e177]: 
+                    - text: SUV
+                  - generic [ref=e178]: "27"
+          - generic [ref=e180]:
+            - generic:
+              - button "Brand " [ref=e183] [cursor=pointer]:
+                - generic [ref=e184]: Brand
+                - generic [ref=e186]: 
+              - list [ref=e191]:
+                - listitem "Audi" [ref=e192] [cursor=pointer]:
+                  - button "Audi 1" [ref=e193]:
+                    - generic [ref=e194]: Audi
+                    - generic [ref=e195]: "1"
+                - listitem "BMW" [ref=e196] [cursor=pointer]:
+                  - button "BMW 2" [ref=e197]:
+                    - generic [ref=e198]: BMW
+                    - generic [ref=e199]: "2"
+                - listitem "Jaguar" [ref=e200] [cursor=pointer]:
+                  - button "Jaguar 2" [ref=e201]:
+                    - generic [ref=e202]: Jaguar
+                    - generic [ref=e203]: "2"
+                - listitem "Jeep" [ref=e204] [cursor=pointer]:
+                  - button "Jeep 1" [ref=e205]:
+                    - generic [ref=e206]: Jeep
+                    - generic [ref=e207]: "1"
+                - listitem "Land Rover" [ref=e208] [cursor=pointer]:
+                  - button "Land Rover 22" [ref=e209]:
+                    - generic [ref=e210]: Land Rover
+                    - generic [ref=e211]: "22"
+                - listitem "MINI" [ref=e212] [cursor=pointer]:
+                  - button "MINI 1" [ref=e213]:
+                    - generic [ref=e214]: MINI
+                    - generic [ref=e215]: "1"
+                - listitem "Nissan" [ref=e216] [cursor=pointer]:
+                  - button "Nissan 1" [ref=e217]:
+                    - generic [ref=e218]: Nissan
+                    - generic [ref=e219]: "1"
+          - generic [ref=e220]:
+            - generic [ref=e222]: 
+            - button "Model " [ref=e226]:
+              - generic [ref=e227]: Model
+              - generic [ref=e229]: 
+          - generic [ref=e231]:
+            - generic [ref=e233]: 
+            - button "Trim " [ref=e237]:
+              - generic [ref=e238]: Trim
+              - generic [ref=e240]: 
+          - generic [ref=e242]:
+            - generic [ref=e244]: Year
+            - generic [ref=e248]:
+              - generic [ref=e249]:
+                - spinbutton [ref=e250]: "2018"
+                - spinbutton [ref=e251]: "2026"
+              - generic [ref=e252]:
+                - slider: "2018"
+                - slider: "2026"
+                - generic [ref=e254]: 2018 - 2025 (30)
+          - generic [ref=e255]:
+            - generic [ref=e257]: Price
+            - generic [ref=e261]:
+              - generic [ref=e262]:
+                - spinbutton [ref=e263]: "19000"
+                - spinbutton [ref=e264]: "215000"
+              - generic [ref=e265]:
+                - slider: "19000"
+                - slider: "215000"
+                - generic [ref=e267]: $19,000 - $122,000 (30)
+          - generic [ref=e268]:
+            - generic [ref=e270]: Mileage
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - textbox [disabled] [ref=e276]: 0km
+                - textbox [disabled] [ref=e277]: 150,000km
+              - generic [ref=e278]:
+                - slider: "0"
+                - slider: "150000"
+                - generic [ref=e280]: 0km - 150,000km (30)
+          - button "Transmission " [ref=e285] [cursor=pointer]:
+            - generic [ref=e286]: Transmission
+            - generic [ref=e288]: 
+          - button "Powertrain " [ref=e294] [cursor=pointer]:
+            - generic [ref=e295]: Powertrain
+            - generic [ref=e297]: 
+          - generic [ref=e299]:
+            - generic [ref=e301]: Ext. Colors
+            - list [ref=e305]:
+              - listitem "Black" [ref=e306] [cursor=pointer]:
+                - generic [ref=e308]:
+                  - generic [ref=e312]: 
+                  - generic [ref=e313]: "9"
+              - listitem "Grey" [ref=e314] [cursor=pointer]:
+                - generic [ref=e316]:
+                  - generic [ref=e320]: 
+                  - generic [ref=e321]: "4"
+              - text: 
+              - listitem "White" [ref=e322] [cursor=pointer]:
+                - generic [ref=e324]:
+                  - generic [ref=e328]: 
+                  - generic [ref=e329]: "11"
+              - listitem "Blue" [ref=e330] [cursor=pointer]:
+                - generic [ref=e332]:
+                  - generic [ref=e336]: 
+                  - generic [ref=e337]: "3"
+              - listitem "Green" [ref=e338] [cursor=pointer]:
+                - generic [ref=e340]:
+                  - generic [ref=e344]: 
+                  - generic [ref=e345]: "0"
+              - listitem "Red" [ref=e346] [cursor=pointer]:
+                - generic [ref=e348]:
+                  - generic [ref=e352]: 
+                  - generic [ref=e353]: "2"
+              - text:   
+              - listitem "Gold" [ref=e354] [cursor=pointer]:
+                - generic [ref=e356]:
+                  - generic [ref=e360]: 
+                  - generic [ref=e361]: "0"
+              - text:   
+              - listitem "Yellow" [ref=e362] [cursor=pointer]:
+                - generic [ref=e364]:
+                  - generic [ref=e368]: 
+                  - generic [ref=e369]: "0"
+              - listitem "Other" [ref=e370] [cursor=pointer]:
+                - generic [ref=e372]:
+                  - generic [ref=e376]: 
+                  - generic [ref=e377]: "1"
+          - generic [ref=e379]:
+            - generic:
+              - button "Fuel " [ref=e382] [cursor=pointer]:
+                - generic [ref=e383]: Fuel
+                - generic [ref=e385]: 
+              - text: 
+          - button "Options " [ref=e391] [cursor=pointer]:
+            - generic [ref=e392]: Options
+            - generic [ref=e394]: 
+          - button "Doors " [ref=e400] [cursor=pointer]:
+            - generic [ref=e401]: Doors
+            - generic [ref=e403]: 
+          - button "Passengers " [ref=e409] [cursor=pointer]:
+            - generic [ref=e410]: Passengers
+            - generic [ref=e412]: 
+          - button "New Arrivals " [ref=e418] [cursor=pointer]:
+            - generic [ref=e419]: New Arrivals
+            - generic [ref=e421]: 
+          - button "Delivery Status " [ref=e427] [cursor=pointer]:
+            - generic [ref=e428]: Delivery Status
+            - generic [ref=e430]: 
+        - generic [ref=e432]:
+          - list [ref=e434]:
+            - listitem [ref=e435] [cursor=pointer]:
+              - button "Remove filters" [ref=e436]:
+                - generic [ref=e437]: Remove filters
+            - listitem [ref=e438] [cursor=pointer]:
+              - button "Used vehicles " [ref=e439]:
+                - generic [ref=e440]: Used vehicles
+                - generic [ref=e442]: 
+          - generic [ref=e443]:
+            - list [ref=e445]:
+              - listitem [ref=e446]:
+                - generic [ref=e448]:
+                  - generic [ref=e450]:
+                    - generic [ref=e451]:
+                      - generic [ref=e452]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e453]:
+                    - link "Land Rover Range Rover Sport 2018":
+                      - /url: /used/2018-Land_Rover-Range_Rover_Sport-id13379471.html
+                      - img "Land Rover Range Rover Sport 2018" [ref=e454] [cursor=pointer]
+                    - generic [ref=e455]: "Stock: L26-279A"
+                  - generic [ref=e456]:
+                    - generic [ref=e460] [cursor=pointer]:
+                      - generic [ref=e461]: 
+                      - generic [ref=e462]: Finance it!
+                    - generic [ref=e464]:
+                      - link "2018 Range Rover Sport V6 HSE SOLD AS IS YOU SAFETY YOU SAVE $$$$ in Brampton" [ref=e465] [cursor=pointer]:
+                        - /url: /used/2018-Land_Rover-Range_Rover_Sport-id13379471.html
+                        - generic [ref=e466]:
+                          - generic [ref=e467]: 2018 Range Rover Sport
+                          - generic [ref=e468]: V6 HSE SOLD AS IS YOU SAFETY YOU SAVE $$$$
+                          - generic [ref=e469]: in Brampton
+                      - generic [ref=e470]:
+                        - text: 28,998 $
+                        - generic [ref=e471]: "*Taxes & licenses not included."
+                        - generic [ref=e473] [cursor=pointer]: 
+                    - generic [ref=e475]:
+                      - generic [ref=e476]: "104,092 KM. Auto., Ext: White,"
+                      - generic [ref=e477]: 
+                    - link "Carfax" [ref=e481] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=dfJ7U4sDj2Yg0tyIoeIP9gjWkfiBMLj3
+                      - img "Carfax" [ref=e482]
+              - listitem [ref=e483]:
+                - generic [ref=e485]:
+                  - generic [ref=e487]:
+                    - generic [ref=e488]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e489]:
+                    - link "Land Rover Range Rover Evoque 2022":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Evoque-id13094950.html
+                      - img "Land Rover Range Rover Evoque 2022" [ref=e490] [cursor=pointer]
+                    - generic [ref=e491]: "Stock: P-579"
+                  - generic [ref=e492]:
+                    - generic [ref=e496] [cursor=pointer]:
+                      - generic [ref=e497]: 
+                      - generic [ref=e498]: Finance it!
+                    - generic [ref=e500]:
+                      - link "2022 Range Rover Evoque P250 S GREAT VALUE! BLACK PACK 20 INCH WHEELS in Brampton" [ref=e501] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Evoque-id13094950.html
+                        - generic [ref=e502]:
+                          - generic [ref=e503]: 2022 Range Rover Evoque
+                          - generic [ref=e504]: P250 S GREAT VALUE! BLACK PACK 20 INCH WHEELS
+                          - generic [ref=e505]: in Brampton
+                      - generic [ref=e506]:
+                        - text: 33,333 $
+                        - generic [ref=e507]: "*Taxes & licenses not included."
+                        - generic [ref=e509] [cursor=pointer]: 
+                    - generic [ref=e511]:
+                      - generic [ref=e512]: "85,474 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e513]: 
+                    - link "Carfax" [ref=e517] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=AXfykoW3JUOQcA9anH71sXmI8zyV0cNu
+                      - img "Carfax" [ref=e518]
+              - listitem [ref=e519]:
+                - generic [ref=e521]:
+                  - generic [ref=e523]:
+                    - generic [ref=e524]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e525]:
+                    - link "Land Rover Range Rover Evoque 2023":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13049837.html
+                      - img "Land Rover Range Rover Evoque 2023" [ref=e526] [cursor=pointer]
+                    - generic [ref=e527]: "Stock: L26-104A"
+                  - generic [ref=e528]:
+                    - generic [ref=e532] [cursor=pointer]:
+                      - generic [ref=e533]: 
+                      - generic [ref=e534]: Finance it!
+                    - generic [ref=e536]:
+                      - link "2023 Range Rover Evoque P250 S in Brampton" [ref=e537] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13049837.html
+                        - generic [ref=e538]:
+                          - generic [ref=e539]: 2023 Range Rover Evoque
+                          - generic [ref=e540]: P250 S
+                          - generic [ref=e541]: in Brampton
+                      - generic [ref=e542]:
+                        - text: 37,490 $
+                        - generic [ref=e543]: "*Taxes & licenses not included."
+                        - generic [ref=e545] [cursor=pointer]: 
+                    - generic [ref=e547]:
+                      - generic [ref=e548]: "63,671 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e549]: 
+                    - link "Carfax" [ref=e553] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=sq5QUoDkwthMXAk/qkMa57KDTemb7i7n
+                      - img "Carfax" [ref=e554]
+              - listitem [ref=e559]:
+                - generic [ref=e561]:
+                  - generic [ref=e563]:
+                    - generic [ref=e564]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e565]:
+                    - link "2022 Land Rover Range Rover Velar in Brampton":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13145198.html
+                    - generic [ref=e566]: "Stock: P-604"
+                  - generic [ref=e567]:
+                    - generic [ref=e571] [cursor=pointer]:
+                      - generic [ref=e572]: 
+                      - generic [ref=e573]: Finance it!
+                    - generic [ref=e575]:
+                      - link "2022 Range Rover Velar P250 S 20 INCH WHEELS / BEIGE INTERIOR / BLACK EXTERIOR PACK GREAT VALUE CLEAN CARFAX in Brampton" [ref=e576] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13145198.html
+                        - generic [ref=e577]:
+                          - generic [ref=e578]: 2022 Range Rover Velar
+                          - generic [ref=e579]: P250 S 20 INCH WHEELS / BEIGE INTERIOR / BLACK EXTERIOR PACK GREAT VALUE CLEAN CARFAX
+                          - generic [ref=e580]: in Brampton
+                      - generic [ref=e581]:
+                        - text: 37,998 $
+                        - generic [ref=e582]: "*Taxes & licenses not included."
+                        - generic [ref=e584] [cursor=pointer]: 
+                    - generic [ref=e586]:
+                      - generic [ref=e587]: "87,547 KM. Auto., Ext: Black,"
+                      - generic [ref=e588]: 
+                    - link "Carfax" [ref=e592] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=eoHccF5HBSCQZGxZJrBqJIezCY3nSqfK
+                      - img "Carfax" [ref=e593]
+              - listitem [ref=e594]:
+                - generic [ref=e596]:
+                  - generic [ref=e598]:
+                    - generic [ref=e599]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e600]:
+                    - link "2022 Land Rover Range Rover Velar in Brampton":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13145197.html
+                    - generic [ref=e601]: "Stock: P-598"
+                  - generic [ref=e602]:
+                    - generic [ref=e606] [cursor=pointer]:
+                      - generic [ref=e607]: 
+                      - generic [ref=e608]: Finance it!
+                    - generic [ref=e610]:
+                      - link "2022 Range Rover Velar P250 S GREAT VALUE BEST PRICE IN MARKET! in Brampton" [ref=e611] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Velar-id13145197.html
+                        - generic [ref=e612]:
+                          - generic [ref=e613]: 2022 Range Rover Velar
+                          - generic [ref=e614]: P250 S GREAT VALUE BEST PRICE IN MARKET!
+                          - generic [ref=e615]: in Brampton
+                      - generic [ref=e616]:
+                        - text: 39,490 $
+                        - generic [ref=e617]: "*Taxes & licenses not included."
+                        - generic [ref=e619] [cursor=pointer]: 
+                    - generic [ref=e621]:
+                      - generic [ref=e622]: "79,154 KM. Auto., Ext: Red, Int: Black"
+                      - generic [ref=e623]: 
+                    - link "Carfax" [ref=e627] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=w65GPAyIVe5qExcinLI/d72iXIIXcnwy
+                      - img "Carfax" [ref=e628]
+              - listitem [ref=e629]:
+                - generic [ref=e631]:
+                  - generic [ref=e633]:
+                    - generic [ref=e634]:
+                      - generic [ref=e635]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e636]:
+                    - link "2020 Land Rover Range Rover Sport in Brampton":
+                      - /url: /used/2020-Land_Rover-Range_Rover_Sport-id13387826.html
+                    - generic [ref=e637]: "Stock: L26-189A"
+                  - generic [ref=e638]:
+                    - generic [ref=e642] [cursor=pointer]:
+                      - generic [ref=e643]: 
+                      - generic [ref=e644]: Finance it!
+                    - generic [ref=e646]:
+                      - link "2020 Range Rover Sport V6 Td6 HSE HEAD UP DISPLAY/MERIDIAN SURROUND SOUND/SOFT CLOSE DOORS in Brampton" [ref=e647] [cursor=pointer]:
+                        - /url: /used/2020-Land_Rover-Range_Rover_Sport-id13387826.html
+                        - generic [ref=e648]:
+                          - generic [ref=e649]: 2020 Range Rover Sport
+                          - generic [ref=e650]: V6 Td6 HSE HEAD UP DISPLAY/MERIDIAN SURROUND SOUND/SOFT CLOSE DOORS
+                          - generic [ref=e651]: in Brampton
+                      - generic [ref=e652]:
+                        - text: 40,998 $
+                        - generic [ref=e653]: "*Taxes & licenses not included."
+                        - generic [ref=e655] [cursor=pointer]: 
+                    - generic [ref=e657]:
+                      - generic [ref=e658]: "88,114 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e659]: 
+                    - link "Carfax" [ref=e663] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=DBRiZfdzFId5qmjOiO1UewBm6cD3ue6q
+                      - img "Carfax" [ref=e664]
+              - listitem [ref=e665]:
+                - generic [ref=e667]:
+                  - generic [ref=e669]:
+                    - generic [ref=e670]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e671]:
+                    - link "2023 Land Rover Range Rover Evoque in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13140925.html
+                    - generic [ref=e672]: "Stock: L26-143A"
+                  - generic [ref=e673]:
+                    - generic [ref=e677] [cursor=pointer]:
+                      - generic [ref=e678]: 
+                      - generic [ref=e679]: Finance it!
+                    - generic [ref=e681]:
+                      - link "2023 Range Rover Evoque P250 R-Dynamic SE BIG SPEC/ 21 INCH WEELS/R-DYNAMIC/TINTS/TOUCH PRO DUO/SLIDING PAN ROOF/HEATED WINDSCREEN/BLACK PACK in Brampton" [ref=e682] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13140925.html
+                        - generic [ref=e683]:
+                          - generic [ref=e684]: 2023 Range Rover Evoque
+                          - generic [ref=e685]: P250 R-Dynamic SE BIG SPEC/ 21 INCH WEELS/R-DYNAMIC/TINTS/TOUCH PRO DUO/SLIDING PAN ROOF/HEATED WINDSCREEN/BLACK PACK
+                          - generic [ref=e686]: in Brampton
+                      - generic [ref=e687]:
+                        - text: 42,222 $
+                        - generic [ref=e688]: "*Taxes & licenses not included."
+                        - generic [ref=e690] [cursor=pointer]: 
+                    - generic [ref=e692]:
+                      - generic [ref=e693]: "61,806 KM. Auto., Ext: White,"
+                      - generic [ref=e694]: 
+                    - link "Carfax" [ref=e698] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=ZiyD26u1EH0YA8rVJBJtFF5AGKS74O6R
+                      - img "Carfax" [ref=e699]
+              - listitem [ref=e700]:
+                - generic [ref=e702]:
+                  - generic [ref=e704]:
+                    - generic [ref=e705]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e706]:
+                    - link "2023 Land Rover Range Rover Evoque in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13340935.html
+                    - generic [ref=e707]: "Stock: L26-410A"
+                  - generic [ref=e708]:
+                    - generic [ref=e712] [cursor=pointer]:
+                      - generic [ref=e713]: 
+                      - generic [ref=e714]: Finance it!
+                    - generic [ref=e716]:
+                      - link "2023 Range Rover Evoque P300 HST HST RARE SPEC P300 BEAUTIFUL TO DRIVE in Brampton" [ref=e717] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Evoque-id13340935.html
+                        - generic [ref=e718]:
+                          - generic [ref=e719]: 2023 Range Rover Evoque
+                          - generic [ref=e720]: P300 HST HST RARE SPEC P300 BEAUTIFUL TO DRIVE
+                          - generic [ref=e721]: in Brampton
+                      - generic [ref=e722]:
+                        - text: 45,998 $
+                        - generic [ref=e723]: "*Taxes & licenses not included."
+                        - generic [ref=e725] [cursor=pointer]: 
+                    - generic [ref=e727]:
+                      - generic [ref=e728]: "48,431 KM. Auto., Ext: Black,"
+                      - generic [ref=e729]: 
+                    - link "Carfax" [ref=e733] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=1NV00Cwaiaw9CqwmZl98Tlx+FmO2N0b6
+                      - img "Carfax" [ref=e734]
+              - listitem [ref=e735]:
+                - generic [ref=e737]:
+                  - generic [ref=e739]:
+                    - generic [ref=e740]:
+                      - generic [ref=e741]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e742]:
+                    - link "2023 Land Rover Range Rover Velar in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13392603.html
+                    - generic [ref=e743]: "Stock: L26-303A"
+                  - generic [ref=e744]:
+                    - generic [ref=e748] [cursor=pointer]:
+                      - generic [ref=e749]: 
+                      - generic [ref=e750]: Finance it!
+                    - generic [ref=e752]:
+                      - link "2023 Range Rover Velar P250 S in Brampton" [ref=e753] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13392603.html
+                        - generic [ref=e754]:
+                          - generic [ref=e755]: 2023 Range Rover Velar
+                          - generic [ref=e756]: P250 S
+                          - generic [ref=e757]: in Brampton
+                      - generic [ref=e758]:
+                        - text: 45,998 $
+                        - generic [ref=e759]: "*Taxes & licenses not included."
+                        - generic [ref=e761] [cursor=pointer]: 
+                    - generic [ref=e763]:
+                      - generic [ref=e764]: "47,500 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e765]: 
+                    - link "Carfax" [ref=e769] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=1zoq9UlwJq3HWaAHo6j5djtn4UwaacLw
+                      - img "Carfax" [ref=e770]
+              - listitem [ref=e775]:
+                - generic [ref=e777]:
+                  - generic [ref=e779]:
+                    - generic [ref=e780]:
+                      - generic [ref=e781]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e782]:
+                    - link "2023 Land Rover Range Rover Velar in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13379470.html
+                    - generic [ref=e783]: "Stock: J26-100A"
+                  - generic [ref=e784]:
+                    - generic [ref=e788] [cursor=pointer]:
+                      - generic [ref=e789]: 
+                      - generic [ref=e790]: Finance it!
+                    - generic [ref=e792]:
+                      - link "2023 Range Rover Velar P250 S in Brampton" [ref=e793] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13379470.html
+                        - generic [ref=e794]:
+                          - generic [ref=e795]: 2023 Range Rover Velar
+                          - generic [ref=e796]: P250 S
+                          - generic [ref=e797]: in Brampton
+                      - generic [ref=e798]:
+                        - text: 45,998 $
+                        - generic [ref=e799]: "*Taxes & licenses not included."
+                        - generic [ref=e801] [cursor=pointer]: 
+                    - generic [ref=e803]:
+                      - generic [ref=e804]: "52,155 KM. Auto., Ext: White,"
+                      - generic [ref=e805]: 
+                    - link "Carfax" [ref=e809] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=jNA7HSDPemDI42AfFUg82ZbNmMHp0J3P
+                      - img "Carfax" [ref=e810]
+              - listitem [ref=e811]:
+                - generic [ref=e813]:
+                  - generic [ref=e815]:
+                    - generic [ref=e816]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e817]:
+                    - link "2023 Land Rover Range Rover Velar in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13056612.html
+                    - generic [ref=e818]: "Stock: J26-128A"
+                  - generic [ref=e819]:
+                    - generic [ref=e823] [cursor=pointer]:
+                      - generic [ref=e824]: 
+                      - generic [ref=e825]: Finance it!
+                    - generic [ref=e827]:
+                      - link "2023 Range Rover Velar P400 HST in Brampton" [ref=e828] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Velar-id13056612.html
+                        - generic [ref=e829]:
+                          - generic [ref=e830]: 2023 Range Rover Velar
+                          - generic [ref=e831]: P400 HST
+                          - generic [ref=e832]: in Brampton
+                      - generic [ref=e833]:
+                        - text: 49,490 $
+                        - generic [ref=e834]: "*Taxes & licenses not included."
+                        - generic [ref=e836] [cursor=pointer]: 
+                    - generic [ref=e838]:
+                      - generic [ref=e839]: "90,122 KM. Auto., Ext: Black,"
+                      - generic [ref=e840]: 
+                    - link "Carfax" [ref=e844] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=lgX/dpG9XI4mZSAbMCNTJUACuNTBI7nS
+                      - img "Carfax" [ref=e845]
+              - listitem [ref=e846]:
+                - generic [ref=e848]:
+                  - generic [ref=e850]:
+                    - generic [ref=e851]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e852]:
+                    - link "2022 Land Rover Range Rover Sport in Brampton":
+                      - /url: /used/2022-Land_Rover-Range_Rover_Sport-id13336149.html
+                    - generic [ref=e853]: "Stock: P-622"
+                  - generic [ref=e854]:
+                    - generic [ref=e858] [cursor=pointer]:
+                      - generic [ref=e859]: 
+                      - generic [ref=e860]: Finance it!
+                    - generic [ref=e862]:
+                      - link "2022 Range Rover Sport P400 HST in Brampton" [ref=e863] [cursor=pointer]:
+                        - /url: /used/2022-Land_Rover-Range_Rover_Sport-id13336149.html
+                        - generic [ref=e864]:
+                          - generic [ref=e865]: 2022 Range Rover Sport
+                          - generic [ref=e866]: P400 HST
+                          - generic [ref=e867]: in Brampton
+                      - generic [ref=e868]:
+                        - text: 56,998 $
+                        - generic [ref=e869]: "*Taxes & licenses not included."
+                        - generic [ref=e871] [cursor=pointer]: 
+                    - generic [ref=e873]:
+                      - generic [ref=e874]: 113,547 KM. Auto.,
+                      - generic [ref=e875]: 
+                    - link "Carfax" [ref=e879] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=AAhooXVZHvJlh6zzuu0kY5ugJdyaE5Ta
+                      - img "Carfax" [ref=e880]
+              - listitem [ref=e881]:
+                - generic [ref=e883]:
+                  - generic [ref=e885]:
+                    - generic [ref=e886]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e887]:
+                    - link "2023 Land Rover Defender in Brampton":
+                      - /url: /used/2023-Land_Rover-Defender-id12154950.html
+                    - generic [ref=e888]: "Stock: L25-300A"
+                  - generic [ref=e889]:
+                    - generic [ref=e893] [cursor=pointer]:
+                      - generic [ref=e894]: 
+                      - generic [ref=e895]: Finance it!
+                    - generic [ref=e897]:
+                      - link "2023 Defender 110 P400 X-Dynamic SE (2) BEAUTIFUL EXAMPLE/ 22 INCH WHEELS/ BLACK INTERIOR/ GREAT VALUE in Brampton" [ref=e898] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Defender-id12154950.html
+                        - generic [ref=e899]:
+                          - generic [ref=e900]: 2023 Defender
+                          - generic [ref=e901]: 110 P400 X-Dynamic SE (2) BEAUTIFUL EXAMPLE/ 22 INCH WHEELS/ BLACK INTERIOR/ GREAT VALUE
+                          - generic [ref=e902]: in Brampton
+                      - generic [ref=e903]:
+                        - text: 68,888 $
+                        - generic [ref=e904]: "*Taxes & licenses not included."
+                        - generic [ref=e906] [cursor=pointer]: 
+                    - generic [ref=e908]:
+                      - generic [ref=e909]: "67,971 KM. Auto., Ext: Grey, Int: Black"
+                      - generic [ref=e910]: 
+                    - link "Carfax" [ref=e914] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=wg1+5PYkOjcVX9XdFjHUPL8j7T8T5Ikc
+                      - img "Carfax" [ref=e915]
+              - listitem [ref=e916]:
+                - generic [ref=e918]:
+                  - generic [ref=e920]:
+                    - generic [ref=e921]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e922]:
+                    - link "2024 Land Rover Defender in Brampton":
+                      - /url: /used/2024-Land_Rover-Defender-id13315901.html
+                    - generic [ref=e923]: "Stock: L26-179A"
+                  - generic [ref=e924]:
+                    - generic [ref=e928] [cursor=pointer]:
+                      - generic [ref=e929]: 
+                      - generic [ref=e930]: Finance it!
+                    - generic [ref=e932]:
+                      - link "2024 Defender 110 P300 S CLEARSIGHT MIRROR/ 7 SEAT VEHICLE/ BLACK WHEELS/AIR SUSPENSION in Brampton" [ref=e933] [cursor=pointer]:
+                        - /url: /used/2024-Land_Rover-Defender-id13315901.html
+                        - generic [ref=e934]:
+                          - generic [ref=e935]: 2024 Defender
+                          - generic [ref=e936]: 110 P300 S CLEARSIGHT MIRROR/ 7 SEAT VEHICLE/ BLACK WHEELS/AIR SUSPENSION
+                          - generic [ref=e937]: in Brampton
+                      - generic [ref=e938]:
+                        - text: 71,998 $
+                        - generic [ref=e939]: "*Taxes & licenses not included."
+                        - generic [ref=e941] [cursor=pointer]: 
+                    - generic [ref=e943]:
+                      - generic [ref=e944]: "36,787 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e945]: 
+                    - link "Carfax" [ref=e949] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=ZYW6JzjGbWoXP8AMkQaSR5Jtei+f9uoR
+                      - img "Carfax" [ref=e950]
+              - listitem [ref=e951]:
+                - generic [ref=e953]:
+                  - generic [ref=e955]:
+                    - generic [ref=e956]:
+                      - generic [ref=e957]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e958]:
+                    - link "2023 Land Rover Defender in Brampton":
+                      - /url: /used/2023-Land_Rover-Defender-id13392604.html
+                    - generic [ref=e959]: "Stock: L26-325A"
+                  - generic [ref=e960]:
+                    - generic [ref=e964] [cursor=pointer]:
+                      - generic [ref=e965]: 
+                      - generic [ref=e966]: Finance it!
+                    - generic [ref=e968]:
+                      - link "2023 Defender 110 P400 X (2) in Brampton" [ref=e969] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Defender-id13392604.html
+                        - generic [ref=e970]:
+                          - generic [ref=e971]: 2023 Defender
+                          - generic [ref=e972]: 110 P400 X (2)
+                          - generic [ref=e973]: in Brampton
+                      - generic [ref=e974]:
+                        - text: 84,998 $
+                        - generic [ref=e975]: "*Taxes & licenses not included."
+                        - generic [ref=e977] [cursor=pointer]: 
+                    - generic [ref=e979]:
+                      - generic [ref=e980]: "54,747 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e981]: 
+                    - link "Carfax" [ref=e985] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=Fap7Hl8i/+vVijPPa+OcQlW8VyHn82aX
+                      - img "Carfax" [ref=e986]
+              - listitem [ref=e991]:
+                - generic [ref=e993]:
+                  - generic [ref=e995]:
+                    - generic [ref=e996]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e997]:
+                    - link "2023 Land Rover Range Rover Sport in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13306238.html
+                    - generic [ref=e998]: "Stock: L25-648A"
+                  - generic [ref=e999]:
+                    - generic [ref=e1003] [cursor=pointer]:
+                      - generic [ref=e1004]: 
+                      - generic [ref=e1005]: Finance it!
+                    - generic [ref=e1007]:
+                      - link "2023 Range Rover Sport Dynamic SE 3.0L I6T MHEV (P400) HIGH SPEC/ GREAT COLOUR COMBO CPO AVAILABLE. in Brampton" [ref=e1008] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13306238.html
+                        - generic [ref=e1009]:
+                          - generic [ref=e1010]: 2023 Range Rover Sport
+                          - generic [ref=e1011]: Dynamic SE 3.0L I6T MHEV (P400) HIGH SPEC/ GREAT COLOUR COMBO CPO AVAILABLE.
+                          - generic [ref=e1012]: in Brampton
+                      - generic [ref=e1013]:
+                        - text: 89,998 $
+                        - generic [ref=e1014]: "*Taxes & licenses not included."
+                        - generic [ref=e1016] [cursor=pointer]: 
+                    - generic [ref=e1018]:
+                      - generic [ref=e1019]: "61,927 KM. Auto., Ext: Blue, , 0.23KW Battery"
+                      - generic [ref=e1020]: 
+                    - link "Carfax" [ref=e1024] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=85Gn4ucBkEbKsmgPdjJd92wnCe4Xau1c
+                      - img "Carfax" [ref=e1025]
+              - listitem [ref=e1026]:
+                - generic [ref=e1028]:
+                  - generic [ref=e1030]:
+                    - generic [ref=e1031]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1032]:
+                    - link "2023 Land Rover Defender in Brampton":
+                      - /url: /used/2023-Land_Rover-Defender-id13332084.html
+                    - generic [ref=e1033]: "Stock: L26-356A"
+                  - generic [ref=e1034]:
+                    - generic [ref=e1038] [cursor=pointer]:
+                      - generic [ref=e1039]: 
+                      - generic [ref=e1040]: Finance it!
+                    - generic [ref=e1042]:
+                      - link "2023 Defender 110 P400 X (2) 7 SEAT/ in Brampton" [ref=e1043] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Defender-id13332084.html
+                        - generic [ref=e1044]:
+                          - generic [ref=e1045]: 2023 Defender
+                          - generic [ref=e1046]: 110 P400 X (2) 7 SEAT/
+                          - generic [ref=e1047]: in Brampton
+                      - generic [ref=e1048]:
+                        - text: 94,998 $
+                        - generic [ref=e1049]: "*Taxes & licenses not included."
+                        - generic [ref=e1051] [cursor=pointer]: 
+                    - generic [ref=e1053]:
+                      - generic [ref=e1054]: "27,581 KM. Auto., Ext: Black,"
+                      - generic [ref=e1055]: 
+                    - link "Carfax" [ref=e1059] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=oFbuH0qLuxmp6nm+hmxZL1roQEUJHb3h
+                      - img "Carfax" [ref=e1060]
+              - listitem [ref=e1061]:
+                - generic [ref=e1063]:
+                  - generic [ref=e1065]:
+                    - generic [ref=e1066]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1067]:
+                    - link "2023 Land Rover Range Rover Sport in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13306239.html
+                    - generic [ref=e1068]: "Stock: P-617"
+                  - generic [ref=e1069]:
+                    - generic [ref=e1073] [cursor=pointer]:
+                      - generic [ref=e1074]: 
+                      - generic [ref=e1075]: Finance it!
+                    - generic [ref=e1077]:
+                      - link "2023 Range Rover Sport Dynamic SE 3.0L I6T MHEV (P400) LOW KMS / CLEARSIGHT / HEADS UP / 23IN WHEELS in Brampton" [ref=e1078] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13306239.html
+                        - generic [ref=e1079]:
+                          - generic [ref=e1080]: 2023 Range Rover Sport
+                          - generic [ref=e1081]: Dynamic SE 3.0L I6T MHEV (P400) LOW KMS / CLEARSIGHT / HEADS UP / 23IN WHEELS
+                          - generic [ref=e1082]: in Brampton
+                      - generic [ref=e1083]:
+                        - text: 96,799 $
+                        - generic [ref=e1084]: "*Taxes & licenses not included."
+                        - generic [ref=e1086] [cursor=pointer]: 
+                    - generic [ref=e1088]:
+                      - generic [ref=e1089]: "37,457 KM. Auto., Ext: Black, Int: Black , 0.23KW Battery"
+                      - generic [ref=e1090]: 
+                    - link "Carfax" [ref=e1094] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=I9xyqBnyVTfhFLTuQ9GkvDsRQAdUs/Q1
+                      - img "Carfax" [ref=e1095]
+              - listitem [ref=e1096]:
+                - generic [ref=e1098]:
+                  - generic [ref=e1100]:
+                    - generic [ref=e1101]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1102]:
+                    - link "2023 Land Rover Range Rover in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover-id13031261.html
+                    - generic [ref=e1103]: "Stock: L25-726A"
+                  - generic [ref=e1104]:
+                    - generic [ref=e1108] [cursor=pointer]:
+                      - generic [ref=e1109]: 
+                      - generic [ref=e1110]: Finance it!
+                    - generic [ref=e1112]:
+                      - link "2023 Range Rover P530 SE SWB in Brampton" [ref=e1113] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover-id13031261.html
+                        - generic [ref=e1114]:
+                          - generic [ref=e1115]: 2023 Range Rover
+                          - generic [ref=e1116]: P530 SE SWB
+                          - generic [ref=e1117]: in Brampton
+                      - generic [ref=e1118]:
+                        - text: 116,998 $
+                        - generic [ref=e1119]: "*Taxes & licenses not included."
+                        - generic [ref=e1121] [cursor=pointer]: 
+                    - generic [ref=e1123]:
+                      - generic [ref=e1124]: "76,987 KM. Auto., Ext: Grey, Int: Caraway w/ Caraway Windsor Int"
+                      - generic [ref=e1125]: 
+                    - link "Carfax" [ref=e1129] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=vSRXfBXpVVhZBaUwFlWOd597fKLXTqJo
+                      - img "Carfax" [ref=e1130]
+              - listitem [ref=e1131]:
+                - generic [ref=e1133]:
+                  - generic [ref=e1135]:
+                    - generic [ref=e1136]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1137]:
+                    - link "2023 Land Rover Range Rover in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover-id13340934.html
+                    - generic [ref=e1138]: "Stock: L26-222A"
+                  - generic [ref=e1139]:
+                    - generic [ref=e1143] [cursor=pointer]:
+                      - generic [ref=e1144]: 
+                      - generic [ref=e1145]: Finance it!
+                    - generic [ref=e1147]:
+                      - link "2023 Range Rover P530 SE SWB CPO/TECH PACKAGE/CLEAN CARFAX/BEAUTIFUL SPEC in Brampton" [ref=e1148] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover-id13340934.html
+                        - generic [ref=e1149]:
+                          - generic [ref=e1150]: 2023 Range Rover
+                          - generic [ref=e1151]: P530 SE SWB CPO/TECH PACKAGE/CLEAN CARFAX/BEAUTIFUL SPEC
+                          - generic [ref=e1152]: in Brampton
+                      - generic [ref=e1153]:
+                        - text: 116,998 $
+                        - generic [ref=e1154]: "*Taxes & licenses not included."
+                        - generic [ref=e1156] [cursor=pointer]: 
+                    - generic [ref=e1158]:
+                      - generic [ref=e1159]: "79,911 KM. Auto., Ext: White,"
+                      - generic [ref=e1160]: 
+                    - link "Carfax" [ref=e1164] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=BiQ+VM8mS9fIdXUlL5Rw0JNnZy4ejYhD
+                      - img "Carfax" [ref=e1165]
+              - listitem [ref=e1166]:
+                - generic [ref=e1168]:
+                  - generic [ref=e1170]:
+                    - generic [ref=e1171]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1172]:
+                    - link "2023 Land Rover Range Rover Sport in Brampton":
+                      - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13302657.html
+                    - generic [ref=e1173]: "Stock: L25-472A"
+                  - generic [ref=e1174]:
+                    - generic [ref=e1178] [cursor=pointer]:
+                      - generic [ref=e1179]: 
+                      - generic [ref=e1180]: Finance it!
+                    - generic [ref=e1182]:
+                      - link "2023 Range Rover Sport First Edition 4.4L V8 (P530) V8 ** RARE** FIRST EDITION BEST COLOUR COMBO LOW KMS CLEAN CARFAX in Brampton" [ref=e1183] [cursor=pointer]:
+                        - /url: /used/2023-Land_Rover-Range_Rover_Sport-id13302657.html
+                        - generic [ref=e1184]:
+                          - generic [ref=e1185]: 2023 Range Rover Sport
+                          - generic [ref=e1186]: First Edition 4.4L V8 (P530) V8 ** RARE** FIRST EDITION BEST COLOUR COMBO LOW KMS CLEAN CARFAX
+                          - generic [ref=e1187]: in Brampton
+                      - generic [ref=e1188]:
+                        - text: 119,998 $
+                        - generic [ref=e1189]: "*Taxes & licenses not included."
+                        - generic [ref=e1191] [cursor=pointer]: 
+                    - generic [ref=e1193]:
+                      - generic [ref=e1194]: "38,787 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e1195]: 
+                    - link "Carfax" [ref=e1199] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=GMj1iwps3asrXu08BlSOgxHj9ZHAleaS
+                      - img "Carfax" [ref=e1200]
+              - listitem [ref=e1205]:
+                - generic [ref=e1207]:
+                  - generic [ref=e1209]:
+                    - generic [ref=e1210]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1211]:
+                    - link "2025 Land Rover Range Rover Sport in Brampton":
+                      - /url: /used/2025-Land_Rover-Range_Rover_Sport-id13315902.html
+                    - generic [ref=e1212]: "Stock: P-621"
+                  - generic [ref=e1213]:
+                    - generic [ref=e1217] [cursor=pointer]:
+                      - generic [ref=e1218]: 
+                      - generic [ref=e1219]: Finance it!
+                    - generic [ref=e1221]:
+                      - link "2025 Range Rover Sport P400 Dynamic HSE **NO LUX TAX**BEST COLOUR COMBO ! 23 INCH WHEELS HSE MASSAGE SEATS LOADED in Brampton" [ref=e1222] [cursor=pointer]:
+                        - /url: /used/2025-Land_Rover-Range_Rover_Sport-id13315902.html
+                        - generic [ref=e1223]:
+                          - generic [ref=e1224]: 2025 Range Rover Sport
+                          - generic [ref=e1225]: P400 Dynamic HSE **NO LUX TAX**BEST COLOUR COMBO ! 23 INCH WHEELS HSE MASSAGE SEATS LOADED
+                          - generic [ref=e1226]: in Brampton
+                      - generic [ref=e1227]:
+                        - text: 121,998 $
+                        - generic [ref=e1228]: "*Taxes & licenses not included."
+                        - generic [ref=e1230] [cursor=pointer]: 
+                    - generic [ref=e1232]:
+                      - generic [ref=e1233]: "32,576 KM. Auto., Ext: Grey,"
+                      - generic [ref=e1234]: 
+                    - link "Carfax" [ref=e1238] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=VAW/YACsg+wqcjEx//VTiUoNgIvuq0xV
+                      - img "Carfax" [ref=e1239]
+              - listitem [ref=e1240]:
+                - generic [ref=e1242]:
+                  - generic [ref=e1244]:
+                    - generic [ref=e1245]:
+                      - generic [ref=e1246]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1247]:
+                    - link "2023 Jaguar F-PACE in Brampton":
+                      - /url: /used/2023-Jaguar-F_PACE-id13387828.html
+                    - generic [ref=e1248]: "Stock: P-625"
+                  - generic [ref=e1249]:
+                    - generic [ref=e1253] [cursor=pointer]:
+                      - generic [ref=e1254]: 
+                      - generic [ref=e1255]: Finance it!
+                    - generic [ref=e1257]:
+                      - link "Jaguar 2023 F-PACE P250 AWD S in Brampton" [ref=e1258] [cursor=pointer]:
+                        - /url: /used/2023-Jaguar-F_PACE-id13387828.html
+                        - generic [ref=e1259]:
+                          - generic [ref=e1260]: Jaguar
+                          - generic [ref=e1261]: 2023 F-PACE
+                          - generic [ref=e1262]: P250 AWD S
+                          - generic [ref=e1263]: in Brampton
+                      - generic [ref=e1264]:
+                        - text: 34,998 $
+                        - generic [ref=e1265]: "*Taxes & licenses not included."
+                        - generic [ref=e1267] [cursor=pointer]: 
+                    - generic [ref=e1269]:
+                      - generic [ref=e1270]: "91,874 KM. Auto., Ext: Black, Int: Ebny/Ebny/Ebny"
+                      - generic [ref=e1271]: 
+                    - link "Carfax" [ref=e1275] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=W+Mc9pDnn2U+9HmNyzstOMI6j2Ify+PT
+                      - img "Carfax" [ref=e1276]
+              - listitem [ref=e1277]:
+                - generic [ref=e1279]:
+                  - generic [ref=e1281]:
+                    - generic [ref=e1282]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1283]:
+                    - link "2021 Jaguar F-PACE in Brampton":
+                      - /url: /used/2021-Jaguar-F_PACE-id13031259.html
+                    - generic [ref=e1284]: "Stock: L25-614B"
+                  - generic [ref=e1285]:
+                    - generic [ref=e1289] [cursor=pointer]:
+                      - generic [ref=e1290]: 
+                      - generic [ref=e1291]: Finance it!
+                    - generic [ref=e1293]:
+                      - link "Jaguar 2021 F-PACE P550 AWD SVR BEAUTIFUL EXAMPLE. in Brampton" [ref=e1294] [cursor=pointer]:
+                        - /url: /used/2021-Jaguar-F_PACE-id13031259.html
+                        - generic [ref=e1295]:
+                          - generic [ref=e1296]: Jaguar
+                          - generic [ref=e1297]: 2021 F-PACE
+                          - generic [ref=e1298]: P550 AWD SVR BEAUTIFUL EXAMPLE.
+                          - generic [ref=e1299]: in Brampton
+                      - generic [ref=e1300]:
+                        - text: 58,998 $
+                        - generic [ref=e1301]: "*Taxes & licenses not included."
+                        - generic [ref=e1303] [cursor=pointer]: 
+                    - generic [ref=e1305]:
+                      - generic [ref=e1306]: "67,922 KM. Auto., Ext: Red, Int: Black"
+                      - generic [ref=e1307]: 
+                    - link "Carfax" [ref=e1311] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=HgZdcF8TA6kmZdlZrTlBiWeJ7F6wpBqG
+                      - img "Carfax" [ref=e1312]
+              - listitem [ref=e1313]:
+                - generic [ref=e1315]:
+                  - generic [ref=e1317]:
+                    - generic [ref=e1318]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1319]:
+                    - link "2019 MINI Convertible in Brampton":
+                      - /url: /used/2019-MINI-Convertible-id13206917.html
+                    - generic [ref=e1320]: "Stock: L26-149AA"
+                  - generic [ref=e1321]:
+                    - generic [ref=e1325] [cursor=pointer]:
+                      - generic [ref=e1326]: 
+                      - generic [ref=e1327]: Finance it!
+                    - generic [ref=e1329]:
+                      - link "MINI 2019 Convertible in Brampton" [ref=e1330] [cursor=pointer]:
+                        - /url: /used/2019-MINI-Convertible-id13206917.html
+                        - generic [ref=e1331]:
+                          - generic [ref=e1332]: MINI
+                          - generic [ref=e1333]: 2019 Convertible
+                          - generic [ref=e1334]: in Brampton
+                      - generic [ref=e1335]:
+                        - text: 19,998 $
+                        - generic [ref=e1336]: "*Taxes & licenses not included."
+                        - generic [ref=e1338] [cursor=pointer]: 
+                    - generic [ref=e1340]:
+                      - generic [ref=e1341]: "100,134 KM. 6-Speed Man., Ext: Blue, Int: Tan"
+                      - generic [ref=e1342]: 
+                    - link "Carfax" [ref=e1346] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=DuBSldb5DlmVQt9rR4craWoOL513h6KF
+                      - img "Carfax" [ref=e1347]
+              - listitem [ref=e1348]:
+                - generic [ref=e1350]:
+                  - generic [ref=e1352]:
+                    - generic [ref=e1353]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1354]:
+                    - link "2018 BMW 4 Series in Brampton":
+                      - /url: /used/2018-BMW-430i-id13252555.html
+                    - generic [ref=e1355]: "Stock: L26-186A"
+                  - generic [ref=e1356]:
+                    - generic [ref=e1360] [cursor=pointer]:
+                      - generic [ref=e1361]: 
+                      - generic [ref=e1362]: Finance it!
+                    - generic [ref=e1364]:
+                      - link "BMW 2018 430i xDrive Gran Coupe in Brampton" [ref=e1365] [cursor=pointer]:
+                        - /url: /used/2018-BMW-430i-id13252555.html
+                        - generic [ref=e1366]:
+                          - generic [ref=e1367]: BMW
+                          - generic [ref=e1368]: 2018 430i
+                          - generic [ref=e1369]: xDrive Gran Coupe
+                          - generic [ref=e1370]: in Brampton
+                      - generic [ref=e1371]:
+                        - text: 20,998 $
+                        - generic [ref=e1372]: "*Taxes & licenses not included."
+                        - generic [ref=e1374] [cursor=pointer]: 
+                    - generic [ref=e1376]:
+                      - generic [ref=e1377]: "121,583 KM. Auto., Ext: Black, Int: Black"
+                      - generic [ref=e1378]: 
+                    - link "Carfax" [ref=e1382] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=4QQkr3CkY7skv4dEEwky/qqBZxmpHKDc
+                      - img "Carfax" [ref=e1383]
+              - listitem [ref=e1384]:
+                - generic [ref=e1386]:
+                  - generic [ref=e1388]:
+                    - generic [ref=e1389]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1390]:
+                    - link "2018 BMW X5 in Brampton":
+                      - /url: /used/2018-BMW-X5-id12960585.html
+                    - generic [ref=e1391]: "Stock: L25-569AA"
+                  - generic [ref=e1392]:
+                    - generic [ref=e1396] [cursor=pointer]:
+                      - generic [ref=e1397]: 
+                      - generic [ref=e1398]: Finance it!
+                    - generic [ref=e1400]:
+                      - link "BMW 2018 X5 xDrive35i in Brampton" [ref=e1401] [cursor=pointer]:
+                        - /url: /used/2018-BMW-X5-id12960585.html
+                        - generic [ref=e1402]:
+                          - generic [ref=e1403]: BMW
+                          - generic [ref=e1404]: 2018 X5
+                          - generic [ref=e1405]: xDrive35i
+                          - generic [ref=e1406]: in Brampton
+                      - generic [ref=e1407]:
+                        - text: 23,490 $
+                        - generic [ref=e1408]: "*Taxes & licenses not included."
+                        - generic [ref=e1410] [cursor=pointer]: 
+                    - generic [ref=e1412]:
+                      - generic [ref=e1413]: "143,987 KM. Auto., Ext: White, Int: Black"
+                      - generic [ref=e1414]: 
+                    - link "Carfax" [ref=e1418] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=n5fwdmlxGkjofH3E20GIYBa066/FRBTH
+                      - img "Carfax" [ref=e1419]
+              - listitem [ref=e1420]:
+                - generic [ref=e1422]:
+                  - generic [ref=e1424]:
+                    - generic [ref=e1425]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1426]:
+                    - link "2020 Jeep Wrangler Unlimited in Brampton":
+                      - /url: /used/2020-Jeep-Wrangler-id13049836.html
+                    - generic [ref=e1427]: "Stock: J24-176BA"
+                  - generic [ref=e1428]:
+                    - generic [ref=e1432] [cursor=pointer]:
+                      - generic [ref=e1433]: 
+                      - generic [ref=e1434]: Finance it!
+                    - generic [ref=e1436]:
+                      - link "Jeep 2020 Wrangler JL Unlimited Sahara in Brampton" [ref=e1437] [cursor=pointer]:
+                        - /url: /used/2020-Jeep-Wrangler-id13049836.html
+                        - generic [ref=e1438]:
+                          - generic [ref=e1439]: Jeep
+                          - generic [ref=e1440]: 2020 Wrangler
+                          - generic [ref=e1441]: JL Unlimited Sahara
+                          - generic [ref=e1442]: in Brampton
+                      - generic [ref=e1443]:
+                        - text: 27,998 $
+                        - generic [ref=e1444]: "*Taxes & licenses not included."
+                        - generic [ref=e1446] [cursor=pointer]: 
+                    - generic [ref=e1448]:
+                      - generic [ref=e1449]: "138,221 KM. Auto., Ext: Grey, Int: Brown"
+                      - generic [ref=e1450]: 
+                    - link "Carfax" [ref=e1454] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=LtkZFB6fI3guaO1UE3+JRlhR1UY3N8LX
+                      - img "Carfax" [ref=e1455]
+              - listitem [ref=e1456]:
+                - generic [ref=e1458]:
+                  - generic [ref=e1460]:
+                    - generic [ref=e1461]: Great value
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1462]:
+                    - link "2025 Nissan Rogue in Brampton":
+                      - /url: /used/2025-Nissan-Rogue-id12933775.html
+                    - generic [ref=e1463]: "Stock: L25-649A"
+                  - generic [ref=e1464]:
+                    - generic [ref=e1468] [cursor=pointer]:
+                      - generic [ref=e1469]: 
+                      - generic [ref=e1470]: Finance it!
+                    - generic [ref=e1472]:
+                      - link "Nissan 2025 Rogue AWD SV Moonroof ALMOST NEW! AWD ADAPTIVE CRUISE SUNROOF LOW LOW KMS in Brampton" [ref=e1473] [cursor=pointer]:
+                        - /url: /used/2025-Nissan-Rogue-id12933775.html
+                        - generic [ref=e1474]:
+                          - generic [ref=e1475]: Nissan
+                          - generic [ref=e1476]: 2025 Rogue
+                          - generic [ref=e1477]: AWD SV Moonroof ALMOST NEW! AWD ADAPTIVE CRUISE SUNROOF LOW LOW KMS
+                          - generic [ref=e1478]: in Brampton
+                      - generic [ref=e1479]:
+                        - text: 31,998 $
+                        - generic [ref=e1480]: "*Taxes & licenses not included."
+                        - generic [ref=e1482] [cursor=pointer]: 
+                    - generic [ref=e1484]:
+                      - generic [ref=e1485]: "8,457 KM. Auto., Ext: White, Int: Dark grey"
+                      - generic [ref=e1486]: 
+                    - link "Carfax" [ref=e1490] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=CzsZpGEWG4R9SlAH5NzKCoOyCMvggQt6
+                      - img "Carfax" [ref=e1491]
+              - listitem [ref=e1492]:
+                - generic [ref=e1494]:
+                  - generic [ref=e1496]:
+                    - generic [ref=e1497]:
+                      - generic [ref=e1498]: 
+                      - text: New arrivals
+                    - generic:
+                      - link "noopener":
+                        - /url: ""
+                  - generic [ref=e1499]:
+                    - link "2022 Audi A6 allroad in Brampton":
+                      - /url: /used/2022-Audi-A6-id13398185.html
+                    - generic [ref=e1500]: "Stock: L26-166A"
+                  - generic [ref=e1501]:
+                    - generic [ref=e1505] [cursor=pointer]:
+                      - generic [ref=e1506]: 
+                      - generic [ref=e1507]: Finance it!
+                    - generic [ref=e1509]:
+                      - link "Audi 2022 A6 55 3.0 Technik quattro Ultra 7sp S Tronic in Brampton" [ref=e1510] [cursor=pointer]:
+                        - /url: /used/2022-Audi-A6-id13398185.html
+                        - generic [ref=e1511]:
+                          - generic [ref=e1512]: Audi
+                          - generic [ref=e1513]: 2022 A6
+                          - generic [ref=e1514]: 55 3.0 Technik quattro Ultra 7sp S Tronic
+                          - generic [ref=e1515]: in Brampton
+                      - generic [ref=e1516]:
+                        - text: 49,997 $
+                        - generic [ref=e1517]: "*Taxes & licenses not included."
+                        - generic [ref=e1519] [cursor=pointer]: 
+                    - generic [ref=e1521]:
+                      - generic [ref=e1522]: "97,654 KM. Auto., Ext: Dark blue,"
+                      - generic [ref=e1523]: 
+                    - link "Carfax" [ref=e1527] [cursor=pointer]:
+                      - /url: https://vhr.carfax.ca/?id=VfOeQN6SNQ5844Chpiysk13W9VypG9nq
+                      - img "Carfax" [ref=e1528]
+            - list [ref=e1533]:
+              - listitem "down" [ref=e1534] [cursor=pointer]:
+                - button "" [ref=e1535]:
+                  - generic [ref=e1536]: 
+              - listitem "Page 1" [ref=e1537] [cursor=pointer]:
+                - button "1" [ref=e1538]
+              - listitem "up" [ref=e1539] [cursor=pointer]:
+                - button "" [ref=e1540]:
+                  - generic [ref=e1541]: 
+      - generic [ref=e1543]:
+        - generic [ref=e1544]:
+          - paragraph [ref=e1545]: Our stock by brand
+          - list [ref=e1546]:
+            - listitem [ref=e1547]:
+              - link "Used Land Rover in Brampton" [ref=e1548] [cursor=pointer]:
+                - /url: /used/Land_Rover.html
+              - generic [ref=e1549]: "22"
+            - listitem [ref=e1550]:
+              - link "Used BMW in Brampton" [ref=e1551] [cursor=pointer]:
+                - /url: /used/BMW.html
+              - generic [ref=e1552]: "2"
+            - listitem [ref=e1553]:
+              - link "Used Jaguar in Brampton" [ref=e1554] [cursor=pointer]:
+                - /url: /used/Jaguar.html
+              - generic [ref=e1555]: "2"
+            - listitem [ref=e1556]:
+              - link "Used Audi in Brampton" [ref=e1557] [cursor=pointer]:
+                - /url: /used/Audi.html
+              - generic [ref=e1558]: "1"
+            - listitem [ref=e1559]:
+              - link "Used Jeep in Brampton" [ref=e1560] [cursor=pointer]:
+                - /url: /used/Jeep.html
+              - generic [ref=e1561]: "1"
+            - listitem [ref=e1562]:
+              - link "Used MINI in Brampton" [ref=e1563] [cursor=pointer]:
+                - /url: /used/MINI.html
+              - generic [ref=e1564]: "1"
+            - listitem [ref=e1565]:
+              - link "Used Nissan in Brampton" [ref=e1566] [cursor=pointer]:
+                - /url: /used/Nissan.html
+              - generic [ref=e1567]: "1"
+        - generic [ref=e1568]:
+          - paragraph [ref=e1569]: Our stock by model
+          - list [ref=e1570]:
+            - listitem [ref=e1571]:
+              - link "Used Range Rover Sport" [ref=e1572] [cursor=pointer]:
+                - /url: /used/Range_Rover_Sport.html
+              - generic [ref=e1573]: "7"
+            - listitem [ref=e1574]:
+              - link "Used Range Rover Velar" [ref=e1575] [cursor=pointer]:
+                - /url: /used/Range_Rover_Velar.html
+              - generic [ref=e1576]: "5"
+            - listitem [ref=e1577]:
+              - link "Used Defender" [ref=e1578] [cursor=pointer]:
+                - /url: /used/Defender.html
+              - generic [ref=e1579]: "4"
+            - listitem [ref=e1580]:
+              - link "Used Range Rover Evoque" [ref=e1581] [cursor=pointer]:
+                - /url: /used/Range_Rover_Evoque.html
+              - generic [ref=e1582]: "4"
+            - listitem [ref=e1583]:
+              - link "Used Jaguar F-PACE" [ref=e1584] [cursor=pointer]:
+                - /url: /used/Jaguar-F_PACE.html
+              - generic [ref=e1585]: "2"
+            - listitem [ref=e1586]:
+              - link "Used Range Rover" [ref=e1587] [cursor=pointer]:
+                - /url: /used/Range_Rover.html
+              - generic [ref=e1588]: "2"
+            - listitem [ref=e1589]:
+              - link "Used Audi A6" [ref=e1590] [cursor=pointer]:
+                - /url: /used/Audi-A6.html
+              - generic [ref=e1591]: "1"
+            - listitem [ref=e1592]:
+              - link "Used BMW 430i" [ref=e1593] [cursor=pointer]:
+                - /url: /used/BMW-430i.html
+              - generic [ref=e1594]: "1"
+            - listitem [ref=e1595]:
+              - link "Used BMW X5" [ref=e1596] [cursor=pointer]:
+                - /url: /used/BMW-X5.html
+              - generic [ref=e1597]: "1"
+            - listitem [ref=e1598]:
+              - link "Used Jeep Wrangler" [ref=e1599] [cursor=pointer]:
+                - /url: /used/Jeep-Wrangler.html
+              - generic [ref=e1600]: "1"
+            - listitem [ref=e1601]:
+              - button "Show me more... " [ref=e1602] [cursor=pointer]:
+                - generic [ref=e1603]: Show me more...
+                - generic [ref=e1604]: 
+        - generic [ref=e1605]:
+          - paragraph [ref=e1606]: Our stock by year
+          - list [ref=e1607]:
+            - listitem [ref=e1608]:
+              - link "Used Defender 2023" [ref=e1609] [cursor=pointer]:
+                - /url: /used/2023-Defender.html
+              - generic [ref=e1610]: "3"
+            - listitem [ref=e1611]:
+              - link "Used Range Rover Evoque 2023" [ref=e1612] [cursor=pointer]:
+                - /url: /used/2023-Range_Rover_Evoque.html
+              - generic [ref=e1613]: "3"
+            - listitem [ref=e1614]:
+              - link "Used Range Rover Sport 2023" [ref=e1615] [cursor=pointer]:
+                - /url: /used/2023-Range_Rover_Sport.html
+              - generic [ref=e1616]: "3"
+            - listitem [ref=e1617]:
+              - link "Used Range Rover Velar 2023" [ref=e1618] [cursor=pointer]:
+                - /url: /used/2023-Range_Rover_Velar.html
+              - generic [ref=e1619]: "3"
+            - listitem [ref=e1620]:
+              - link "Used Range Rover 2023" [ref=e1621] [cursor=pointer]:
+                - /url: /used/2023-Range_Rover.html
+              - generic [ref=e1622]: "2"
+            - listitem [ref=e1623]:
+              - link "Used Range Rover Velar 2022" [ref=e1624] [cursor=pointer]:
+                - /url: /used/2022-Range_Rover_Velar.html
+              - generic [ref=e1625]: "2"
+            - listitem [ref=e1626]:
+              - link "Used Audi A6 2022" [ref=e1627] [cursor=pointer]:
+                - /url: /used/2022-Audi-A6.html
+              - generic [ref=e1628]: "1"
+            - listitem [ref=e1629]:
+              - link "Used BMW 430i 2018" [ref=e1630] [cursor=pointer]:
+                - /url: /used/2018-BMW-430i.html
+              - generic [ref=e1631]: "1"
+            - listitem [ref=e1632]:
+              - link "Used BMW X5 2018" [ref=e1633] [cursor=pointer]:
+                - /url: /used/2018-BMW-X5.html
+              - generic [ref=e1634]: "1"
+            - listitem [ref=e1635]:
+              - link "Used Jaguar F-PACE 2023" [ref=e1636] [cursor=pointer]:
+                - /url: /used/2023-Jaguar-F_PACE.html
+              - generic [ref=e1637]: "1"
+            - listitem [ref=e1638]:
+              - button "Show me more... " [ref=e1639] [cursor=pointer]:
+                - generic [ref=e1640]: Show me more...
+                - generic [ref=e1641]: 
+      - generic [ref=e1645]: Photos for illustration purposes only, and may not reflect exact vehicle (including vehicle colour, trim, options, or other specifications). Some vehicles may be shown with optional equipment or equipment not available in Canada. Specifications, equipment, options and prices are subject to change without notice. Although we endeavour to ensure that the information contained on this website is accurate, the website provider and the dealership are not responsible for any errors or omissions that may occur from time to time. Some data and prices are provided by a third-party and we cannot guarantee their accuracy. Please contact your dealer for verification or if you would like more information on this vehicle.
+  - text: 
+  - contentinfo [ref=e1646]:
+    - generic [ref=e1647]:
+      - iframe [ref=e1648]:
+        
+      - generic [ref=e1649]:
+        - generic [ref=e1650]: Business Hours
+        - list [ref=e1651]:
+          - listitem [ref=e1652] [cursor=pointer]:
+            - 'button "Hours: Sales " [ref=e1653]':
+              - generic [ref=e1654]: 
+              - text: "Hours: Sales "
+          - listitem [ref=e1655] [cursor=pointer]:
+            - 'button "Hours: Service & Parts " [ref=e1656]':
+              - generic [ref=e1657]: 
+              - text: "Hours: Service & Parts "
+    - generic [ref=e1659]:
+      - generic [ref=e1661]: Live the LAND ROVER BRAMPTON experience
+      - generic [ref=e1662]:
+        - link "Share" [ref=e1666] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&src=sdkpreparse
+        - iframe [ref=e1668]:
+          - link "Post" [ref=f18e4] [cursor=pointer]:
+            - /url: https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.landroverbrampton.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text=LAND%20ROVER%20BRAMPTON%20%7C%20Used%20Vehicles%20for%20sale%20in%20Brampton&url=https%3A%2F%2Fwww.landroverbrampton.com%2Fused%2Fsearch.html
+            - generic [ref=f18e6]: Post
+      - generic [ref=e1669]:
+        - list [ref=e1671]:
+          - listitem [ref=e1672]:
+            - generic [ref=e1673]: Useful buying tools
+          - listitem [ref=e1674]:
+            - link "After sales service" [ref=e1675] [cursor=pointer]:
+              - /url: /land rover-services.html
+          - listitem [ref=e1676]:
+            - link "LAND ROVER BRAMPTON Promotions" [ref=e1677] [cursor=pointer]:
+              - /url: /our-promotions.html
+          - listitem [ref=e1678]:
+            - link "Car Loan Calculator" [ref=e1679] [cursor=pointer]:
+              - /url: /inventory/car-loan-calculator.html
+          - listitem [ref=e1680]:
+            - link "Auto Credit and Financing" [ref=e1681] [cursor=pointer]:
+              - /url: /requests/credit.html
+        - generic [ref=e1682]:
+          - list [ref=e1684]:
+            - listitem [ref=e1685]:
+              - generic [ref=e1686]: Additional information
+            - listitem [ref=e1687]:
+              - link "Our team" [ref=e1688] [cursor=pointer]:
+                - /url: /ourteam.html
+            - listitem [ref=e1689]:
+              - link "Communication Preferences" [ref=e1690] [cursor=pointer]:
+                - /url: /communication-preferences.html
+            - listitem [ref=e1691]:
+              - link "Delete all cookies from this site" [ref=e1692] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1693]:
+              - link "Careers" [ref=e1694] [cursor=pointer]:
+                - /url: /requests/auto-jobs.html
+          - list [ref=e1696]:
+            - listitem [ref=e1697]:
+              - generic [ref=e1698]: SUV
+            - listitem [ref=e1699]:
+              - link "2026 Defender" [ref=e1700] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Defender.html
+            - listitem [ref=e1701]:
+              - link "2026 Discovery" [ref=e1702] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery.html
+            - listitem [ref=e1703]:
+              - link "2026 Discovery Sport" [ref=e1704] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Discovery_Sport.html
+            - listitem [ref=e1705]:
+              - link "2026 Range Rover" [ref=e1706] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover.html
+            - listitem [ref=e1707]:
+              - link "2026 Range Rover Evoque" [ref=e1708] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1709]:
+              - link "2026 Range Rover Sport" [ref=e1710] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1711]:
+              - link "2026 Range Rover Velar" [ref=e1712] [cursor=pointer]:
+                - /url: /new/2026-Land_Rover-Range_Rover_Velar.html
+          - list [ref=e1714]:
+            - listitem [ref=e1715]:
+              - generic [ref=e1716]: Other useful links
+            - listitem [ref=e1717]:
+              - link "LAND ROVER CANADA" [ref=e1718] [cursor=pointer]:
+                - /url: https://www.landrover.ca/
+        - generic [ref=e1719]:
+          - list [ref=e1721]:
+            - listitem [ref=e1722]:
+              - generic [ref=e1723]: Our top 30 used vehicles
+            - listitem [ref=e1724]:
+              - link "2023 Defender" [ref=e1725] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Defender.html
+            - listitem [ref=e1726]:
+              - link "2023 Range Rover Evoque" [ref=e1727] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1728]:
+              - link "2023 Range Rover Sport" [ref=e1729] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1730]:
+              - link "2023 Range Rover Velar" [ref=e1731] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1732]:
+              - link "2023 Range Rover" [ref=e1733] [cursor=pointer]:
+                - /url: /used/2023-Land_Rover-Range_Rover.html
+            - listitem [ref=e1734]:
+              - link "2022 Range Rover Velar" [ref=e1735] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1736]:
+              - link "2025 Range Rover Sport" [ref=e1737] [cursor=pointer]:
+                - /url: /used/2025-Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1738]:
+              - link "2024 Defender" [ref=e1739] [cursor=pointer]:
+                - /url: /used/2024-Land_Rover-Defender.html
+            - listitem [ref=e1740]:
+              - link "2024 Range Rover" [ref=e1741] [cursor=pointer]:
+                - /url: /used/2024-Land_Rover-Range_Rover.html
+            - listitem [ref=e1742]:
+              - link "2022 Range Rover Evoque" [ref=e1743] [cursor=pointer]:
+                - /url: /used/2022-Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1744]:
+              - button "View More" [ref=e1745]:
+                - generic [ref=e1746] [cursor=pointer]: View More
+          - list [ref=e1748]:
+            - listitem [ref=e1749]:
+              - generic [ref=e1750]: Our demos
+            - listitem [ref=e1751]:
+              - link "Range Rover Sport Demos" [ref=e1752] [cursor=pointer]:
+                - /url: /demos/Land_Rover-Range_Rover_Sport.html
+          - list [ref=e1754]:
+            - listitem [ref=e1755]:
+              - generic [ref=e1756]: Our top 30 models available
+            - listitem [ref=e1757]:
+              - link "Defender for sale" [ref=e1758] [cursor=pointer]:
+                - /url: /models/Land_Rover-Defender.html
+            - listitem [ref=e1759]:
+              - link "Range Rover Velar for sale" [ref=e1760] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Velar.html
+            - listitem [ref=e1761]:
+              - link "Range Rover Evoque for sale" [ref=e1762] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Evoque.html
+            - listitem [ref=e1763]:
+              - link "Range Rover Sport for sale" [ref=e1764] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover_Sport.html
+            - listitem [ref=e1765]:
+              - link "Range Rover for sale" [ref=e1766] [cursor=pointer]:
+                - /url: /models/Land_Rover-Range_Rover.html
+      - generic [ref=e1767]:
+        - generic [ref=e1768]:
+          - heading "LAND ROVER BRAMPTON" [level=3] [ref=e1769]
+          - link "50 Coachworks Cres, Brampton, ON, L6R 3Y2. Google Map opens in a new tab" [ref=e1771] [cursor=pointer]:
+            - /url: https://www.google.ca/maps/dir/?api=1&destination=LAND%2BROVER%2BBRAMPTON%2C50+Coachworks+Cres%2CBrampton%2CON%2CL6R+3Y2&destination_place_id=ChIJs1gkDF4XK4gRetZJJiPMlb0&hl=en&t=m&z=16&ie=UTF8
+            - generic [ref=e1772]:
+              - img [ref=e1773]
+              - text: 50 Coachworks Cres
+              - text: Brampton, ON, L6R 3Y2
+          - generic [ref=e1776]:
+            - generic [ref=e1777]: 
+            - link "905 500-2005" [ref=e1779] [cursor=pointer]:
+              - /url: tel:905 500-2005
+        - generic [ref=e1780]:
+          - link "Facebook opens in a new tab" [ref=e1781] [cursor=pointer]:
+            - /url: https://www.facebook.com/landroverbrampton
+            - img [ref=e1782]
+          - link "Twitter opens in a new tab" [ref=e1784] [cursor=pointer]:
+            - /url: https://twitter.com/LandRoverCanada
+            - img [ref=e1785]
+          - link "Youtube opens in a new tab" [ref=e1787] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCIWtCdXOqREwGsn1ymM3rxA
+            - img [ref=e1788]
+          - link "Instagram opens in a new tab" [ref=e1790] [cursor=pointer]:
+            - /url: https://www.instagram.com/landrover.brampton/?igshid=e78l6ti31ggd
+            - img [ref=e1791]
+      - generic [ref=e1795]:
+        - text: © 2000-2026
+        - link "D2C Media opens in a new tab" [ref=e1796] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/
+          - text: D2C Media
+        - text: All rights reserved. D2C Media
+        - link "dealer website opens in a new tab" [ref=e1797] [cursor=pointer]:
+          - /url: https://www.d2cmedia.ca/en/products/dealer-websites/
+          - text: dealer website
+        - text: solutions
+        - text: See
+        - link "terms and conditions" [ref=e1798] [cursor=pointer]:
+          - /url: /terms-and-conditions.html
+        - text: and
+        - link "privacy policy" [ref=e1799] [cursor=pointer]:
+          - /url: /privacy-policy.html
+        - text: of LAND ROVER BRAMPTON
+  - iframe [ref=e1801]:
+    
+  - insertion
+  - text: $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ < > < >
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=e1803] [cursor=pointer]:
+          - img [ref=e1807]
+          - generic [ref=e1808]:
+            - generic [ref=e1809]: Questions?
+            - generic [ref=e1810]: Connect with us!
+        - img [ref=e1811] [cursor=pointer]
