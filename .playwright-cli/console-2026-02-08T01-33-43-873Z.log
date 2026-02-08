@@ -1,4 +1,0 @@
-[     119ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.autotrader.ca/:0
-[     279ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.autotrader.ca/Images/SVG/en-CA/autotrader-logo.svg:0
-[     755ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://www.autohebdo.net/Images/SVG/fr-CA/autohebdo-logo.svg:0
-[     853ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.autotrader.ca/favicon.ico:0
