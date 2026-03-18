@@ -8,23 +8,45 @@ namespace CarSearch.Services;
 
 public class PlaywrightCliService
 {
-    private readonly PlaywrightCliOptions _options;
+    private readonly IOptionsMonitor<PlaywrightCliOptions> _optionsMonitor;
     private readonly ILogger<PlaywrightCliService> _logger;
+    private readonly int? _sessionTimeoutMs;
+    private readonly CancellationToken _sessionCancellationToken;
 
-    public PlaywrightCliService(IOptions<PlaywrightCliOptions> options, ILogger<PlaywrightCliService> logger)
+    public PlaywrightCliService(
+        IOptionsMonitor<PlaywrightCliOptions> optionsMonitor,
+        ILogger<PlaywrightCliService> logger)
     {
-        _options = options.Value;
+        _optionsMonitor = optionsMonitor;
         _logger = logger;
     }
 
-    public async Task<string> ExecuteAsync(string args, int? timeoutMs = null)
+    private PlaywrightCliService(
+        IOptionsMonitor<PlaywrightCliOptions> optionsMonitor,
+        ILogger<PlaywrightCliService> logger,
+        int? sessionTimeoutMs,
+        CancellationToken sessionCancellationToken)
     {
-        var timeout = timeoutMs ?? _options.DefaultTimeoutMs;
-        _logger.LogDebug("Executing: {Command} {Args}", _options.Command, args);
+        _optionsMonitor = optionsMonitor;
+        _logger = logger;
+        _sessionTimeoutMs = sessionTimeoutMs;
+        _sessionCancellationToken = sessionCancellationToken;
+    }
+
+    public PlaywrightCliService CreateSession(int? timeoutMs = null, CancellationToken cancellationToken = default)
+    {
+        return new PlaywrightCliService(_optionsMonitor, _logger, timeoutMs, cancellationToken);
+    }
+
+    public async Task<string> ExecuteAsync(string args, int? timeoutMs = null, CancellationToken cancellationToken = default)
+    {
+        var options = _optionsMonitor.CurrentValue;
+        var timeout = timeoutMs ?? _sessionTimeoutMs ?? options.DefaultTimeoutMs;
+        _logger.LogDebug("Executing: {Command} {Args}", options.Command, args);
 
         var psi = new ProcessStartInfo
         {
-            FileName = _options.Command,
+            FileName = options.Command,
             Arguments = args,
             RedirectStandardOutput = true,
             RedirectStandardError = true,
@@ -49,15 +71,27 @@ public class PlaywrightCliService
         process.BeginOutputReadLine();
         process.BeginErrorReadLine();
 
-        using var cts = new CancellationTokenSource(timeout);
+        using var timeoutCts = new CancellationTokenSource(timeout);
+        using var linkedCts = CancellationTokenSource.CreateLinkedTokenSource(
+            _sessionCancellationToken,
+            cancellationToken,
+            timeoutCts.Token);
+
         try
         {
-            await process.WaitForExitAsync(cts.Token);
+            await process.WaitForExitAsync(linkedCts.Token);
+        }
+        catch (OperationCanceledException) when (timeoutCts.IsCancellationRequested &&
+                                                 !_sessionCancellationToken.IsCancellationRequested &&
+                                                 !cancellationToken.IsCancellationRequested)
+        {
+            try { process.Kill(entireProcessTree: true); } catch { }
+            throw new TimeoutException($"playwright-cli timed out after {timeout}ms: {options.Command} {args}");
         }
         catch (OperationCanceledException)
         {
             try { process.Kill(entireProcessTree: true); } catch { }
-            throw new TimeoutException($"playwright-cli timed out after {timeout}ms: {_options.Command} {args}");
+            throw;
         }
 
         var output = stdout.ToString().Trim();
@@ -73,15 +107,15 @@ public class PlaywrightCliService
         return output;
     }
 
-    public async Task OpenAsync(string? url = null)
+    public async Task OpenAsync(string? url = null, CancellationToken cancellationToken = default)
     {
         var args = url != null ? $"open {url}" : "open";
-        await ExecuteAsync(args);
+        await ExecuteAsync(args, cancellationToken: cancellationToken);
     }
 
-    public async Task<string> SnapshotAsync()
+    public async Task<string> SnapshotAsync(CancellationToken cancellationToken = default)
     {
-        var output = await ExecuteAsync("snapshot");
+        var output = await ExecuteAsync("snapshot", cancellationToken: cancellationToken);
 
         // The snapshot command outputs the path to the YAML file
         // Formats seen: bare path "C:\...\snapshot.yml" or markdown link "[Snapshot](C:\...\snapshot.yml)"
@@ -111,79 +145,93 @@ public class PlaywrightCliService
 
         if (yamlPath != null && File.Exists(yamlPath))
         {
-            return await File.ReadAllTextAsync(yamlPath);
+            return await File.ReadAllTextAsync(yamlPath, cancellationToken);
         }
 
         // If we can't find a file path, return the raw output (it may be inline)
         return output;
     }
 
-    public async Task<string> SnapshotWithRetryAsync()
+    public async Task<string> SnapshotWithRetryAsync(CancellationToken cancellationToken = default)
     {
-        for (int i = 0; i < _options.RetryCount; i++)
+        var options = _optionsMonitor.CurrentValue;
+
+        for (int i = 0; i < options.RetryCount; i++)
         {
             try
             {
-                var result = await SnapshotAsync();
+                var result = await SnapshotAsync(cancellationToken);
                 if (!string.IsNullOrWhiteSpace(result))
                     return result;
             }
-            catch (Exception ex) when (i < _options.RetryCount - 1)
+            catch (OperationCanceledException) when (_sessionCancellationToken.IsCancellationRequested || cancellationToken.IsCancellationRequested)
+            {
+                throw;
+            }
+            catch (Exception ex) when (i < options.RetryCount - 1)
             {
                 _logger.LogWarning("Snapshot attempt {Attempt} failed: {Error}", i + 1, ex.Message);
             }
 
-            await Task.Delay(_options.RetryDelayMs);
+            await WaitInternalAsync(options.RetryDelayMs, cancellationToken);
         }
 
         throw new InvalidOperationException("Failed to take snapshot after retries");
     }
 
-    public async Task ClickAsync(string refId)
+    public async Task ClickAsync(string refId, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"click {refId}");
+        await ExecuteAsync($"click {refId}", cancellationToken: cancellationToken);
     }
 
-    public async Task FillAsync(string refId, string text)
+    public async Task FillAsync(string refId, string text, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"fill {refId} \"{text.Replace("\"", "\\\"")}\"");
+        await ExecuteAsync(
+            $"fill {refId} \"{text.Replace("\"", "\\\"")}\"",
+            cancellationToken: cancellationToken);
     }
 
-    public async Task SelectAsync(string refId, string value)
+    public async Task SelectAsync(string refId, string value, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"select {refId} \"{value.Replace("\"", "\\\"")}\"");
+        await ExecuteAsync(
+            $"select {refId} \"{value.Replace("\"", "\\\"")}\"",
+            cancellationToken: cancellationToken);
     }
 
-    public async Task CheckAsync(string refId)
+    public async Task CheckAsync(string refId, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"check {refId}");
+        await ExecuteAsync($"check {refId}", cancellationToken: cancellationToken);
     }
 
-    public async Task TypeAsync(string text)
+    public async Task TypeAsync(string text, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"type \"{text.Replace("\"", "\\\"")}\"");
+        await ExecuteAsync(
+            $"type \"{text.Replace("\"", "\\\"")}\"",
+            cancellationToken: cancellationToken);
     }
 
-    public async Task PressAsync(string key)
+    public async Task PressAsync(string key, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"press {key}");
+        await ExecuteAsync($"press {key}", cancellationToken: cancellationToken);
     }
 
-    public async Task RunCodeAsync(string jsCode)
+    public async Task RunCodeAsync(string jsCode, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"run-code \"{jsCode.Replace("\"", "\\\"")}\"");
+        await ExecuteAsync(
+            $"run-code \"{jsCode.Replace("\"", "\\\"")}\"",
+            cancellationToken: cancellationToken);
     }
 
-    public async Task GotoAsync(string url)
+    public async Task GotoAsync(string url, CancellationToken cancellationToken = default)
     {
-        await ExecuteAsync($"goto {url}");
+        await ExecuteAsync($"goto {url}", cancellationToken: cancellationToken);
     }
 
-    public async Task CloseAsync()
+    public async Task CloseAsync(CancellationToken cancellationToken = default)
     {
         try
         {
-            await ExecuteAsync("close");
+            await ExecuteAsync("close", cancellationToken: cancellationToken);
         }
         catch (Exception ex)
         {
@@ -191,8 +239,16 @@ public class PlaywrightCliService
         }
     }
 
-    public async Task WaitAsync(int milliseconds)
+    public Task WaitAsync(int milliseconds, CancellationToken cancellationToken = default)
     {
-        await Task.Delay(milliseconds);
+        return WaitInternalAsync(milliseconds, cancellationToken);
+    }
+
+    private async Task WaitInternalAsync(int milliseconds, CancellationToken cancellationToken)
+    {
+        using var linkedCts = CancellationTokenSource.CreateLinkedTokenSource(
+            _sessionCancellationToken,
+            cancellationToken);
+        await Task.Delay(milliseconds, linkedCts.Token);
     }
 }

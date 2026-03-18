@@ -11,6 +11,7 @@
 
 # Playwright CLI generated files
 .playwright-cli/
+src/CarSearch.Cli/appsettings.Local.json
 
 # User-specific files
 *.rsuser

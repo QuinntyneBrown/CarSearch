@@ -10,9 +10,8 @@ namespace CarSearch.Providers.TeamChrysler;
 public class TeamChryslerProvider : ICarSearchProvider
 {
     private readonly TeamChryslerSnapshotParser _parser;
-    private readonly IServiceProvider _serviceProvider;
+    private readonly PlaywrightCliService _playwrightCli;
     private readonly ProviderOptions _options;
-    private readonly PlaywrightCliOptions _cliOptions;
     private readonly ILogger<TeamChryslerProvider> _logger;
 
     public string Name => "TeamChrysler";
@@ -21,15 +20,13 @@ public class TeamChryslerProvider : ICarSearchProvider
 
     public TeamChryslerProvider(
         TeamChryslerSnapshotParser parser,
-        IServiceProvider serviceProvider,
+        PlaywrightCliService playwrightCli,
         IOptionsSnapshot<ProviderOptions> options,
-        IOptions<PlaywrightCliOptions> cliOptions,
         ILogger<TeamChryslerProvider> logger)
     {
         _parser = parser;
-        _serviceProvider = serviceProvider;
+        _playwrightCli = playwrightCli;
         _options = options.Get("TeamChrysler");
-        _cliOptions = cliOptions.Value;
         _logger = logger;
     }
 
@@ -37,10 +34,7 @@ public class TeamChryslerProvider : ICarSearchProvider
     {
         var sw = Stopwatch.StartNew();
         var result = new ProviderSearchResult { ProviderName = Name, DisplayName = DisplayName };
-        var cli = new PlaywrightCliService(
-            Options.Create(_cliOptions),
-            Microsoft.Extensions.Logging.LoggerFactoryExtensions.CreateLogger<PlaywrightCliService>(
-                (ILoggerFactory)_serviceProvider.GetService(typeof(ILoggerFactory))!));
+        var cli = _playwrightCli.CreateSession(parameters.TimeoutMs, ct);
         try
         {
             // Open inventory page - use make-only filter to avoid & in URL
@@ -76,6 +70,11 @@ public class TeamChryslerProvider : ICarSearchProvider
             _logger.LogInformation("[{Provider}] Found {Count} listings (from {Total} total)", Name, filtered.Count, allListings.Count);
             await cli.CloseAsync();
         }
+        catch (OperationCanceledException) when (ct.IsCancellationRequested)
+        {
+            await cli.CloseAsync();
+            throw;
+        }
         catch (Exception ex)
         {
             _logger.LogError(ex, "[{Provider}] Search failed", Name);
@@ -88,3 +87,4 @@ public class TeamChryslerProvider : ICarSearchProvider
         return result;
     }
 }
+

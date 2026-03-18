@@ -63,12 +63,13 @@ dotnet run --project src/CarSearch.Cli/CarSearch.Cli.csproj -- \
 
 ## Configuration
 
-Provider settings and playwright-cli options live in `src/CarSearch.Cli/appsettings.json`:
+Provider settings and playwright-cli options live in `src/CarSearch.Cli/appsettings.json`.
+Machine-local overrides can be placed in `src/CarSearch.Cli/appsettings.Local.json`, which is ignored by git:
 
 ```jsonc
 {
   "PlaywrightCli": {
-    "Command": "path/to/playwright-cli.cmd",
+    "Command": "playwright-cli",
     "DefaultTimeoutMs": 15000,
     "RetryCount": 3,
     "RetryDelayMs": 2000
@@ -84,6 +85,7 @@ Provider settings and playwright-cli options live in `src/CarSearch.Cli/appsetti
 ```
 
 Each provider can be enabled or disabled individually without code changes.
+The current platform-family inventory is documented in `docs/provider-platform-matrix.md`.
 
 ## Project Structure
 
@@ -99,12 +101,15 @@ CarSearch.sln
 │   │   └── Providers/
 │   │       ├── ICarSearchProvider.cs        # Provider contract
 │   │       ├── ProviderOrchestrator.cs      # Sequential execution coordinator
+│   │       ├── Platforms/                   # Shared platform abstractions
 │   │       └── <DealerName>/
 │   │           ├── <DealerName>Provider.cs          # Site navigation workflow
 │   │           └── <DealerName>SnapshotParser.cs    # Regex-based ARIA parser
 │   └── CarSearch.Cli/               # Console application
 │       ├── Program.cs               # Entry point, DI setup, CLI definition
 │       └── appsettings.json         # Runtime configuration
+├── tests/
+│   └── CarSearch.Core.Tests/        # Parser fixture coverage for shared platform logic
 └── docs/
     └── specs/                       # L1/L2 requirements
 ```
@@ -114,8 +119,11 @@ CarSearch.sln
 1. Create a folder under `src/CarSearch.Core/Providers/<DealerName>/`
 2. Implement `ICarSearchProvider` with the site-specific browser navigation workflow
 3. Implement a `SnapshotParser` with regex patterns for the dealership's ARIA snapshot format
-4. Register the parser, provider, and named options in `Program.cs`
-5. Add configuration to `appsettings.json` under `Providers`
+4. Add configuration to `appsettings.json` under `Providers`
+
+Providers and parsers are discovered automatically at startup. Adding a provider no longer requires editing the composition root as long as the class follows the `*Provider` naming convention and has a matching configuration section.
+
+Providers on the D2C Media platform now share `Providers/Platforms/D2cMedia/` abstractions. Additional platform families should follow the same pattern instead of copying dealership-specific workflows.
 
 ## Supported Dealership Platforms
 

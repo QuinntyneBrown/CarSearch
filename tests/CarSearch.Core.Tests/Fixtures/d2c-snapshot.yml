@@ -1,0 +1,13 @@
+heading "Used Vehicles for sale in Mississauga" [level=1]
+button "Used vehicles 12" [ref=e1]
+listitem "BMW" [ref=eMake] [cursor=pointer]
+listitem "X3" [ref=eModel] [cursor=pointer]
+listitem "White" [ref=eColor] [cursor=pointer]
+link "2023 BMW X3 xDrive30i in Mississauga" [ref=e10]
+- /url: /used/2023-bmw-x3-id123.html
+- text: 54,995 $
+- text: "12,345 KM. Automatic, Ext: White, Int: Black"
+link "2021 BMW X5 xDrive40i in Mississauga" [ref=e20]
+- /url: /used/2021-bmw-x5-id456.html
+- text: 68,995 $
+- text: "44,100 KM. Automatic, Ext: Black, Int: Brown"

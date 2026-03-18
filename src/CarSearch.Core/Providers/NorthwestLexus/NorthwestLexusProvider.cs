@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using CarSearch.Configuration;
 using CarSearch.Models;
 using CarSearch.Services;
@@ -10,9 +10,8 @@ namespace CarSearch.Providers.NorthwestLexus;
 public class NorthwestLexusProvider : ICarSearchProvider
 {
     private readonly NorthwestLexusSnapshotParser _parser;
-    private readonly IServiceProvider _serviceProvider;
+    private readonly PlaywrightCliService _playwrightCli;
     private readonly ProviderOptions _options;
-    private readonly PlaywrightCliOptions _cliOptions;
     private readonly ILogger<NorthwestLexusProvider> _logger;
 
     public string Name => "NorthwestLexus";
@@ -21,15 +20,13 @@ public class NorthwestLexusProvider : ICarSearchProvider
 
     public NorthwestLexusProvider(
         NorthwestLexusSnapshotParser parser,
-        IServiceProvider serviceProvider,
+        PlaywrightCliService playwrightCli,
         IOptionsSnapshot<ProviderOptions> options,
-        IOptions<PlaywrightCliOptions> cliOptions,
         ILogger<NorthwestLexusProvider> logger)
     {
         _parser = parser;
-        _serviceProvider = serviceProvider;
+        _playwrightCli = playwrightCli;
         _options = options.Get("NorthwestLexus");
-        _cliOptions = cliOptions.Value;
         _logger = logger;
     }
 
@@ -37,10 +34,7 @@ public class NorthwestLexusProvider : ICarSearchProvider
     {
         var sw = Stopwatch.StartNew();
         var result = new ProviderSearchResult { ProviderName = Name, DisplayName = DisplayName };
-        var cli = new PlaywrightCliService(
-            Options.Create(_cliOptions),
-            Microsoft.Extensions.Logging.LoggerFactoryExtensions.CreateLogger<PlaywrightCliService>(
-                (ILoggerFactory)_serviceProvider.GetService(typeof(ILoggerFactory))!));
+        var cli = _playwrightCli.CreateSession(parameters.TimeoutMs, ct);
         try
         {
             var inventoryUrl = _options.BaseUrl.TrimEnd('/') + "/pre-owned-inventory/";
@@ -81,6 +75,11 @@ public class NorthwestLexusProvider : ICarSearchProvider
             _logger.LogInformation("[{Provider}] Found {Count} listings", Name, result.Listings.Count);
             await cli.CloseAsync();
         }
+        catch (OperationCanceledException) when (ct.IsCancellationRequested)
+        {
+            await cli.CloseAsync();
+            throw;
+        }
         catch (Exception ex)
         {
             _logger.LogError(ex, "[{Provider}] Search failed", Name);
@@ -93,3 +92,4 @@ public class NorthwestLexusProvider : ICarSearchProvider
         return result;
     }
 }
+

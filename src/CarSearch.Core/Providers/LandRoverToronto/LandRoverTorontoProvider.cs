@@ -10,9 +10,8 @@ namespace CarSearch.Providers.LandRoverToronto;
 public class LandRoverTorontoProvider : ICarSearchProvider
 {
     private readonly LandRoverTorontoSnapshotParser _parser;
-    private readonly IServiceProvider _serviceProvider;
+    private readonly PlaywrightCliService _playwrightCli;
     private readonly ProviderOptions _options;
-    private readonly PlaywrightCliOptions _cliOptions;
     private readonly ILogger<LandRoverTorontoProvider> _logger;
 
     public string Name => "LandRoverToronto";
@@ -21,15 +20,13 @@ public class LandRoverTorontoProvider : ICarSearchProvider
 
     public LandRoverTorontoProvider(
         LandRoverTorontoSnapshotParser parser,
-        IServiceProvider serviceProvider,
+        PlaywrightCliService playwrightCli,
         IOptionsSnapshot<ProviderOptions> options,
-        IOptions<PlaywrightCliOptions> cliOptions,
         ILogger<LandRoverTorontoProvider> logger)
     {
         _parser = parser;
-        _serviceProvider = serviceProvider;
+        _playwrightCli = playwrightCli;
         _options = options.Get("LandRoverToronto");
-        _cliOptions = cliOptions.Value;
         _logger = logger;
     }
 
@@ -41,11 +38,7 @@ public class LandRoverTorontoProvider : ICarSearchProvider
             ProviderName = Name,
             DisplayName = DisplayName
         };
-
-        var cli = new PlaywrightCliService(
-            Options.Create(_cliOptions),
-            Microsoft.Extensions.Logging.LoggerFactoryExtensions.CreateLogger<PlaywrightCliService>(
-                (ILoggerFactory)_serviceProvider.GetService(typeof(ILoggerFactory))!));
+        var cli = _playwrightCli.CreateSession(parameters.TimeoutMs, ct);
 
         try
         {
@@ -102,6 +95,11 @@ public class LandRoverTorontoProvider : ICarSearchProvider
             _logger.LogInformation("[{Provider}] Found {Count} listings", Name, result.Listings.Count);
             await cli.CloseAsync();
         }
+        catch (OperationCanceledException) when (ct.IsCancellationRequested)
+        {
+            await cli.CloseAsync();
+            throw;
+        }
         catch (Exception ex)
         {
             _logger.LogError(ex, "[{Provider}] Search failed", Name);
@@ -115,3 +113,4 @@ public class LandRoverTorontoProvider : ICarSearchProvider
         return result;
     }
 }
+

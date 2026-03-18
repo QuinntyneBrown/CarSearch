@@ -35,6 +35,7 @@ public class ProviderOrchestrator
         var results = new List<ProviderSearchResult>();
         foreach (var provider in enabledProviders)
         {
+            ct.ThrowIfCancellationRequested();
             results.Add(await SearchProviderAsync(provider, parameters, ct));
         }
 
@@ -51,6 +52,11 @@ public class ProviderOrchestrator
         try
         {
             return await provider.SearchAsync(parameters, ct);
+        }
+        catch (OperationCanceledException) when (ct.IsCancellationRequested)
+        {
+            _logger.LogInformation("Provider search was canceled while running {Provider}", provider.Name);
+            throw;
         }
         catch (Exception ex)
         {
