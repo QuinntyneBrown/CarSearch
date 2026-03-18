@@ -30,14 +30,19 @@ public class ProviderOrchestrator
             enabledProviders.Count,
             string.Join(", ", enabledProviders.Select(p => p.DisplayName)));
 
-        var tasks = enabledProviders.Select(provider => SearchProviderAsync(provider, parameters, ct));
-        var results = await Task.WhenAll(tasks);
+        // Run providers sequentially — playwright-cli uses a shared browser pipe,
+        // so concurrent sessions cause EADDRINUSE conflicts.
+        var results = new List<ProviderSearchResult>();
+        foreach (var provider in enabledProviders)
+        {
+            results.Add(await SearchProviderAsync(provider, parameters, ct));
+        }
 
         var succeeded = results.Count(r => r.Success);
         var failed = results.Count(r => !r.Success);
         _logger.LogInformation("Search complete: {Succeeded} succeeded, {Failed} failed", succeeded, failed);
 
-        return results.ToList();
+        return results;
     }
 
     private async Task<ProviderSearchResult> SearchProviderAsync(
